@@ -1,0 +1,10 @@
+
+venv/
+__pycache__/
+
+
+*.lock
+.setup_concluido.lock
+
+
+.env
