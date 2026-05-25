@@ -1,0 +1,2914 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7300048297400666",
+    "nome_completo": "Manoel Carvalho Marques Neto",
+    "nome_citacoes": "MARQUES NETO, M. C.;Marques Neto, Manoel C.;MARQUES NETO, MANOEL CARVALHO;CARVALHO MARQUES NETO, MANOEL;NETO, MANOEL CARVALHO M.;NETO, MANOEL C.M.;NETO, MANOEL C. MARQUES;NETO, MANOEL;Manoel Carvalho Neto;Carvalho Neto, Manoel;NETO, MANOEL CARVALHO MARQUES",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Coordenação de Análise e Desenvolvimento de Sistemas. Rua Emídio dos Santos Barbalho 40301015 - Salvador, BA - Brasil Telefone: (71) 21029457",
+    "atualizacao_cv": "03/02/2026",
+    "url": "http://lattes.cnpq.br/7300048297400666",
+    "texto_resumo": "Graduação em Ciência da Computação com ênfase em Análise de Sistemas pela Universidade Salvador (2002), mestrado em Redes de Computadores pela Universidade Salvador (2004) e doutorado em Ciência da Computação pela Universidade Federal da Bahia (2011). Atualmente é professor do Instituto Federal da Bahia. Tem experiência na área de Ciência da Computação, com ênfase em Software Básico, atuando principalmente nos seguintes temas: Mineração Visual de Dados, Multimedia, Computação Ubíqua, Desenvolvimento de Sistema Web. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Multiinstitucional em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2011",
+      "descricao": "Título: CONTRIBUIÇÕES PARA A MODELAGEM DE APLICAÇÕES MULTIMÍDIA EM TV DIGITAL INTERATIVA O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2011. Orientador: Celso Alberto Saibel Santos. Palavras-chave: multimedia; TV DIGITAL Interativa. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Software Básico. Setores de atividade: Desenvolvimento de Programas (Software)."
+    },
+    {
+      "tipo": "Mestrado em Redes de Computadores",
+      "nome_instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2004",
+      "descricao": "Título: Uma Ferramenta de Mineração Visual Baseada em Grafos, Ano de Obtenção: 2004. Orientador: Manoel Gomes de Mendonça Neto. Bolsista do(a): Companhia Eletrica da Bahia, COELBA, Brasil. Palavras-chave: Mineração de dados; Visualização; Grafos; Bancos de Dados Relacionais; Relações. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Software Básico. Setores de atividade: Informática."
+    },
+    {
+      "tipo": "Graduação em Análise de Sistemas",
+      "nome_instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "ano_inicio": "1998",
+      "ano_conclusao": "2002",
+      "descricao": "Título: Ferramenta de gerenciamento de diretórios distribuídos usando LDAP. Orientador: Euclério Ornelas."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Hospital Aliança, HOSP. ALIANÇA, Brasil.",
+      "instituicao_nome": "Hospital Aliança",
+      "instituicao_sigla": "HOSP. ALIANÇA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1996 - 1997",
+      "ano_inicio": "1996",
+      "ano_fim": "1997",
+      "vinculo": "Celetista",
+      "enquadramento": "Aux. Adm / Informatica",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Hospital Aliança, HOSP",
+      "instituicao_nome": "Hospital Aliança",
+      "instituicao_sigla": "HOSP",
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Hospital Aliança, HOSP",
+      "instituicao_nome": "Hospital Aliança",
+      "instituicao_sigla": "HOSP",
+      "instituicao_pais": null,
+      "periodo": "02/1996 - 06/1997",
+      "ano_inicio": "1996",
+      "ano_fim": "1997",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "BahiaNews ZAZ, IBAHIA, Brasil.",
+      "instituicao_nome": "BahiaNews ZAZ",
+      "instituicao_sigla": "IBAHIA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - 2002",
+      "ano_inicio": "1998",
+      "ano_fim": "2002",
+      "vinculo": "Estágio",
+      "enquadramento": "Analista de Suporte",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "BahiaNews ZAZ, IBAHIA, Brasil",
+      "instituicao_nome": "BahiaNews ZAZ",
+      "instituicao_sigla": "IBAHIA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "BahiaNews ZAZ, IBAHIA, Brasil",
+      "instituicao_nome": "BahiaNews ZAZ",
+      "instituicao_sigla": "IBAHIA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/1998 - 05/2001",
+      "ano_inicio": "1998",
+      "ano_fim": "2001",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "E Solutions Bahianet, E-SOLUTIONS, Brasil.",
+      "instituicao_nome": "E Solutions Bahianet",
+      "instituicao_sigla": "E-SOLUTIONS",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 1999",
+      "ano_inicio": "1999",
+      "ano_fim": "1999",
+      "vinculo": "Outro",
+      "enquadramento": "Outro (especifique) Analista Júnior",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "E Solutions Bahianet, E-SOLUTIONS, Brasil",
+      "instituicao_nome": "E Solutions Bahianet",
+      "instituicao_sigla": "E-SOLUTIONS",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/1998 - 11/2000",
+      "ano_inicio": "1998",
+      "ano_fim": "2000",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Nop."
+      ]
+    },
+    {
+      "instituicao": "Departamento de Ciências Exatas, UNIFACS, Brasil.",
+      "instituicao_nome": "Departamento de Ciências Exatas",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": "Aluno",
+      "enquadramento": "Monitor de Calculo Diferencial e Integral",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Departamento de Ciências Exatas, UNIFACS, Brasil",
+      "instituicao_nome": "Departamento de Ciências Exatas",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/1999 - 03/2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil.",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2010",
+      "ano_inicio": "2002",
+      "ano_fim": "2010",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Nuperc, Gama."
+      ]
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil.",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2010",
+      "ano_inicio": "2003",
+      "ano_fim": "2010",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Jorge Amado, FJA, Brasil.",
+      "instituicao_nome": "Faculdade Jorge Amado",
+      "instituicao_sigla": "FJA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2005",
+      "ano_inicio": "2003",
+      "ano_fim": "2005",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Jorge Amado, FJA, Brasil",
+      "instituicao_nome": "Faculdade Jorge Amado",
+      "instituicao_sigla": "FJA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Nuperc, UNIFACS, Brasil.",
+      "instituicao_nome": "Nuperc",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2008",
+      "ano_inicio": "2005",
+      "ano_fim": "2008",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Nuperc, UNIFACS, Brasil",
+      "instituicao_nome": "Nuperc",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": "Professor titular",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2008",
+      "ano_inicio": "2007",
+      "ano_fim": "2008",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto Federal de Educação, Ciência e Tecnologia da Bahia, GSORT- Grupos de Pesquisa em Computação Distribuída e Ubíqua."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2012 - 10/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Coordenação de Análise e Desenvolvimento de Sistemas."
+      ]
+    },
+    {
+      "instituicao": "Polo de Inovação Salvador, PIS, Brasil.",
+      "instituicao_nome": "Polo de Inovação Salvador",
+      "instituicao_sigla": "PIS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Pronto Afeto App",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: Aplicativo para gerenciar sistema de cuidadores e cuidados. Situação: Concluído; Natureza: Desenvolvimento. Integrantes: Manoel Carvalho Marques Neto - Coordenador / Frederico Jorge Ribeiro Barboza - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Manoel Carvalho Marques Neto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Frederico Jorge Ribeiro Barboza",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Sistema Computacional para Registro Online de Demandas e Ofertas de Soluções de Problemas Tecnológicos",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Descrição: Introdução. Nas últimas décadas, as Tecnologias de Informação e Comunicação (TIC) têm sido o elemento catalisador de mudanças significativas na nossa sociedade. Disponibilizar meios efetivos para identificar demandas e associá-las a competências técnicas é fundamental para alavancar inovações e otimizar os processos produtivos. Objetivos. Este documento apresenta uma proposta de desenvolvimento de uma plataforma de software para registro de demandas por soluções tecnológicas para problemas gerais vivenciados pela indústria e pela sociedade. Método. A plataforma de software será desenvolvida com base em técnicas atuais da Engenharia de Software (gerenciamento ágil de requisitos, arquiteturas lean, gerenciamento contínuo de qualidade, dentre outras). Resultados. Ao final do projeto, a plataforma deverá estar homologada pela PRPGI e em produção. Conclusão. Este documento apresenta os requisitos da solução, a equipe responsável pelo projeto, os objetivos gerais e metodologia utilizada, bem como os eventuais obstáculos a serem encontrados e os resultados esperados.. Situação: Em andamento; Natureza: Desenvolvimento.. Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Técnico de nível médio: (0) Graduação: (3) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Manoel Carvalho Marques Neto - Integrante / Sandro dos Santos Andrade - Coordenador / Renato Lima Novaes - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Manoel Carvalho Marques Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sandro dos Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Renato Lima Novaes",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Software Básico",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Software Básico."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Arquitetura de Sistemas de Computação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Bem, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Best Paper \"WFA WebMedia 2013\", SBC.",
+      "ano": 2013
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Visualização de software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Visualização de Informações",
+      "objetivo": ""
+    },
+    {
+      "nome": "Multimídia, Hipermídia e Tecnologias Web",
+      "objetivo": ""
+    },
+    {
+      "nome": "Indexação, Consulta e Visualização de Dados",
+      "objetivo": ""
+    },
+    {
+      "nome": "Aplicações para TV Digital Interativa",
+      "objetivo": ""
+    },
+    {
+      "nome": "Java",
+      "objetivo": ""
+    },
+    {
+      "nome": "Computação Ubíqua",
+      "objetivo": ""
+    },
+    {
+      "nome": "Multimídia",
+      "objetivo": ""
+    },
+    {
+      "nome": "Computação Sensível ao Contexto",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "GARM: A BLOCKCHAIN BASED PLATFORM FOR SUPPLY CHAIN MANAGEMENT / GARM: UMA PLATAFORMA BASEADA EM BLOCKCHAIN PARA GERENCIAMENTO DE CADEIA DE SUPRIMENTOS",
+        "ano": 2020,
+        "autores": "JÚNIOR, EDIVALDO MASCARENHAS FERREIRA DE JESUS ; NETO, MANOEL CARVALHO MARQUES ; FREITAS, ALLAN EDGARD SILVA",
+        "revista": "Brazilian Journal of Development",
+        "volume": "6",
+        "numero": "",
+        "paginas": "101455-101473",
+        "issn": "2525-8761",
+        "doi": "http://dx.doi.org/10.34117/bjdv6n12-587",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Tool to Simulate the Transmission, Reception, and Execution of Interactive TV Applications",
+        "ano": 2017,
+        "autores": "CARVALHO MARQUES NETO, MANOEL; KULESZA, RAONI ; RODRIGUES, THIAGO ; MACHADO, FELIPE A. L. ; Santos, Celso A. S.",
+        "revista": "International Scholarly Research Notices",
+        "volume": "2017",
+        "numero": "",
+        "paginas": "1-16",
+        "issn": "2356-7872",
+        "doi": "http://dx.doi.org/10.1155/2017/1834907",
+        "qualis": ""
+      },
+      {
+        "titulo": "StoryToCode: a new model for specification of convergent interactive digital TV applications",
+        "ano": 2010,
+        "autores": "Marques Neto, Manoel C.; Santos, Celso A. S.",
+        "revista": "Journal of the Brazilian Computer Society (Impresso)",
+        "volume": "",
+        "numero": "",
+        "paginas": "3-210",
+        "issn": "0104-6500",
+        "doi": "http://dx.doi.org/10.1007/s13173-010-0021-3",
+        "qualis": ""
+      },
+      {
+        "titulo": "WEKA-G: mineração de dados paralela em grades computacionais",
+        "ano": 2009,
+        "autores": "VALENTIM, Paulo Roberto Baptista ; PIMENTA, A. S. ; SANTOS, D. M. B. ; MARQUES NETO, M. C.",
+        "revista": "Revista de Sistemas de Informação da FSMA",
+        "volume": "04",
+        "numero": "",
+        "paginas": "2-9",
+        "issn": "1983-5604",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "INTEGRATING DATA INDEX ENGINES IN ORDER TO BUILD INFORMATION RETRIEVAL SYSTEMS IN HETEROGENEOUS ENVIRONMENTS",
+        "ano": 2008,
+        "autores": "Amazonas, André Mano ; MARQUES NETO, M. C.",
+        "revista": "Revista de Gestão da Tecnologia e Sistemas de Informação (Online)",
+        "volume": "5",
+        "numero": "",
+        "paginas": "193-222",
+        "issn": "1807-1775",
+        "doi": "http://dx.doi.org/10.4301/S1807-17752008000200001",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Minicursos do XXX Simpósio Brasileiro de Sistemas Multimídia e Web",
+        "ano": 2024,
+        "autores": "NETO, MANOEL C.M.; MACEDO, A. A. (Org.) ; JULIO, E. P. (Org.) ; WILLRICH, R. (Org.) ; BARRERE, E. (Org.) ; MORENO, M. F. (Org.) ; PERNISA JUNIOR, C. (Org.)",
+        "editora": "Porto Alegre: SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "297"
+      },
+      {
+        "titulo": "Minicursos do XXIX Simpósio Brasileiro de Sistemas Multimídia e Web",
+        "ano": 2023,
+        "autores": "NETO, MANOEL C. MARQUES; PIMENTEL, M. G. (Org.) ; WILLRICH, R. (Org.) ; MACEDO, A. A. (Org.) ; GOULARTE, R. (Org.)",
+        "editora": "Porto Alegre: SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "181"
+      },
+      {
+        "titulo": "Minicursos do XXV Simpósio Brasileiro de Sistemas Multimídia e Web",
+        "ano": 2019,
+        "autores": "NETO, MANOEL C. MARQUES; AMORIM, G. F. (Org.) ; SANTOS, J. (Org.) ; MUCHALUAT-SAADE, D. C. (Org.) ; WILLRICH, R. (Org.)",
+        "editora": "Porto Alegre: SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "203"
+      },
+      {
+        "titulo": "MINICURSOS do XXIV Simpósio Brasileiro de Sistemas Multimídia e Web",
+        "ano": 2018,
+        "autores": "NETO, MANOEL C. MARQUES; ROESLER, V. (Org.) ; KRONBAUER, A. H. (Org.) ; NOVAES, R. L. (Org.) ; WILLRICH, R. (Org.)",
+        "editora": "Porto Alegre: SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "246"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Desenvolvendo Aplicações Multimídia e Ubíquas com Drones",
+        "ano": 2016,
+        "autores": "MARQUES NETO, M. C.; VIEIRA, V. ; MACHADO, E. Z. A. ; SILVA, R. V.",
+        "titulo_livro": "",
+        "editora": "SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-30"
+      },
+      {
+        "titulo": "UM AMBIENTE DE SIMULAÇÃO PARA APLICAÇÕES MULTIMÍDIA COMPLEXAS",
+        "ano": 2015,
+        "autores": "Marques Neto, Manoel C.; ALMEIDA, F.",
+        "titulo_livro": "",
+        "editora": "ARCADIA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "39-56"
+      },
+      {
+        "titulo": "Desenvolvimento de Aplicações Ubíquas com Arduino e Raspbery Pi",
+        "ano": 2014,
+        "autores": "MARQUES NETO, M. C",
+        "titulo_livro": "",
+        "editora": "SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-30"
+      },
+      {
+        "titulo": "Desenvolvimento de Aplicações Imperativas para TV Digital no Middleware Ginga com Java",
+        "ano": 2010,
+        "autores": "KULESZA, R. ; SANTOS, C. A. S. ; TAVARES, Tatiana Aires ; MARQUES NETO, M. C. ; SOUZA FILHO, G. L.",
+        "titulo_livro": "",
+        "editora": "SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "71-99"
+      },
+      {
+        "titulo": "Tecnologias para Processamento de Documentos XML: Uma abordagem Java",
+        "ano": 2003,
+        "autores": "SANTOS, C. A. S. ; PASSOS, Carol ; MARQUES NETO, M. C.",
+        "titulo_livro": "",
+        "editora": "SBC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "63-94"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Árion: A Blockchain Framework for Traceability in Supply Chain Management",
+        "ano": 2020,
+        "autores": "MASCARENHAS JUNIOR, EDIVALDO ; Carvalho Neto, Manoel ; FREITAS, ALLAN EDGARD",
+        "evento": "3rd Blockchain Workshop: Theory",
+        "cidade": "",
+        "paginas": "1-6",
+        "isbn": ""
+      },
+      {
+        "titulo": "Collaborative and GPS Sensing for Waiting Time Prediction on Service Queues through Smartphones",
+        "ano": 2019,
+        "autores": "MORAES, ADRIANO D. ; FREITAS, ALLAN E. S. ; Marques Neto, Manoel C.",
+        "evento": "2019 IEEE 23rd International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+        "cidade": "",
+        "paginas": "267",
+        "isbn": ""
+      },
+      {
+        "titulo": "Introducing Different Levels of Reuse to a Hypermedia Authoring Language with Macros and Templates",
+        "ano": 2018,
+        "autores": "DE MACEDO TERÇAS, LUCAS ; DE SOUSA MORAES, DANIEL ; DE SOUSA LIMA, THACYLA ; NETO, MANOEL CARVALHO M. ; DE SALLES SOARES NETO, CARLOS",
+        "evento": "the 24th Brazilian Symposium",
+        "cidade": "",
+        "paginas": "117",
+        "isbn": ""
+      },
+      {
+        "titulo": "Towards a Context-Sensitive System To Support Crisis Communication Message Dissemination",
+        "ano": 2017,
+        "autores": "RODRIGUES, THIAGO ; MACHADO, FELIPE ; LOBO, JAZIEL ; VIEIRA, VANINHA ; NETO, MANOEL",
+        "evento": "XIII Simpósio Brasileiro de Sistemas de Informação",
+        "cidade": "",
+        "paginas": "166-173",
+        "isbn": ""
+      },
+      {
+        "titulo": "Usability-based Language for Authoring NCL Documents",
+        "ano": 2017,
+        "autores": "TERÇAS, LUCAS DE MACÊDO ; MORAES, DANIEL DE SOUSA ; RIBEIRO, DALAI DOS SANTOS ; NETO, MANOEL CARVALHO M. ; NETO, CARLOS DE SALLES SOARES",
+        "evento": "the 23rd Brazillian Symposium",
+        "cidade": "",
+        "paginas": "101",
+        "isbn": ""
+      },
+      {
+        "titulo": "Cross-platform Multimedia Application Development",
+        "ano": 2017,
+        "autores": "NETO, MANOEL C.M.; ANDRADE, SANDRO S. ; NOVAIS, RENATO L.",
+        "evento": "23rd Brazillian Symposium on Multimedia and the Web",
+        "cidade": "",
+        "paginas": "23",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Representação Visual para Gerenciamento de Emergências em Ambientes Fechados",
+        "ano": 2016,
+        "autores": "NUNES, FLAVIO ; TELES, FERNANDO ; NOVAIS, RENATO ; ANDRADE, SANDRO ; NETO, MANOEL",
+        "evento": "XII Simpósio Brasileiro de Sistemas de Informação",
+        "cidade": "",
+        "paginas": "518-526",
+        "isbn": ""
+      },
+      {
+        "titulo": "A model-driven approach for integration of interactive applications and Web Services: A case study in interactive Digital TV Platform",
+        "ano": 2012,
+        "autores": "KULESZA, R. ; MEIRA, S. R. L. ; FERREIRA, T. P. ; SOUZA FILHO, G. L. ; MARQUES NETO, M. C. ; SANTOS, C. A. S.",
+        "evento": "Multimedia and Expo Workshops (ICMEW) IEEE International Conference on Multimedia & Expo (ICME)",
+        "cidade": "",
+        "paginas": "266-271",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Abordagem Dirigida por Modelos para Integração de Aplicações Interativas e Serviços Web: Estudo de caso na Plataforma de TV Digital",
+        "ano": 2011,
+        "autores": "KULESZA, R. ; LIVIO, A. ; FERREIRA, T. P. ; SOUZA FILHO, G. L. ; MARQUES NETO, M. C. ; SANTOS, C. A. S.",
+        "evento": "XVII Simpósio Brasileiro de Sistemas Web e Multimídia (Webmedia 2011)",
+        "cidade": "",
+        "paginas": "36-43",
+        "isbn": ""
+      },
+      {
+        "titulo": "Integração e utilização de metáforas visuais do Prefuse na ferramenta LifeMiner",
+        "ano": 2010,
+        "autores": "ALMEIDA, A. L. S. A. ; LEBRE, J. S. ; PEDREIRA, M. T. O. ; MARQUES NETO, M. C.",
+        "evento": "ERBASE - Escola Regional de Computação Bahia",
+        "cidade": "",
+        "paginas": "41-48",
+        "isbn": ""
+      },
+      {
+        "titulo": "Governo Eletrônico e a TV Digital Interativa",
+        "ano": 2010,
+        "autores": "AMORIM, A. R. ; MARQUES NETO, M. C.",
+        "evento": "Congresso SERPRO de Tecnologia e Gestão Aplicadas ao Serviço Público",
+        "cidade": "",
+        "paginas": "1-30",
+        "isbn": ""
+      },
+      {
+        "titulo": "SAGA - Um editor visual de aplicações interativas para TV Digital",
+        "ano": 2009,
+        "autores": "MARQUES NETO, M. C.; SANTOS, A. L. ; REIS, E. ; VIRGENS, L. ; GOMES, E. A.",
+        "evento": "Escola Regional de Computação Bahia Alagoas Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "SAGA - Um editor visual de aplicações interativas para TV Digital baseadas no midlleware GINGA",
+        "ano": 2009,
+        "autores": "SANTOS, A. L. ; VIRGENS, L. ; REIS, E. ; GOMES, E. A. ; MARQUES NETO, M. C.",
+        "evento": "Infobrasil 2009 - Congresso Tecnológico",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "StoryToCode: a model based on components for specifying interactive digital TV convergent applications",
+        "ano": 2009,
+        "autores": "MARQUES NETO, M. C.; SANTOS, C. A. S.",
+        "evento": "XV Simpósio Brasileiro de Sistemas Multimídia e Web",
+        "cidade": "",
+        "paginas": "59-66",
+        "isbn": ""
+      },
+      {
+        "titulo": "An Approach Based on Events for Treating the Late Tuning Problem in Interactive Live TV Shows",
+        "ano": 2009,
+        "autores": "MARQUES NETO, M. C.; SANTOS, C. A. S.",
+        "evento": "ACM Multimedia 2009 The First Inernational Workshop on Events in Multimedia Eimm",
+        "cidade": "",
+        "paginas": "41-48",
+        "isbn": ""
+      },
+      {
+        "titulo": "Avaliação de Ferramentas de Automação para Engenheiros de Testes",
+        "ano": 2008,
+        "autores": "SANTOS, Monique ; CARVALHO, F. ; DOREA, A. ; MARQUES NETO, M. C. ; SANTOS, D. M. B.",
+        "evento": "IV Simpósio Brasileiro de Sistemas de Informação",
+        "cidade": "",
+        "paginas": "23-34",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um modelo de integração de motores de indexação para a construção de sistemas de recuperação de informação em ambientes heterogêneos",
+        "ano": 2008,
+        "autores": "Amazonas, A. M. ; Ribeiro, Daniel S. S. ; MARQUES NETO, M. C. ; SANTOS, C. A. S.",
+        "evento": "3ª Conferencia Ibérica de Sistemas y Tecnologías de la Información",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Integrating index engines in order to build Information Retrieval Systems in heterogeneous environments",
+        "ano": 2008,
+        "autores": "Amazonas, A. M. ; Ribeiro, Daniel S. S. ; Diego Souza de Barros ; MARQUES NETO, M. C. ; SANTOS, C. A. S.",
+        "evento": "5th International Conference on Information Systems and Technology Management",
+        "cidade": "",
+        "paginas": "3781-3810",
+        "isbn": ""
+      },
+      {
+        "titulo": "Ferramenta de Autoria Gráfica para a Construção de Aplicações Utilizando o Framework AppTV",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C.; ALMEIDA, Fabiano ; BATISTA, Ricardo",
+        "evento": "Sétima Escola Regional de Computação Bahia-Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Ferramenta para Mineração Visual de Dados utilizando LifeLines",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C.; ALMEIDA, Marcos José Oliveira ; DUARTE, Iulo",
+        "evento": "Sétima Escola Regional de Computação Bahia-Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "SATSUMM - Uma Ferramenta para Sumarização Automática de Textos Jornalísticos",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C.; NASCIMENTO, Alisson B ; GOMES, Andréa",
+        "evento": "Sétima Escola Regional de Computação Bahia-Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Tabela de Horário Escolar",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C.; BARBOZA, F. J. R. ; FREITAS, Cherze ; BAGANO, Priscilla",
+        "evento": "V Workshop de Trabalhos de Iniciação Científica e Graduação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Implementação de provedores WBEM para LINUX",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C.; COELHO, Tássio ; ROBERTO, Anderson",
+        "evento": "Sétima Escola Regional de Computação Bahia-Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Utilizando o Framework AppTV no Desenvolvimento de Aplicacoes para TV Digital Interativa",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C.; HATTORI, L. P. ; SILVA, Sylvio Siqueira ; SANTOS, C. A. S. ; TAVARES, Tatiana Aires",
+        "evento": "Brazilian Symposium on Computer Graphics and Image Processing",
+        "cidade": "",
+        "paginas": "1-6",
+        "isbn": ""
+      },
+      {
+        "titulo": "AppTV: Um framework de auxílio ao desenvolvimento de aplicações para TV Digital",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C.; HATTORI, L. P. ; SILVA, Sylvio Siqueira ; TAVARES, Tatiana Aires",
+        "evento": "WebMedia/LA-Web 2005",
+        "cidade": "",
+        "paginas": "287-293",
+        "isbn": ""
+      },
+      {
+        "titulo": "Lírio - uma ferramenta para criação de diagramas de seqüência utilizando engenharia reversa",
+        "ano": 2005,
+        "autores": "LUCAS, Fábio Rezende ; MUÑOZ, Hernan Julho ; SANTANA, Marcela ; MARQUES NETO, M. C.",
+        "evento": "Congresso Catarinense de Software Livre - SOLISC",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma solução software livre para mineração de dados em grades computacionais",
+        "ano": 2005,
+        "autores": "VALENTIM, Paulo Roberto Baptista ; PIMENTA, A. S. ; SANTOS, D. M. B. ; MARQUES NETO, M. C.",
+        "evento": "Congresso Catarinense de Software Livre - SOLISC",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "GraphMiner: Uma Ferramenta de Mineração Visual de Dados em Bases Relacionais",
+        "ano": 2004,
+        "autores": "MARQUES NETO, M. C.; MENDONÇA, M. G. ; SANTOS, C. A. S.",
+        "evento": "Jornadas Iberoamericanas de Ingeniería del Software e Ingeniería del Conocimiento",
+        "cidade": "",
+        "paginas": "305-316",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Um Ambiente de Simulação para Aplicações Multimídia Complexas",
+        "ano": 2013,
+        "autores": "Marques Neto, Manoel C.; SANTOS, C. A. S. ; KULESZA, R. ; RODRIGUES, T. ; ALMEIDA, F.",
+        "evento": "19th Brazilian Symposium on Multimedia and the Web, Workshop on Tools and Applications (WFA), 2013, Salvador. Anais 19th Brazilian Symposium on Multimedia and the Web",
+        "cidade": "",
+        "paginas": "61-64"
+      },
+      {
+        "titulo": "IFBATeX - Ambiente Web para edição de documentos LaTeX",
+        "ano": 2013,
+        "autores": "Marques Neto, Manoel C.; LOBAO NETO, R. A.",
+        "evento": "19th Brazilian Symposium on Multimedia and the Web, Workshop on Tools and Applications (WFA), 2013, Salvador. Anais 19th Brazilian Symposium on Multimedia and the Web. Porto Alegre: SBC",
+        "cidade": "",
+        "paginas": "57-60"
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "2DrowSys",
+        "ano": 2021,
+        "autores": "SILVA, PABLO RICARDO ROXO ; NETO, MANOEL CARVALHO MARQUES",
+        "evento": "WebMedia '21: Brazilian Symposium on Multimedia and the Web, 2021, Belo Horizonte Minas Gerais Br. Proceedings of the Brazilian Symposium on Multimedia and the Web. New York: ACM",
+        "cidade": ""
+      },
+      {
+        "titulo": "Predicting Waiting Time in Public Service Qeues Using Participative and GPS Sensing with Smartphones",
+        "ano": 2018,
+        "autores": "MORAES, ADRIANO D. ; FREITAS, ALLAN E. S. ; NETO, MANOEL C. MARQUES",
+        "evento": "the 24th Brazilian Symposium, 2018, Salvador. Proceedings of the 24th Brazilian Symposium on Multimedia and the Web - WebMedia '18",
+        "cidade": ""
+      },
+      {
+        "titulo": "Using Humans, Mobile Devices and Multiples Sensors for Localization of People Indoor",
+        "ano": 2017,
+        "autores": "CARVALHO MARQUES NETO, MANOEL; NOVAES, R. L. ; LIMA, L. G. C.",
+        "evento": "XXIII Simpósio Brasileiro de Sistemas Multimídia e Web, 2017, Gramado. Anais do XXIII Simpósio Brasileiro de Sistemas Multimídia e Web. Porto Alegre: SBC",
+        "cidade": ""
+      },
+      {
+        "titulo": "LibsensorPy",
+        "ano": 2015,
+        "autores": "MARQUES NETO, MANOEL CARVALHO; JESUS JR, EDIVALDO M.F.",
+        "evento": "the 21st Brazilian Symposium, 2015, Manaus. Proceedings of the 21st Brazilian Symposium on Multimedia and the Web - WebMedia '15. New York: ACM Press",
+        "cidade": ""
+      },
+      {
+        "titulo": "An Event-Based Model for Interactive Live TV Shows",
+        "ano": 2008,
+        "autores": "MARQUES NETO, M. C.; SANTOS, C. A. S.",
+        "evento": "16th ACM international conference on Multimedia, 2008, Vancouver. Proceeding of the 16th ACM international conference on Multimedia. New York: ACM",
+        "cidade": ""
+      },
+      {
+        "titulo": "ViBEn: Um Ambiente para Consulta Interativa de Repositórios de Vídeos",
+        "ano": 2005,
+        "autores": "MELO, Miguel A. B. ; SANTOS, C. A. S. ; REHEM NETO, Almerindo N. ; MARQUES NETO, M. C.",
+        "evento": "WebMedia/LA-Web, 2005, Poços de Caldas. Anais WebMedia/LA-Web",
+        "cidade": ""
+      },
+      {
+        "titulo": "Consulta Visual Interativa de Bases Multimídia",
+        "ano": 2004,
+        "autores": "REHEM NETO, Almerindo N. ; SANTOS, C. A. S. ; MARQUES NETO, M. C. ; MENDONÇA, M. G. ; MELO, Miguel A. B.",
+        "evento": "WebMedia/LA-Web 2004, 2004, Ribeirão Preto. Anais WebMedia/LA-Web 2004",
+        "cidade": ""
+      },
+      {
+        "titulo": "GraphMiner: Ferramenta de Mineração Visual Baseada",
+        "ano": 2003,
+        "autores": "MARQUES NETO, M. C.; MENDONÇA, M. G.",
+        "evento": "IX SIMPÓSIO BRASILEIRO DE SISTEMAS MULTIMÍDIA E WEB - WEBMIDIA, 2003, SALVADOR. Anais do IX SIMPÓSIO BRASILEIRO DE SISTEMAS MULTIMÍDIA E WEB - WEBMIDIA. SALVADOR",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [
+      {
+        "titulo": "Aplicações para TV Digital em Java: Como começar a desenvolver",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C.; HATTORI, L. P. ; SILVA, Sylvio Siqueira",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 set. 2005"
+      },
+      {
+        "titulo": "TV Digital",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C.; HATTORI, L. P. ; SILVA, Sylvio Siqueira",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 jun. 2005"
+      },
+      {
+        "titulo": "TV Digital: Estamos preparados?",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C.; HATTORI, L. P. ; SILVA, Sylvio Siqueira",
+        "jornal": "",
+        "cidade": "",
+        "data": "15 abr. 2005"
+      }
+    ],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [
+      {
+        "titulo": "C.; MENDONÇA, M. G. . GRAPHMINER",
+        "ano": 2003,
+        "autores": "MARQUES NETO, M",
+        "instituicao": "",
+        "finalidade": ""
+      }
+    ],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Introdução ao Desenvolvimento de aplicações para TV Digital: Tendências e Oportunidades",
+        "ano": 2008,
+        "autores": "MARQUES NETO, M. C",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Gerência de Redes TCP/IP usando WMI",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Processamento de documento XML-apliações práticas",
+        "ano": 2006,
+        "autores": "MARQUES NETO, M. C.; PASSOS, Carol ; SANTOS, C. A. S.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Processamento de documento XML - usando Java",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C.; SANTOS, C. A. S.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Treinamento J2EE Fábrica de Talentos",
+        "ano": 2005,
+        "autores": "MARQUES NETO, M. C",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Treinamento POO em Java",
+        "ano": 2004,
+        "autores": "MARQUES NETO, M. C",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Tecnologias para Processamento de Documentos XML: Uma Abordagem JAVA In: III Escola Regional de Informática",
+        "ano": 2003,
+        "autores": "MARQUES NETO, M. C.; SANTOS, C. A. S. ; PASSOS, Carol",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Treinamento J2EE",
+        "ano": 2003,
+        "autores": "MARQUES NETO, M. C",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Mineração de Dados",
+        "ano": 2003,
+        "autores": "MARQUES NETO, M. C",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Medusa: Sistema de Controle Inteligente e de Baixo Custo para Aquários, com Ênfase no Bioma Marinho",
+          "ano_inicio": 2020,
+          "orientando": "Ícaro Jerry Salles Santana",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "MECANISMO DE BAIXO CUSTO PARA CONTROLE DE AQUÁRIOS",
+          "ano_inicio": 2020,
+          "orientando": "Luiz Caparelli",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "TICKETEASE - INTEGRAÇÃO ENTRE PLATAFORMAS DE ATENDIMENTOS TECNICOS",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "WILER SAVIO ALMEIDA MORAES",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "I2V ? A flexible library for buildingindoor visualizations withgeoreferencing support using awell-structured data input",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Rafael Bispo",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Arion: A Blockchain Framework for Traceability inSupply Chain Management",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Edivaldo M. F. J. Junior",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Sistema de monitoramento de parâmetros físico-químicos em tanques de produção de piscicultura",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Domingos Mainart",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [
+        {
+          "titulo": "Um Ambiente de Simulação para Aplicações Multimídia Complexas",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Felipe Almeida L Machado",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Ambiente para Simulação de Emissão de Aplicações Multimídia Complexas para TV Digital",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Thiago Nascimento Rodrigues",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Detecção de Padrões de Sazonalidade do CID Utilizando a Técnica Hierárquica da Mineração Visual de Dados",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Igor Pedreira Magalhães Alves",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Utilização de Linguagens Declarativas no Desenvolvimento de Aplicações para TV Digital Brasileira: Aplicação da NCL no Ambiente Ginga",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Gledston Carneiro",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Salvador",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "Um Sistema Ubíquo para o Monitoramento Automático do Consumo de Água no Instituto Federal da Bahia, Campus Salvador",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Patícia M do N Fonseca",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "SMRE - Sistema de Economia de Recursos Elétricos",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Dante José Lacerda Santos Segundo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "IFBATeX - Ambiente Web para edição de documentos LaTeX",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Ruivaldo Azevedo Lobão Neto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "SARA-ES: Sistema para Acompanhamento de Registros Acadêmicos do Ensino Superior",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Laionara de Araújo Gonçalves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Integração de Metáforas Visuais do Prefuse na Ferramenta LifeMiner",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Jamile Souza Lebre",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Satsumm: Uma Ferramenta Para Sumarização Automática De Textos Jornalísticos",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Alisson B Nascimento",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Tabela de Horário Escolar",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Cherze Freitas",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "IMPLEMENTAÇÃO DE PROVIDERS WBEM PARA A ARQUITETURA LINUX",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Tássio Coelho",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "WEB 2.0 - UMA NOVA ABORDAGEM PARA WEB 8",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Helton Luiz Araujo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "UMA INFRAESTRUTURA PARA APLICAÇÃO DE ENSINO A DISTANCIA USANDO IPTV PARA FACULDADE RUY BARBOSA",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Alessandro Lima Pereira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "UM MODELO DE INTEGRAÇÃO PARA MOTORES DE INDEXAÇÃO DE DADOS",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "André Mano Amazonas",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "FERRAMENTA DE AUTORIA GRÁFICA PARA A CONSTRUÇÃO DE APLICAÇÕES UTILIZANDO O FRAMEWORK APPTV",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Fabiano Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "UMA FERRAMENTA PARA CONSTRUÇÃO DE APLICAÇÕES INTERATIVAS PARA TV DIGITAL UTILIZANDO UMA LINGUAGEM DECLARATIVA",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Felipe Seixas",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma solução de Mineração de Dados em Grades Computacionais",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Andrey Serra Pimenta",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta para Mineração Visual de Dados usando LifeLines",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Marcos José Oliveira Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "SMART MINING - PARALELIZAÇÃO DE ALGORITMOS DE MINERAÇÃO DE DADOS",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Júlio Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "CEFAESTE ? Catálogo de Ferramentas de Automação para Engenheiros de Testes",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Monique Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "AppTV: Um framework de auxílio ao desenvolvimento de aplicações para TV Digital",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Lile Palma Hattori",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "FERRAMENTA PARA CRIAÇÃO DA MODELAGEM DINÂMICA UTILIZANDO ENGENHARIA REVERSA",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Fábio Rezende Lucas",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta para Visualização de Redes usando WBEM",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Ramon Santana de Brito",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Integrando tecnologias para o desenvolvimento de aplicações: Frameworks, Design Pateterns e UML",
+          "ano_inicio": 2003,
+          "ano_conclusao": 2003,
+          "orientando": "Islan José dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Visualização de imagens SVG para dipositivos móveis",
+          "ano_inicio": 2003,
+          "ano_conclusao": 2003,
+          "orientando": "Joel Tadeu Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Visuaização de dados contidos em documentos XML no formato de grafos SVG",
+          "ano_inicio": 2003,
+          "ano_conclusao": 2003,
+          "orientando": "Alcides Ivo Flach Filho",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Metodologias de Construção de FrameWorks: Uma Abordagem JAVA",
+          "ano_inicio": 2002,
+          "ano_conclusao": 2002,
+          "orientando": "Fabiana Cândida e Mariam Neri",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Salvador",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "CSBC-2017",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Webmedia 2016",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXI Brazilian Symposium on Multimedia and the Web",
+        "apresentacao": "LibsensorPy: A Library to Improve the Development of Ubiquitous Applications on Raspberry Pi",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "20th Brazilian Symposium on Multimedia and the Web, Workshop on Tools and Applications (WFA)",
+        "apresentacao": "Mini-Curso: Desenvolvimento de Aplicações Ubiquas com Arduino e Raspbery Pi",
+        "ano": 2014,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "19th Brazilian Symposium on Multimedia and the Web, Workshop on Tools and Applications (WFA)",
+        "apresentacao": "IFBATEX - Ambiente Web para edição de documentos LaTeX",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "CBSOFT - Congresso Brasileiro Software: Teoria e Prática",
+        "apresentacao": "Desenvolvimento de Software para Plataforma de TV Digital Brasileira",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "WebMedia 2010",
+        "apresentacao": "Desenvolvimento de Aplicações Imperativas para TV Digital no Middleware Ginga com Java",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ACM Multimedia 2009 The First Inernational Workshop on Events in Multimedia Eimm",
+        "apresentacao": "An Approach Based on Events for Treating the Late Tuning Problem in Interactive Live TV Shows",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XV Simpósio Brasileiro de Sistemas Multimídia e Web",
+        "apresentacao": "StoryToCode: Um Modelo baseado em componentes para especificação de aplicações de TV Digital e Interativa convergentes",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "16th ACM international conference on Multimedia",
+        "apresentacao": "An Event Model for Live Interactive TV Shows",
+        "ano": 2008,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII WebMidia",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Escola Regional de Informática RJ/ES (III ERI RJ/ES)",
+        "apresentacao": "III Escola Regional de Informática RJ/ES (III ERI RJ/ES)",
+        "ano": 2003,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "WEBMÍDIA",
+        "apresentacao": "Simpósio Brasileiro de Sistemas Multimídia e Web (WEBMÍDIA)",
+        "ano": 2003,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "JIISIC",
+        "apresentacao": "Jornada Ibero Americana de Engenharia de Software JIISIC",
+        "ano": 2002,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "CARVALHO MARQUES NETO, MANOEL; NOVAIS, R. L.",
+        "evento": "24th Brazilian Symposium on Multimedia and the Web",
+        "ano": 2018,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, S. S. ; NOVAES, R. L. ; MARQUES NETO, M. C.",
+        "evento": "XV ESCOLA REGIONAL DE COMPUTAÇÃO BAHIA ? ALAGOAS ? SERGIPE",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "Marques Neto, Manoel C.; MARITAN, T.",
+        "evento": "Workshop de Teses e Dissertações do Webmedia 2014",
+        "ano": 2014,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "MACEDO, A. A. ; MARQUES NETO, M. C.",
+        "evento": "WorkShop de Teses e Dissertações WebMedia 2013",
+        "ano": 2013,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "NETO, MANOEL C.M.; NOVAES, R. L.; GARCIA, C. O.. Participação em banca de Jadson dos Santos Santana. EfEMu:Um Sistema de Suporte a Eficientização Energética de Parques de Iluminação Pública. 2024. Dissertação (Mestrado em Mestrando em Programa de Pós-Graduação em Engenharia de Sistemas e Produtos) - Instituto Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Jadson dos Santos Santana",
+        "membros_banca": [
+          "NETO, MANOEL C.M.",
+          "NOVAES, R. L.",
+          "GARCIA, C. O."
+        ],
+        "titulo_trabalho": "EfEMu:Um Sistema de Suporte a Eficientização Energética de Parques de Iluminação Pública",
+        "curso": "Dissertação (Mestrado em Mestrando em Programa de Pós-Graduação em Engenharia de Sistemas e Produtos)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "GOULARTE, R.; FARIAS, M. C. Q.; WOLF, D. F.; NETO, MANOEL C. MARQUES. Participação em banca de André Luiz Dutra Costa. Reversão anaglífica - um novo método baseado em cálculo de correspondências robusto a diferenças radiométricas\".. 2021. Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "André Luiz Dutra Costa",
+        "membros_banca": [
+          "GOULARTE, R.",
+          "FARIAS, M. C. Q.",
+          "WOLF, D. F.",
+          "NETO, MANOEL C. MARQUES"
+        ],
+        "titulo_trabalho": "Reversão anaglífica - um novo método baseado em cálculo de correspondências robusto a diferenças radiométricas\"",
+        "curso": "Dissertação (Mestrado em Ciências da Computação)",
+        "universidade": "Universidade de São Paulo"
+      },
+      {
+        "descricao": "RODRIGUES JUNIOR, M. C.; SOARES, M. S.; NETO, MANOEL CARVALHO MARQUES. Participação em banca de ANNE CAROLINE MELO SANTOS. Construção e Avaliação de uma abordagem para apoiar o desenvolvimento e a manutenção de software baseada em recursos multimídia. 2020. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "ANNE CAROLINE MELO SANTOS",
+        "membros_banca": [
+          "RODRIGUES JUNIOR, M. C.",
+          "SOARES, M. S.",
+          "NETO, MANOEL CARVALHO MARQUES"
+        ],
+        "titulo_trabalho": "Construção e Avaliação de uma abordagem para apoiar o desenvolvimento e a manutenção de software baseada em recursos multimídia",
+        "curso": "Dissertação (Mestrado em Ciência da Computação)",
+        "universidade": "Universidade Federal de Sergipe"
+      },
+      {
+        "descricao": "MENDONÇA, M. G.; VIEIRA, V.; NETO, MANOEL CARVALHO M.. Participação em banca de Elidiane Pereira do Nascimento. BinGui: Sistema Vestível de DetsccÇão de Obstáculos Estáticos para Apoiar a Locomoção de Portadores de Deficiência Visual. 2017. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "Elidiane Pereira do Nascimento",
+        "membros_banca": [
+          "MENDONÇA, M. G.",
+          "VIEIRA, V.",
+          "NETO, MANOEL CARVALHO M."
+        ],
+        "titulo_trabalho": "BinGui: Sistema Vestível de DetsccÇão de Obstáculos Estáticos para Apoiar a Locomoção de Portadores de Deficiência Visual",
+        "curso": "Dissertação (Mestrado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "KRONBAUER, A. H.; CAMPOS, J.; Marques Neto, Manoel C.. Participação em banca de Igor Gonzales Pimenta. Uma Plataforma para Realizar Interações Naturais via Gestos em Ambientes Inteligentes. 2016. Dissertação (Mestrado em Sistemas e Computação) - Universidade Salvador.",
+        "ano": 2016,
+        "tipo": "Mestrado",
+        "aluno": "Igor Gonzales Pimenta",
+        "membros_banca": [
+          "KRONBAUER, A. H.",
+          "CAMPOS, J.",
+          "Marques Neto, Manoel C."
+        ],
+        "titulo_trabalho": "Uma Plataforma para Realizar Interações Naturais via Gestos em Ambientes Inteligentes",
+        "curso": "Dissertação (Mestrado em Sistemas e Computação)",
+        "universidade": "Universidade Salvador"
+      },
+      {
+        "descricao": "KRONBAUER, A. H.; CAMPOS, J.; Marques Neto, Manoel C.. Participação em banca de Amon Veiga Santana. História de Viagem: Um Modelo para Reconstrução de Tejetórias Semânticas Através de Fontes Heterogêneas de Rastros Sociais. 2016. Dissertação (Mestrado em Sistemas e Computação) - Universidade Salvador.",
+        "ano": 2016,
+        "tipo": "Mestrado",
+        "aluno": "Amon Veiga Santana",
+        "membros_banca": [
+          "KRONBAUER, A. H.",
+          "CAMPOS, J.",
+          "Marques Neto, Manoel C."
+        ],
+        "titulo_trabalho": "História de Viagem: Um Modelo para Reconstrução de Tejetórias Semânticas Através de Fontes Heterogêneas de Rastros Sociais",
+        "curso": "Dissertação (Mestrado em Sistemas e Computação)",
+        "universidade": "Universidade Salvador"
+      },
+      {
+        "descricao": "SOARES NETO, C. S.; MARQUES NETO, M. C.; OLIVEIRA, A. C. M.. Participação em banca de André Luiz de Brandão Damasceno. Cacuriá: Uma Ferramenta de Autoria para Criação de Objetos de Aprendizagem. 2015. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Maranhão.",
+        "ano": 2015,
+        "tipo": "Mestrado",
+        "aluno": "André Luiz de Brandão Damasceno",
+        "membros_banca": [
+          "SOARES NETO, C. S.",
+          "MARQUES NETO, M. C.",
+          "OLIVEIRA, A. C. M."
+        ],
+        "titulo_trabalho": "Cacuriá: Uma Ferramenta de Autoria para Criação de Objetos de Aprendizagem",
+        "curso": "Dissertação (Mestrado em Ciência da Computação)",
+        "universidade": "Universidade Federal do Maranhão"
+      },
+      {
+        "descricao": "TAVARES, Tatiana Aires; FONSECA, I. E.; MARITAN, T.; MARQUES NETO, M. C.. Participação em banca de Anna Carolina Soares Medeiros. Processo de Desenvolvimento de Interfaces de Usuário Baseadas em Gestos. 2015. Dissertação (Mestrado em Informática) - Universidade Federal da Paraíba.",
+        "ano": 2015,
+        "tipo": "Mestrado",
+        "aluno": "Anna Carolina Soares Medeiros",
+        "membros_banca": [
+          "TAVARES, Tatiana Aires",
+          "FONSECA, I. E.",
+          "MARITAN, T.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Processo de Desenvolvimento de Interfaces de Usuário Baseadas em Gestos",
+        "curso": "Dissertação (Mestrado em Informática)",
+        "universidade": "Universidade Federal da Paraíba"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; BUCK, T.; SAMPAIO, P.. Participação em banca de RONILSON MORAIS LOBO. METODOLOGIA PARA DESIGN DE JOGOS TABLETOP BASEADA EM FOTOGRAFIA - LUCAS`S TOYS - INTERFACE LÚDICA PARA GAMES. 2013. Dissertação (Mestrado em Sistemas e Computação) - Universidade Salvador.",
+        "ano": 2013,
+        "tipo": "Mestrado",
+        "aluno": "RONILSON MORAIS LOBO",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "BUCK, T.",
+          "SAMPAIO, P."
+        ],
+        "titulo_trabalho": "METODOLOGIA PARA DESIGN DE JOGOS TABLETOP BASEADA EM FOTOGRAFIA - LUCAS`S TOYS - INTERFACE LÚDICA PARA GAMES",
+        "curso": "Dissertação (Mestrado em Sistemas e Computação)",
+        "universidade": "Universidade Salvador"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "NASCIMENTO, E. P.; RIOS, R. A.; SANTOS, V. V.; RODRIGUES, K. R. H.; NETO, MANOEL C. MARQUES. Participação em banca de ELIDIANE PEREIRA DO NASCIMENTO. FRB-BLINGUI: UM MODELO BASEADO EM REGRAS FUZZY PARA PREVISÃO DE RISCOS DE COLISÃO COM OBSTÁCULOS EM APOIO A PESSOAS COM DEFICIÊNCIA VISUAL. 2024. Tese (Doutorado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "ELIDIANE PEREIRA DO NASCIMENTO",
+        "membros_banca": [
+          "NASCIMENTO, E. P.",
+          "RIOS, R. A.",
+          "SANTOS, V. V.",
+          "RODRIGUES, K. R. H.",
+          "NETO, MANOEL C. MARQUES"
+        ],
+        "titulo_trabalho": "FRB-BLINGUI: UM MODELO BASEADO EM REGRAS FUZZY PARA PREVISÃO DE RISCOS DE COLISÃO COM OBSTÁCULOS EM APOIO A PESSOAS COM DEFICIÊNCIA VISUAL",
+        "curso": "Tese (Doutorado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "NETO, MANOEL C.M.; RIOS, R. A.; RIOS, T. N.. Participação em banca de Elidiane Pereira do Nascimento. Previsões de Riscos de Colisões com Obstáculos Baseadas em Regras Fuzzy. 2019. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Elidiane Pereira do Nascimento",
+        "membros_banca": [
+          "NETO, MANOEL C.M.",
+          "RIOS, R. A.",
+          "RIOS, T. N."
+        ],
+        "titulo_trabalho": "Previsões de Riscos de Colisões com Obstáculos Baseadas em Regras Fuzzy",
+        "curso": "Exame de qualificação (Doutorando em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "ANDRADE, S. S.; GREVE, F.; FREITAS, A. E. S.; NETO, MANOEL C.M.. Participação em banca de Edivaldo M. F. J. Junior. Arion: A Blockchain Framework for Traceability in Supply Chain Management. 2020. Exame de qualificação (Mestrando em Mestrando em Programa de Pós-Graduação em Engenharia de Sistemas e Produtos) - Instituto Federal da Bahia.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Edivaldo M. F. J",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "GREVE, F.",
+          "FREITAS, A. E. S.",
+          "NETO, MANOEL C.M."
+        ],
+        "titulo_trabalho": "Junior. Arion: A Blockchain Framework for Traceability in Supply Chain Management",
+        "curso": "Exame de qualificação (Mestrando em Mestrando em Programa de Pós-Graduação em Engenharia de Sistemas e Produtos)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "NETO, MANOEL C.M.; MENDONÇA, M. G.; ANDRADE, S. S.; NOVAES, R. L.. Participação em banca de Rafael Bispo da Silva. In-Outdoor Interactive Visualization. 2019. Exame de qualificação (Mestrando em Mestrando em Programa de Pós-Graduação em Engenharia de Sistemas e Produtos) - Instituto Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rafael Bispo da Silva",
+        "membros_banca": [
+          "NETO, MANOEL C.M.",
+          "MENDONÇA, M. G.",
+          "ANDRADE, S. S.",
+          "NOVAES, R. L."
+        ],
+        "titulo_trabalho": "In-Outdoor Interactive Visualization",
+        "curso": "Exame de qualificação (Mestrando em Mestrando em Programa de Pós-Graduação em Engenharia de Sistemas e Produtos)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "MASSA, E. S.; ANDRADE, S. S.; MARQUES NETO, M. C.. Participação em banca de Vinícius Azevedo de Melo.DIMPRESS 3D - Uma Ferramenta para Construção de Apresentações em um Ambiente Tridimensional. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Vinícius Azevedo de Melo",
+        "membros_banca": [
+          "MASSA, E. S.",
+          "ANDRADE, S. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "DIMPRESS 3D - Uma Ferramenta para Construção de Apresentações em um Ambiente Tridimensional",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DINIZ, M. V. C.; BRAGA, M. L. C.; MARQUES NETO, M. C.. Participação em banca de Inanda Oliveira Menezes.ADSEARCH: Sistema de Armazenamento e Recuperação de Vídeos-Aula de Forma Segmentada. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Inanda Oliveira Menezes",
+        "membros_banca": [
+          "DINIZ, M. V. C.",
+          "BRAGA, M. L. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "ADSEARCH: Sistema de Armazenamento e Recuperação de Vídeos-Aula de Forma Segmentada",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "BONFIM, C. B.; RIBEIRO, F. F. S; MARQUES NETO, M. C.. Participação em banca de Marcus Vinícius de Jesus Esquivel.Software de (Re) Habilitação Cognitiva: uma interface entre a Psicologia, a Matemática e as Novas Tecnologias da Inteligência. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marcus Vinícius de Jesus Esquivel",
+        "membros_banca": [
+          "BONFIM, C. B.",
+          "RIBEIRO, F. F. S",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Software de (Re) Habilitação Cognitiva: uma interface entre a Psicologia, a Matemática e as Novas Tecnologias da Inteligência",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SILVA, B. C.; MASCARENHAS, A. P. F. M.; MARQUES NETO, M. C.. Participação em banca de Eduardo Siquira Júnior.Trasnformações de Modelos para Geração Automática de Testes de Unidade. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Eduardo Siquira Júnior",
+        "membros_banca": [
+          "SILVA, B. C.",
+          "MASCARENHAS, A. P. F. M.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Trasnformações de Modelos para Geração Automática de Testes de Unidade",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "RESTOVIC, M. I. V.; CONCEICAO, L.; MARQUES NETO, M. C.. Participação em banca de Rafael Neves Palácio.Verificação de Segurança em Computadores com o Sistema Operacional Windows conectados a redes sem fio. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rafael Neves Palácio",
+        "membros_banca": [
+          "RESTOVIC, M. I. V.",
+          "CONCEICAO, L.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Verificação de Segurança em Computadores com o Sistema Operacional Windows conectados a redes sem fio",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. F.; MATTOSO, A. A. A.; MARQUES NETO, M. C.. Participação em banca de Ivo Casais de Carvalho.Construção de Data Warehouse para traçar perfil de pacientes em serviço de Saúde, utilizando software livre. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ivo Casais de Carvalho",
+        "membros_banca": [
+          "ARAUJO, J. F.",
+          "MATTOSO, A. A. A.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Construção de Data Warehouse para traçar perfil de pacientes em serviço de Saúde, utilizando software livre",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DINIZ, M. V. C.; BORGES NETO, J.; MARQUES NETO, M. C.. Participação em banca de Lucas Almeida Santiago.KNUTH:Software para Análise da Complexidade de Algorítmos. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Lucas Almeida Santiago",
+        "membros_banca": [
+          "DINIZ, M. V. C.",
+          "BORGES NETO, J.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "KNUTH:Software para Análise da Complexidade de Algorítmos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AGUIAR, C. A.; DINIZ, M. V. C.; MARQUES NETO, M. C.. Participação em banca de Danilo Nunes Modesto Neves.Aplicando Mapas Auto-organizáveis para Mineração de Dados na Tomada de decisões contra crimes aos Correios. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Danilo Nunes Modesto Neves",
+        "membros_banca": [
+          "AGUIAR, C. A.",
+          "DINIZ, M. V. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Aplicando Mapas Auto-organizáveis para Mineração de Dados na Tomada de decisões contra crimes aos Correios",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SOUZA, H.; DINIZ, M. V. C.; MARQUES NETO, M. C.. Participação em banca de Bernardo Duarte Silva.Localização das Regiões Codantes nas Sequências de DNA Humano. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bernardo Duarte Silva",
+        "membros_banca": [
+          "SOUZA, H.",
+          "DINIZ, M. V. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Localização das Regiões Codantes nas Sequências de DNA Humano",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SOUZA, H.; DINIZ, M. V. C.; MARQUES NETO, M. C.. Participação em banca de Alan Gramacho dos Santos.Modelagem de Redes Neurais Artificiais Multilayer Perceptron para simulação de tráfego urbano de veículos. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alan Gramacho dos Santos",
+        "membros_banca": [
+          "SOUZA, H.",
+          "DINIZ, M. V. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Modelagem de Redes Neurais Artificiais Multilayer Perceptron para simulação de tráfego urbano de veículos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SOUZA, H.; CABRAL, F. O.; MARQUES NETO, M. C.. Participação em banca de Rogério Monteiro Souza.Análise de Multiderivações de Um Eletrocardiograma Via Redes Neurais para Detecção de Infarto na Parede Anterior do Miocárdio. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rogério Monteiro Souza",
+        "membros_banca": [
+          "SOUZA, H.",
+          "CABRAL, F. O.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Análise de Multiderivações de Um Eletrocardiograma Via Redes Neurais para Detecção de Infarto na Parede Anterior do Miocárdio",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "FURTADO, A. N.; DALFORNO, C.; MARQUES NETO, M. C.. Participação em banca de Alabê Rezende Duarte.Rede Social Virtual de Aprendizado. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alabê Rezende Duarte",
+        "membros_banca": [
+          "FURTADO, A. N.",
+          "DALFORNO, C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Rede Social Virtual de Aprendizado",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DINIZ, M. V. C.; RIBEIRO, F. F. S; MARQUES NETO, M. C.. Participação em banca de Luciano Neiva Nery.Algoritmos de Relevância de Busca Aplicada na Recperação de Informação Utilizando a Ferramenta Semantic Media. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luciano Neiva Nery",
+        "membros_banca": [
+          "DINIZ, M. V. C.",
+          "RIBEIRO, F. F. S",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Algoritmos de Relevância de Busca Aplicada na Recperação de Informação Utilizando a Ferramenta Semantic Media",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SILVA, R. C. B. A.; SILVA, B. C.; MARQUES NETO, M. C.. Participação em banca de Bruno Reis Messias Santos.Ferramenta de Busca e Extração de Informações Aplicada ao Sistema de Compra Eletrônica do Site do Banco do Brasil. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Reis Messias Santos",
+        "membros_banca": [
+          "SILVA, R. C. B. A.",
+          "SILVA, B. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Ferramenta de Busca e Extração de Informações Aplicada ao Sistema de Compra Eletrônica do Site do Banco do Brasil",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, C. A. S.; PRAZERES, C.; MARQUES NETO, M. C.. Participação em banca de Anderson Martins dos Anjos.Processamento de Metadados no Modelo TV-Anytime no Ambiente da TV Digital Brasileira. 2010. Trabalho de Conclusão de Curso (Graduação em CCiência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Anderson Martins dos Anjos",
+        "membros_banca": [
+          "SANTOS, C. A. S.",
+          "PRAZERES, C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Processamento de Metadados no Modelo TV-Anytime no Ambiente da TV Digital Brasileira",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em CCiência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "KRONBAUER, A. H.; MOREIRA, I. D.; MARQUES NETO, M. C.. Participação em banca de Felipe Almeida Lima Machado.Um Modelo de Mapeamento de Produção Vídeos - Aulas Digitais com os padrões de Codificação da Família MPGE para Geração de Conteúdo Digital Convergente. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Felipe Almeida Lima Machado",
+        "membros_banca": [
+          "KRONBAUER, A. H.",
+          "MOREIRA, I. D.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Um Modelo de Mapeamento de Produção Vídeos - Aulas Digitais com os padrões de Codificação da Família MPGE para Geração de Conteúdo Digital Convergente",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MOREIRA, I. D.; MARQUES NETO, M. C.; RESTOVIC, M. I. V.. Participação em banca de Aginoel Aquilino dos santos Filho.Utilização de telefonia Móvel para monitoramento de tratamento da fibilação arterial com anticoagulantes. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Aginoel Aquilino dos santos Filho",
+        "membros_banca": [
+          "MOREIRA, I. D.",
+          "MARQUES NETO, M. C.",
+          "RESTOVIC, M. I. V."
+        ],
+        "titulo_trabalho": "Utilização de telefonia Móvel para monitoramento de tratamento da fibilação arterial com anticoagulantes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DINIZ, M. V. C.; SOUZA, H.; MARQUES NETO, M. C.. Participação em banca de Joel Amalio dos Santos Filho.Expansão Computacional do Zelice, Incorporando Novas estratégias de Validação. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Joel Amalio dos Santos Filho",
+        "membros_banca": [
+          "DINIZ, M. V. C.",
+          "SOUZA, H.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Expansão Computacional do Zelice, Incorporando Novas estratégias de Validação",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DUARTE, A. A.; FURTADO, A. N.; MARQUES NETO, M. C.. Participação em banca de Diego Guimarães de Brito Costa.Software Robô para Acesso Remoto a Mecanismos de Predição de conectores MHC Classe II aplicado ao Estuudo da Leishmaniose. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Diego Guimarães de Brito Costa",
+        "membros_banca": [
+          "DUARTE, A. A.",
+          "FURTADO, A. N.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Software Robô para Acesso Remoto a Mecanismos de Predição de conectores MHC Classe II aplicado ao Estuudo da Leishmaniose",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "KRONBAUER, A. H.; FURTADO, A. N.; MARQUES NETO, M. C.. Participação em banca de Marcel Loureiro Mansur.SINVPOL - Sistema de Apoio a Investigações na Área de segurança Pública. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marcel Loureiro Mansur",
+        "membros_banca": [
+          "KRONBAUER, A. H.",
+          "FURTADO, A. N.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "SINVPOL - Sistema de Apoio a Investigações na Área de segurança Pública",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "GOMES, E. A.; KRONBAUER, A. H.; MARQUES NETO, M. C.. Participação em banca de Caio Marcelo Formiga.SEMANTIC MEDIA: Uma Solução de Anotação e recuperação de Informação Semantica baseada no padrão MPEG-7 utilizando Ontologia. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Caio Marcelo Formiga",
+        "membros_banca": [
+          "GOMES, E. A.",
+          "KRONBAUER, A. H.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "SEMANTIC MEDIA: Uma Solução de Anotação e recuperação de Informação Semantica baseada no padrão MPEG-7 utilizando Ontologia",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MACIEL, R. S. P.; DURAM, A. A.; SANTOS, D. M. B.; MARQUES NETO, M. C.. Participação em banca de Gilvan Silva Santos.ABBEL: Uma proposta de Ambiente Virtual de aprendizagem para o sistema Brasileiro de TV Digital. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gilvan Silva Santos",
+        "membros_banca": [
+          "MACIEL, R. S. P.",
+          "DURAM, A. A.",
+          "SANTOS, D. M. B.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "ABBEL: Uma proposta de Ambiente Virtual de aprendizagem para o sistema Brasileiro de TV Digital",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MOREIRA, I. D.; SCHNITMAN, L.; GALEFFI, M.; MARQUES NETO, M. C.. Participação em banca de Luis Gustavo Cardoso Lima.Uso de Fuzzy Sets para Monitoramento de Paciente com Fibrilação Atrial. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luis Gustavo Cardoso Lima",
+        "membros_banca": [
+          "MOREIRA, I. D.",
+          "SCHNITMAN, L.",
+          "GALEFFI, M.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Uso de Fuzzy Sets para Monitoramento de Paciente com Fibrilação Atrial",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; SILVA, B. C.; MARQUES NETO, M. C.. Participação em banca de Gerson da Conceição Júnior.Visualização Estrutural 3D de Sistemas Orientados a Objetos. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gerson da Conceição Júnior",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "SILVA, B. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Visualização Estrutural 3D de Sistemas Orientados a Objetos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DAVID, J. M. N.; MARQUES NETO, M. C.. Participação em banca de Anderson Anunciação Machado.CLA: Um editor gáfico colaborativo para análise de vínculos. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Anderson Anunciação Machado",
+        "membros_banca": [
+          "DAVID, J. M. N.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "CLA: Um editor gáfico colaborativo para análise de vínculos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SILVA, B. C.; DAVID, J. M. N.; MACIEL, R. S. P.; MARQUES NETO, M. C.. Participação em banca de Renato Pinto da Conceição.Um Processo MDA para WGWSOA. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Renato Pinto da Conceição",
+        "membros_banca": [
+          "SILVA, B. C.",
+          "DAVID, J. M. N.",
+          "MACIEL, R. S. P.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Um Processo MDA para WGWSOA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "GOMES, E. A.; SILVA, R. C. B. A.; MARQUES NETO, M. C.. Participação em banca de Thiago Barbosa dos Santos Santiago.Soluções de Melhorias ISIS-SMI. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Thiago Barbosa dos Santos Santiago",
+        "membros_banca": [
+          "GOMES, E. A.",
+          "SILVA, R. C. B. A.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Soluções de Melhorias ISIS-SMI",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, C. A. S.; BEZERRA, R. M. S.; MARQUES NETO, M. C.. Participação em banca de José Ricardo F.Santos Júnior.Geração Automática de Código para TVDI usando a Ferramenta StoryToCode. 2009. Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas) - Universidade Salvador.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "José Ricardo F",
+        "membros_banca": [
+          "SANTOS, C. A. S.",
+          "BEZERRA, R. M. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Santos Júnior.Geração Automática de Código para TVDI usando a Ferramenta StoryToCode",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas)",
+        "universidade": "Universidade Salvador"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; GAMA, J. N.; SILVA, C. N. L. P.. Participação em banca de Igor Pedreira Magalhães Alves.Detecção de Padrões de Sazonalidade do CID Utilizando a Técnica Hierárquica da Mineração Visual de Dados. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Igor Pedreira Magalhães Alves",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "GAMA, J. N.",
+          "SILVA, C. N. L. P."
+        ],
+        "titulo_trabalho": "Detecção de Padrões de Sazonalidade do CID Utilizando a Técnica Hierárquica da Mineração Visual de Dados",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; GAMA, J. N.; SILVA, C. N. L. P.. Participação em banca de Jamile Souza Lebre.Integração de Metáforas Visuais do Prefuse na Ferramenta LifeMiner. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Jamile Souza Lebre",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "GAMA, J. N.",
+          "SILVA, C. N. L. P."
+        ],
+        "titulo_trabalho": "Integração de Metáforas Visuais do Prefuse na Ferramenta LifeMiner",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MASSA, E. S.; DINIZ, M. V. C.; MARQUES NETO, M. C.. Participação em banca de Rodrigo Xavier de Medeiros.Uma Solução para o Problemas de Alocação de Berços Utilizando Algoritmos Genéticos. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rodrigo Xavier de Medeiros",
+        "membros_banca": [
+          "MASSA, E. S.",
+          "DINIZ, M. V. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Uma Solução para o Problemas de Alocação de Berços Utilizando Algoritmos Genéticos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MOREIRA, I. D.; DAVID, J. M. N.; MARQUES NETO, M. C.. Participação em banca de Diego Portugal de Almeida.Aplicação de Mineração de Dados para Descobertas de Padrões e Regras para Monitoramento de Pacientes com Fibrilação Atrial. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Diego Portugal de Almeida",
+        "membros_banca": [
+          "MOREIRA, I. D.",
+          "DAVID, J. M. N.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Aplicação de Mineração de Dados para Descobertas de Padrões e Regras para Monitoramento de Pacientes com Fibrilação Atrial",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AGUIAR, C. A.; MASSA, E. S.; MARQUES NETO, M. C.. Participação em banca de Thiana Almeida de Sousa.3DLibras. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Thiana Almeida de Sousa",
+        "membros_banca": [
+          "AGUIAR, C. A.",
+          "MASSA, E. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "3DLibras",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AGUIAR, C. A.; MASSA, E. S.; MARQUES NETO, M. C.. Participação em banca de André Coelho Caribé de Azevedo.Proposta de Visualização de Biblioteca Musical para Tocador de Música Amarok. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "André Coelho Caribé de Azevedo",
+        "membros_banca": [
+          "AGUIAR, C. A.",
+          "MASSA, E. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Proposta de Visualização de Biblioteca Musical para Tocador de Música Amarok",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AMORIM, C. A.; RIBEIRO, F. F. S; MARQUES NETO, M. C.. Participação em banca de Arnaldo Diniz Gonçalves Neto.Lousa Eletrônica Virtual Utilizando Marcador Infravermelho e Comunicação Bluetooth em Ambiente Multiplataforma. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Arnaldo Diniz Gonçalves Neto",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "RIBEIRO, F. F. S",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Lousa Eletrônica Virtual Utilizando Marcador Infravermelho e Comunicação Bluetooth em Ambiente Multiplataforma",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MASSA, E. S.; RIBEIRO, F. F. S; MARQUES NETO, M. C.. Participação em banca de Iuri Moraes Mendes.Detecção de Vagas Disponíveis em Estacionamentos Utilizando Processamento de Imagem. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Iuri Moraes Mendes",
+        "membros_banca": [
+          "MASSA, E. S.",
+          "RIBEIRO, F. F. S",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Detecção de Vagas Disponíveis em Estacionamentos Utilizando Processamento de Imagem",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MASSA, E. S.; BRAGA, M. L. C.; MARQUES NETO, M. C.. Participação em banca de Hadson Batista dos Santos.Sistema de Otimização de uma Frota para Transporte Terrestre de Funcionários na Petrobrás. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Hadson Batista dos Santos",
+        "membros_banca": [
+          "MASSA, E. S.",
+          "BRAGA, M. L. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Sistema de Otimização de uma Frota para Transporte Terrestre de Funcionários na Petrobrás",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "OLIVEIRA FILHO, A.; SILVA, B. C.; MARQUES NETO, M. C.. Participação em banca de Tiano Oliveira Dórea de Lima.Desenvolvimento de uma Ferramenta para Implementar Técnica FIR de Rastreabilidade. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Tiano Oliveira Dórea de Lima",
+        "membros_banca": [
+          "OLIVEIRA FILHO, A.",
+          "SILVA, B. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Desenvolvimento de uma Ferramenta para Implementar Técnica FIR de Rastreabilidade",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DUARTE, A. A.; AMORIM, C. A.; MARQUES NETO, M. C.. Participação em banca de Austeclíno Magalhães Barros Júnior.Sistema Especialista de Apoio ao Diagnóstico da Malária Assintomática. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Austeclíno Magalhães Barros Júnior",
+        "membros_banca": [
+          "DUARTE, A. A.",
+          "AMORIM, C. A.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Sistema Especialista de Apoio ao Diagnóstico da Malária Assintomática",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MASSA, E. S.; DINIZ, M. V. C.; MARQUES NETO, M. C.. Participação em banca de Rosemary Barreto.Otimização de Rotas em Parques Temáticos. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rosemary Barreto",
+        "membros_banca": [
+          "MASSA, E. S.",
+          "DINIZ, M. V. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Otimização de Rotas em Parques Temáticos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MENEZES, A. A. M.; BARBOZA, F. J. R.; MARQUES NETO, M. C.. Participação em banca de Victor Mansur de Queiroz.Apoio a análise das Emoções Provocadas pelos Estilos Musicais com o Suporte de uma Ferramenta Baseada no Conceito de mineração Visual de Dados. 2008. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Victor Mansur de Queiroz",
+        "membros_banca": [
+          "MENEZES, A. A. M.",
+          "BARBOZA, F. J. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Apoio a análise das Emoções Provocadas pelos Estilos Musicais com o Suporte de uma Ferramenta Baseada no Conceito de mineração Visual de Dados",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AMORIM, C. A.; MOREIRA, I. D.; MARQUES NETO, M. C.. Participação em banca de Carolina Souza Rodrigues.IPTV4U - Uma Ferramenta para IPTV. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carolina Souza Rodrigues",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "MOREIRA, I. D.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "IPTV4U - Uma Ferramenta para IPTV",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DANTAS, B. T.; AMORIM, C. A.; MARQUES NETO, M. C.. Participação em banca de Elma Sampaio da Silva.Zelice: Um jogo de Damas com IA para testar estratégias. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Elma Sampaio da Silva",
+        "membros_banca": [
+          "DANTAS, B. T.",
+          "AMORIM, C. A.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Zelice: Um jogo de Damas com IA para testar estratégias",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DUARTE, A. A.; MARQUES NETO, M. C.; PINHEIRO NETO, V.. Participação em banca de Adrienne Nogueira Santos Silva.Paralelização de um Alg. para Solução do Potencial elétrico em subsuperfície usando a técnica das diferenças finitas. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Adrienne Nogueira Santos Silva",
+        "membros_banca": [
+          "DUARTE, A. A.",
+          "MARQUES NETO, M. C.",
+          "PINHEIRO NETO, V."
+        ],
+        "titulo_trabalho": "Paralelização de um Alg. para Solução do Potencial elétrico em subsuperfície usando a técnica das diferenças finitas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DURAM, A. A.; MARQUES NETO, M. C.; BEZERRA, R. M. S.. Participação em banca de Diego Souza de Barros.SGAMI: Um Padrão de comunicação para Plataforma de Jogos Eletrônicos. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Diego Souza de Barros",
+        "membros_banca": [
+          "DURAM, A. A.",
+          "MARQUES NETO, M. C.",
+          "BEZERRA, R. M. S."
+        ],
+        "titulo_trabalho": "SGAMI: Um Padrão de comunicação para Plataforma de Jogos Eletrônicos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DAVID, J. M. N.; MARQUES NETO, M. C.; ANDRADE, S. S.. Participação em banca de Rudá Porto Filgueiras.Serviços de rede Social: Um framework baseado em componentes. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rudá Porto Filgueiras",
+        "membros_banca": [
+          "DAVID, J. M. N.",
+          "MARQUES NETO, M. C.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Serviços de rede Social: Um framework baseado em componentes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SOUZA, H.; MARQUES NETO, M. C.; PINHEIRO NETO, V.. Participação em banca de Henrique Rodrigues Dourado.Análise de ECG para Detecção de Infarto Anterior com Utilização de WAVELETS. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Henrique Rodrigues Dourado",
+        "membros_banca": [
+          "SOUZA, H.",
+          "MARQUES NETO, M. C.",
+          "PINHEIRO NETO, V."
+        ],
+        "titulo_trabalho": "Análise de ECG para Detecção de Infarto Anterior com Utilização de WAVELETS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DANTAS, B. T.; DAVID, J. M. N.; KNOEDT, H. S. B.; MARQUES NETO, M. C.. Participação em banca de Apoena Jorge Nascimento de Avelar.Risys: Uma ferramenta de anáilse de riscos em ambiente colaborativo para apoio à gestão de projetos. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Apoena Jorge Nascimento de Avelar",
+        "membros_banca": [
+          "DANTAS, B. T.",
+          "DAVID, J. M. N.",
+          "KNOEDT, H. S. B.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Risys: Uma ferramenta de anáilse de riscos em ambiente colaborativo para apoio à gestão de projetos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "TARANTO, A.; RIBEIRO, F. F. S; MARQUES NETO, M. C.. Participação em banca de Henco Kuo.Minimol: Uma Ferramenta de Visualização de moléculas 3D para suporte à Modelagem Molecular. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Henco Kuo",
+        "membros_banca": [
+          "TARANTO, A.",
+          "RIBEIRO, F. F. S",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Minimol: Uma Ferramenta de Visualização de moléculas 3D para suporte à Modelagem Molecular",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "GOMES, E. A.; MOREIRA, I. D.; MARQUES NETO, M. C.. Participação em banca de Leonardo Lima Figueiroa.NCLTV: Um plug-in Eclipse para Auxílio no desenvolvimento de Conteúdo Interativo para TV Digital na Linguagem NCL. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leonardo Lima Figueiroa",
+        "membros_banca": [
+          "GOMES, E. A.",
+          "MOREIRA, I. D.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "NCLTV: Um plug-in Eclipse para Auxílio no desenvolvimento de Conteúdo Interativo para TV Digital na Linguagem NCL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AMORIM, C. A.; GOMES, E. A.; MARQUES NETO, M. C.. Participação em banca de André Luis de Souza Santos.Pulg-in SAGA - editor Visual de Aplicações Interativas para TV Digital Baseada no middleware GINGA. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "André Luis de Souza Santos",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "GOMES, E. A.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Pulg-in SAGA - editor Visual de Aplicações Interativas para TV Digital Baseada no middleware GINGA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AMORIM, C. A.; GOMES, E. A.; MARQUES NETO, M. C.. Participação em banca de Fábio Giongo Castro.FIPP Framework para Informatização de Provas de Piaget. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Fábio Giongo Castro",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "GOMES, E. A.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "FIPP Framework para Informatização de Provas de Piaget",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AMORIM, C. A.; ARAUJO, J. G. R.; MARQUES NETO, M. C.; BARBOZA, F. J. R.. Participação em banca de Chreze Carvalho Freitas.Kairo: Uma ferramenta baseada em Algoritmos genéticos para geração de tabela de horário escolar. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Chreze Carvalho Freitas",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C.",
+          "BARBOZA, F. J. R."
+        ],
+        "titulo_trabalho": "Kairo: Uma ferramenta baseada em Algoritmos genéticos para geração de tabela de horário escolar",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Andrea Azevedo Gomes.Sumarazação Automática de textos jornalísticos da Lingua Portuguesa. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Andrea Azevedo Gomes",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Sumarazação Automática de textos jornalísticos da Lingua Portuguesa",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AGUIAR, C. A.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Fábio de Andrade Ribeiro.Desenvolvimento, teste e avaliação de uma arquitetura de Firewall nos sistemas operacionais windows e linux. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Fábio de Andrade Ribeiro",
+        "membros_banca": [
+          "AGUIAR, C. A.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Desenvolvimento, teste e avaliação de uma arquitetura de Firewall nos sistemas operacionais windows e linux",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, D. M. B.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Helton Luiz Rodrigues Araújo.NECE: Customização de Site de e-comerce usando Web2.0. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Helton Luiz Rodrigues Araújo",
+        "membros_banca": [
+          "SANTOS, D. M. B.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "NECE: Customização de Site de e-comerce usando Web2.0",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, D. M. B.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Gabriel Andrade Moura.SMART MINING - Uma solução de mineração de dados paralela e distribuída baseada em serviços. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gabriel Andrade Moura",
+        "membros_banca": [
+          "SANTOS, D. M. B.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "SMART MINING - Uma solução de mineração de dados paralela e distribuída baseada em serviços",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, D. M. B.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Alexsandro Dantas de Oliveira Dórea.Avaliação de ferramentas de Automação para Engenheiros de teste. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alexsandro Dantas de Oliveira Dórea",
+        "membros_banca": [
+          "SANTOS, D. M. B.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Avaliação de ferramentas de Automação para Engenheiros de teste",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "NEVES, J. C. S.; SIMOES, M. A. C.; MARQUES NETO, M. C.. Participação em banca de Igor Oliveira Takenami.Um Modelo de Arquitetura Distribuída Configurável para Construção de Sistemas Escaláveis. 2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Igor Oliveira Takenami",
+        "membros_banca": [
+          "NEVES, J. C. S.",
+          "SIMOES, M. A. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Um Modelo de Arquitetura Distribuída Configurável para Construção de Sistemas Escaláveis",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; NEVES, J. C. S.; MARQUES NETO, M. C.; SILVA, C. N. L. P.. Participação em banca de Marco Antônio de Serra Campos.Classificação Automática de Documentos TXT Utilizando Mapa de Kohonen. 2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marco Antônio de Serra Campos",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "NEVES, J. C. S.",
+          "MARQUES NETO, M. C.",
+          "SILVA, C. N. L. P."
+        ],
+        "titulo_trabalho": "Classificação Automática de Documentos TXT Utilizando Mapa de Kohonen",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; NEVES, J. C. S.; MARQUES NETO, M. C.. Participação em banca de George Colber Souza Costa.Uma ferramenta baseada em AG para geração de Grade de Horários de disciplinas da FRB. 2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "George Colber Souza Costa",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "NEVES, J. C. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Uma ferramenta baseada em AG para geração de Grade de Horários de disciplinas da FRB",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "NEVES, J. C. S.; ROSA, Marcio; MARQUES NETO, M. C.. Participação em banca de Marta Maria Amorim Assis de Melo.Software de Apoio ao Processo de Avaliação do Nível de Maturidade MPS BR. 2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marta Maria Amorim Assis de Melo",
+        "membros_banca": [
+          "NEVES, J. C. S.",
+          "ROSA, Marcio",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Software de Apoio ao Processo de Avaliação do Nível de Maturidade MPS BR",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "KRONBAUER, A. H.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Luiz Carlos Monteiro.Uma ferramenta para visualização de redes baseada no padrão WBEM. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luiz Carlos Monteiro",
+        "membros_banca": [
+          "KRONBAUER, A. H.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Uma ferramenta para visualização de redes baseada no padrão WBEM",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "AMORIM, C. A.; MOREIRA, I. D.; MARQUES NETO, M. C.. Participação em banca de Iulo Duarte Ferreira Gurgel.Uma Ferramenta para Mineração Visual de Dados Usando LifeLines. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Iulo Duarte Ferreira Gurgel",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "MOREIRA, I. D.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Uma Ferramenta para Mineração Visual de Dados Usando LifeLines",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, D. M. B.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Fabiano Barreto Monteiro de Almeida.Ferramenta de Autoria Gráfica para Construção de aplicações Utilizando o ramework AppTV. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Fabiano Barreto Monteiro de Almeida",
+        "membros_banca": [
+          "SANTOS, D. M. B.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Ferramenta de Autoria Gráfica para Construção de aplicações Utilizando o ramework AppTV",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SANTOS, D. M. B.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Felipe Goulart de Seixas.Uma ferramenta para Construção de Aplicações Interativas para TV Digital utlizando uma linguagem declarativa. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Felipe Goulart de Seixas",
+        "membros_banca": [
+          "SANTOS, D. M. B.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Uma ferramenta para Construção de Aplicações Interativas para TV Digital utlizando uma linguagem declarativa",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; DAVID, J. M. N.; MARQUES NETO, M. C.; SANTOS, D. M. B.. Participação em banca de Andrey Serra Pimenta.Weka-G (Weka on Grid) Uma solução para mineração de dados em grades computacionais. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Andrey Serra Pimenta",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "DAVID, J. M. N.",
+          "MARQUES NETO, M. C.",
+          "SANTOS, D. M. B."
+        ],
+        "titulo_trabalho": "Weka-G (Weka on Grid) Uma solução para mineração de dados em grades computacionais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; FREITAS, A. E. S.; MARQUES NETO, M. C.. Participação em banca de Alan Arraújo Monteiro de Sousa.Sistema de Detecção de Intrusos baseado em Redes Neurais Artificiais de Kohnen. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alan Arraújo Monteiro de Sousa",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "FREITAS, A. E. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Sistema de Detecção de Intrusos baseado em Redes Neurais Artificiais de Kohnen",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; FREITAS, A. E. S.; MARQUES NETO, M. C.. Participação em banca de Pedro Henrique Mussi de Amorim Brandão.Sistema de reconhecimento de caracteres para auxílio a deficiente físico utilizando redes artificiais ajustadas por algorítmos genéticos. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Pedro Henrique Mussi de Amorim Brandão",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "FREITAS, A. E. S.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Sistema de reconhecimento de caracteres para auxílio a deficiente físico utilizando redes artificiais ajustadas por algorítmos genéticos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; DAVID, J. M. N.; MARQUES NETO, M. C.. Participação em banca de Guilherme Levita Schallenbach.Um Mecanismo de Agrupamento de dados para uma Infra-Estrutura de Desenvolvimento do Groupware para Web. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Guilherme Levita Schallenbach",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "DAVID, J. M. N.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Um Mecanismo de Agrupamento de dados para uma Infra-Estrutura de Desenvolvimento do Groupware para Web",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; KRONBAUER, A. H.; MARQUES NETO, M. C.. Participação em banca de Elane Souza Lago.Software de avaliação de desempenho de alunos em ambientes de EAD. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Elane Souza Lago",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "KRONBAUER, A. H.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Software de avaliação de desempenho de alunos em ambientes de EAD",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; KRONBAUER, A. H.; MARQUES NETO, M. C.. Participação em banca de Leandro da Costa Ferreira.Mineração de dados utilizando lógica fuzzy. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leandro da Costa Ferreira",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "KRONBAUER, A. H.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Mineração de dados utilizando lógica fuzzy",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ARAUJO, J. G. R.; MARQUES NETO, M. C.; BRAGA, M. L. C.. Participação em banca de Márcio farani de Campos Moreira.Integração de sistemas Legados com Ambientes Móveis. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Márcio farani de Campos Moreira",
+        "membros_banca": [
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C.",
+          "BRAGA, M. L. C."
+        ],
+        "titulo_trabalho": "Integração de sistemas Legados com Ambientes Móveis",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "DANTAS, B. T.; MARQUES NETO, M. C.; SANTOS, C. A. S.. Participação em banca de Lile Palma Hattori.Um framework para construção de aplicações interativas para sistemas de TV Digital. 2005. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Lile Palma Hattori",
+        "membros_banca": [
+          "DANTAS, B. T.",
+          "MARQUES NETO, M. C.",
+          "SANTOS, C. A. S."
+        ],
+        "titulo_trabalho": "Um framework para construção de aplicações interativas para sistemas de TV Digital",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "CAD, M. M.; ARAUJO, J. G. R.; MARQUES NETO, M. C.. Participação em banca de Carlos Henrique Nunes Costa.Introdução de Métricas de Código-Fonte no Processo de REFACTORING. 2004. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2004,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carlos Henrique Nunes Costa",
+        "membros_banca": [
+          "CAD, M. M.",
+          "ARAUJO, J. G. R.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Introdução de Métricas de Código-Fonte no Processo de REFACTORING",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "MARQUES NETO, M. C.; ROSA, Marcio; TÚLIO, Marcus. Membro da banca de avaliação do Concurso público para professor auxiliar na disciplina Informática/Teroria da computação. 2005. Universidade do Estado da Bahia.",
+        "ano": 2005,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade do Estado da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; ROSA, Marcio; TÚLIO, Marcus. Membro da banca de avaliação do Concurso público para professor assistente na disciplina Informática/Organização de Arquivos/Estutura de dados. 2005. Universidade do Estado da Bahia.",
+        "ano": 2005,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade do Estado da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.. Comitê de Avaliação de Projetos do Programa de Institucional de Bolsas de Iniciação Científica(PIBIC). 2007. Instituto Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 5,
+    "total_livros": 4,
+    "total_capitulos": 5,
+    "total_trabalhos_congressos": 28,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 2,
+    "total_orientacoes_concluidas": 4,
+    "total_orientacoes_andamento": 2
+  }
+}

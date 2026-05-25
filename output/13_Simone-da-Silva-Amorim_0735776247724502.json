@@ -1,0 +1,2055 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "0735776247724502",
+    "nome_completo": "Simone da Silva Amorim",
+    "nome_citacoes": "AMORIM, S. S.;AMORIM, SIMONE DA SILVA;DA SILVA AMORIM, SIMONE",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, Campus Salvador, Departamento de Computação. Rua Emídio dos Santos Barbalho 40301015 - Salvador, BA - Brasil Telefone: (71) 21020494",
+    "atualizacao_cv": "31/05/2024",
+    "url": "http://lattes.cnpq.br/0735776247724502",
+    "texto_resumo": "Possui Graduação em Informática pela Universidade Católica do Salvador (UCSal) (1998), Mestrado em Ciência da Computação pela Universidade Estadual de Campinas (UNICAMP) (2004), Especialização em Gestão Estratégica de Sistemas de Informação pela Universidade Estadual de Campinas (UNICAMP) (2003) e Doutorado em Ciência da Computação pela Universidade Federal da Bahia (UFBA), com estágio de doutorado na University of Southern California (USC), CA, USA. Atualmente é professora do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Tem experiência na área de Ciência da Computação, com ênfase em Métodos e Técnicas de Computação. Atuando principalmente nos seguintes temas: Engenharia de Software, Ecossistemas de Software, Arquitetura de Software e Linhas de Produtos de Software. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2022",
+      "descricao": "com período sanduíche em University of Southern California (Orientador: Nenad Medvidovic). Título: Architectural Health of Software Ecosystems: A Practice-Based Evaluation Framework, Ano de obtenção: 2022. Orientador: Christina von Flach Garcia Chavez. Coorientador: Eduardo Santana de Almeida. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil."
+    },
+    {
+      "tipo": "Mestrado profissional em Ciência da Computação",
+      "nome_instituicao": "Universidade Estadual de Campinas, UNICAMP, Brasil",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2004",
+      "descricao": "Título: A Tecnologia Web Services e sua Aplicação num Sistema de Gerência de Telecomunicações, Ano de Obtenção: 2004. Orientador: Edmundo Roberto Mauro Madeira. Palavras-chave: Web Services; Computação Distribuída; Redes de Computadores; Internet; XML. Grande área: Ciências Exatas e da Terra Setores de atividade: Informática; Desenvolvimento de Programas (Software)."
+    },
+    {
+      "tipo": "Especialização em Gestão Estratégica de Sistemas de Informação",
+      "nome_instituicao": "(Carga Horária: 360h)",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2003",
+      "descricao": "Universidade Estadual de Campinas, UNICAMP, Brasil."
+    },
+    {
+      "tipo": "Graduação em Bacharel em Informática",
+      "nome_instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1998",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante",
+      "nome_instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "ano_inicio": "1990",
+      "ano_conclusao": "1993",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "12/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Departamento de Computação."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Departamento de Computação, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "12/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Departamento de Computação."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "12/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "12/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "08/2021 - 07/2023",
+      "ano_inicio": "2021",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Departamento de Inovação."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "11/2021 - 02/2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2022",
+      "ano_inicio": "2011",
+      "ano_fim": "2022",
+      "vinculo": "Estudante de Doutorado",
+      "enquadramento": "Estudante de Doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2011 - 11/2022",
+      "ano_inicio": "2011",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Departamento de Ciência da Computação."
+      ]
+    },
+    {
+      "instituicao": "Meira.com, MEIRA.COM, Brasil.",
+      "instituicao_nome": "Meira.com",
+      "instituicao_sigla": "MEIRA.COM",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2011",
+      "ano_inicio": "2010",
+      "ano_fim": "2011",
+      "vinculo": "Colaborador",
+      "enquadramento": "Bolsista do Projeto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Meira",
+      "instituicao_nome": "Meira",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "INDADOS Soluções em Tecnologia, INDADOS, Brasil.",
+      "instituicao_nome": "INDADOS Soluções em Tecnologia",
+      "instituicao_sigla": "INDADOS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2010",
+      "ano_inicio": "2007",
+      "ano_fim": "2010",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Analista de Desenvolvimento Java |||",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "INDADOS Soluções em Tecnologia, INDADOS, Brasil",
+      "instituicao_nome": "INDADOS Soluções em Tecnologia",
+      "instituicao_sigla": "INDADOS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações, CPqD, Brasil.",
+      "instituicao_nome": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações",
+      "instituicao_sigla": "CPqD",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - 2007",
+      "ano_inicio": "2000",
+      "ano_fim": "2007",
+      "vinculo": "Outro: Celetista",
+      "enquadramento": "Analista de Sistemas",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações, CPqD, Brasil",
+      "instituicao_nome": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações",
+      "instituicao_sigla": "CPqD",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações, CPqD, Brasil",
+      "instituicao_nome": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações",
+      "instituicao_sigla": "CPqD",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações."
+      ]
+    },
+    {
+      "instituicao": null,
+      "instituicao_nome": null,
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2000 - 2000",
+      "ano_inicio": "2000",
+      "ano_fim": "2000",
+      "vinculo": "Celetista",
+      "enquadramento": "Analista de Sistemas",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Vr Consultores Associados de Informática Ltda, VR, Brasil",
+      "instituicao_nome": "Vr Consultores Associados de Informática Ltda",
+      "instituicao_sigla": "VR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": null,
+      "instituicao_nome": null,
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "1998 - 1999",
+      "ano_inicio": "1998",
+      "ano_fim": "1999",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Vr Consultores Associados de Informática Ltda, VR, Brasil",
+      "instituicao_nome": "Vr Consultores Associados de Informática Ltda",
+      "instituicao_sigla": "VR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Vr Consultores Associados de Informática Ltda, VR, Brasil",
+      "instituicao_nome": "Vr Consultores Associados de Informática Ltda",
+      "instituicao_sigla": "VR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Vr Consultores Associados de Informática Ltda, VR, Brasil",
+      "instituicao_nome": "Vr Consultores Associados de Informática Ltda",
+      "instituicao_sigla": "VR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Aplicação de Informática Ltda, APLICAD, Brasil.",
+      "instituicao_nome": "Aplicação de Informática Ltda",
+      "instituicao_sigla": "APLICAD",
+      "instituicao_pais": "Brasil",
+      "periodo": "1997 - 1998",
+      "ano_inicio": "1997",
+      "ano_fim": "1998",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Aplicação de Informática Ltda, APLICAD, Brasil",
+      "instituicao_nome": "Aplicação de Informática Ltda",
+      "instituicao_sigla": "APLICAD",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Aplicação de Informática Ltda, APLICAD, Brasil",
+      "instituicao_nome": "Aplicação de Informática Ltda",
+      "instituicao_sigla": "APLICAD",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Urbis Habitação e Urbanização da Bahia, URBIS, Brasil.",
+      "instituicao_nome": "Urbis Habitação e Urbanização da Bahia",
+      "instituicao_sigla": "URBIS",
+      "instituicao_pais": "Brasil",
+      "periodo": "1995 - 1996",
+      "ano_inicio": "1995",
+      "ano_fim": "1996",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Urbis Habitação e Urbanização da Bahia, URBIS, Brasil",
+      "instituicao_nome": "Urbis Habitação e Urbanização da Bahia",
+      "instituicao_sigla": "URBIS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Urbis Habitação e Urbanização da Bahia, URBIS, Brasil",
+      "instituicao_nome": "Urbis Habitação e Urbanização da Bahia",
+      "instituicao_sigla": "URBIS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "AADSP - Uma abordagem adaptativa para implantação de processos de desenvolvimento de software em micro e pequenas empresas de Salvador/BA",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: Este projeto propõe e avalia uma abordagem adaptativa para implantação de processo de desenvolvimento de software em micro e pequenas empresas, aplicando práticas inovadoras, métodos ágeis e uma plataforma de ecossistema baseada em componentes utilizáveis nos produtos de software, possibilitando a melhoria da qualidade e produtividade. A avaliação da abordagem será realizada por meio de estudos de casos em empresas desenvolvedoras de software em Salvador/BA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado profissional: (1) / Doutorado: (3) . Integrantes: Simone da Silva Amorim - Integrante / Antonio Carlos dos Santos Souza - Coordenador / Luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Antonio Mauricio Pitangueira - Integrante.",
+        "Descrição: Este projeto propõe e avalia uma abordagem adaptativa para implantação de processo de desenvolvimento de software em micro e pequenas empresas, aplicando práticas inovadoras, métodos ágeis e uma plataforma de ecossistema baseada em componentes utilizáveis nos produtos de software, possibilitando a melhoria da qualidade e produtividade. A avaliação da abordagem será realizada por meio de estudos de casos em empresas desenvolvedoras de software em Salvador/BA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Doutorado: (3) . Integrantes: Antonio Carlos dos Santos Souza - Coordenador / luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Antonio Mauricio Pitangueira - Integrante. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologi - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Carlos dos Santos Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz claudio machado dos santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romilson Lopes Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Mauricio Pitangueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "luiz claudio machado dos santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologi",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "SOPLE - Service-Oriented Product Lines Engineering (Edital CAPES/DGU - Brasil/Espanha n: 022/2011)",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "descricao": [
+        "Descrição: O objetivo do projeto SOPLE é desenvolver um processo integrado com conceitos de desenvolvimento de linhas de produto de software e orientação a serviços. Assim, as seguintes atividades devem ser realizadas: - Pesquisa do estado da arte na área de linhas de produto de software orientada a serviços - Pesquisa do estado da arte na área de modelagem e gerência de variabilidades - Definição do processo de linhas de produto de software orientada a serviços incluindo as fases de escopo, requisitos, projeto arquitetural - Definição de experimentos controlados para avaliação do processo - Definição de estudos de caso com empresas para avaliação do processo. Um aspecto importante é que enquanto a equipe Brasileira está concentrada nas fases e etapas do processo, a equipe Espanhola está interessada em como aspectos de usabilidade podem ser inseridos e gerenciados ao longo do processo proposto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (6) . Integrantes: Simone da Silva Amorim - Integrante / Raphael Pereira de Oliveira - Integrante / Eduardo Santana de Almeida - Coordenador / Ivan do Carmo Machado - Integrante / Manoel Gomes de Mendonça Neto - Integrante / Christina von Flach Garcia Chavez - Integrante / Crescencio Rodrigues Lima Neto - Integrante / Tássio Ferreira Vale - Integrante / Hugo Sica de Andrade - Integrante / Silvia Mara Abrahao Gonzales - Integrante / Cesar Emilio Insfran Pelozo - Integrante / Jose Ángel Carsi Cubel - Integrante / David Blanes Dominguez - Integrante / Javier Gonzalez Huerta - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Raphael Pereira de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Santana de Almeida",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ivan do Carmo Machado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Manoel Gomes de Mendonça Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Christina von Flach Garcia Chavez",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Crescencio Rodrigues Lima Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tássio Ferreira Vale",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Hugo Sica de Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvia Mara Abrahao Gonzales",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cesar Emilio Insfran Pelozo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jose Ángel Carsi Cubel",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "David Blanes Dominguez",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Javier Gonzalez Huerta",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "SPLSmart: Desenvolvimento de uma Linha de Produtos para Aplicações de Gestão Medica - (Edital RHAE/CNPq Nº 062/2009 - R$ 298.069,71)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: O objetivo deste projeto é o desenvolvimento de uma linha de produtos para aplicações de gestão medica (consultório, clinica, laboratório e hospital) e posterior re-desenvolvimento dos produtos... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (7) . Integrantes: Simone da Silva Amorim - Integrante / Silvio Romero de Lemos Meira - Integrante / Raphael Pereira de Oliveira - Integrante / Eduardo Santana de Almeida - Integrante / Ivan do Carmo Machado - Integrante / Ivonei Freitas da Silva - Integrante / Luanna Lopes Lobato - Integrante / André Gomes Silveira - Coordenador / Manoel Gomes de Mendonça Neto - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvio Romero de Lemos Meira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Raphael Pereira de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Santana de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ivan do Carmo Machado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ivonei Freitas da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luanna Lopes Lobato",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "André Gomes Silveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Manoel Gomes de Mendonça Neto",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Em Busca de um Processo para a Análise e Projeto de Linhas de Produto de Software orientada a Serviços (Edital Universal 2010 - R$ 20.000,00)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: O objetivo deste projeto é investigar e definir um processo para o desenvolvimento de linhas de produto de software com foco em serviços. O processo proposto irá contemplar as fases de definição de escopo, engenharia de requisitos e projeto arquitetural... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (9) / Doutorado: (8) . Integrantes: Simone da Silva Amorim - Integrante / Silvio Romero de Lemos Meira - Integrante / Eduardo Santana de Almeida - Coordenador / Ivan do Carmo Machado - Integrante / Ivonei Freitas da Silva - Integrante / Luanna Lopes Lobato - Integrante / Vinicius Cardoso Garcia - Integrante / Daniel Lucrédio - Integrante / Alexandre Alvaro - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvio Romero de Lemos Meira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Santana de Almeida",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ivan do Carmo Machado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ivonei Freitas da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luanna Lopes Lobato",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Vinicius Cardoso Garcia",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daniel Lucrédio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Alexandre Alvaro",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Investigando uma Solução Semi-Automatizada para Evitar Bug-Reports Duplicados em Projetos de Desenvolvimento de Software",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: Sistemas específicos, chamados de bug-tracker, têm sido utilizados para administrar bugreports (relatos de erros e sugestões de melhorias de software) e, dessa forma, facilitar as fases de manutenção e evolução de projetos de software. No entanto, pesquisas recentes têm mostrado que a submissão de bug-reports duplicados tem causado impacto negativo na produtividade das pessoas envolvidas no processo de desenvolvimento do software. Isso ocorre, principalmente, porque os desenvolvedores precisam analisar cuidadosamente os bug-reports submetidos para verificar a validade dos mesmos. Essa análise, em alguns casos, pode gastar cerca de 30 minutos devido a vários fatores, dentre eles a frequência com que relatos duplicados ou inválidos são submetidos. Por conseguinte, em projetos de software em que muitas duplicatas são submetidas diariamente, uma quantidade considerável de tempo é perdida apenas com análise de bug-reports. Dessa forma, o presente projeto destinase a desenvolver atividades que levem ao entendimento das principais causas e consequências do problema de duplicação, assim como estudar técnicas que possam ser aplicadas em uma solução final para o problema. A solução que desenvolveremos será utilizada para evitar a submissão de bug-reports duplicados, e também tornará mais eficiente a análise de relatos que são submetidos. Consequentemente, a produtividade das equipes de desenvolvimento de software aumentará, pois o tempo de desenvolvimento será melhor aproveitado. Adicionalmente, também haverá aumento na qualidade do software produzido, pois, desde que os relatores gastarão menos tempo para fazer buscas em relatos existentes, mais relatos que tragam benefícios para o projeto poderão ser submetidos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Simone da Silva Amorim - Integrante / Silvio Romero de Lemos Meira - Coordenador / Eduardo Cruz Reis Santos - Integrante / Yguaratã Cerqueira Cavalcanti - Integrante / Paulo Anselmo da Mota Silveira Neto - Integrante / Fernando Cesar de Almeida - Integrante / Raphael Pereira de Oliveira - Integrante / Eduardo Santana de Almeida - Integrante. Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvio Romero de Lemos Meira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Eduardo Cruz Reis Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Yguaratã Cerqueira Cavalcanti",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Anselmo da Mota Silveira Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fernando Cesar de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Raphael Pereira de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Santana de Almeida",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "INES - Instituto Nacional de Ciência e Tecnologia para Engenharia de Software (Edital CNPq| INCT 15/2008 - R$ 2.318.449,54)",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: O INES (Instituto Nacional de Ciência e Tecnologia para Engenharia de Software), sob a Coordenação do Prof. Silvio Meira, da UFPE, tem como tema global promover desenvolvimento de software com altíssima produtividade, aplicando de forma sistemática o conceito de fábrica. Primordialmente, os sistemas desenvolvidos apresentarão, de forma mensurável e configurável, fidedignidade (ou seja, poderemos depender deles sem receio). Em especial, as iniciativas do INES buscarão diminuir de forma radical as taxas de fracasso de projeto, aumentando o nível de satisfação com a qualidade dos produtos entregues, com custo e benefício controlados... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Simone da Silva Amorim - Integrante / Silvio Romero de Lemos Meira - Coordenador / Eduardo Santana de Almeida - Integrante / Ivan do Carmo Machado - Integrante / Ivonei Freitas da Silva - Integrante / Luanna Lopes Lobato - Integrante / Manoel Gomes de Mendonça Neto - Integrante / Vinicius Cardoso Garcia - Integrante / Alexandre Alvaro - Integrante / Christina von Flach Garcia Chavez - Integrante / Laís do Nascimento Salvador - Integrante / Renato Lima Novaes - Integrante / Paulo Henrique Monteiro Borba - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.",
+        "Descrição: O INES (Instituto Nacional de Ciência e Tecnologia para Engenharia de Software), sob a Coordenação do Prof. Silvio Meira, da UFPE, tem como tema global promover desenvolvimento de software com altíssima produtividade, aplicando de forma sistemática o conceito de fábrica. Primordialmente, os sistemas desenvolvidos apresentarão, de forma mensurável e configurável, fidedignidade (ou seja, poderemos depender deles sem receio). Em especial, as iniciativas do INES buscarão diminuir de forma radical as taxas de fracasso de projeto, aumentando o nível de satisfação com a qualidade dos produtos entregues, com custo e benefício controlados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Lima Novais - Integrante / Manoel Gomes de Mendonça Neto - Integrante / Cláudio Nogueira Sant?Anna - Integrante / Eduardo Santana de Almeida - Integrante / Christina von Flach Garcia Chavez - Integrante / Laís Nascimento Salvador - Integrante / Vaninha Vieira dos Santos - Integrante / Sérgio Soares - Integrante / Paulo Borba - Integrante / Jorge Cesar Abrantes de Figueredo - Integrante / Dalton Dario Serey Guerrero - Integrante / Marcel Oliveira - Integrante / Silvio Meira - Coordenador / Leila Silva - Integrante / Valéria Gonçalves Soares - Integrante / Anamaria Martins Moreira - Integrante / Augusto Cezar Alves Sampaio - Integrante / Ana Carolina Brandão Salgado - Integrante / André Luís de Medeiros Santos - Integrante. Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvio Romero de Lemos Meira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Eduardo Santana de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ivan do Carmo Machado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ivonei Freitas da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luanna Lopes Lobato",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Manoel Gomes de Mendonça Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Vinicius Cardoso Garcia",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Alexandre Alvaro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Christina von Flach Garcia Chavez",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laís do Nascimento Salvador",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renato Lima Novaes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Henrique Monteiro Borba",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renato Lima Novais",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cláudio Nogueira Sant?Anna",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laís Nascimento Salvador",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Vaninha Vieira dos Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sérgio Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Borba",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jorge Cesar Abrantes de Figueredo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Dalton Dario Serey Guerrero",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcel Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvio Meira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Leila Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Valéria Gonçalves Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anamaria Martins Moreira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Augusto Cezar Alves Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Carolina Brandão Salgado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "André Luís de Medeiros Santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        },
+        {
+          "nome": "Ministério da Ciência, Tecnologia e Inovações",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Gerência de Recursos e Serviços da Planta Optica",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2006",
+      "descricao": [
+        "Descrição: Apesar da retração do mercado de telecomunicações nos últimos meses, devido ao excesso de infra-estrutura instalada e não utilizada, as pesquisas apontam que os gastos com Sistemas de Suporte a Operações (OSS - Operations Support System) não estão seguindo a mesma tendência. Para que as fibras apagadas , como são conhecidas as redes ópticas instaladas e não utilizadas, venham a gerar recursos serão necessários novos investimentos em OSSs. Estes sistemas devem permitir que as operadoras ofereçam novos serviços de maneira mais ágil e possam utilizar a capacidade ociosa da rede. No entanto, para viabilizar a sua utilização os OSSs devem ser desenvolvidos concorrentemente com as ofertas de novos serviços e não serão mais construídos a posteriori como em outras épocas. A utilização de arquiteturas de redes que utilizam diferentes tecnologias tem se tornado cada vez mais comum. Atualmente, uma comunicação entre dois usuários finais pode percorrer redes de vários provedores estando suportada por diversas tecnologias. Esta diversidade de tecnologias introduz um grau elevado de incertezas nas redes das operadoras aumentando a complexidade da gerência destas redes e dificultando o oferecimento de um serviço fim-a-fim, que garanta os requisitos de qualidade de serviço pré-estabelecidos nos contratos de nível de serviço. A complexidade também é traduzida para o gerenciamento tornando necessária uma solução de gerenciamento de rede integrada, que possibilite o provisionamento e a manutenção dos serviços fim-a-fim de forma transparente e independente da tecnologia utilizada. Outro fator importante na composição do mercado são as operadoras entrantes que competem com as incumbents oferecendo serviços de voz, vídeo e dados utilizando redes prioritariamente ópticas integradas a redes coaxiais e metálicas. Normalmente, são empresas de pequeno e médio porte e muitas vezes tem necessidades distintas das grandes operadoras. Neste contexto, verifica-se que as modernas técnicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Simone da Silva Amorim - Integrante / Mario Massato Harada - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mario Massato Harada",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "ADS Online 2021",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O projeto em questão pretende proporcionar ao corpo discente e docente dos cursos da área de computação e tecnologia do IFBA um conjunto de apresentações que discutam temas emergentes relacionados à área de Computação e Desenvolvimento de Sistemas, buscando correlações com o momento atual pelo qual estamos passando. Nesta oportunidade, serão discutidos temas transversais e multidisciplinares relacionados com a área de tecnologia da informação. Temas diversos relacionados a área de computação serão apresentados no evento por acadêmicos e profissionais e discutidos com participantes do evento utilizando de plataformas digitais para conferências à distância e difusão de vídeos. Apesar de o evento estar sendo planejado com foco nos alunos do IFBA, a sua característica online permitirá a participação de qualquer interessado nos temas abordados.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (1) . Integrantes: Simone da Silva Amorim - Coordenador / Pablo Vieira Florentino - Integrante / Isnalde Clésia de Souza Miranda - Integrante / Pedro Henrique Marques de Santana Araújo - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isnalde Clésia de Souza Miranda",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Pedro Henrique Marques de Santana Araújo",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "VI Workshop Labrasoft & GPETec. Difusão do Conhecimento e Sistema de Representação",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O VI workshop Laboratório de desenvolvimento de software consiste em um conjunto de palestras sobre o processo de desenvolvimento de software e exemplos práticos de softwares desenvolvidos por pesquisadores e alunos do IFBA. Esse evento tem o interesse de estimular os novos alunos do IFBA na área de desenvolvimento de software. Projeto Cadastrado na DIREC/IFBA sob No EXT-17-2019.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (80) . Integrantes: Simone da Silva Amorim - Integrante / Antonio Carlos dos Santos Souza - Coordenador / Luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Antonio Mauricio Pitangueira - Integrante / Ronaldo Pedreira Silva - Integrante.",
+        "Descrição: VI Workshop Labrasoft & GPETEC: Difusão do Conhecimento e Sistema de Representação do Conhecimento discute a produção de conhecimento e tecnológica e como acontece sua difusão do conhecimento, considerando questões culturais e ruptura.. Situação: Concluído; Natureza: Extensão. Integrantes: Antonio Carlos dos Santos Souza - Coordenador / luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Antonio Mauricio Pitangueira - Integrante / Márcio Cerqueira de Farias Macedo - Integrante / Caio Jordao Carvalho - Integrante / Igor Alexandre de Lima - Integrante / Wilson Otto Batista - Integrante / Isabelle Matos Pinheiro - Integrante / Ítalo Luis Gomes Lacerda dos Santos - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Carlos dos Santos Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz claudio machado dos santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romilson Lopes Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Mauricio Pitangueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ronaldo Pedreira Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "luiz claudio machado dos santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Márcio Cerqueira de Farias Macedo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Caio Jordao Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Igor Alexandre de Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Wilson Otto Batista",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isabelle Matos Pinheiro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ítalo Luis Gomes Lacerda dos Santos",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "V Workshop Laboratório de Desenvolvimento de Software",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: O V workshop Laboratório de desenvolvimento de software consiste em um conjunto de palestras sobre o processo de desenvolvimento de software e exemplos práticos de softwares desenvolvidos por pesquisadores e alunos do IFBA. Esse evento tem o interesse de estimular os novos alunos do IFBA na área de desenvolvimento de software. Projeto Cadastrado na DIREC/IFBA sob No EXT-16-2018.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (80) . Integrantes: Simone da Silva Amorim - Integrante / Renato Lima Novaes - Integrante / Antonio Carlos dos Santos Souza - Coordenador / Luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Antonio Mauricio Pitangueira - Integrante / Ronaldo Pedreira Silva - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renato Lima Novaes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Carlos dos Santos Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz claudio machado dos santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romilson Lopes Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Mauricio Pitangueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ronaldo Pedreira Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "IV Workshop do Labrasoft e Gpetec: Desenvolvimento de Jogos Analógicos e Digitais",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: O IV Workshop do Labrasoft e Gpetec: Desenvolvimento de Jogos Analógicos e Digitais consiste em um conjunto de palestras sobre o processo de desenvolvimento de software e exemplos práticos de softwares desenvolvidos por pesquisadores e alunos do IFBA. Esse evento tem o interesse de estimular os novos alunos do IFBA na área de desenvolvimento de software. Projeto Cadastrado na DIREC/IFBA sob No EXT-39-2017.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (80) . Integrantes: Simone da Silva Amorim - Integrante / Antonio Carlos dos Santos Souza - Coordenador / Luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Antonio Mauricio Pitangueira - Integrante / Ronaldo Pedreira Silva - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Carlos dos Santos Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz claudio machado dos santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romilson Lopes Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Mauricio Pitangueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ronaldo Pedreira Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "III Workshop do Labrasoft e Gpetec ? Laboratório de Desenvolvimento de Software",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: O III workshop Laboratório de desenvolvimento de software consiste em um conjunto de palestras sobre o processo de desenvolvimento de software e exemplos práticos de softwares desenvolvidos por pesquisadores e alunos do IFBA. Esse evento tem o interesse de estimular os novos alunos do IFBA na área de desenvolvimento de software. Projeto Cadastrado na DIREC/IFBA sob No EXT-02-2016.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (80) . Integrantes: Simone da Silva Amorim - Integrante / Antonio Carlos dos Santos Souza - Coordenador / Luiz claudio machado dos santos - Integrante / Romilson Lopes Sampaio - Integrante / Ronaldo Pedreira Silva - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Carlos dos Santos Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz claudio machado dos santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romilson Lopes Sampaio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ronaldo Pedreira Silva",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Sistemas de Informação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Arquitetura de Sistemas de Computação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Engenharia de Software",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Tecnologias e Modelos para Aplicações Georeferenciadas na Web - Otimização de Desempenho - Pesquisa Aplicada a WEB",
+      "objetivo": ""
+    },
+    {
+      "nome": "Evolução de Software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Ecossistemas de Software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Engenharia de Software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Arquitetura de Software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Ecossistemas de Software",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Software Architectural Practices: Influences on the Open Source Ecosystem Health",
+        "ano": 2023,
+        "autores": "AMORIM, SIMONE DA SILVA; MCGREGOR, JOHN D. ; DE ALMEIDA, EDUARDO SANTANA ; CHAVEZ, CHRISTINA VON FLACH GARCIA",
+        "revista": "JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT",
+        "volume": "11",
+        "numero": "",
+        "paginas": "9:1-9:23",
+        "issn": "2195-1721",
+        "doi": "http://dx.doi.org/10.5753/jserd.2023.967",
+        "qualis": ""
+      },
+      {
+        "titulo": "A data exchange solution for emergency response systems based on the EDXL-RESCUER ontology",
+        "ano": 2019,
+        "autores": "WEBER, MARIAN ; DA SILVA AMORIM, SIMONE ; DE SOUZA NETO, FÉLIX SIMAS ; NOVAIS, RENATO LIMA ; VIEIRA DOS SANTOS, VANINHA ; BARROS, REBECA ; SALVADOR, Laís do Nascimento",
+        "revista": "INTERNATIONAL JOURNAL OF METADATA, SEMANTICS AND ONTOLOGIES (PRINT)",
+        "volume": "13",
+        "numero": "",
+        "paginas": "264-283",
+        "issn": "1744-263X",
+        "doi": "http://dx.doi.org/10.1504/IJMSO.2019.10021460",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Quiz60+: Um Jogo Educativo para Segurança Digital dos Usuários da Terceira Idade",
+        "ano": 2024,
+        "autores": "SANTANA, M. C. ; AMORIM, S. S.",
+        "evento": "XV Seminário de Jogos Eletrônicos",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Connecting Non-Functional Requirements to Open Source Ecosystems Health",
+        "ano": 2022,
+        "autores": "AMORIM, SIMONE DA SILVA; MCGREGOR, JOHN D. ; ALMEIDA, EDUARDO SANTANA DE ; GARCIA CHAVEZ, CHRISTINA VON FLACH",
+        "evento": "SBCARS 2022: 16th Brazilian Symposium on Software Components",
+        "cidade": "",
+        "paginas": "76",
+        "isbn": ""
+      },
+      {
+        "titulo": "Speech-To-Story: Gerando Histórias de Usuário",
+        "ano": 2021,
+        "autores": "SOUZA, G. F. B. ; AMORIM, S. S.",
+        "evento": "35th Brazilian Symposium on Software Engineering (SBES) - Tools Track",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Educating to Achieve Healthy Open Source Ecosystems",
+        "ano": 2018,
+        "autores": "AMORIM, S. S.; MCGREGOR, JOHN D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "12th Workshop on Distributed Software Development",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Tailoring the NFR Framework for Measuring Software Ecosystems Health",
+        "ano": 2018,
+        "autores": "AMORIM, S. S.; ANDRADE, S. S. ; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "21st Workshop on Requirements Engineering",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "The Architect's Role in Software Ecosystems Health",
+        "ano": 2017,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "2nd Workshop on Social",
+        "cidade": "",
+        "paginas": "1-4",
+        "isbn": ""
+      },
+      {
+        "titulo": "Software Ecosystems' Architectural Health: Another View",
+        "ano": 2017,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "5th International Workshop on Software Engineering for Systems-of-Systems and 11th Workshop on Distributed Software Development",
+        "cidade": "",
+        "paginas": "66-69",
+        "isbn": ""
+      },
+      {
+        "titulo": "How Has the Health of Software Ecosystems Been Evaluated? A Systematic Review",
+        "ano": 2017,
+        "autores": "AMORIM, S. S.; SOUZA NETO, F. S. ; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "31st Brazilian Symposium on Software Engineering",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Data Exchange Tool Based on Ontology for Emergency Response Systems",
+        "ano": 2017,
+        "autores": "SOUZA NETO, F. S. ; BARROS, R. ; SALVADOR, Laís do Nascimento ; WEBER, M. ; AMORIM, S. S.",
+        "evento": "11th International Conference on Metadata and Semantics Research (MTSR)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Understanding the Effects of Practices on KDE Ecosystem Health",
+        "ano": 2017,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "The 13th International Conference on Open Source Systems",
+        "cidade": "",
+        "paginas": "89-100",
+        "isbn": ""
+      },
+      {
+        "titulo": "Towards an evaluation method for software ecosystem practices",
+        "ano": 2016,
+        "autores": "DA SILVA AMORIM, SIMONE; DE ALMEIDA, EDUARDO SANTANA ; MCGREGOR, JOHN D. ; VON FLACH G. CHAVEZ, CHRISTINA",
+        "evento": "Proccedings of the 10th European Conference",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      },
+      {
+        "titulo": "Software Ecosystems Architectural Health: Challenges x Practices",
+        "ano": 2016,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "10th European Conference on Software Architecture",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Tailoring the ATAM for Software Ecosystems",
+        "ano": 2015,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "9th European Conference on Software Architecture (ECSA 2015)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Observing the Health of the Ecosystem Supporting the Emerging Connected Vehicle System of Systems",
+        "ano": 2015,
+        "autores": "MCGREGOR, J. D. ; AMORIM, S. S. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "Workshop em Desenvolvimento Distribuído de Software",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Scalable Software Architectures for Software Ecosystems",
+        "ano": 2014,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S.",
+        "evento": "11th Working IEEE/IFIP Conference on Software Architecture - WICSA 2014",
+        "cidade": "",
+        "paginas": "49-52",
+        "isbn": ""
+      },
+      {
+        "titulo": "Ecosystem Business Models and Architectures",
+        "ano": 2014,
+        "autores": "MCGREGOR, J. D. ; AMORIM, SIMONE DA SILVA",
+        "evento": "Workshop de Desenvolvimento Distribuído de Software",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "When Ecosystems Collide: Making Systems of Systems Work",
+        "ano": 2014,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "2nd International Workshop on Software Engineering for Systems-of-Systems",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Extensibility in ecosystem architectures: an initial study",
+        "ano": 2013,
+        "autores": "AMORIM, SIMONE DA SILVA; DE ALMEIDA, EDUARDO SANTANA ; MCGREGOR, JOHN D.",
+        "evento": "the 2013 International Workshop",
+        "cidade": "",
+        "paginas": "11",
+        "isbn": ""
+      },
+      {
+        "titulo": "Flexibility in Ecosystem Architectures",
+        "ano": 2014,
+        "autores": "DA SILVA AMORIM, SIMONE; MCGREGOR, JOHN D. ; DE ALMEIDA, EDUARDO SANTANA ; VON FLACH G. CHAVEZ, CHRISTINA",
+        "evento": "the 2014 European Conference",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "An Evaluation Model for Software Ecosystem Practice Improvement",
+        "ano": 2015,
+        "autores": "AMORIM, S. S.; MCGREGOR, J. D. ; ALMEIDA, E. S. ; CHAVEZ, C. V. F. G.",
+        "evento": "The Second Latin-American School on Software Engineering (ELA-ES 2015), 2015, Porto Alegre. The Second Latin-American School on Software Engineering (ELA-ES 2015)",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Geoprocessamento",
+        "ano": 2010,
+        "autores": "AMORIM, S. S",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [
+      {
+        "titulo": "S.; LELLO, J. F. P. ; TEIXEIRA, M. D. . SAGRE",
+        "ano": 2001,
+        "autores": "AMORIM, S",
+        "instituicao": "",
+        "finalidade": ""
+      }
+    ],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Financial Chair. 16th Software Product Lines Conference (SPLC)",
+        "ano": 2012,
+        "autores": "AMORIM, S. S",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "SBES - XXXVIII Simpósio Brasileiro de Engenharia de Software",
+        "ano": 2024,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "EnAComp - Encontro Anual de Computação",
+        "ano": 2018,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "ENCompIF - Encontro Nacional de Computação dos Institutos Federais",
+        "ano": 2018,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "EnAComp - Encontro Anual de Computação",
+        "ano": 2017,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "ENCompIF - Encontro Nacional de Computação dos Institutos Federais",
+        "ano": 2017,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "WTICGBASE - Workshop de Trabalhos de Iniciação Científica (ERBASE)",
+        "ano": 2017,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "TECBASE - Workshop de Tecnologia no Ensino Técnico (ERBASE 2016)",
+        "ano": 2016,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "WTICGBASE - Workshop de Trabalhos de Iniciação Científica (ERBASE 2016)",
+        "ano": 2016,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "ENCompIF - Encontro Nacional de Computação dos Institutos Federais",
+        "ano": 2016,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "WTICGBASE - Workshop de Trabalhos de Iniciação Científica (ERBASE 2015)",
+        "ano": 2015,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "EnAComp - Encontro Anual de Computação",
+        "ano": 2015,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução à Linguagem C",
+        "ano": 2014,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "EnAComp - Encontro Anual de Computação",
+        "ano": 2013,
+        "autores": "AMORIM, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "a definir",
+          "ano_inicio": 2024,
+          "orientando": "Tainan Oliveira Suzarte",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "a definir",
+          "ano_inicio": 2024,
+          "orientando": "Vitória dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "a definir",
+          "ano_inicio": 2022,
+          "orientando": "Lucas Valadares Silva Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [
+        {
+          "titulo": "IFBA Access: Um aplicativo de localização geográfica acessível no campus Salvador",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Karen Auzidea dos Santos Pereira",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "LGPD Board Challenge - Um Jogo Digital para Aprendizado sobre a LGPD na Área de Tecnologia",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Victor Hugo Souza da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Quiz60+: Um Jogo Educativo para Segurança Digital dos Usuários da Terceira Idade",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Monaliza Cirqueira de Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Speech-To-Story: Automatizando a Geração de Histórias de Usuário",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Gabriel Ferreira Barros de Sousa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Freelagile - Uma Ferramenta Para o Gerenciamento Ágil de Projetos de Software Para Desenvolvedores Freelancer",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Saulo Mario de Moura",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta para Conduzir Focus Group Online Integrado em uma Rede Social",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Luis Antonio de Oliveira Belo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "XIV Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+        "apresentacao": "Architectural Health of Software Ecosystems: A Practice-Based Evaluation Framework",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "13th Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXV Ibero-American Conference on Software Engineering (CIbSE)",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "12th Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "15th European Conference on Software Architecture (ECSA)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "25th ACM International Systems and Software Product Line Conference (SPLC)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "25th International Conference on Evaluation and Assessment in Software Engineering (EASE)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "33rd International Conference on Advanced Information Systems Engineering (CAiSE)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Jornadas Ibero-americanas de Interação Humano-Computador (HCI)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIV Ibero-American Conference on Software Engineering (CIbSE)",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "14th European Conference on Software Architecture (ECSA)",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "23rd Iberoamerican Conference on Software Engineering (CIbSE)",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "24th International Systems and Software Product Line Conference",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+        "apresentacao": null,
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "12th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems (WDES)",
+        "apresentacao": "Educating to Achieve Healthy Open Source Ecosystems",
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "21st Workshop on Requirements Engineering",
+        "apresentacao": "Tailoring the NFR Framework for Measuring Software Ecosystems Health",
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2nd Workshop on Social, Human, and Economic Aspects of Software (WASHES)",
+        "apresentacao": "The Architect's Role in Software Ecosystems Health",
+        "ano": 2017,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "5th International Workshop on Software Engineering for Systems-of-Systems and 11th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems (SESos/WDES)",
+        "apresentacao": "Software Ecosystems' Architectural Health: Another View",
+        "ano": 2017,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "International Conference on Open Source Systems (OSS)",
+        "apresentacao": "Understanding the Effects of Practices on KDE Ecosystem Health",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "International Conference on Software Engineering (ICSE)",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "International Conference on Software Reuse (ICSR)",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "10th European Conference on Software Architecture (ECSA)",
+        "apresentacao": "Software Ecosystems Architectural Health: Challenges x Practices",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "9th European Conference on Software Architecture (ECSA 2015)",
+        "apresentacao": "Tailoring the ATAM for Software Ecosystems",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2015)",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "The Second Latin-American School on Software Engineering (ELA-ES 2015)",
+        "apresentacao": "An Evaluation Model for Software Ecosystem Practice Improvement",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas-de-Sistemas (WDES 2015)",
+        "apresentacao": "Observing the Health of the Ecosystem Supporting the Emerging Connected Vehicle System of Systems",
+        "ano": 2015,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "11th Working IEEE/IFIP Conference on Software Architecture WICSA 2014",
+        "apresentacao": "Scalable Software Architectures for Software Ecosystems",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "WDES - Co-locate at CBSoft",
+        "apresentacao": "Ecosystem Business Models and Architectures",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop Ecosystem Architectures - Co-located at ECSA 2014",
+        "apresentacao": "Flexibility in Ecosystem Architectures",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1ª Escola Latino Americana de Engenharia de Software: Fundamentos e Estado da Arte (ELA-ES 2013)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1º Colóquio Latino Americano de Engenharia de Software Dirigida por Modelos",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "35th International Conference on Software Engineering (ICSE2013)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ISR Research Forum - Where Research Meets the Real World - University of California, Irvine",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Simpósio Brasileiro de Qualidade de Software (SBQS 2013)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "16th Software Product Lines Conference (SPLC)",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "7th International Conference on Open Source Systems",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ArchClouds: Architecting for Cloud-enabled Software Systems",
+        "apresentacao": "Understanding the Design of Software Architecture for Software Ecosystems",
+        "ano": 2011,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "3rd RiSE International Summer School (RISS)",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Brasileiro de Software",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Feira de Inovação, Tecnologia e Empreendedorismo",
+        "apresentacao": "Geoprocessamento",
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SEMINFO 2000 -VIII Semana de Informática da UFBA",
+        "apresentacao": null,
+        "ano": 2000,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "17º Simpósio Brasileiro de redes de Computadores",
+        "apresentacao": "17º Simpósio Brasileiro de Redes de Computadores",
+        "ano": 1999,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2º Seminário de Informática da Universidade Católica do Salvador",
+        "apresentacao": "2º Seminário de Informática da Universidade Católica do Salvador",
+        "ano": 1998,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1º Seminário de Informática da Universidade Católica do Salvador",
+        "apresentacao": "1º Seminário de Informática da Universidade Católica do Salvador",
+        "ano": 1997,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "ANDRADE, S. S. ; MARQUES NETO, M. C. ; NOVAES,Renato Lima ; DA SILVA AMORIM, SIMONE",
+        "evento": "XV Escola Regional de Computação Bahia - Alagoas - Sergipe",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALMEIDA, E. S. ; SOUZA, I. S. ; LUÃ M. ; OLIVEIRA, R. P. ; VALE, T. F. ; Machado,Ivan do Carmo ; AMORIM, S. S. ; ALVIM L. F. M.",
+        "evento": "XII Simpósio Brasileiro de Qualidade de Software",
+        "ano": 2013,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALMEIDA, E. S. ; AMORIM, S. S. ; OLIVEIRA, R. P. ; ANDRADE, H. S. ; LIMA NETO, C. R ; SILVA, Ivonei Freitas da ; VALE, T. F. ; SILVEIRA NETO, P. A. M. ; SOUZA, I. S. ; SOARES L. R. ; ALVIM L. F. M. ; LUÃ M.",
+        "evento": "16th Software Product Lines Conference (SPLC)",
+        "ano": 2012,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, R. P. ; Machado,Ivan do Carmo ; SILVA, Ivonei Freitas da ; AMORIM, S. S. ; Silvio Romero de Lemos Meira ; ALMEIDA, E. S.",
+        "evento": "4th RiSE International Summer School (RISS)",
+        "ano": 2011,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "CHAVEZ, C. V. F. G.; SANTANNA, C. N.; AMORIM, S. S.. Participação em banca de Patricia Neris Santana.Gerenciamento Ágil de Projetos com SCRUM em Gerenciamento de Processos de Negócio: Um Mapeamento Sistemático. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Patricia Neris Santana",
+        "membros_banca": [
+          "CHAVEZ, C. V. F. G.",
+          "SANTANNA, C. N.",
+          "AMORIM, S. S."
+        ],
+        "titulo_trabalho": "Gerenciamento Ágil de Projetos com SCRUM em Gerenciamento de Processos de Negócio: Um Mapeamento Sistemático",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; MARQUES NETO, M. C.; AMORIM, S. S.. Participação em banca de Luis Paulo Torres de Oliveira.Um Framework para Recuperação Arquitetural Independente de Plataforma. 2014. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luis Paulo Torres de Oliveira",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "MARQUES NETO, M. C.",
+          "AMORIM, S. S."
+        ],
+        "titulo_trabalho": "Um Framework para Recuperação Arquitetural Independente de Plataforma",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "ANDRADE, S. S.; BARBOSA, F. J. R.; AMORIM, S. S.. Participação em banca de Aline Santos do Amor Divino. Detecção Automatica de Estilos Arquiteturais em Sistemas Distribuídos. 2015. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "Aline Santos do Amor Divino",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "BARBOSA, F. J. R.",
+          "AMORIM, S. S."
+        ],
+        "titulo_trabalho": "Detecção Automatica de Estilos Arquiteturais em Sistemas Distribuídos",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "AMORIM, S. S.; SILVA, R. P.; NASCIMENTO, F. M. S.. Concurso Público para Professor Substituto de Informática. 2019. Instituto Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "AMORIM, S. S.; GOES, Viviane dos Santos; SOUZA, A. C. S.. Concurso Público para Professor Substituto de Informática. 2015. Instituto Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 2,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 19,
+    "total_projetos_pesquisa": 7,
+    "total_projetos_extensao": 5,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

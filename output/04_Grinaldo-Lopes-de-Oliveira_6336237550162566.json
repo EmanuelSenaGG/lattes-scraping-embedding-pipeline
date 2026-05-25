@@ -1,0 +1,2209 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6336237550162566",
+    "nome_completo": "Grinaldo Lopes de Oliveira",
+    "nome_citacoes": "OLIVEIRA, G. L.;DE OLIVEIRA, GRINALDO LOPES",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, IFBA - Campus Salvador. Rua Emídio dos Santos S/N Barbalho 40301015 - Salvador, BA - Brasil Telefone: (71) 21029489 URL da Homepage: http://www.ifba.edu.br",
+    "atualizacao_cv": "16/06/2025",
+    "url": "http://lattes.cnpq.br/6336237550162566",
+    "texto_resumo": "Possui Mestrado pela Universidade Salvador (2004), Pós-Graduação Lato Sensu em Sistemas de Informação pelas Faculdades Ruy Barbosa (2002), Pós Graduação Lato Sensu em Administração pela Universidade Salvador - UNIFACS (2000) e Graduação em Processamento de Dados pela Universidade Federal da Bahia (1996). Atualmente é Analista de Planejamento, Gestão e Infraestrutura em Informações Geográficas e Estatísticas no Instituto Brasileiro de Geografia e Estatística - IBGE) e Professor do Esino Básico Técnico e Tecnológico no IFBA (20 horas). Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: Computaçao autonômica, mineração de dados, inteligência artificial, gestão do conhecimento, aprendizado de máquina e banco de dados. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em andamento em Doutorado em Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2025",
+      "ano_conclusao": "",
+      "descricao": "Orientador: Luciano Rebouças de Oliveira."
+    },
+    {
+      "tipo": "Doutorado interrompido em 2013 em Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2010 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Título: Extração de Conhecimento e Tomada de Decisão em Sistemas Autonômicos Através da Mineração de Dados Orientador: Joberto Sérgio Barbosa Martins. Ano de interrupção: 2013 Palavras-chave: Computação Autonômica; Mineração de Dados. Grande área: Ciências Exatas e da Terra Setores de atividade: Atividades de prestação de serviços de informação."
+    },
+    {
+      "tipo": "Mestrado",
+      "nome_instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2004",
+      "descricao": "Título: CATEGORIZAÇÃO AUTOMÁTICA DE DOCUMENTOS POR MÚLTIPLOS CLASSIFICADORES NAIVE BAYES, Ano de Obtenção: 2004. Orientador: Manoel Mendonça Neto. Palavras-chave: Inteligência Artificial; Mineração de Textos; Aprendizado de Máquina; Gestão do Conhecimento. Grande área: Outros Grande Área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Probabilidade e Estatística Aplicadas / Especialidade: Mineração de Dados. Grande Área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Teoria da Informação / Especialidade: Teoria Geral da Informação. Setores de atividade: Informática; Informacao e Gestao C&T."
+    },
+    {
+      "tipo": "Especialização em Sistemas de Informação e Componentes Distribuídos",
+      "nome_instituicao": "(Carga Horária: 390h)",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2001",
+      "descricao": "Faculdade Rui Barbosa, RUI BARBOSA, Brasil. Título: SOAP - Uma Solução de Interoperabilidade de Sistemas. Orientador: João Gualberto Rizzo Araújo."
+    },
+    {
+      "tipo": "Especialização em Administração de Empresas",
+      "nome_instituicao": "(Carga Horária: 380h)",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2000",
+      "descricao": "Universidade Salvador, UNIFACS, Brasil."
+    },
+    {
+      "tipo": "Graduação em Processamento de Dados",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1996",
+      "descricao": "Título: Projeto Minhoca - Pesquisa na Área de Redes de Computadores. Orientador: Cristina Von Flach. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante",
+      "nome_instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "ano_inicio": "1986",
+      "ano_conclusao": "1990",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Secretaria de Ciência, Tecnologia e Inovação da Bahia, SECTI, Brasil.",
+      "instituicao_nome": "Secretaria de Ciência",
+      "instituicao_sigla": "Tecnologia e Inovação da Bahia",
+      "instituicao_pais": "SECTI",
+      "periodo": "2015 - 2023",
+      "ano_inicio": "2015",
+      "ano_fim": "2023",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Coordenador Geral de Infraestrutura de TI",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Ciência, Tecnologia e Inovação da Bahia, SECTI, Brasil",
+      "instituicao_nome": "Secretaria de Ciência",
+      "instituicao_sigla": "Tecnologia e Inovação da Bahia",
+      "instituicao_pais": "SECTI",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil.",
+      "instituicao_nome": "Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Analista de TI",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, SSI."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação de Usuários de Informática e Telecomunicações da Bahia, SUCESU, Brasil.",
+      "instituicao_nome": "Associação de Usuários de Informática e Telecomunicações da Bahia",
+      "instituicao_sigla": "SUCESU",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2017",
+      "ano_inicio": "2014",
+      "ano_fim": "2017",
+      "vinculo": "Voluntário",
+      "enquadramento": "Voluntário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação de Usuários de Informática e Telecomunicações da Bahia, SUCESU, Brasil",
+      "instituicao_nome": "Associação de Usuários de Informática e Telecomunicações da Bahia",
+      "instituicao_sigla": "SUCESU",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado da Bahia, UNEB, Brasil.",
+      "instituicao_nome": "Universidade do Estado da Bahia",
+      "instituicao_sigla": "UNEB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2011",
+      "ano_inicio": "2007",
+      "ano_fim": "2011",
+      "vinculo": "Professor Substituto",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado da Bahia, UNEB, Brasil",
+      "instituicao_nome": "Universidade do Estado da Bahia",
+      "instituicao_sigla": "UNEB",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2007 - 06/2011",
+      "ano_inicio": "2007",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Processamento de Dados do Estado da Bahia, PRODEB, Brasil.",
+      "instituicao_nome": "Companhia de Processamento de Dados do Estado da Bahia",
+      "instituicao_sigla": "PRODEB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Analista de TI",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Processamento de Dados do Estado da Bahia, PRODEB, Brasil",
+      "instituicao_nome": "Companhia de Processamento de Dados do Estado da Bahia",
+      "instituicao_sigla": "PRODEB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Processamento de Dados do Estado da Bahia, PRODEB, Brasil",
+      "instituicao_nome": "Companhia de Processamento de Dados do Estado da Bahia",
+      "instituicao_sigla": "PRODEB",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2009 - 05/2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil.",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2009",
+      "ano_inicio": "2005",
+      "ano_fim": "2009",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2007 - Atual",
+      "ano_inicio": "2007",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2008 - 02/2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Diretoria dos Cursos Tecnológicos."
+      ]
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2008 - 02/2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2006 - 02/2009",
+      "ano_inicio": "2006",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Coordenação de Curso, Curso Superior de Tecnologia em Desenvolvimento de Software."
+      ]
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2005 - 02/2009",
+      "ano_inicio": "2005",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2005 - 02/2009",
+      "ano_inicio": "2005",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2005 - 01/2008",
+      "ano_inicio": "2005",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Coordenação de Curso, Bacharelado de Sistemas de Informação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1994 - 1995",
+      "ano_inicio": "1994",
+      "ano_fim": "1995",
+      "vinculo": "Colaborador",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1994-1995",
+      "ano_inicio": "1994",
+      "ano_fim": "1995",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/1994 - 12/1995",
+      "ano_inicio": "1994",
+      "ano_fim": "1995",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil.",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2005",
+      "ano_inicio": "2003",
+      "ano_fim": "2005",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2005 - 01/2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Reitoria, Pró-Reitoria de Pós-Gradução, Pesquisa e Extensão."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2003",
+      "ano_inicio": "2002",
+      "ano_fim": "2003",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Metropolitana de Educação e Cultura, UNIME, Brasil.",
+      "instituicao_nome": "Universidade Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2008",
+      "ano_inicio": "2003",
+      "ano_fim": "2008",
+      "vinculo": "Outro",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Metropolitana de Educação e Cultura, UNIME, Brasil",
+      "instituicao_nome": "Universidade Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Metropolitana de Educação e Cultura, UNIME, Brasil",
+      "instituicao_nome": "Universidade Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sociedade Brasileira de Computação, SBC, Brasil.",
+      "instituicao_nome": "Sociedade Brasileira de Computação",
+      "instituicao_sigla": "SBC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": "Colaborador",
+      "enquadramento": "Delegado institucional",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sociedade Brasileira de Computação, SBC, Brasil",
+      "instituicao_nome": "Sociedade Brasileira de Computação",
+      "instituicao_sigla": "SBC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Unitech Tecnologia de Informação Ltda, UNITECH, Brasil.",
+      "instituicao_nome": "Unitech Tecnologia de Informação Ltda",
+      "instituicao_sigla": "UNITECH",
+      "instituicao_pais": "Brasil",
+      "periodo": "1996 - 2005",
+      "ano_inicio": "1996",
+      "ano_fim": "2005",
+      "vinculo": "Outro",
+      "enquadramento": "Analista de Suporte",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Unitech Tecnologia de Informação Ltda, UNITECH, Brasil",
+      "instituicao_nome": "Unitech Tecnologia de Informação Ltda",
+      "instituicao_sigla": "UNITECH",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Unitech Tecnologia de Informação Ltda, UNITECH, Brasil",
+      "instituicao_nome": "Unitech Tecnologia de Informação Ltda",
+      "instituicao_sigla": "UNITECH",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2003 - 02/2005",
+      "ano_inicio": "2003",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Contrato Secretaria da Fazenda do Estado da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Unitech Tecnologia de Informação Ltda, UNITECH, Brasil",
+      "instituicao_nome": "Unitech Tecnologia de Informação Ltda",
+      "instituicao_sigla": "UNITECH",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2001 - 12/2002",
+      "ano_inicio": "2001",
+      "ano_fim": "2002",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Contrato SEC - Secretaria de Educação do Estado da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Unitech Tecnologia de Informação Ltda, UNITECH, Brasil",
+      "instituicao_nome": "Unitech Tecnologia de Informação Ltda",
+      "instituicao_sigla": "UNITECH",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/1998 - 12/2002",
+      "ano_inicio": "1998",
+      "ano_fim": "2002",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Escritório - Sede."
+      ]
+    },
+    {
+      "instituicao": "Companhia de Eletricidade da Bahia, COELBA, Brasil.",
+      "instituicao_nome": "Companhia de Eletricidade da Bahia",
+      "instituicao_sigla": "COELBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1995 - 1996",
+      "ano_inicio": "1995",
+      "ano_fim": "1996",
+      "vinculo": "Outro",
+      "enquadramento": "Programador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Eletricidade da Bahia, COELBA, Brasil",
+      "instituicao_nome": "Companhia de Eletricidade da Bahia",
+      "instituicao_sigla": "COELBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Eletricidade da Bahia, COELBA, Brasil",
+      "instituicao_nome": "Companhia de Eletricidade da Bahia",
+      "instituicao_sigla": "COELBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Plantel Informática, PLANTEL, Brasil.",
+      "instituicao_nome": "Plantel Informática",
+      "instituicao_sigla": "PLANTEL",
+      "instituicao_pais": "Brasil",
+      "periodo": "1989 - 1991",
+      "ano_inicio": "1989",
+      "ano_fim": "1991",
+      "vinculo": "Outro",
+      "enquadramento": "Técnico em Eletrônica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Plantel Informática, PLANTEL, Brasil",
+      "instituicao_nome": "Plantel Informática",
+      "instituicao_sigla": "PLANTEL",
+      "instituicao_pais": "Brasil",
+      "periodo": "1989-1991",
+      "ano_inicio": "1989",
+      "ano_fim": "1991",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Plantel Informática, PLANTEL, Brasil",
+      "instituicao_nome": "Plantel Informática",
+      "instituicao_sigla": "PLANTEL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [
+    {
+      "nome": "Curso livre de extensão ?Introdução ao Mercado de Ações e Uso da Computação?",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O curso livre de extensão, intitulado ?Introdução ao Mercado de Ações e Uso da Computação? tem como objetivo capacitar seus participantes em conhecimentos relativos à área de investimentos, destacando-se os diferentes tipos de aplicação financeira e o entendimento do funcionamento do mercado de ações em uma perspectiva do uso da computação na implementação de modelos de análises preditivas com o intuito de maximizar o retorno sobre os investimentos.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (4) . Integrantes: Grinaldo Lopes de Oliveira - Coordenador."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Grinaldo Lopes de Oliveira",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Arquitetura de Sistemas de Computação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Probabilidade e Estatística",
+      "subarea": "Probabilidade e Estatística Aplicadas",
+      "especialidade": "Mineração de Dados",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Probabilidade e Estatística Aplicadas/Especialidade: Mineração de Dados."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Teoria da Computação",
+      "especialidade": "Inteligência Artificial",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Inteligência Artificial."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Engenharia de Software",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Sistemas de Informação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "1º lugar em concurso público para Professor 20 horas, IFBA.",
+      "ano": 2012
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Mineração Visual de Dados",
+      "objetivo": "Desenvolvimento de Artefatos para a Mineração Visual de Dados. Grande área: Ciências Exatas e da Terra Setores de atividade: Desenvolvimento de Programas (Software). Palavras-chave: Aprendizado de Máquina; Banco de Dados; Gestão do Conhecimento; Inteligência Artificial; Mineração de Dados; Mineração de Textos."
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "APLICAÇÃO DE CONCEITOS E CRITÉRIOS DE DESEMPENHO PARA UMA SALA DE AULA INOVADORA",
+        "ano": 2023,
+        "autores": "MOLINERO, ALINE DE QUEIROZ PASSOS ; SALES, KATHIA MARISE BORGES ; BARRETO, ELTON BORGES DE SENA ; DE OLIVEIRA, GRINALDO LOPES ; MOREIRA, JOSÉ ANTÔNIO ; JORGE, EDUARDO MANUEL DE FREITAS",
+        "revista": "FOCO (FACULDADE NOVO MILÊNIO)",
+        "volume": "16",
+        "numero": "",
+        "paginas": "e2022",
+        "issn": "1981-223X",
+        "doi": "http://dx.doi.org/10.54751/revistafoco.v16n5-128",
+        "qualis": ""
+      },
+      {
+        "titulo": "Definição de Processo para Construção de Perfis de Usuário através da Mineração da Web",
+        "ano": 2006,
+        "autores": "TORRES, J. A. S. ; AMORIM, C. A. ; OLIVEIRA, G. L.",
+        "revista": "REIC. Revista Eletrônica de Iniciação Científica",
+        "volume": "MARÇO",
+        "numero": "",
+        "paginas": "1-9",
+        "issn": "1519-8219",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "DEFINIÇÃO DE PROCESSO PARA CONSTRUÇÃO DE PERFIS DE USUÁRIO ATRAVÉS DA MINERAÇÃO DA WEB",
+        "ano": 2006,
+        "autores": "TORRES, J. A. S. ; AMORIM, C. A. ; OLIVEIRA, G. L.",
+        "evento": "XXVI Congresso da Sociedade Brasileira de Computação",
+        "cidade": "",
+        "paginas": "70-73",
+        "isbn": ""
+      },
+      {
+        "titulo": "SiTest: uma metodologia de teste de software com base no modelo CMMI",
+        "ano": 2006,
+        "autores": "SILVA, D. S. ; OLIVEIRA, G. L. ; PASSOS, M. C. M.",
+        "evento": "Simpósio Brasileiro de Sistemas de Informação",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "PROLINE: UMA FERRAMENTA PARA MINERAÇÃO VISUAL DE PROCESSOS JURÍDICOS UTILIZANDO A TÉCNICA DE VISUALIZAÇÃO LINHAS DA VIDA",
+        "ano": 2005,
+        "autores": "SANTANA, R. S. ; OLIVEIRA, G. L. ; ALMEIDA, M. O.",
+        "evento": "Simpósio Brasileiro de Sistemas de Informação",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "ExperText: Uma Ferramenta de Combinação de Múltiplos Classificadores Naive Bayes",
+        "ano": 2004,
+        "autores": "OLIVEIRA, G. L.; MENDONCA NETO, M. G.",
+        "evento": "JORNADA IBERO-AMERICANA DE ENGENHARIA DE SOFTWARE E ENGENHARIA DE CONHECIMENTO",
+        "cidade": "",
+        "paginas": "317-372",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Mapping from a Human Autonomic System to a Bio-Inspired Autonomic Computing Model",
+        "ano": 2013,
+        "autores": "OLIVEIRA, G. L.; BEZERRA, R. M. S. ; MARTINS, J. S. M.",
+        "evento": "International Workshop on ADVANCEs in ICT Infrastructures and Services (ADVANCE 2013), 2013, Valença - Bahia. International Workshop on ADVANCEs in ICT Infrastructures and Services (ADVANCE 2013)",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Combinação de Expertise em Classificadores para Sistemas Autonômicos",
+        "ano": 2011,
+        "autores": "OLIVEIRA, G. L.; MARTINS, J. S. M.",
+        "evento": "XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2011, Campo Grande - MS. I Workshop on Autonomic Distributed Systems (WOSIDA 2011). Porto Alegre ? RS: Sociedade Brasileira de Computação (SBC)",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "TECNOLOGIA E SISTEMAS DE INFORMAÇÃO",
+        "ano": 2005,
+        "autores": "OLIVEIRA, G. L",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Jornal da TVE",
+        "ano": 2006,
+        "autores": "OLIVEIRA, G. L",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Jornal da TVE",
+        "ano": 2006,
+        "autores": "OLIVEIRA, G. L",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Programa APROVADO",
+        "ano": 2006,
+        "autores": "OLIVEIRA, G. L",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [
+        {
+          "titulo": "Formulação de Modelo Multimensional para Análise Acerca da Lei Geral de Proteção de Dados Pessoais",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Rogério Astolpho Costa",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Aplicação de Técnicas de Mineração de Dados à Análise Comportamental de Ações em Mercado de Capitais",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Renato Luís Bastos Silva",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "EXTRAÇÃO E CARGA DE DADOS DO SISTEMA SAP ECC PARA O SAP BW - UM ESTUDO DE CASO PARA AREA DE RH",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Felipe Alves Neto & Jeferson Sousa Freitas dos Santos",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "MINERAÇÃO DA BASE DE MICRODADOS DO INEP: UMA ANÁLISE EXPLORATÓRIA DOS RESULTADOS DO ENEM NA BAHIA EM 2018",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Francisco de Assis Andrade Santos",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A NECESSIDADE DE FORTALECER A CULTURA ORIENTADA A DADOS NAS MICRO EMPRESAS E EMPRESAS: Um estudo de caso da LGPD aplicada a uma empresa de pequeno porte.",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Carlos José Cardoso dos Santos",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "ANÁLISE DE OPINIÃO POR INTERMÉDIO DE TWEETS SOBRE O ÓLEO NAS PRAIAS DO NORDESTE BRASILEIRO: UMA ANÁLISE, ATRAVÉS DA MINERAÇÃO DE DADOS",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "André dos Santos Nascimento",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Migração de Servidores de Rede: Um Estudo de Caso da Secretaria de Planejamento do Estado da Bahia",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Thales José Costa de Almeida",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Auditoria e Análise Forense",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Alex Venas Macedo",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Política de Segurança no Acesso a Internet - TRT da 5ª Região",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Gladson dos Santos Tupinambá",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Bacula: Um Sistema de Gestão de Backup Livre Aplicado em uma Organização",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Julival Santos Reis Júnior",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Como melhor implantar uma solução de backup em uma instituição de ensino de inglês em Salvador",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Tatiana dos Santos Souza",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Segurança em E-commerce",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Paulo Cesar Matos Ferreira",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Análise da Computação Forense Aplicada A Área de Segurança",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Adeilson da Silva",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Mitigação de Riscos Provenientes da Engenharia Social a Partir de Boas Práticas da Norma ABNT NBR ISO/IEC 27002:2205",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Bruno Rodrigues Palles",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Expresso Livre: Análise de vulnerabilidades à luz da ISO/IEC 15.408",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Luciano Pedreira de Souza",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "UTILIZAÇÃO DE ASSINATURA DIGITAL EM DOCUMENTOS PETICIONADOS NO SUPREMO TRIBUNAL FEDERAL: ESTUDO DE CASO NA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Marco Antonio Silveira Sousa",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Estratégia para Utilização de Técnicas de Mineração de Dados na Computação Forense",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Moacir Mato Grosso Filho",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Implantando Políticas de Segurança nos Servidores da Secretaria Municipal de Planejamento, Tecnologia e Gestão da Prefeitura Municipal de Salvador ? BA",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Ricardo Barbosa dos Santos",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Certificação Digital em Conselhos de Medicina Brasileiros",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Antonio Ruy Garrido de Abreu Junior",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta para Recomendação de Fontes de Conhecimento",
+          "ano_inicio": 2004,
+          "ano_conclusao": 2004,
+          "orientando": "Cristiane Costa Magalhães",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "Sazonalidade dos preços no mercado de ações brasileiro",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Dagoberto Reis Medeiros",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Um solução para Localização de Estacionamentos na Cidade de Salvador",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Rafael Linsmar",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade do Estado da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "SIGCEL ? Sistema de Informação Geográfica para Administração Pública Utilizando Dispositivos Móveis para Georeferenciamento",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Thiago Silva Azevedo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade do Estado da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Proposta de Ambiente Virtual de Aprendizagem com Jogo Educativo para Ensino de Estrutura De Dados",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Iury Barreto da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade do Estado da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A Descoberta De Conhecimento No Tratamento Com Câncer De Mama Através Da Mineração De Dados",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Felipe Lobo Santos e Rafael Laranjeira de Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Sistema de Análise do Risco de Acidente no Trânsito (SARAT)",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Herbert Souza Pereira e Sérgio Rodrigues Costa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Proposta de Boas Práticas de Segurança para Redes Locais Wireless",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Maurício Almeida Martins",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Portal de Pesquisa Oráculo de DELFO - Uma Ferramenta para Ampliar Conhecimentos",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Marcelo Coelho Miranda e Vanderlei Gonçalves da Silva Júnior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "TI Verde: Uma Ferramenta de Apoio à Gestão Ambiental na Área de TI",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Washington Luís Silva Macedo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise de Qualidade de Serviço em Uma Empresa de Varejo",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "André Luiz dos Santos Silva e Marcos Lázaro Vianna Martins",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Teacher Scheduler: UM SISTEMA INTELIGENTE PARA PLANEJAMENTO DE GRADES DOCENTES",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Brayner Ribeiro Santiago",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "AUTOMAÇÃO DE PROCESSOS ADMINISTRATIVOS EM GRANDES ORGANIZAÇÕES",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Carine Palma e George Sousa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Ferramenta de emisaão e controle de certificados digitais",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Bruno Falcón Cardoso",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "PROPOSTA DE SOLUÇÃO GERENCIAL PARA O SOFTWARE DE ENSINO À DISTÂNCIA MOODLE NAS FACULDADES JORGE AMADO",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Ana Carolina Nunes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Aplicação para TV Digital utilizando a linguagem NCL",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Adriano Baltazar da Silveira Melo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade do Estado da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Smart Detection: UMA ABORDAGEM DE DETECÇÃO DE INTRUSO UTILIZANDO INTELIGÊNCIA ARTIFICIAL",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "DANIEL SANTOS DA SILVA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "APM: SISTEMA DE HELP DESK UTILIZANDO RACIOCíNIO BASEADO EM CASOS",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "MAURICIO JOSÉ GOMES DOS SANTOS",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "SCAPE: Uma ferramenta de apoio a decisões na área de projetos de engenharia utilizando mineração visual baseada em linhas da vida.",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Adeilson da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "MAP-X: Sistema de apoio a decisão baseado em mineração visual de dados e informações geográficas.",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Alan Ricardo dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "INCLUSÃO DIGITAL PARA DEFICIENTES VISUAIS ATRAVÉS DA EDUCAÇÃO INFANTIL",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "LÍGIA PINTO DE ALMEIDA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Solução de BI utilizando sofware OpenSource para pequenas e médias empresas",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Márcio Ferreira Souza Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Joomining - Ferramenta de Mineração de Dados na WEB",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Ana Fátima Santana Lima",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uso de Sistemas Especialistas para diagnósticos de Falhas de Segurança Física em pequenas e Médias Empresas",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Márcio Barreto Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Rastreabilidade de Requisitos de Softwares",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Gabriel Cássio Nascimento Barbosa e Adriana Medeiros",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Biblioteca para Controles Visuais",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Everton Gomes Dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "SCMnet: FERRAMENTA DE APOIO À GERÊNCIA DE ESCOPO DE PROJETOS DE SOFTWARE",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "JORGE VITOR ROCHA DE MELO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Um serviço de Identidade Digital baseado em Webservices",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Tiago Jorge Romano e Ricardo Gonçalvez",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Modelo de Análise comparativa para ferramentas de Persistência",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Ailton Santos Correia",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "SUCAO-R: Um sistema unificado de controle e análise orientado a risco",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Rafael de Freitas Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "SGCONFIG: Uma ferramenta para gerência de configuração de software",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Edilton Lima dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Gerência de Redes Locais Heterogêneas usando SNMP",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Alex de Oliveira Araújo e David Souza Brandão",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Gestão de Contéudo aplicado à Fábrica de Software",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Armando Ferreira Filho e Eduardo Suzart",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma ferramenta para seleção de perfis de conhecimento organizacional",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Pedro Vinícius Campos de Aguiar",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Autenticação e Certificação Digital inseridos no processo de certificação de documentação",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Gessé Pinto da Silva e Miguel Phileto Pugliese",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de Componentes Visuais utilizando AJAX",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Tiago Antonius Oliveira Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Revista Eletrônica de Iniciação Científica,",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "José Alberto Sousa Torres. Definição de Processo para Construção de Perfis de Usuário através da Mineração da Web. REIC",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade do Estado da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Texter - Um componente para inter-relacionamento automático de textos na ferramenta de gerência de conteúdo MAMBO",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Daniel Ferreira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "PROLINE: UMA FERRAMENTA PARA MINERAÇÃO VISUAL DE PROCESSOS JURÍDICOS UTILIZANDO A TÉCNICA DE VISUALIZAÇÃO LINHAS DA VIDA",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Railton Sacramento Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "SiTest: UMA METODOLOGIA DE TESTE DE SOFTWARE COM BASE NO MODELO CMMI",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "DANILA SANTOS DA SILVA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "Ferramentas CASE em Software Livre",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Ana Cristina Godinho Moreira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Universitário Jorge Amado",
+          "curso": ""
+        },
+        {
+          "titulo": "FPOO TECNOLOGIA FRAMEWORK COMO MIDDLEWARE DE ACESSO A DADOS",
+          "ano_inicio": 2002,
+          "ano_conclusao": 2002,
+          "orientando": "Sabrina Araújo dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Sistema de Informação de Trânsito utilizando Teoria dos Grafos de Floyd-Warshall, Moore e Dijkstra",
+          "ano_inicio": 2002,
+          "ano_conclusao": 2002,
+          "orientando": "Ricardo Ferreira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "CONEXT - Congresso de Extensão da Rede Federal,",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Conferência Anrpotec de Empreendedorismo e Ambientes de Inovação",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso SUCESU 2022",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Acadêmico 2022 - Rumos da Educação Profissional e Tecnológica\",",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "FUTURECOM",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Metaverso Desafios e Oportunidades - Entendendo o que é Metaverso e Suas Aplicações",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Metaverso Desafios e Oportunidades - Metaverso: Games e Negócios",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Metaverso Desafios e Oportunidades - Metaverso aplicado ao Setor Público e Indústria",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Metaverso Desafios e Oportunidades - Metaverso e o Direito",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Metaverso Desafios e Oportunidades - Metaverso na Educação",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso SUCESU BA 2021",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Virtual UFBA - Universidade em Movimento 2021",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso SUCESU 2020",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Acadêmico 2020",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SECTI Diálogos Virtuais com o tema: Desenvolvimento e CT&I em Saúde",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SECTI Diálogos Virtuais com o tema: Redes Sociais, Internet e Dados,",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ADS Gênero",
+        "apresentacao": null,
+        "ano": 2019,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Sucesu 2019 - Tema Singularidade Tecnológica / O Futuro Exponencial,",
+        "apresentacao": null,
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Conferência de Ciência, Tecnologia e Inovação",
+        "apresentacao": null,
+        "ano": 2019,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Workshop de Tecnologias de Redes do PoP-BA,",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Estratégia Bahia de Ciência, Tecnologia e Inovação para o Desenvolvimento Econômico e Social",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso SUCESU",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Encontro Regional de Provedores de Internet da Bahia",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI WORKSHOP de Tecnologias de Redes do POP-BA",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop on Autonomic Distributed Systems (SBRC 2011)",
+        "apresentacao": "Combinação de Expertise em Classificadores para Sistemas Autonômicos",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Escola Regional de Computação Bahia Sergipe Alagoas",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Simpósio Científico e Tecnológico - SIMCIT",
+        "apresentacao": "Palestra Computação Ubiqua",
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "3o",
+        "apresentacao": "Encontro Interdisciplinar de Cultura, Tecnologias e Educação da UNIJORGE.O que é essa tal de mobilidade",
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "CONECTI",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IBM DeveloperWorks Live! Rational",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Escola Regional de Computação Bahia-Sergipe",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "JORNADA IBERO-AMERICANA DE ENGENHARIA DE SOFTWARE E ENGENHARIA DE CONHECIMENTO",
+        "apresentacao": "ExperText: Uma Ferramenta de Combinação de Múltiplos Classificadores Naive Bayes",
+        "ano": 2004,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIX Congresso da Sociedade Brasileira de Computação",
+        "apresentacao": null,
+        "ano": 2004,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Simpósio Brasileiro de Sistemas Mulltimídia e Web",
+        "apresentacao": null,
+        "ano": 2003,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Métodos Científicos",
+        "apresentacao": null,
+        "ano": 2003,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2a",
+        "apresentacao": "Jornada Ibero-Americana de Engenharia de Software e Engenharia de Conhecimento",
+        "ano": 2002,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "SANTOS, J. S.; FLORENTINO, P. V.; OLIVEIRA, G. L.; LIMA, L.. Participação em banca de Jônatas Silva Santos.Monitum - Um Modelo de Classificação para a Predição da Evasão Discente no Ensino Médio. 2021. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Jônatas Silva Santos",
+        "membros_banca": [
+          "SANTOS, J. S.",
+          "FLORENTINO, P. V.",
+          "OLIVEIRA, G. L.",
+          "LIMA, L."
+        ],
+        "titulo_trabalho": "Monitum - Um Modelo de Classificação para a Predição da Evasão Discente no Ensino Médio",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "SANTOS, M. A. B.; FLORENTINO, P. V.; OLIVEIRA, G. L.; MARQUES NETO, M.. Participação em banca de Mariana de Araujo Barreiros Santos.SELECTOR - Um sistema para apoio a escolha de escolas com Atendimento Educacional Especial. 2021. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Mariana de Araujo Barreiros Santos",
+        "membros_banca": [
+          "SANTOS, M. A. B.",
+          "FLORENTINO, P. V.",
+          "OLIVEIRA, G. L.",
+          "MARQUES NETO, M."
+        ],
+        "titulo_trabalho": "SELECTOR - Um sistema para apoio a escolha de escolas com Atendimento Educacional Especial",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; NETO, M.; OLIVEIRA, G. L.. Participação em banca de Vanessa Malvar Santana.Captura e análise por similaridade de ciclorotas a partir de dispositivos móveis. 2014. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Vanessa Malvar Santana",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "NETO, M.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "Captura e análise por similaridade de ciclorotas a partir de dispositivos móveis",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "COELHO, L.; MENDES, T. L.; OLIVEIRA, G. L.. Participação em banca de Tiago Leite Mendes.Potencialidade da TV Digital por meio de um protótipo de aplicativoT-Commerce. 2011. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade do Estado da Bahia.",
+        "ano": 2011,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Tiago Leite Mendes",
+        "membros_banca": [
+          "COELHO, L.",
+          "MENDES, T. L.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "Potencialidade da TV Digital por meio de um protótipo de aplicativoT-Commerce",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistema de Informação)",
+        "universidade": "Universidade do Estado da Bahia"
+      },
+      {
+        "descricao": "SOARES, L. B.; RESTOVIC, M. I. V.; AMORIM, C. A.; OLIVEIRA, G. L.. Participação em banca de Levi Buranelli Soares.Protocolo de Comunicação na Camada de Aplicação em Redes sem Fio para Futebol de Robôs Simulado em Realidade-Mista. 2010. Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas) - Universidade do Estado da Bahia.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Levi Buranelli Soares",
+        "membros_banca": [
+          "SOARES, L. B.",
+          "RESTOVIC, M. I. V.",
+          "AMORIM, C. A.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "Protocolo de Comunicação na Camada de Aplicação em Redes sem Fio para Futebol de Robôs Simulado em Realidade-Mista",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas)",
+        "universidade": "Universidade do Estado da Bahia"
+      },
+      {
+        "descricao": "ALMEIDA, Gustavo Ramos; Vieira, V.; MENDONCA NETO, M. G.; OLIVEIRA, G. L.. Participação em banca de Gustavo Ramos Almeida.mPentaho: uma ferramenta de acesso à suíte de Business Intelligence Pentaho em dispositivos móveis Android. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gustavo Ramos Almeida",
+        "membros_banca": [
+          "ALMEIDA, Gustavo Ramos",
+          "Vieira, V.",
+          "MENDONCA NETO, M. G.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "mPentaho: uma ferramenta de acesso à suíte de Business Intelligence Pentaho em dispositivos móveis Android",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CALDAS, L. R. R.; Vieira, V.; OLIVEIRA, G. L.. Participação em banca de Luiz Rodrigo Rosário Caldas.Desenvolvimento de uma Solução Sensível ao Contexto como Suporte a um Sistema de Transporte Público Inteligente. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luiz Rodrigo Rosário Caldas",
+        "membros_banca": [
+          "CALDAS, L. R. R.",
+          "Vieira, V.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "Desenvolvimento de uma Solução Sensível ao Contexto como Suporte a um Sistema de Transporte Público Inteligente",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "JORGE, E. M. F.; DUTRA, C.; MOURA JUNIOR, R. M. F.; OLIVEIRA, G. L.. Participação em banca de Ronaldo Pereira Evangelista.CUMULUS: Um mecanismo semântico para busca e representação de informação. 2009. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - União Metropolitana de Educação e Cultura.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ronaldo Pereira Evangelista",
+        "membros_banca": [
+          "JORGE, E. M. F.",
+          "DUTRA, C.",
+          "MOURA JUNIOR, R. M. F.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "CUMULUS: Um mecanismo semântico para busca e representação de informação",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "União Metropolitana de Educação e Cultura"
+      },
+      {
+        "descricao": "Márcio René Soussa; Cruz, F. Márcio; OLIVEIRA, G. L.. Participação em banca de Diego da Silva Reis.A descoberta de conhecimento no tratamento com câncer de mama através da mineração de dados. 2008. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Diego da Silva Reis",
+        "membros_banca": [
+          "Márcio René Soussa",
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "A descoberta de conhecimento no tratamento com câncer de mama através da mineração de dados",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "OLIVEIRA, G. L.; Cruz, F. Márcio; Takenami, Igor.. Participação em banca de Elmer Alentis Dantas dos Santos.Business Map - Sistema de localização geográfica de estabelecimentos comerciais. 2008. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Elmer Alentis Dantas dos Santos",
+        "membros_banca": [
+          "OLIVEIRA, G. L.",
+          "Cruz, F. Márcio",
+          "Takenami, Igor."
+        ],
+        "titulo_trabalho": "Business Map - Sistema de localização geográfica de estabelecimentos comerciais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "OLIVEIRA, G. L.; Cruz, F. Márcio; Takenami, Igor.. Participação em banca de Gabriel da Silva dos Santos.TREQ - Ferramenta de Rastreabilidade na manutenção e Customização de Software. 2008. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gabriel da Silva dos Santos",
+        "membros_banca": [
+          "OLIVEIRA, G. L.",
+          "Cruz, F. Márcio",
+          "Takenami, Igor."
+        ],
+        "titulo_trabalho": "TREQ - Ferramenta de Rastreabilidade na manutenção e Customização de Software",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "OLIVEIRA, G. L.; Cruz, F. Márcio; MELO, R. C.. Participação em banca de Cristiano Araújo Silva.FIC: Uma ferramenta de apoio às atividades de inspeção de software. 2008. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Cristiano Araújo Silva",
+        "membros_banca": [
+          "OLIVEIRA, G. L.",
+          "Cruz, F. Márcio",
+          "MELO, R. C."
+        ],
+        "titulo_trabalho": "FIC: Uma ferramenta de apoio às atividades de inspeção de software",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; Costa, N. Paulo. Participação em banca de Leila de Oliveira Gama.Proposta de Metodologia de Desenvolvimento Baseada em Gerenciamento de Projetos para Aplicações em GIS. 2008. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leila de Oliveira Gama",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "Costa, N. Paulo"
+        ],
+        "titulo_trabalho": "Proposta de Metodologia de Desenvolvimento Baseada em Gerenciamento de Projetos para Aplicações em GIS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; CORTIZO, M. M.. Participação em banca de Achilles De Bylon Froes Bisneto.TOOLKIT PARA DESENVOLVIMENTO JOGOS DE PLATAFORMA EM DUAS DIMENSÕES COM GRÁFICOS VETORIAIS EM JAVA. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Achilles De Bylon Froes Bisneto",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "CORTIZO, M. M."
+        ],
+        "titulo_trabalho": "TOOLKIT PARA DESENVOLVIMENTO JOGOS DE PLATAFORMA EM DUAS DIMENSÕES COM GRÁFICOS VETORIAIS EM JAVA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; MELO, R. C.. Participação em banca de Bruno do Amor Divino.Diagnosticando Problemas na rede utilizando técnicas de análise de protocolos e agentes. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno do Amor Divino",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "MELO, R. C."
+        ],
+        "titulo_trabalho": "Diagnosticando Problemas na rede utilizando técnicas de análise de protocolos e agentes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; MELO, R. C.. Participação em banca de Alan Souza e Marcio Souza.Ferramenta para Administração de Redes. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alan Souza e Marcio Souza",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "MELO, R. C."
+        ],
+        "titulo_trabalho": "Ferramenta para Administração de Redes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; SOUSSA, M. R. B.; OLIVEIRA, G. L.. Participação em banca de CLAUDINEI CARLOS COSTA e EMERSON FERREIRA DE ANDRADE.SIG-AISE: SISTEMA DE INFORMAÇÃO GEOGRÁFICA PARA APOIO A ANÁLISE SÓCIO-ECONÔMICA.. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "CLAUDINEI CARLOS COSTA e EMERSON FERREIRA DE ANDRADE",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "SOUSSA, M. R. B.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "SIG-AISE: SISTEMA DE INFORMAÇÃO GEOGRÁFICA PARA APOIO A ANÁLISE SÓCIO-ECONÔMICA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; SOUSSA, M. R. B.. Participação em banca de Alan Bittencourt.SIG-BARROCO - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS - UMA FERRAMENTA PARA AUXILIAR NAS DECISÕES OPERACIONAIS DO 18° BATALHÃO DA POLÍCIA MILITAR DA BAHIA. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alan Bittencourt",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "SOUSSA, M. R. B."
+        ],
+        "titulo_trabalho": "SIG-BARROCO - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS - UMA FERRAMENTA PARA AUXILIAR NAS DECISÕES OPERACIONAIS DO 18° BATALHÃO DA POLÍCIA MILITAR DA BAHIA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; ALVAREZ, J. R. L.. Participação em banca de Harlan Barros.Ferramenta de Apoio a Certificação MBR MPS. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Harlan Barros",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "ALVAREZ, J. R. L."
+        ],
+        "titulo_trabalho": "Ferramenta de Apoio a Certificação MBR MPS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "Cruz, F. Márcio; OLIVEIRA, G. L.; CORTIZO, M. M.. Participação em banca de Luis Gustavo Peralta Mascotto.Framework para POS (Point of Sale). 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luis Gustavo Peralta Mascotto",
+        "membros_banca": [
+          "Cruz, F. Márcio",
+          "OLIVEIRA, G. L.",
+          "CORTIZO, M. M."
+        ],
+        "titulo_trabalho": "Framework para POS (Point of Sale)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "CORTIZO, M. M.; RANGEL, J. E.; OLIVEIRA, G. L.. Participação em banca de SIDNEY SANTOS DORIA.COLETA REMOTA DE INFORMAÇÕES DE USABILIDADE EM SISTEMAS COMPUTACIONAIS MÓVEIS: Um modelo de processo. 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "SIDNEY SANTOS DORIA",
+        "membros_banca": [
+          "CORTIZO, M. M.",
+          "RANGEL, J. E.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "COLETA REMOTA DE INFORMAÇÕES DE USABILIDADE EM SISTEMAS COMPUTACIONAIS MÓVEIS: Um modelo de processo",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "MELO, R. C.; OLIVEIRA, G. L.. Participação em banca de ESDRAS BRAGA BARRETO.SPYLAN ? SISTEMA DE VISUALIZAÇÃO DE ESTAÇÕES. 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ESDRAS BRAGA BARRETO",
+        "membros_banca": [
+          "MELO, R. C.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "SPYLAN ? SISTEMA DE VISUALIZAÇÃO DE ESTAÇÕES",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      },
+      {
+        "descricao": "VASCONCELOS, N. A.; OLIVEIRA, G. L.. Participação em banca de Sidarta Cruz Matos.Desenvolvimento de Software Educacional. 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Centro Universitário Jorge Amado.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Sidarta Cruz Matos",
+        "membros_banca": [
+          "VASCONCELOS, N. A.",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "Desenvolvimento de Software Educacional",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Centro Universitário Jorge Amado"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "OLIVEIRA, G. L.. Seleção e Análise das Propostas do Edital nº 007/2021 ? Governo Inteligente 2. 2022. Fundação de Amparo à Pesquisa do Estado da Bahia.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "OLIVEIRA, G. L.; CLARO, D. B.; CORDEIRO, V.. VIII Workshop de Educação e Informática Bahia-Alagoas- Sergipe. 2010. Universidade do Estado da Bahia.",
+        "ano": 2010,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade do Estado da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "CHICOUREL, J.; OLIVEIRA, G. L.; SANTANCHE, A.; SPINOLA, C.; ARAUJO, R.; MATOS, U.. Competição de Startups FGV / UNIFACS. 2009. Universidade Salvador.",
+        "ano": 2009,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Salvador.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 2,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 4,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

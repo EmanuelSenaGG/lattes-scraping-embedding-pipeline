@@ -1,0 +1,4238 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "0177714301545658",
+    "nome_completo": "Sandro Santos Andrade",
+    "nome_citacoes": "ANDRADE, S. S.;ANDRADE, SANDRO SANTOS;ANDRADE, SANDRO S.;ANDRADE, SANDRO S",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Coordenação do curso de Análise e Desenvolvimento de Sistemas, Departamento de Ciência da Computação - Campus Salvador. Avenida Araújo Pinho, 39 Canela 40110150 - Salvador, BA - Brasil Telefone: (71) 21029457",
+    "atualizacao_cv": "25/04/2026",
+    "url": "http://lattes.cnpq.br/0177714301545658",
+    "texto_resumo": "Engenheiro de Software e Arquiteto experiente, com sólida formação em desenvolvimento de software, processos de garantia de qualidade, design/análise de arquitetura e implementação de sistemas, com especialização em tecnologias Modern C++, Qt/QML, KDE e CMake.Possui doutorado em Ciência da Computação, mestrado em Mecatrônica e bacharelado em Ciência da Computação pela Universidade Federal da Bahia (UFBA). Atuou por mais de 10 anos como desenvolvedor e gerente de comunidade nas comunidades de software livre Qt e KDE, é Especialista Certificado em Qt (Qt Foundations + Essential Qt + Core C++ for Qt Developers) e ex-membro do Conselho Diretor da KDE e.V. (http://ev.kde.org).Ao longo dos últimos 25 anos, esteve envolvido em serviços profissionais, consultoria, treinamentos e pesquisa em design/análise de arquitetura de software, desenvolvimento multiplataforma, sistemas de alto desempenho e sistemas distribuídos de grande escala em áreas como sistemas de pagamento digital, sistemas de TI para atacado/varejo, simulação, jogos e sistemas embarcados. Possui interesse especial na integração entre arquitetura de software, garantia de qualidade e práticas de DevOps.Altamente experiente no projeto e desenvolvimento de sistemas complexos de UI/UX multiplataforma com arquiteturas de back-end distribuídas, além de possuir conhecimento no uso de stacks gráficos 3D multiplataforma para desenvolvimento de jogos e simulação. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciência da Computação - Ufba - Unifacs",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2014",
+      "descricao": "Título: Projeto Arquitetural Automatizado de Sistemas Self-Adaptive - Uma Abordagem Baseada em Busca O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2014. Orientador: Raimundo José de Araújo Macêdo. Palavras-chave: Engenharia de Software; Arquitetura de Software; Sistemas Self-Adaptive; Engenharia de Software Baseada em Busca; Engenharia de Software Experimental; Otimização Multiobjetivo. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Engenharia de Software. Setores de atividade: Pesquisa e desenvolvimento científico."
+    },
+    {
+      "tipo": "Mestrado em Mecatrônica",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2006",
+      "descricao": "Título: Sistemas Distribuídos de Supervisão e Controle Baseados em Componentes de Tempo-Real O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2006. Orientador: Raimundo José de Araújo Macêdo. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Sistemas Distribuídos; Sistemas Mecatrônicos; Sistemas de Tempo-Real; Middleware; Frameworks de Aplicação; Desenvolvimento Baseado em Componentes. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Engenharia de Software. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Distribuídos. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Mecatrônica / Especialidade: Sistemas de Tempo-Real. Setores de atividade: Informática."
+    },
+    {
+      "tipo": "Graduação em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1999",
+      "descricao": "Título: Métodos Otimizados de Extração de Geometrias: Uma Aplicação à Medicina. Orientador: Thomas de Araujo Buck. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "03/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "09/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Coordenação do curso de Análise e Desenvolvimento de Sistemas, GSORT - Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "09/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "07/2010 - 07/2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "K Desktop Environment eingetragener",
+      "instituicao_nome": "K Desktop Environment eingetragener",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2015 - Atual",
+      "ano_inicio": "2015",
+      "ano_fim": "Atual",
+      "vinculo": "Colaborador Voluntário",
+      "enquadramento": "Membro do Board de Diretores",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "K Desktop Environment eingetragener",
+      "instituicao_nome": "K Desktop Environment eingetragener",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2008 - Atual",
+      "ano_inicio": "2008",
+      "ano_fim": "Atual",
+      "vinculo": "Colaborador Voluntário",
+      "enquadramento": "Desenvolvedor e Líder de Comunidade",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "K Desktop Environment eingetragener",
+      "instituicao_nome": "K Desktop Environment eingetragener",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2010 - 2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador Voluntário",
+      "enquadramento": "Membro do Marketing Working Group",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2014",
+      "ano_inicio": "2008",
+      "ano_fim": "2014",
+      "vinculo": "Livre",
+      "enquadramento": "Aluno de Doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": "Livre",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": "Livre",
+      "enquadramento": "Professor da Pós-Graduação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Orientação a Objetos, Objetos Distribuídos e Engenharia de Software Distribuído."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2008",
+      "ano_inicio": "2007",
+      "ano_fim": "2008",
+      "vinculo": "Bolsista FAPESB / ITEC2",
+      "enquadramento": "Líder de Projeto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2006",
+      "ano_inicio": "2003",
+      "ano_fim": "2006",
+      "vinculo": "Livre",
+      "enquadramento": "Aluno de Mestrado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2004",
+      "ano_inicio": "2003",
+      "ano_fim": "2004",
+      "vinculo": "Livre",
+      "enquadramento": "Líder de Projeto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2001",
+      "ano_inicio": "1999",
+      "ano_fim": "2001",
+      "vinculo": "Livre",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Linguagens de Programação I (Programação em C/C++) e Computação Gráfica."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1997 - 1999",
+      "ano_inicio": "1997",
+      "ano_fim": "1999",
+      "vinculo": "Livre",
+      "enquadramento": "Bolsista de Iniciação Científica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2008 - Atual",
+      "ano_inicio": "2008",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Matemática, Departamento de Ciência da Computação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2007 - 12/2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2008 - 07/2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2003 - 09/2006",
+      "ano_inicio": "2003",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Matemática, Departamento de Ciência da Computação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/1999 - 06/2001",
+      "ano_inicio": "1999",
+      "ano_fim": "2001",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/1997 - 09/1999",
+      "ano_inicio": "1997",
+      "ano_fim": "1999",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Matemática, Departamento de Ciência da Computação."
+      ]
+    },
+    {
+      "instituicao": "Google Inc., Google, Estados Unidos.",
+      "instituicao_nome": "Google Inc.",
+      "instituicao_sigla": "Google",
+      "instituicao_pais": "Estados Unidos",
+      "periodo": "2016 - 2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": "Colaborador",
+      "enquadramento": "Mentor do Google Code-In 2016",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Google Inc., Google, Estados Unidos.",
+      "instituicao_nome": "Google Inc.",
+      "instituicao_sigla": "Google",
+      "instituicao_pais": "Estados Unidos",
+      "periodo": "2016 - 2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": "Colaborador",
+      "enquadramento": "Mentor do Google Summer of Code 2016",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Google Inc., Google, Estados Unidos.",
+      "instituicao_nome": "Google Inc.",
+      "instituicao_sigla": "Google",
+      "instituicao_pais": "Estados Unidos",
+      "periodo": "2010 - 2011",
+      "ano_inicio": "2010",
+      "ano_fim": "2011",
+      "vinculo": "Colaborador",
+      "enquadramento": "Mentor do Google Code-In 2010",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Google Inc",
+      "instituicao_nome": "Google Inc",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Google Inc., Google, Estados Unidos.",
+      "instituicao_nome": "Google Inc.",
+      "instituicao_sigla": "Google",
+      "instituicao_pais": "Estados Unidos",
+      "periodo": "2009 - 2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": "contrato temporário",
+      "enquadramento": "Estudante do Google Summer of Code 2009",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Google Inc",
+      "instituicao_nome": "Google Inc",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil.",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2009",
+      "ano_inicio": "2004",
+      "ano_fim": "2009",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil.",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2009",
+      "ano_inicio": "2004",
+      "ano_fim": "2009",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor da Pós-Graduação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Segurança de Aplicações Web e Comércio Eletrônico."
+      ]
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2004 - 09/2009",
+      "ano_inicio": "2004",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdade Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2004 - 09/2009",
+      "ano_inicio": "2004",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil.",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Linguagem Formais e Compiladores."
+      ]
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2006 - 02/2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil.",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2007",
+      "ano_inicio": "2005",
+      "ano_fim": "2007",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Técnicas de Linguagem de Programação I (C), Técnicas de Linguagem de Programação II (Java) e Sistemas Operacionais."
+      ]
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2005 - 02/2007",
+      "ano_inicio": "2005",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade de Tecnologia e Ciências, FTC, Brasil.",
+      "instituicao_nome": "Faculdade de Tecnologia e Ciências",
+      "instituicao_sigla": "FTC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2006",
+      "ano_inicio": "2004",
+      "ano_fim": "2006",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade de Tecnologia e Ciências, FTC, Brasil",
+      "instituicao_nome": "Faculdade de Tecnologia e Ciências",
+      "instituicao_sigla": "FTC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Linguagem de Programação I (C)."
+      ]
+    },
+    {
+      "instituicao": "Faculdade de Tecnologia e Ciências, FTC, Brasil",
+      "instituicao_nome": "Faculdade de Tecnologia e Ciências",
+      "instituicao_sigla": "FTC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2004 - 04/2006",
+      "ano_inicio": "2004",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sixbell - TYD Telecomunicações e Desenvolvimento, SIXBELL, Chile.",
+      "instituicao_nome": "Sixbell - TYD Telecomunicações e Desenvolvimento",
+      "instituicao_sigla": "SIXBELL",
+      "instituicao_pais": "Chile",
+      "periodo": "2000 - 2003",
+      "ano_inicio": "2000",
+      "ano_fim": "2003",
+      "vinculo": "Celetista",
+      "enquadramento": "Analista e Desenvolvedor de Sistemas",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sixbell - TYD Telecomunicações e Desenvolvimento, SIXBELL, Chile",
+      "instituicao_nome": "Sixbell - TYD Telecomunicações e Desenvolvimento",
+      "instituicao_sigla": "SIXBELL",
+      "instituicao_pais": "Chile",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sixbell - TYD Telecomunicações e Desenvolvimento, SIXBELL, Chile",
+      "instituicao_nome": "Sixbell - TYD Telecomunicações e Desenvolvimento",
+      "instituicao_sigla": "SIXBELL",
+      "instituicao_pais": "Chile",
+      "periodo": "09/2000 - 08/2003",
+      "ano_inicio": "2000",
+      "ano_fim": "2003",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil.",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": "Celetista",
+      "enquadramento": "Analista e Desenvolvedor de Sistemas",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/1999 - 09/2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Nexos Information Security, NEXOS, Brasil.",
+      "instituicao_nome": "Nexos Information Security",
+      "instituicao_sigla": "NEXOS",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - 1999",
+      "ano_inicio": "1998",
+      "ano_fim": "1999",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Nexos Information Security, NEXOS, Brasil",
+      "instituicao_nome": "Nexos Information Security",
+      "instituicao_sigla": "NEXOS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Nexos Information Security, NEXOS, Brasil",
+      "instituicao_nome": "Nexos Information Security",
+      "instituicao_sigla": "NEXOS",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/1998 - 03/1999",
+      "ano_inicio": "1998",
+      "ano_fim": "1999",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "UTILEX Comercial Ltda, UTILEX, Brasil.",
+      "instituicao_nome": "UTILEX Comercial Ltda",
+      "instituicao_sigla": "UTILEX",
+      "instituicao_pais": "Brasil",
+      "periodo": "1990 - 1991",
+      "ano_inicio": "1990",
+      "ano_fim": "1991",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "UTILEX Comercial Ltda, UTILEX, Brasil",
+      "instituicao_nome": "UTILEX Comercial Ltda",
+      "instituicao_sigla": "UTILEX",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "UTILEX Comercial Ltda, UTILEX, Brasil",
+      "instituicao_nome": "UTILEX Comercial Ltda",
+      "instituicao_sigla": "UTILEX",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/1990 - 04/1991",
+      "ano_inicio": "1990",
+      "ano_fim": "1991",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "IHMs de Alta Disponibilidade em Sistemas Embarcados Safety-Critical",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto de pesquisa apresenta uma proposta de implementação de IHMs de alta disponibilidade, com foco no sua aplicação em sistemas embarcados safety-critical. O principal objetivo é a definição de uma infraestrutura genérica que suporte a execução confiável de interfaces gráficas de usuário em uma série de domínios de aplicação. Esta infraestrutura será construída utilizando plataformas tais como a Toradex Apalis iMX8 [8], executando Linux Embarcado [9] e com IHMs desenvolvidas utilizando o toolkit Qt [10]. Aspectos de alta disponibilidade serão implementados com base no Qt Safe Renderer [11] ? tecnologia para implementação de IHMs críticas disponibilizada como parte oficial do Qt.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Wesley Gomes Lima Melo - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Wesley Gomes Lima Melo",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Meg: Arquitetura de Software, Frameworks e Geradores de Código para Aplicativos Móveis",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Este projeto de pesquisa apresenta uma proposta de desenvolvimento de um framework e ferramentas auxiliares para desenvolvimento de aplicativos multiplataforma (Android e iOS) para dispositivos móveis. Um dos objetivos é trazer agilidade e qualidade aos processos de desenvolvimento destes aplicativos, ao mesmo tempo em que disponibiliza-se soluções flexíveis e modernas para este domínio de aplicação. A solução proposta ? denominada Meg ? é formada por três componentes principais: i) uma arquitetura de referência para o domínio de aplicativos móveis, ii) um framework que implementa esta arquitetura de referência e iii) um conjunto de utilitários de linha de comando que automatizam partes importantes da geração de código-fonte para estas aplicações. A arquitetura de referência inclui aspectos importantes tais como o suporte a plugins, gerenciamento de decisões de implantação em múltiplas plataformas, internacionalização/localização, comunicação em rede e aspectos relacionados a concorrência. O framework será desenvolvido utilizando o toolkit Qt e as linguagens QML e C++. Os utilitários de linha de comando serão desenvolvidos na linguagem Ruby, com base no framework para geração de utilitários de linha de comando Thor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Eliakin Costa de Almeida - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Eliakin Costa de Almeida",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Planejamento Regional Adaptativo em Sistemas Self-Adaptive de Larga Escala",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: Um Sistema Self-Adaptive (SSA) é aquele que avalia o seu próprio comportamento e o modifica quando a avaliação indica que: o seu propósito principal não está sendo efetivamente cumprido; ou uma melhor funcionalidade e/ou desempenho pode ser alcançado. Embora muitas arquiteturas de referência para SSA estejam disponíveis atualmente, a maioria delas apresenta como restrição o suporte apenas a sistemas centralizados. Algumas poucas arquiteturas implementam suporte a ambientes des- centralizados e as poucas que o fazem não apresentam bom desempenho em ambientes altamente dinâmicos. Weyns et al. (2010) propuseram seis padrões para modela- gem de autogerenciamento descentralizado, descrevendo os modelos de comunicação entre os diversos componentes do controle, os atributos de qualidade induzidos por cada padrão e as restrições impostas por tais decisões. Este projeto de pesquisa tem como objetivo o desenvolvimento e avaliação de um modelo adaptativo para autoge- renciamento de SSA de larga escala. Esse modelo prevê a reconfiguração dinâmica da topologia e forma de comunicação entre os múltiplos componentes de controle. Através dessa abordagem, decisões de projeto acerca da topologia de controle a ser adotada serão levadas para run-time. Com isso, espera-se obter desempenho satisfa- tório do controle tanto em situações onde o sistema gerenciado/ambiente sugerem a adoção de topologias mais centralizadas, até situações onde padrões completamente descentralizados apresentam melhor benefício.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Especialização: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Eudes Santos Andrade - Integrante / Gabriel Ferreira Barros de Sousa - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Eudes Santos Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gabriel Ferreira Barros de Sousa",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Melhoramento Genético On-Line como Infraestrutura para Sistemas Self-Adaptive Descentralizados",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: Um Sistema Self-Adaptive é aquele que avalia o seu próprio comportamento e o modifica quando a avaliação indica que: o seu propósito principal não está sendo efetivamente cumprido; ou uma melhor funcionalidade e/ou desempenho pode ser alcançado. Diversas tecnologias são atualmente utilizadas como mecanismo viabili- zador de autogerenciamento: gramáticas de grafos, agentes inteligentes, otimização, teoria de controle, etc. Um desafio atual, investigado em diversas pesquisas recen- tes, é a prospecção de soluções auto-adaptativas escaláveis e que suportem conhe- cimento parcial/incerto sobre o sistema ou ambiente de execução. Este projeto de pesquisa tem como objetivo a utilização de técnicas de otimização multiobjetivo evo- lucionária como infraestrutura viabilizadora de adaptação arquitetural em Sistema Self-Adaptive de larga escala e descentralizados. O trabalho consiste na adaptação da pesquisa de Andrade & Macêdo (2014), onde um mecanismo off-line para otimi- zação de arquiteturas de Sistema Self-Adaptive é proposto. O objetivo é projetar e implementar as estruturas que permitem a execução destas otimizações em run- time, fazendo com que os resultados das buscas definam as adaptações arquiteturais a serem executadas de modo a fazer que o sistema continue apresentando os níveis de qualidade de serviço desejados. Pelo fato de as otimizações serem executadas on-line, aspectos como previbilidade temporal e velocidade de convergência passam a ser mais críticos e devem guiar o projeto do mecanismo a ser utilizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador / Ícaro Jerry Salles Santana - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ícaro Jerry Salles Santana",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Uma Infraestrutura para Suporte ao Gerenciamento de Emergências em Ambientes Indoor",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: A ocorrência de desastres em eventos que têm alta concentração de pessoas ou eventos re- alizados em áreas industriais são exemplos de situações que podem ter um grande impacto sobre a vida das pessoas envolvidas, sobre as propriedades e o meio ambiente, entre outros. Neste contexto, a tomada de decisão é um ponto crítico em situações de emergência. Uma emergência pode acontecer tanto em ambientes fechados (indoor) quanto em ambientes abertos (outdoor). Em ambos os casos, é importante a adoção de soluções que viabilizem a tomada de decisão a partir de centros de comando ? responsáveis pelo gerenciamento dos dados que descrevem a emergência. Muitos trabalhos encontrados na literatura focam em suporte a emergências em ambientes outdoor. Entretanto, situações de emergência são recorrentes em ambientes indoor, principalmente em grandes empresas. Este projeto tem como objetivo desenvolver de uma infraestrutura para coleta, análise e visualização de dados relacionados a emergências em ambientes indoor. Para isso, a infraestrutura aqui proposta integra informações obtidas a partir de sensores com a adoção de arquiteturas escaláveis e adaptativas de software e de técnicas de visualização de informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Especialização: (6) / Mestrado acadêmico: (2) / Mestrado profissional: (1) / Doutorado: (1) . Integrantes: Sandro Santos Andrade - Integrante / Manoel Carvalho Marques Neto - Integrante / Renato Lima Novais - Coordenador.",
+        "Descrição: A ocorrência de desastres em eventos que têm alta concentração de pessoas ou eventos re- alizados em áreas industriais são exemplos de situações que podem ter um grande impacto sobre a vida das pessoas envolvidas, sobre as propriedades e o meio ambiente, entre outros. Neste contexto, a tomada de decisão é um ponto crítico em situações de emergência. Uma emergência pode acontecer tanto em ambientes fechados (indoor) quanto em ambientes abertos (outdoor). Em ambos os casos, é importante a adoção de soluções que viabilizem a tomada de decisão a partir de centros de comando ? responsáveis pelo gerenciamento dos dados que descrevem a emergência. Muitos trabalhos encontrados na literatura focam em suporte a emergências em ambientes outdoor. Entretanto, situações de emergência são recorrentes em ambientes indoor, principalmente em grandes empresas. Este projeto tem como objetivo desenvolver de uma infraestrutura para coleta, análise e visualização de dados relacionados a emergências em ambientes indoor. Para isso, a infraestrutura aqui proposta integra informações obtidas a partir de sensores com a adoção de arquiteturas escaláveis e adaptativas de software e de técnicas de visualização de informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Especialização: (6) / Mestrado acadêmico: (2) / Mestrado profissional: (1) / Doutorado: (1) . Integrantes: Renato Lima Novais - Coordenador / Manoel Carvalho Marques Neto - Integrante / Sandro Santos Andrade - Integrante. Financiador(es): Instituto Federal da Bahia - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Manoel Carvalho Marques Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renato Lima Novais",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal da Bahia",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Projeto e Implementação de um Framework para Definição de Sintaxes Concretas no DuSE-­MT",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "descricao": [
+        "Descrição: Este trabalho tem como objetivo o projeto e desenvolvimento de um framework para definição de sintaxes concretas para linguagens de modelagem suportadas pelo DuSE­-MT. As oportunidades de inovação e o diferencial apresentado pelo ambiente proposto são caracterizados pelos seguintes recursos: ? Independência de meta­modelo. O framework deve suportar a definição de sintaxes concretas para qualquer linguagem suportada pelo DuSE­MT. Isto inclui a implementação de parte da sintaxe concreta definida pela UML, bem como a definição dos mecanismos básicos que permitirão a criação de novas representações para constructos de qualquer outra linguagem suportada pelo DuSE­-MT. ? Utilização de tecnologias declarativas para implementação das representações. Linguagens declarativas, como por exemplo o QML/Qt, permitem o desenvolvimento mais produtivo e flexível de elementos de interface gráfica de usuário. Adicionalmente, o suporte atual disponibilizado pelo Qt é suportado por hardware, trazendo consideráveis avanços no desempenho de exibição de tais representações. ? Baixo acoplamento entre sintaxe abstrata e sintaxe concreta. Ao definir tais aspectos como elementos com baixo acoplamento, permite­se o reuso da sintaxe abstrata em ambientes que requerem outras implementações de sintaxe concreta, tais como dispositivos com restrições no form factor, como smartphones e tablets.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Félix Simas de Souza Neto - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Félix Simas de Souza Neto",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "ARCADE ? Ambiente Integrado para Análise e Desenvolvimento Dirigidos a Modelos Arquiteturais de Software",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "descricao": [
+        "Descrição: Este projeto tem como objetivo o desenvolvimento do ARCADE: ambiente integrado para modelagem, análise e desenvolvimento de sistemas dirigidos a modelos, com foco nos aspectos arquiteturais. As oportunidades de inovação e o diferencial apresentado pelo ambiente proposto são caracterizados pelos seguintes recursos: ? Suporte nativo e integrado a aspectos arquiteturais de software. As ferramentas atualmente disponíveis não disponibilizam um auxílio explícito a estes aspectos, ficando a cargo do projetista a correta aplicação (ou não) dos poucos recursos da UML para modelagem de aspectos arquiteturais. O objetivo é dotar a ferramenta de conhecimentos e recursos específicos para modelagem de arquiteturas de software, através de especializações e adequações dos recursos atualmente disponíveis na UML. ? Mecanismo extensível e de fácil uso para definição de operações de análise. Os recursos para validação e análise de modelos UML disponibilizados pelas ferramentas atuais se resumem à verificação de regras de boa formação e outras validações simples. A ferramenta proposta disponibilizará construtores de âmbito arquitetural que permitirão que o projetista especifique operações de análise a serem realizadas, utilizando linguagens tais como OCL (Object Constraint Language) [12], XQuery [13] ou JavaScript [14]. ? Mecanismo extensível para mapeamento de modelos em AIFs. A geração automática de parte dos artefatos de código da aplicação é um dos principais objetivos de um ambiente de desenvolvimento dirigido a modelos. Este projeto prevê a definição de um mecanismo extensível para suporte facilitado de novas plataformas-alvo, permitindo que os modelos sejam mapeados em diferentes AIFs, desenvolvidos em diferentes tecnologias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "DuSE-MT ? Ambiente Integrado para Análise e Desenvolvimento Dirigidos a Modelos Arquiteturais de Software",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: Dentro da Engenharia de Software, a sub-área de Arquitetura de Software constitui um campo recente de pesquisa e desenvolvimento. Entretanto, desde o lançamento da primeira literatura nesta área em 1996, nota-se um crescente amadurecimento e sistematização da aplicação dos conceitos, técnicas e metodologias relacionadas a Arquitetura de Software. Embora a UML possua alguns recursos básicos para modelagem de arquitetura, nota-se uma carência generalizada de ferramentas com suporte explícito a conceitos tais como: estilos arquiteturais, visões e perspectivas arquiteturais, análise arquitetural automatizada e integração com Architecture Implementation Frameworks (AIF). Este projeto tem como objetivo o desenvolvimento do ARCADE: ambiente integrado para modelagem, análise e desenvolvimento de sistemas dirigidos a modelos, com foco nos aspectos arquiteturais. As oportunidades de inovação e o diferencial apresentado pelo ambiente proposto são caracterizados pelos seguintes recursos: i) suporte nativo e integrado a aspectos arquiteturais de software, ii) mecanismo extensível e de fácil uso para definição de operações de análise, e iii) mecanismo extensível para mapeamento de modelos em AIFs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Especialização: (1) / Doutorado: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Luis Paulo Torres de Oliveira - Integrante / Igo da Cruz dos Santos - Integrante. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Bolsa. Número de produções C, T & A: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luis Paulo Torres de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Igo da Cruz dos Santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Projeto e Implementação dos Módulos de Edição/Publicação de Lições e Integração MIDI no Spinet - Ambiente OpenSource Integrado e Colaborativo para Ensino de Fundamentos de Música",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: O projeto Spinet, desenvolvido no âmbito do Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT) do IFBa e do Live Blue (Grupo de Desenvolvedores KDE da Bahia), tem como objetivo o projeto e desenvolvimento de um ambiente opensource integrado e colaborativo para ensino de fundamentos de música. No primeiro ano de desenvolvimento do Spinet, realizado por um bolsista PIBIC 2010/2011, foram implementados os módulos principais da ferramenta: núcleo da aplicação com suporte facilitado a plug-ins, principais plug-ins de backend para os serviços de áudio, módulo para geração de partituras em run-time e arquitetura básica para definição, execução e avaliação de lições musicais (atualmente criadas manualmente em formato MusicXML). Dando continuidade ao projeto, o desenvolvimento de um módulo que possibilite a criação facilitada de novas lições (editor de lições) e a publicação destas lições na rede para futura utilização por outros usuários do Spinet representa um avanço considerável para o uso efetivo do ambiente. Adicionalmente, este projeto prevê o desenvolvimento de funcionalidades para integração com instrumentos musicais eletrônicos reais via protocolo MIDI (Musical Instrument Digital Interface), possibilitando a aplicação de exercícios a serem executados diretamente no instrumento musical (qualquer um que suporte o protocolo MIDI) e a consequente avaliação automática pelo computador.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Luis Paulo Torres de Oliveira - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa / Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Outra."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Tomaz Martins dos Santos Canabrava",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luis Paulo Torres de Oliveira",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "tipo_apoio": "Outra"
+        }
+      ]
+    },
+    {
+      "nome": "Projeto e Implementação do Repositório de Componentes e Infra-Estrutura de Comunicação Distribuída do QCM",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Anderson José César Pereira - Integrante. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Tomaz Martins dos Santos Canabrava",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson José César Pereira",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "tipo_apoio": "Cooperação"
+        },
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Spinet - Ambiente OpenSource Integrado e Colaborativo para Ensino de Fundamentos de Música",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: Projeto PIBIC, a ser desenvolvido no âmbito do Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT) do IFBa e do Live Blue (external link) (Grupo de Desenvolvedores KDE da Bahia), tem como objetivo o projeto e desenvolvimento de um ambiente opensource integrado e colaborativo para ensino de fundamentos de música.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Clélio Salgado Flores Júnior - Integrante / Juvino Alves Dos Santos Filho - Integrante / Ricardo Martins - Integrante. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Outra / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Tomaz Martins dos Santos Canabrava",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Clélio Salgado Flores Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juvino Alves Dos Santos Filho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ricardo Martins",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "tipo_apoio": "Outra"
+        },
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Qt Component Model (QCM) - Plataforma Auto-Gerenciável para Computação Autonômica Distribuída",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: Este projeto, a ser desenvolvido no âmbito do Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT) do IFBa e do Live Blue (Grupo de Desenvolvedores KDE da Bahia), tem como objetivo o desenvolvimento de uma plataforma auto-gerenciável para computação autonômica distribuída denominada Qt Component Model (QCM). Seguindo a abordagem baseada em componentes distribuídos de software, tal plataforma possibilitará a configuração e implantação facilitada de novos sistemas através da inter-ligação de unidades autônomas. Descritores de implantação no formato XML serão utilizados para descrever quais instâncias deverão ser criadas, as máquinas nas quais elas serão implantadas e as conexões a serem realizadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Jessica Rocha dos Anjos - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Tomaz Martins dos Santos Canabrava",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jessica Rocha dos Anjos",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "ADS On-line",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2020",
+      "descricao": [
+        "Descrição: Ciclo de palestras com temas ligados a tecnologia, humanidades e COVD-19, realizado entre os dias 15 e 17 de junho de 2020.. Situação: Concluído; Natureza: Extensão. Integrantes: Sandro Santos Andrade - Coordenador / NOVAIS, RENATO L. - Integrante / Pablo Vieira Florentino - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "NOVAIS, RENATO L",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Sistema Computacional para Registro Online de Demandas e Ofertas de Soluções de Problemas Tecnológicos",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Introdução. Nas últimas décadas, as Tecnologias de Informação e Comunicação (TIC) têm sido o elemento catalisador de mudanças significativas na nossa sociedade. Disponibilizar meios efetivos para identificar demandas e associá-las a competências técnicas é fundamental para alavancar inovações e otimizar os processos produtivos. Objetivos. Este documento apresenta uma proposta de desenvolvimento de uma plataforma de software para registro de demandas por soluções tecnológicas para problemas gerais vivenciados pela indústria e pela sociedade. Método. A plataforma de software será desenvolvida com base em técnicas atuais da Engenharia de Software (gerenciamento ágil de requisitos, arquiteturas lean, gerenciamento contínuo de qualidade, dentre outras). Resultados. Ao final do projeto, a plataforma deverá estar homologada pela PRPGI e em produção. Conclusão. Este documento apresenta os requisitos da solução, a equipe responsável pelo projeto, os objetivos gerais e metodologia utilizada, bem como os eventuais obstáculos a serem encontrados e os resultados esperados... Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (3) . Integrantes: Sandro Santos Andrade - Coordenador / Manoel Carvalho Marques Neto - Integrante / NOVAIS, RENATO L. - Integrante / Jean Lima Andrade - Integrante / Lorena Souza Santana Lima - Integrante / Tamires Pimenta Manhães - Integrante. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Bolsa."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Manoel Carvalho Marques Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "NOVAIS, RENATO L",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Desenvolvimento de uma Solução Integrada para Telefonia IP",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "descricao": [
+        "Descrição: Estudo e desenvolvimento de uma solução integrada para Telefonia IP envolvendo: um sistema para gestão do ambiente de Telefonia IP (XAT - Xingoo Administration Tool), um telefone IP de baixo custo e um ATA (adaptador telefonia convencional -> telefonia IP). O XAT é um sistema multi-plataforma desenvolvido com a tecnologia Qt4.. Situação: Concluído; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (3) . Integrantes: Sandro Santos Andrade - Coordenador / Rodrigo Albuquerque - Integrante / Felipe Uderman - Integrante / Luiz Rodrigo Caldas - Integrante / Tassia Camões Araújo - Integrante / Liandro Ferreira Nunes - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio financeiro / GiuSoft Tecnologia - Cooperação."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rodrigo Albuquerque",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Felipe Uderman",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luiz Rodrigo Caldas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tassia Camões Araújo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Liandro Ferreira Nunes",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Auxílio financeiro"
+        },
+        {
+          "nome": "GiuSoft Tecnologia",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    },
+    {
+      "nome": "GNU-Ruy: Grupo de Estudo e Desenvolvimento de Software Livre",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: Grupo interessado no desenvolvimento de atividades gerais relacionadas a software livre. Principais contribuições: desenvolvimento da distribuição Noob, treinamentos (GNU/Linux, Blender, C++, Qt4), direcionamento de trabalhos de conclusão de curso.. Situação: Desativado; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (9) . Integrantes: Sandro Santos Andrade - Coordenador / Cleber Nascimento Ramos - Integrante / Aristóteles Marçal Silva - Integrante / Allan Barbosa Ferreira - Integrante / João Paulo Pereira de Sá Canário - Integrante / Liordino dos Santos Rocha Neto - Integrante / Rudá Porto Filgueiras - Integrante / Tomaz Martins dos Santos Canabrava - Integrante / Ríad Mattos Nassiffe - Integrante / Ugo Braga Sangiorgi - Integrante. Financiador(es): Faculdade Ruy Barbosa - Cooperação. Número de produções C, T & A: 8"
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Cleber Nascimento Ramos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aristóteles Marçal Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Allan Barbosa Ferreira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "João Paulo Pereira de Sá Canário",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Liordino dos Santos Rocha Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rudá Porto Filgueiras",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tomaz Martins dos Santos Canabrava",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ríad Mattos Nassiffe",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ugo Braga Sangiorgi",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Faculdade Ruy Barbosa",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    },
+    {
+      "nome": "Cordel: Uma Ferramenta MDA para Geração Automática de Sistemas J2EE",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2004",
+      "descricao": [
+        "Descrição: Desenvolvimento de uma ferramenta web para geração automática de sistemas J2EE, seguindo a abordagem MDA (Model-Driven Architecture). A ferramenta foi utilizada utilizando as tecnologias JSP, Struts e EJB2.x.. Situação: Concluído; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Fabiola Greve - Integrante / Joao Gualberto Araujo - Integrante / Lucas Rocha - Integrante / Vinicius Pinheiro - Integrante / Kellyton Brito - Integrante / Eduardo Maciel - Integrante. Financiador(es): Preview Computadores - Auxílio financeiro. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Fabiola Greve",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Joao Gualberto Araujo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Rocha",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Vinicius Pinheiro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Kellyton Brito",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Maciel",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Preview Computadores",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Engenharia de Software",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas Distribuídos",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Distribuídos."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Computação Gráfica e Visualização de Software",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Computação Gráfica e Visualização de Software."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Software Livre",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Software Livre."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Mecatrônica",
+      "especialidade": "Sistemas de Tempo-Real",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Mecatrônica/Especialidade: Sistemas de Tempo-Real."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "",
+      "le": "Razoavelmente",
+      "escreve": "",
+      "proficiencia_completa": "Compreende Razoavelmente, Lê Razoavelmente."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Co-autor e orientador do melhor artigo do Workshop de Trabalhos de Iniciação Científica e Graduação (WTICGBASE) - ERBASE 2014. Artigo \"Um Serviço para Feedback Control Loops em Arquiteturas MapReduce\", Sociedade Brasileira de Computação (SBC).",
+      "ano": 2014
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Arquitetura de Software",
+      "objetivo": "Estudo e avaliação dos principais estilos arquiteturais utilizados no desenvolvimento de sistemas distribuídos, sistemas industriais e sistemas autonômicos.."
+    },
+    {
+      "nome": "Sistemas Autonômicos e Arquiteturas Auto-Gerenciáveis de Software",
+      "objetivo": "Estudo, avaliação e implementação de sistemas autonômicos cujas propriedades self-* (self-optimization, self-configuration, self-healing e self-protection) são viabilizadas através de soluções arquiteturais. Arquiteturas auto-gerenciáveis, linguagens de descrição de arquiteturas (ADL's) e estilos arquiteturais constituem o maior foco de interesse.."
+    },
+    {
+      "nome": "Sistemas Distribuídos",
+      "objetivo": "Estudo da aplicação de técnicas da engenharia de software no desenvolvimento de sistemas distribuídos: padrões de projeto, estilos arquiteturais, especificação e validação, dentre outros.."
+    },
+    {
+      "nome": "Middleware e Sistemas de Tempo-Real",
+      "objetivo": "Estudo, avaliação e desenvolvimento de soluções de middleware com suporte a requisitos temporais.."
+    },
+    {
+      "nome": "Frameworks de Aplicação e Desenvolvimento Baseado em Componentes",
+      "objetivo": "Estudos sobre a engenharia de frameworks de aplicação, análise de domínio, documentação, avaliação e testes de frameworks de aplicação.."
+    },
+    {
+      "nome": "Engenharia de Software e Sistemas Industriais",
+      "objetivo": "Avaliação da viabilidade da aplicação de técnicas da engenharia de software no desenvolvimento de sistemas industriais (aquisição de dados, controle, supervisão etc). Dentre os tópicos pesquisados destacam-se: frameworks de aplicação para aquisição de dados industriais, middleware para sistemas de tempo-real, padrões de projeto para sistemas de tempo-real, desenvolvimento para CLP (controlador lógico-programado) e desenvolvimento embarcado.."
+    },
+    {
+      "nome": "Software Livre",
+      "objetivo": "Estudo e desenvolvimento de software livre, com foco preferencial na plataforma KDE 4. Trabalhos atuais estão sendo realizados no âmbito dos projetos KDevelop e Rocs (software para criação e manipulação de grafos).."
+    },
+    {
+      "nome": "Computação Gráfica e Medicina",
+      "objetivo": "Investigação de métodos eficientes para visualização de volumes de dados médicos, tais como visualização adaptativa e extração otimizada de malhas poligonais.."
+    },
+    {
+      "nome": "Software Livre",
+      "objetivo": ""
+    },
+    {
+      "nome": "Sistemas Distribuídos",
+      "objetivo": ""
+    },
+    {
+      "nome": "Engenharia de Software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Arquitetura de Software",
+      "objetivo": ""
+    },
+    {
+      "nome": "Otimização Multiobjetivo",
+      "objetivo": ""
+    },
+    {
+      "nome": "Engenharia de Software Experimental",
+      "objetivo": ""
+    },
+    {
+      "nome": "Sistemas Self-Adaptive e Autonômicos",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "DB2REST: Uma Solução para Integração entre Bases de Dados Legadas e Web Services RESTful",
+        "ano": 2018,
+        "autores": "OLIVEIRA, B. ; ANDRADE, SANDRO S.",
+        "revista": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC",
+        "volume": "8",
+        "numero": "",
+        "paginas": "448-466",
+        "issn": "2237-2903",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Assessing the benefits of search-based approaches when designing self-adaptive systems: a controlled experiment",
+        "ano": 2015,
+        "autores": "ANDRADE, SANDRO S; DE A MACÊDO, RAIMUNDO J",
+        "revista": "Journal of Software Engineering Research and Development",
+        "volume": "3",
+        "numero": "",
+        "paginas": "2",
+        "issn": "2195-1721",
+        "doi": "http://dx.doi.org/10.1186/s40411-015-0016-z",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Principled Eliciting and Evaluation of Trade-Offs When Designing Self-Adaptive Systems Architectures",
+        "ano": 2016,
+        "autores": "ANDRADE, SANDRO S.; MACEDO, R. J. A.",
+        "titulo_livro": "",
+        "editora": "Morgan Kaufmann",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "181-202"
+      },
+      {
+        "titulo": "On Subtle Contributions",
+        "ano": 2016,
+        "autores": "ANDRADE, SANDRO S",
+        "titulo_livro": "",
+        "editora": "Lulu",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "65-67"
+      },
+      {
+        "titulo": "Tratando a Previsibilidade em Sistemas de Tempo-Real Distribuídos: Especificação, Linguagens, Middleware e Mecanismos Básicos. Minicursos do Simpósio Brasileiro de Redes de Computadores. 1ed.Gramado",
+        "ano": 2004,
+        "autores": "MACEDO, R. J. A. ; LIMA, G. M. A. ; BARRETO, L. P. ; ANDRADE, A. M. S. ; SA, A. S. ; BARBOZA, F. J. R. ; ALBUQUERQUE, R. F. ; ANDRADE, S. S.",
+        "titulo_livro": "",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "105-163"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Self-Adaptive Systems Planning with Model Checking using MAPE-K",
+        "ano": 2020,
+        "autores": "SILVA, A. E. M. ; ANDRADE, A. ; ANDRADE, SANDRO S.",
+        "evento": "Fault Tolerance Workshop (WTF 2020) - Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2020)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Tailoring the NFR Framework for Measuring Software Ecosystems Health",
+        "ano": 2018,
+        "autores": "AMORIM, S. S. ; ANDRADE, SANDRO S. ; MCGREGOR, J. ; ALMEIDA, E. ; CHAVEZ, C.",
+        "evento": "Workshop on Requirements Engineering 2018",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Arquitetura de Referência Baseada em Plugins para Sistemas de Informação Mobile",
+        "ano": 2018,
+        "autores": "SANTOS, E. ; ANDRADE, SANDRO S.",
+        "evento": "Escola Regional de Computação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "DB2REST: Uma Solução para Integração entre Bases de Dados Legadas e Web Services RESTful",
+        "ano": 2018,
+        "autores": "OLIVEIRA, B. ; ANDRADE, SANDRO S.",
+        "evento": "Escola Regional de Computação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Principled Evaluation of Strengths and Weaknesses in FLOSS Communities: A Systematic Mixed Methods Maturity Model Approach",
+        "ano": 2017,
+        "autores": "ANDRADE, SANDRO S.; SARAIVA, F.",
+        "evento": "The 13th International Conference on Open Source Systems (OSS 2017)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Cross-platform Multimedia Application Development",
+        "ano": 2017,
+        "autores": "NETO, MANOEL C.M. ; ANDRADE, SANDRO S. ; NOVAIS, RENATO L.",
+        "evento": "23rd Brazillian Symposium on Multimedia and the Web",
+        "cidade": "",
+        "paginas": "23",
+        "isbn": ""
+      },
+      {
+        "titulo": "Detecção Automática de Estilos Arquiteturais em Sistemas Distribuídos",
+        "ano": 2016,
+        "autores": "DIVINO, A. S. A. ; ANDRADE, SANDRO S.",
+        "evento": "Workshop de Trabalhos de Pós-Graduação (WPOS) - Escola Regional de Computação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Planejamento Regional Adaptativo em Sistemas Self-Adaptive de Larga Escala",
+        "ano": 2016,
+        "autores": "SOUSA, G. F. ; ANDRADE, E. S. ; ANDRADE, SANDRO S.",
+        "evento": "Workshop de Trabalhos de Iniciação Científica e Graduação (WTICGBASE) - Escola Regional de Computação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Melhoramento Genético On-line como Infraestrutura para Sistemas Self-Adaptive Descentralizados",
+        "ano": 2016,
+        "autores": "SANTANA, I. J. S. ; ANDRADE, SANDRO S.",
+        "evento": "Workshop de Trabalhos de Iniciação Científica e Graduação (WTICGBASE) - Escola Regional de Computação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Representação Visual para Gerenciamento de Emergências em Ambientes Fechados",
+        "ano": 2016,
+        "autores": "NETO, MANOEL ; NUNES, FLAVIO ; NOVAIS, RENATO ; TELES, FERNANDO ; ANDRADE, SANDRO",
+        "evento": "Simpósio Brasileiro de Sistemas de Informação ? SBSI 2016",
+        "cidade": "",
+        "paginas": "518-526",
+        "isbn": ""
+      },
+      {
+        "titulo": "Planejamento Regional Adaptativo em Sistemas Self-Adaptive de Larga Escala",
+        "ano": 2016,
+        "autores": "ANDRADE, E. S. ; SOUSA, G. F. ; ANDRADE, SANDRO S",
+        "evento": "8º SBCUP - Simpósio Brasileiro de Computação Ubíqua e Pervasiva",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Software Evolution Sonification",
+        "ano": 2015,
+        "autores": "RAIMUNDO, P. O. ; ANDRADE, SANDRO S. ; Novais, R. L.",
+        "evento": "III Workshop on Software Visualization",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Systematic Model-Based Approach for Feedback Control Trade-Off Evaluation in Autonomic Systems",
+        "ano": 2014,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "4o Workshop de Sistemas Distribuídos Autonômicos (WoSiDA) - XXXII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Framework para Implementação Declarativa de Sintaxes Concretas Visuais",
+        "ano": 2014,
+        "autores": "SOUZA NETO, F. S. ; ANDRADE, S. S.",
+        "evento": "XIV Escola Regional de Computação Bahia - Alagoas - Sergipe (ERBASE 2014)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Serviço para Feedback Control Loops em Arquiteturas MapReduce (melhor artigo do WTICGBASE 2014)",
+        "ano": 2014,
+        "autores": "Pereira, A. J. C. ; ANDRADE, S. S.",
+        "evento": "XIV Escola Regional de Computação Bahia - Alagoas - Sergipe (ERBASE 2014)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Framework para Recuperação Arquitetural Independente de Plataforma",
+        "ano": 2014,
+        "autores": "Oliveira. L. P. T de ; ANDRADE, S. S.",
+        "evento": "XIV Escola Regional de Computação Bahia - Alagoas - Sergipe (ERBASE 2014)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Software Evolution Sonification: Why and How",
+        "ano": 2014,
+        "autores": "RAIMUNDO, P. O. ; ANDRADE, S. S.",
+        "evento": "II Encontro Nacional de Computação dos Institutos Federais (ENCompIF) - XXXIV Congresso da Sociedade Brasileira de Computação (CSBC)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Framework para Recuperação Arquitetural Independente de Plataforma",
+        "ano": 2014,
+        "autores": "Oliveira. L. P. T de ; ANDRADE, S. S.",
+        "evento": "II Encontro Nacional de Computação dos Institutos Federais (ENCompIF) - XXXIV Congresso da Sociedade Brasileira de Computação (CSBC)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Abordagem Baseada em Feedback Control Loops para Otimização de Desempenho no Hadoop",
+        "ano": 2014,
+        "autores": "Pereira, A. J. C. ; ANDRADE, S. S.",
+        "evento": "II Encontro Nacional de Computação dos Institutos Federais (ENCompIF) - XXXIV Congresso da Sociedade Brasileira de Computação (CSBC)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Framework para Especificação Declarativa de Sintaxes Concretas em Linguagens de Modelagem",
+        "ano": 2014,
+        "autores": "SOUZA NETO, F. S. ; ANDRADE, S. S.",
+        "evento": "II Encontro Nacional de Computação dos Institutos Federais (ENCompIF) - XXXIV Congresso da Sociedade Brasileira de Computação (CSBC)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Do Search-Based Approaches Improve the Design of Self-Adaptive Systems? A Controlled Experiment",
+        "ano": 2014,
+        "autores": "ANDRADE, SANDRO SANTOS; MACEDO, RAIMUNDO JOSE DE ARAUJO",
+        "evento": "2014 Brazilian Symposium on Software Engineering (SBES)",
+        "cidade": "",
+        "paginas": "101",
+        "isbn": ""
+      },
+      {
+        "titulo": "Architectural Design Spaces for Feedback Control Concerns in Self-Adaptive Systems",
+        "ano": 2013,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "25th International Conference on Software Engineering and Knowledge Engineering (SEKE2013)",
+        "cidade": "",
+        "paginas": "741-746",
+        "isbn": ""
+      },
+      {
+        "titulo": "DuSE-MT: From Design Spaces to Automated Software Architecture Design",
+        "ano": 2013,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "25th International Conference on Software Engineering and Knowledge Engineering (SEKE2013) - Demo Session. Best Demo Award.",
+        "cidade": "",
+        "paginas": "A-5-A-6",
+        "isbn": ""
+      },
+      {
+        "titulo": "Visualização de Software como Suporte ao Desenvolvimento Centrado em Métricas Orientadas a Objetos",
+        "ano": 2013,
+        "autores": "SANTOS, E. P. ; ANDRADE, S. S.",
+        "evento": "I Workshop Brasileiro de Visualização",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Toward Systematic Conveying of Architecture Design Knowledge for Self-Adaptive Systems",
+        "ano": 2013,
+        "autores": "ANDRADE, SANDRO SANTOS; MACEDO, RAIMUNDO JOSE DE ARAUJO",
+        "evento": "2013 IEEE Conference on SelfAdaptive and SelfOrganizing Systems Workshops (SASOW)",
+        "cidade": "",
+        "paginas": "23",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Search-Based Approach for Architectural Design of Feedback Control Concerns in Self-Adaptive Systems",
+        "ano": 2013,
+        "autores": "ANDRADE, SANDRO S.; MACEDO, RAIMUNDO JOSE DE A.",
+        "evento": "2013 IEEE 7th International Conference on SelfAdaptive and SelfOrganizing Systems (SASO)",
+        "cidade": "",
+        "paginas": "61",
+        "isbn": ""
+      },
+      {
+        "titulo": "Visualização de Software como Suporte ao Desenvolvimento Centrado em Métricas Orientadas a Objetos",
+        "ano": 2012,
+        "autores": "SANTOS, E. P. ; ANDRADE, S. S.",
+        "evento": "ERBASE 2012 - Escola Regional de Computação Bahia Alagoas Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Ferramenta para Construção de Apresentações em Ambiente Tridimensional",
+        "ano": 2010,
+        "autores": "Silva, D. O. ; Alves. I. S. ; ANDRADE, S. S. ; MELO, V. A.",
+        "evento": "10a. Escola Regional de Computação dos Estados da Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A non-intrusive component-based approach for deploying unanticipated self-management behaviour",
+        "ano": 2009,
+        "autores": "ANDRADE, SANDRO SANTOS; MACEDO, RAIMUNDO JOSE DE ARAUJO",
+        "evento": "2009 ICSE Workshop on Software Engineering for Adaptive and SelfManaging Systems (SEAMS)",
+        "cidade": "",
+        "paginas": "152-161",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Ferramenta OpenSource de Motion Capture Utilizando Marcaçoes",
+        "ano": 2008,
+        "autores": "RIBEIRO, F. F. S. ; ANDRADE, S. S. ; FERREIRA, A. B. ; CANÁRIO, J. P. P. S. ; ROCHA, L. S",
+        "evento": "ERBASE 2008: Escola Regional de Computaçao Bahia Alagoas Sergipe",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Engineering Components for Flexible and Interoperable Real-Time Distributed Supervision and Control Systems",
+        "ano": 2007,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "12th IEEE International Conference on Emerging Technologies and Factory Automation",
+        "cidade": "",
+        "paginas": "376-383",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Ferramenta para Configuração e Implantação de Sistemas Distribuídos de Tempo-Real Baseados em Componentes",
+        "ano": 2007,
+        "autores": "ANDRADE, S. S.; RAMOS, C. ; SILVA, A.",
+        "evento": "Simpósio Brasileiro de Componentes",
+        "cidade": "",
+        "paginas": "33-40",
+        "isbn": ""
+      },
+      {
+        "titulo": "Using Real-Time Components to Construct Supervision and Control Applications",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "8th Brazilian Workshop on Real-Time Systems",
+        "cidade": "",
+        "paginas": "1-4",
+        "isbn": ""
+      },
+      {
+        "titulo": "Real-Time Component Software for Flexible and Interoperable Automation Systems",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "XII Congresso Brasileiro de Automática (XII CBA)",
+        "cidade": "",
+        "paginas": "3014-3019",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Management Tool for Component-Based Real-Time Supervision and Control Systems",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "XX Simpósio Brasileiro de Engenharia de Software. 13a. Sessão de Ferramentas",
+        "cidade": "",
+        "paginas": "139-144",
+        "isbn": ""
+      },
+      {
+        "titulo": "Using Real-time Components to Construct Supervision and Control Applications",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A. ; SA, A. ; S. Neima",
+        "evento": "27th IEEE Real-Time Systems Symposium (RTSS 2006) Work in Progress Session",
+        "cidade": "",
+        "paginas": "1-4",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Component-Based Real-Time Architecture for Distributed Supervision and Control Applications",
+        "ano": 2005,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": "10th IEEE International Conference on Emerging Technologies and Factory Automation",
+        "cidade": "",
+        "paginas": "15-22",
+        "isbn": ""
+      },
+      {
+        "titulo": "ARCOS: A Component-Based Architecture for the Construction of Robust Control and Supervision Applications",
+        "ano": 2005,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A. ; SA, A.",
+        "evento": "WDAS - Latin-American Workshop on Dependable Automation System - co-located with the Second Latin-Americam Symposium on Dependable Computing",
+        "cidade": "",
+        "paginas": "11-16",
+        "isbn": ""
+      },
+      {
+        "titulo": "Reconhecimento de Faces com PCA e Redes Neurais",
+        "ano": 2003,
+        "autores": "ANDRADE, S. S",
+        "evento": "1o STEC - Seminários Técnicos Científicos da Faculdade Área 1",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Marching Cubes Multiresolução",
+        "ano": 1998,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": "VII Seminfo - Semana de Informática da UFBa",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Marching Cubes Multiresolução",
+        "ano": 1998,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": "XI SIBGRAPI - Simpósio Brasileiro de Computação Gráfica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Cordel: uma Ferramenta Orientada a Modelos para Geração de Aplicações Web",
+        "ano": 2004,
+        "autores": "GREVE, F. ; ARAUJO, J. G. ; ANDRADE, S. S. ; ROCHA, L. ; PINHEIRO, V. ; BRITO, K. ; MACIEL, E.",
+        "evento": "3rd International Information and Telecommunication Technologies Symposium, 2004, São Carlos - SP. Proceedings of 3rd International Information and Telecommunication Technologies Symposium",
+        "cidade": "",
+        "paginas": "1-2"
+      },
+      {
+        "titulo": "Refinamento Adaptativo e Aquisição Ótima de Representações Poligonais de Iso-superfícies",
+        "ano": 1999,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": "XVIII Seminário Estudantil de Pesquisa da UFBa, 1999, Salvador. Resumos do XVIII Seminário Estudantil de Pesquisa da UFBa",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "Extração de Geometrias: Uma Aplicação à Medicina",
+        "ano": 1998,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": "XVII Seminário Estudantil de Pesquisa da UFBa, 1998, Salvador. Resumos do XVII Seminário Estudantil de Pesquisa",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "Visualização de Imagens Médicas",
+        "ano": 1997,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": "XVI Seminário Estudantil de Pesquisa da UFBa, 1997, Salvador. Resumos do XVI Seminário Estudantil de Pesquisa",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Extração de Geometrias: Uma Aplicação à Medicina",
+        "ano": 1999,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": "51a. Reunião Anual da SBPC (Sociedade Brasileira para o Progresso da Ciência) - VI Jornada Nacional de Iniciação Científica - PUC-RS, 1999, Porto Alegre. Posters da 51a. Reunião Anual da SBPC (Sociedade Brasileira para o Progresso da Ciência)",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Contribuindo com o KDE",
+        "ano": 2016,
+        "autores": "ANDRADE, SANDRO S",
+        "evento": ""
+      },
+      {
+        "titulo": "Desenvolvimento de Aplicação Android com Qt",
+        "ano": 2016,
+        "autores": "ANDRADE, SANDRO S",
+        "evento": ""
+      },
+      {
+        "titulo": "DuSE-MT: From Design Spaces to Automated Software Architecture Design",
+        "ano": 2013,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Architectural Design Spaces for Feedback Control Concerns in Self-Adaptive Systems",
+        "ano": 2013,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "A Non-Intrusive Component-Based Approach for Deploying Unanticipated Self-Management Behaviour",
+        "ano": 2009,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Visualização de Software com o KDevelop 4",
+        "ano": 2009,
+        "autores": "ANDRADE, S. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Engineering Components for Flexible and Interoperable Real-Time Distributed Supervision and Control Systems",
+        "ano": 2007,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Real-Time Component Software For Flexible And Interoperable Automation Systems",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Using Real-Time Components to Construct Supervision and Control Applications",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "A Management Tool for Component-Based Real-Time Supervision and Control Systems",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Using Real-time Components to Construct Supervision and Control Applications",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Sistemas Distribuídos de Supervisão e Controle Baseados em Componentes de Tempo-Real",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "ARCOS: A Component-Based Architecture for the Construction of Robust Control and Supervision Applications",
+        "ano": 2005,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Reconhecimento de Faces com PCA e Redes Neurais",
+        "ano": 2003,
+        "autores": "ANDRADE, S. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Refinamento Adaptativo e Aquisição Ótima de Representações Poligonais de Iso-Superfícies",
+        "ano": 1999,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Extração de Geometrias: Uma Aplicação à Medicina",
+        "ano": 1999,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Marching Cubes Multiresolução",
+        "ano": 1998,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Extração de Geometrias: Uma Aplicação à Medicina",
+        "ano": 1998,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Visualização de Imagens Médicas",
+        "ano": 1997,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "Polos. Salvador: Escritório de Direitos Autorais da Bahia",
+        "ano": 2010,
+        "autores": "III, J. R. ; ANDRADE, S. S.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "A Intromissão do Vento no Perfume de Amália. Salvador: Escritório de Direitos Autorais da Bahia",
+        "ano": 2010,
+        "autores": "III, J. R. ; ANDRADE, S. S.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Sistemas Distribuídos de Supervisão e Controle Baseados em Componentes de Tempo-Real. Salvador",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Métodos Otimizados de Extração de Geometrias: Uma Aplicação à Medicina. Salvador",
+        "ano": 1999,
+        "autores": "ANDRADE, S. S.; BUCK, T. A.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [
+      {
+        "titulo": "KDEObservatory: a plasmoid for visualizing KDE projects activities",
+        "ano": 2009,
+        "autores": "ANDRADE, S. S",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "Plugin para Visualização Estática de Código no KDevelop 4 - Control Flow Graphs",
+        "ano": 2009,
+        "autores": "ANDRADE, S. S",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "Xingoo Administration Tool: Uma Ferramenta para Gestão de Ambientes de Telefonia IP",
+        "ano": 2007,
+        "autores": "ANDRADE, S. S.; AMORIM, R. ; CALDAS, L.",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "ATOME: Uma Ferramenta para Configuração e Implantação de Sistemas Distribuídos de Tempo-Real Baseados em Componentes",
+        "ano": 2007,
+        "autores": "RAMOS, C. ; SILVA, A. ; ANDRADE, S. S.",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "ARCOS: Uma Plataforma Interoperável para Sistemas Distribuídos de Supervisão e Controle Industrial",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S.; MACEDO, R. J. A.",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "TicTacNet - Jogo da Velha em Arquitetura Peer-to-Peer",
+        "ano": 2003,
+        "autores": "ANDRADE, S. S",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "Neural-PCA Face Recognizer",
+        "ano": 2003,
+        "autores": "ANDRADE, S. S",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "IpêChat - Uma Implementação Multi-Usuário para Troca de Mensagens em Arquitetura Cliente/Servidor",
+        "ano": 2001,
+        "autores": "ANDRADE, S. S",
+        "instituicao": "",
+        "finalidade": ""
+      }
+    ],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Introdução ao Desenvolvimento com o Qt4 / KDE4. 2009",
+        "ano": 2009,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução ao Desenvolvimento com o Qt4 / KDE4. 2009",
+        "ano": 2009,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução ao Desenvolvimento com o Qt4 / KDE4. 2008",
+        "ano": 2008,
+        "autores": "ANDRADE, S. S.; CANABRAVA, T. M. S.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Orientação a Objetos com Standard C++. 2007",
+        "ano": 2007,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Desenvolvimento de Software Livre com o Qt4 / KDevelop 3.4. 2007",
+        "ano": 2007,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "S.. Blender Introdutório. 2006",
+        "ano": 2006,
+        "autores": "ANDRADE, S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Princípios Práticos de Computação Gráfica e Desenvolvimento de Jogos",
+        "ano": 2006,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Orientação a Objetos com Java",
+        "ano": 2005,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "JavaScript",
+        "ano": 2005,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Desenvolvimento Web com JSP",
+        "ano": 2005,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Desenvolvimento Web com JSP",
+        "ano": 2004,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Desenvolvimento de Sistemas GNU/Linux com o KDevelop 2.1 / Qt 3.0. 2003",
+        "ano": 2003,
+        "autores": "ANDRADE, S. S",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [
+    {
+      "titulo": "Macaco Bambo - Macaco Bambo",
+      "ano": 2008,
+      "autores": "MEIRA, A. ; ROCHA, F. ; TERRA, G. ; GOES, N. ; ANDRADE, S. S. ; VAZ, T. ; MUNIZ, P",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    },
+    {
+      "titulo": "MPBar",
+      "ano": 1999,
+      "autores": "CASALLI, L. ; RIBEIRO, G. ; ANDRADE, S. S",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    }
+  ],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Aplicação de Algoritmos de Machine Learning para Predição de Internamentos em Atendimentos de Emergência",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Mauricio Cesar Santos da Purificação",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+          "curso": ""
+        }
+      ],
+      "especializacao": [
+        {
+          "titulo": "Suportando Comportamento Self-Adaptive em Aplicações Mobile Orientadas a Serviços",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Vinícius Trindade",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Planejamento Regional Adaptativo em Sistemas Self-Adaptive de Larga Escala",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Eudes Santos Andrade",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Detecção Automática de Estilos Arquiteturais em Sistemas Distribuídos",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Aline dos Santos do Amor Divino",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Projeto Arquitetural Automatizado de Sistemas Self-Organizing: Uma Abordagem Baseada em Busca",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Lorena do C. Caldas",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "QtScraper - Uma Biblioteca para Funcionalidades de WebScraping com Qt",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Eliakin Costa de Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "DB2REST - Um Middleware para Integração entre Bases de Dados Legadas e Web Services RESTful",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Bruno Araújo de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Arquitetura de Referência Baseada em Plugins para Sistemas de Informação Mobile",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Enoque Joseneas",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Configuração de Alto Desempenho para Processamento de Vídeo em um Cluster Hadoop",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Rodrigo Oliveira Brito",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Design Arquitetural de Feedback Control Loops em Aplicações MapReduce",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Anderson José César Pereira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Software Evolution Sonification",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Pedro Oliveira Raimundo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Framework para Recuperação Arquitetural Independente de Plataforma",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Luis Paulo Torres de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Visualização de Software como Suporte ao Desenvolvimento Centrado em Métricas Orientadas a Objetos",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Elidiane P. dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta para Geração Automática de Arranjos Musicais baseados em Chord Melody",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Alexandre Amoedo Amorim",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Visualização de Informação em um Sistema Open-Source para Categorização e Reprodução de Música",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "André Caribé, Filipe Lins e Rafael Vasco",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Geração Automática de Animações para a Linguagem Brasileira de Sinais",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Fábio Mendonça, Thiana Souza e Wagner Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Sistema para Geração e Apresentação de Conteúdo 3D",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Vinicius Azevedo, Igor Sckrab e Diogo Outorelo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Animação de Objetos através de Algoritmos e Inteligência Artificial",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Aloísio Ferreira da Rocha Neto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Serviços de Redes Sociais: Um Framework Baseado em Componentes",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Rudá Porto Filgueiras",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Métricas para Acoplamento e Coesão em Sistemas Orientados a Objetos em Um Ambiente de Visualização de Software",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Margareth Maria Marques Dantas",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta OpenSource de Motion Capture Utilizando Marcações",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Allan Ferreira, João Canário e Liordino Rocha Neto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Abordagem Baseada em Componentes para Aplicações de Visão Computacional",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Jailson A. de Brito Junior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ATOME: Uma Ferramenta para Configuração e Implantação de Sistemas Distribuídos de Tempo-Real Baseados em Componentes",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Cleber Nascimento Ramos e Aristóteles Marçal",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "IRIDIUM: Um Framework para Sistemas Adaptativos Distribuídos Baseados em Componentes",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Hebert Filgueiras, Alex Souza e Fabio Rafael",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de um Módulo de Avaliação da Qualidade de Controle em Sistemas Industriais Distribuídos Sobre a Plataforma ARCOS",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Antonio Santos Vasconcelos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Visualização Estrutural 3D de Sistemas Orientados a Objetos",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Cassiano Ricardo, Darlan Sampaio e Gerson Junior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo da Previsibilidade do Serviço de Eventos do Real-Time CORBA",
+          "ano_inicio": 2004,
+          "ano_conclusao": 2004,
+          "orientando": "Paulo Gomes de Prado",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Sistema para Reconhecimento de Faces Humanas",
+          "ano_inicio": 2003,
+          "ano_conclusao": 2003,
+          "orientando": "Eric de Carvalho Jardim Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Deformação Elástica de Contornos Aplicado a Busca em Banco de Dados de Imagens",
+          "ano_inicio": 2000,
+          "ano_conclusao": 2000,
+          "orientando": "Fábio André Silva Reis",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Um Display Embarcado para Gerenciamento de Competições de Robôs Seguidores de Linha",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Vinicius Melo Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "IHMs de Alta Disponibilidade em Sistemas Embarcados Safety-Critical",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Wesley Gomes Lima Melo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Meg: Arquitetura de Software, Frameworks e Geradores de Código para Aplicativos Móveis",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Eliakin Costa de Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Melhoramento Genético On-Line como Infraestrutura para Sistemas Self-Adaptive Descentralizados",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Ícaro Jerry Salles Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Planejamento Regional Adaptativo em Sistemas Self-Adaptive de Larga Escala",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Gabriel Ferreira Barros de Sousa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Projeto e Implementação de um Framework para Definição de Sintaxes Concretas no DuSE-MT",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Felix Simas de Souza Neto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Projeto e Implementação dos Módulos de Edição/Publicação de Lições e Integração MIDI no Spinet - Ambiente OpenSource Integrado e Colaborativo para Ensino de Fundamentos de Música",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Luis Paulo Torres de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Projeto e Implementação do Repositório de Componentes e Infra-Estrutura de Comunicação Distribuída do QCM",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Anderson José César Pereira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Qt Component Model (QCM) - Plataforma Auto-Gerenciável para Computação Autonômica Distribuída",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Jessica Rocha dos Anjos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Spinet - Ambiente OpenSource Integrado e Colaborativo para Ensino de Fundamentos de Música",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Clélio Salgado Flores Júnior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": [
+        {
+          "titulo": "Formação em Desenvolvimento de Software com C++ e Qt",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Jean Lima Andrade",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Akademy 2016",
+        "apresentacao": "Realização de BoF sobre Fundraising e participação nas sessões de hacking",
+        "ano": 2016,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "LaKademy 2016 - 4o Encontro Latino-Americano dos Colaboradores do KDE",
+        "apresentacao": "Participação nos sprints de desenvolvimento",
+        "ano": 2016,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "QtCon 2016",
+        "apresentacao": "Minuet - the KDE approach to music education",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Spring 2016 KDE e",
+        "apresentacao": "V. Board Sprint.Discussão de assuntos gerenciais da comunidade KDE",
+        "ano": 2016,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2015 KDevelop/Kate Sprint",
+        "apresentacao": "Participação com contribuições no KDevelop",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Akademy 2015",
+        "apresentacao": "Qt Modeling: bringing metamodeling features into the KDE world",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Autumn 2015 KDE e",
+        "apresentacao": "V. Board Sprint.Discussão de assuntos gerenciais da comunidade KDE",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "LaKademy 2015 - 3o Encontro Latino-Americano dos Colaboradores do KDE",
+        "apresentacao": "Participação nos sprints de desenvolvimento",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Qt World Summit 2015",
+        "apresentacao": "Session chairing and KDE booth manning",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVI Fórum Internacional de Software Livre (FISL 2015)",
+        "apresentacao": "Encontro Comunitário do KDE",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "4o Workshop de Sistemas Distribuídos Autonômicos - WoSiDA 2014 - XXXII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+        "apresentacao": "A Systematic Model-Based Approach for Feedback Control Trade-Off Evaluation in Autonomic Systems",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Brazilian Conference on Software: Theory and Practice (CBSoft 2014)",
+        "apresentacao": "Do Search-Based Approaches Improve the Design of Self-Adaptive Systems ? A Controlled Experiment",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Comunitário do KDE - XV Fórum Internacional de Software Livre (FISL)",
+        "apresentacao": "Encontro Comunitário do KDE",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "LaKademy 2014 - 2o Encontro Latino-Americano dos Colaboradores do KDE",
+        "apresentacao": "Apresentação de mini-curso sobre Qt5 e participação nos sprints",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XV Fórum Internacional de Software Livre (FISL 2014)",
+        "apresentacao": "QtModeling: Metamodelagem e Model-Driven Software Engineering com Qt5",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "25th International Conference on Software Engineering and Knowledge Engineering (SEKE 2013(",
+        "apresentacao": "DuSE-MT: From Design Spaces to Automated Software Architecture Design",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "25th International Conference on Software Engineering and Knowledge Engineering (SEKE 2013(",
+        "apresentacao": "Architectural Design Spaces for Feedback Control Concerns in Self-Adaptive Systems",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "7th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2013)",
+        "apresentacao": "A Search-Based Approach for Architectural Design of Feedback Control Concerns in Self-Adaptive Systems",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "7th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2013)",
+        "apresentacao": "Toward Systematic Conveying of Architecture Design Knowledge for Self-Adaptive Systems",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Conferência Latino-Americana de Software Livre (Latinoware 2013)",
+        "apresentacao": "KDE de 2008 a 2018: Retrospectivas e Perspectivas Técnicas e Sociais",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Conferência Latino-Americana de Software Livre (Latinoware 2012)",
+        "apresentacao": "Desenvolvendo widgets QML para o KDE Plasma",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "LaKademy 2012 - 1o Encontro Latino-Americano dos Colaboradores do KDE",
+        "apresentacao": "Participação nos sprints / Apresentação de Palestra no FLISOL POA",
+        "ano": 2012,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XIII Fórum Internacional de Software Livre (FISL 2012)",
+        "apresentacao": "Qt 5, KDE Frameworks 5 e Vivaldi: o que esperar disso tudo ?",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Conferência Latino-Americana de Software Livre (Latinoware 2011)",
+        "apresentacao": "Mobile Development with Qt 4.8 (3h short-course)",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Conferência Latino-Americana de Software Livre (Latinoware 2011)",
+        "apresentacao": "Plasma Active: o KDE chega ao seu tablet",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Conferência Latino-Americana de Software Livre (Latinoware 2011)",
+        "apresentacao": "KDE Frameworks 5: o que você ganha com isso ?",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Akademy 2010",
+        "apresentacao": "Participação em sprints e BoFs",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Akademy-BR 2010: 1o Encontro dos Desenvolvedores Brasileiros do KDE",
+        "apresentacao": "Organização do evento e coordenação dos sprints",
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Encontro Nordestino de Software Livre (ENSL 2010)",
+        "apresentacao": "Desenvolvendo para o KDE",
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Encontro Nordestino de Software Livre (ENSL 2010)",
+        "apresentacao": "Desenvolvimento Cross-Platform com Qt 4.7 (mini-curso 3h)",
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Encontro Nordestino de Software Livre (ENSL 2010)",
+        "apresentacao": "Desenvolva seu Plasmoid JavaScript em 20 Minutos (mini-curso 3h)",
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Tokamak 4: KDE Plasma Developers Meeting",
+        "apresentacao": "Desenvolvedor participante do Tokamak4 Developer Sprint",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Conferência Latino-Americana de Software Livre (Latinoware 2010)",
+        "apresentacao": "Desenvolvendo Aplicações Desktop e Mobile com Qt 4.7 (mini-curso 6h)",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Fórum Internacional de Software Livre",
+        "apresentacao": "2o Encontro Brasileiro de Participantes do Google Summer of Code",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Fórum Internacional de Software Livre (FISL 2010)",
+        "apresentacao": "Forum KDE: Terceiro Encontro Brasileiro de Usuários e Desenvolvedores KDE",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Fórum Internacional de Software Livre (FISL 2010)",
+        "apresentacao": "Desenvolva o seu Plasmoid JavaScript em 20 Minutos",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Gran Canaria Desktop Summit: GUADEC + Akademy 2009",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ICSE 2009 - International Conference on Software Engineering - Workshop on Software Engineering for Adaptive and Self-Managing Systems",
+        "apresentacao": "A Non-Intrusive Component-Based Approach for Deploying Unanticipated Self-Management Behaviour",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "KDE Gluon Developer Sprint",
+        "apresentacao": "Desenvolvedor participante do KDE Gluon Developer Sprint",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Qt Developer Days 2009",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Software Freedom Day 2009 - Piauí",
+        "apresentacao": "Mini-Curso",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Software Freedom Day 2009 - Piauí",
+        "apresentacao": "KDE 4, KDevelop e Google Summer of Code",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Conferência Latino-Americana de Software Livre (Latinoware 2009)",
+        "apresentacao": "Introduçao ao Desenvolvimento com Qt4 / KDE4 (mini-curso 6h)",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Visita científica à University of Western Ontario - Faculty of Engineering - Software Engineering Laboratory",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Fórum Internacional de Software Livre",
+        "apresentacao": "Forum KDE: Segundo Encontro Brasileiro de Usuários e Desenvolvedores KDE",
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Fórum Internacional de Software Livre",
+        "apresentacao": "Encontro Brasileiro de Participantes do Google Summer of Code",
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Fórum Internacional de Software Livre",
+        "apresentacao": "Visualização de Software com o KDevelop 4",
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Conferência Latino-Americana de Software Livre (Latinoware 2008)",
+        "apresentacao": "Introduçao ao Desenvolvimento com Qt4 / KDE4 (mini-curso 6h)",
+        "ano": 2008,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE 2008)",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Semana de Informática da UESC (SINFORM 2008)",
+        "apresentacao": "Direcionamento de Carreira em Engenharia de Software: Empirismo x Teorizaçao",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIX Fórum Internacional de Software Livre",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "11th Brazilian Simposium on Computer Music (SBCM 2007)",
+        "apresentacao": null,
+        "ano": 2007,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "12th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2007)",
+        "apresentacao": "Engineering Components for Flexible and Interoperable Real-Time Distributed Supervision and Control Systems",
+        "ano": 2007,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2007)",
+        "apresentacao": "Uma Ferramenta para Configuração e Implantação de Sistemas Distribuídos de Tempo-Real Baseados em Componentes",
+        "ano": 2007,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Estadual de Tecnologia da Informação",
+        "apresentacao": "Debate: Convivência Software Livre X Software Proprietário",
+        "ano": 2007,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE 2007)",
+        "apresentacao": "Princípios Práticos de Computação Gráfica e Desenvolvimento de Jogos",
+        "ano": 2007,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "27th IEEE Real-Time Systems Symposium (RTSS 2006)",
+        "apresentacao": "Using Real-time Components to Construct Supervision and Control Applications",
+        "ano": 2006,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Congresso Brasileiro de Automática (CBA 2006)",
+        "apresentacao": "Real-Time Component Software For Flexible And Interoperable Automation Systems",
+        "ano": 2006,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIV Simpósio Brasileiro de Redes de Computadores (SBRC 2006)",
+        "apresentacao": "Using Real-Time Components to Construct Supervision and Control Applications",
+        "ano": 2006,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XX Simpósio Brasileiro de Engenharia de Software (SBES 2006)",
+        "apresentacao": "A Management Tool for Component-Based Real-Time Supervision and Control Systems",
+        "ano": 2006,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2nd Latin-American Symposium on Dependable Computing (LADC 2005)",
+        "apresentacao": "ARCOS: A Component-Based Architecture for the Construction of Robust Control and Supervision Applications",
+        "ano": 2005,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIV Congresso da Sociedade Brasileira de Computação",
+        "apresentacao": null,
+        "ano": 2004,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1st Latin-American Symposium on Dependable Computing (LADC 2003)",
+        "apresentacao": null,
+        "ano": 2003,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário Técnico da Universidade Área 1 (STEC 2003)",
+        "apresentacao": "Reconhecimento de Faces com PCA e Redes Neurais",
+        "ano": 2003,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Simpósio Brasileiro de Sistemas Multimídia e Web (WEBMIDIA 2003)",
+        "apresentacao": null,
+        "ano": 2003,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "LI Reunião Anual da SBPC (Sociedade Brasileira para o Progresso da Ciência) - VI Jornada Nacional de Iniciação Científica",
+        "apresentacao": "Extração de Geometrias: Uma Aplicação à Medicina",
+        "ano": 1999,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVIII Seminário Estudantil de Pesquisa",
+        "apresentacao": null,
+        "ano": 1999,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII Simpósio Brasileiro de Redes de Computadores - SBRC",
+        "apresentacao": null,
+        "ano": 1999,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII SemInfo - Semana de Informática da UFBa",
+        "apresentacao": "Marching Cubes Multiresolução",
+        "ano": 1998,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII Seminário Estudantil de Pesquisa",
+        "apresentacao": "Extração Otima de Geometrias: Uma Aplicação à Medicina",
+        "ano": 1998,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVI Seminário Estudantil de Pesquisa",
+        "apresentacao": "Marching Cubes Multiresolução",
+        "ano": 1997,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXI Colóquio Brasileiro de Matemática - IMPA (Instituto de Matemática Pura e Aplicada)",
+        "apresentacao": null,
+        "ano": 1997,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "ANDRADE, SANDRO S.. 6th Workshop on Autonomic Distributed Systems (WoSiDA) - Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2016). 2016. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, SANDRO S.; TORRES, A. ; SARAIVA, F.",
+        "evento": "LaKademy 2016 - 4o Encontro Latino-Americano dos Colaboradores do KDE",
+        "ano": 2016,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, SANDRO S.. XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos. 2016. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, SANDRO S.. QtCon 2016. 2016. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "MARQUES NETO, M. C. ; Novais, R. L. ; ANDRADE, S. S.",
+        "evento": "XV Escola Regional de Computação Bahia, Alagoas e Sergipe (ERBASE 2015) - Organizador Geral",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "STEINMACHER, I. ; ANDRADE, S. S.",
+        "evento": "XVI Workshop Internacional de Software Livre (WSL 2015) - Coordenador de Programa",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, SANDRO S.. LaKademy 2015 - 3o Encontro Latino-Americano dos Colaboradores do KDE. 2015. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, S. S.. ACM International Collegiate Programming Contest - South America / Brazil - First Phase. 2011. (Concurso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, S. S.; CANABRAVA, T. M. S.",
+        "evento": "Akademy-BR 2010: 1o Encontro dos Desenvolvedores Brasileiros do KDE",
+        "ano": 2010,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, S. S.. 11th Brazilian Symposium on Formal Methods (SBMF 2008). 2008. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ANDRADE, S. S.. 2nd Latin-Americam Symposium on Dependable Computing (LADC 2005). 2005. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "GORENDER, S.; SA, A.; ANDRADE, SANDRO S. Participação em banca de Washington Souza Pereira. Proposta de Ontologia Aplicadas a Poços Equipados com Bombeamento Centrífugo Submerso. 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Mecatrônica) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Washington Souza Pereira",
+        "membros_banca": [
+          "GORENDER, S.",
+          "SA, A.",
+          "ANDRADE, SANDRO S"
+        ],
+        "titulo_trabalho": "Proposta de Ontologia Aplicadas a Poços Equipados com Bombeamento Centrífugo Submerso",
+        "curso": "Dissertação (Mestrado em Programa de Pós-Graduação em Mecatrônica)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "GORENDER, S.; SA, A.; ANDRADE, SANDRO S.. Participação em banca de Maria Clara Aderne dos Santos. Um Algoritmo de Membership para o Modelo Síncrono Particionado (SPA) de Sistemas Distribuídos. 2021. Dissertação (Mestrado em Mecatrônica) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Maria Clara Aderne dos Santos",
+        "membros_banca": [
+          "GORENDER, S.",
+          "SA, A.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Um Algoritmo de Membership para o Modelo Síncrono Particionado (SPA) de Sistemas Distribuídos",
+        "curso": "Dissertação (Mestrado em Mecatrônica)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "NAVARRO, M. V. T.; AZOUBEL, R.; ANDRADE, SANDRO S.. Participação em banca de Indira de Oliveira Gomes. Desenvolvimento de um Sistema para Auxiliar na Avaliação e Tratamento de Úlceras Venosas. 2020. Dissertação (Mestrado em Mestrado Profissional em Engenharia de Sistemas e Produtos) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Indira de Oliveira Gomes",
+        "membros_banca": [
+          "NAVARRO, M. V. T.",
+          "AZOUBEL, R.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Desenvolvimento de um Sistema para Auxiliar na Avaliação e Tratamento de Úlceras Venosas",
+        "curso": "Dissertação (Mestrado em Mestrado Profissional em Engenharia de Sistemas e Produtos)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "SCHNITMAN, L.; LEPIKSON, H. A.; SANCA, A. S.; ANDRADE, SANDRO S.. Participação em banca de Geovane Mimoso Souza. Plataforma de Baixo Custo para o Desenvolvimento de Pesquisas com Robôs Subaquáticos. 2016. Dissertação (Mestrado em Mecatrônica) - Universidade Federal da Bahia.",
+        "ano": 2016,
+        "tipo": "Mestrado",
+        "aluno": "Geovane Mimoso Souza",
+        "membros_banca": [
+          "SCHNITMAN, L.",
+          "LEPIKSON, H. A.",
+          "SANCA, A. S.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Plataforma de Baixo Custo para o Desenvolvimento de Pesquisas com Robôs Subaquáticos",
+        "curso": "Dissertação (Mestrado em Mecatrônica)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BITTENCOURT, R. A.; LOULA, A. C.; ANDRADE, S. S.. Participação em banca de Leandro Soriano Ferreira. Sfohart: Um Sistema de Recomendação para Adoção de Software Livre. 2015. Dissertação (Mestrado em Mestrado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Mestrado",
+        "aluno": "Leandro Soriano Ferreira",
+        "membros_banca": [
+          "BITTENCOURT, R. A.",
+          "LOULA, A. C.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Sfohart: Um Sistema de Recomendação para Adoção de Software Livre",
+        "curso": "Dissertação (Mestrado em Mestrado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "APOLINARIO JR, A. L.; ANDRADE, SANDRO S.; MELLO, V. M.. Participação em banca de Liordino dos Santos Rocha Neto. Renderização Não-Fotorealística de Líquidos Utilizando Filtro Bilateral Separado Iterativo. 2015. Dissertação (Mestrado em Mestrado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Mestrado",
+        "aluno": "Liordino dos Santos Rocha Neto",
+        "membros_banca": [
+          "APOLINARIO JR, A. L.",
+          "ANDRADE, SANDRO S.",
+          "MELLO, V. M."
+        ],
+        "titulo_trabalho": "Renderização Não-Fotorealística de Líquidos Utilizando Filtro Bilateral Separado Iterativo",
+        "curso": "Dissertação (Mestrado em Mestrado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "BITTENCOURT, R. A.; CONTE, T. U.; GUERREIRO, D. D. S.; SANT'ANNA, Cláudio; ANDRADE, SANDRO S.. Participação em banca de Débora Maria Coelho Nascimento. Educação em Engenharia de Software com a Adoção de Projetos de Código Aberto: Uma Análise Detalhada. 2017. Tese (Doutorado em Doutorado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Débora Maria Coelho Nascimento",
+        "membros_banca": [
+          "BITTENCOURT, R. A.",
+          "CONTE, T. U.",
+          "GUERREIRO, D. D. S.",
+          "SANT'ANNA, Cláudio",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Educação em Engenharia de Software com a Adoção de Projetos de Código Aberto: Uma Análise Detalhada",
+        "curso": "Tese (Doutorado em Doutorado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "SARAIVA, F.; PINTO, G.; ANDRADE, SANDRO S.. Participação em banca de Lucas Gabriel de Souza.UFPA Digital - Aplicativo Multiplataforma para Centralização de Informações sobre a Universidade Federal do Pará. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pará.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Lucas Gabriel de Souza",
+        "membros_banca": [
+          "SARAIVA, F.",
+          "PINTO, G.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "UFPA Digital - Aplicativo Multiplataforma para Centralização de Informações sobre a Universidade Federal do Pará",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal do Pará"
+      },
+      {
+        "descricao": "JESUS, T. S.; ROCHA, R.; ANDRADE, SANDRO S.. Participação em banca de Tércio Souza de Jesus.Chordix: Um Aplicativo para Auto-Acompanhamento Musical Através de Cifras. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Tércio Souza de Jesus",
+        "membros_banca": [
+          "JESUS, T. S.",
+          "ROCHA, R.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Chordix: Um Aplicativo para Auto-Acompanhamento Musical Através de Cifras",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; Novais, R. L.; ANDRADE, SANDRO S.. Participação em banca de Carlos Eduardo S. de Oliveira.Bengala Digital e Boné Digital à Serviço da Pessoa com Deficiência Visual. 2015. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carlos Eduardo S",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "Novais, R. L.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "de Oliveira.Bengala Digital e Boné Digital à Serviço da Pessoa com Deficiência Visual",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "Novais, R. L.; MARQUES NETO, M. C.; ANDRADE, SANDRO S.. Participação em banca de Flávio Ramon Lopes da Paixão Nunes.Uma Representação Visual para Gerenciamento de Emergências em Ambientes Fechados. 2015. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Flávio Ramon Lopes da Paixão Nunes",
+        "membros_banca": [
+          "Novais, R. L.",
+          "MARQUES NETO, M. C.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Uma Representação Visual para Gerenciamento de Emergências em Ambientes Fechados",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "Novais, R. L.; MARQUES NETO, M. C.; ANDRADE, SANDRO S.. Participação em banca de Luana Silva Lima.CityGuardian - Uma Ferramenta para Gerenciamento de Problemas em Cidades. 2015. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luana Silva Lima",
+        "membros_banca": [
+          "Novais, R. L.",
+          "MARQUES NETO, M. C.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "CityGuardian - Uma Ferramenta para Gerenciamento de Problemas em Cidades",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; FREITAS, A. E. S.; ANDRADE, SANDRO S.. Participação em banca de Débora do Nascimento Borges.NORMA: ferramenta web para submissão e avaliação de projetos de pesquisa. 2015. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Débora do Nascimento Borges",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "FREITAS, A. E. S.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "NORMA: ferramenta web para submissão e avaliação de projetos de pesquisa",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; SOUZA, A. C. S.; ANDRADE, S. S.. Participação em banca de Jorge Fernando Silva Pereira Filho.Localização de Placas de Licenciamento Veicular em Tempo Real Utilizando OpenCV com CUDA. 2014. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Jorge Fernando Silva Pereira Filho",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "SOUZA, A. C. S.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Localização de Placas de Licenciamento Veicular em Tempo Real Utilizando OpenCV com CUDA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "A. Maria Lúcia; ANDRADE, S. S.; BARBOSA, F.. Participação em banca de Milton Cesar Martins de Souza.Comparação Manual com Automatizada dos Testes Funcionais para o Instituto Recôncavo. 2011. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - União Metropolitana de Educação e Cultura.",
+        "ano": 2011,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Milton Cesar Martins de Souza",
+        "membros_banca": [
+          "A. Maria Lúcia",
+          "ANDRADE, S. S.",
+          "BARBOSA, F."
+        ],
+        "titulo_trabalho": "Comparação Manual com Automatizada dos Testes Funcionais para o Instituto Recôncavo",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "União Metropolitana de Educação e Cultura"
+      },
+      {
+        "descricao": "SALVADOR, L. do N.; MACIEL, R. S. P.; ANDRADE, S. S.. Participação em banca de Paulo Henrique de Oliveira Souza.Uma Proposta de Modelagem para Sistemas de Tempo-Real através da MDA. 2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2011,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Paulo Henrique de Oliveira Souza",
+        "membros_banca": [
+          "SALVADOR, L. do N.",
+          "MACIEL, R. S. P.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Uma Proposta de Modelagem para Sistemas de Tempo-Real através da MDA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; SANTOS, V. V.; POSSA, C.. Participação em banca de Aloísio Ferreira da Rocha Neto.Animação de Objetos através de Algoritmos e Inteligência Artificial. 2009. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Aloísio Ferreira da Rocha Neto",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "SANTOS, V. V.",
+          "POSSA, C."
+        ],
+        "titulo_trabalho": "Animação de Objetos através de Algoritmos e Inteligência Artificial",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; SANTOS, A. R.; FERREIRA JUNIOR, P. E.. Participação em banca de Margareth Maria Marques Dantas.Métricas para Acoplamento e Coesão em Sistemas Orientados a Objetos em Um Ambiente de Visualização de Software. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Margareth Maria Marques Dantas",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "SANTOS, A. R.",
+          "FERREIRA JUNIOR, P. E."
+        ],
+        "titulo_trabalho": "Métricas para Acoplamento e Coesão em Sistemas Orientados a Objetos em Um Ambiente de Visualização de Software",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; DAVID, J.; MARQUES NETO, M. C.. Participação em banca de Rudá Porto Filgueiras.Serviços de Redes Sociais: Um Framework Baseado em Componentes. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rudá Porto Filgueiras",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "DAVID, J.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "Serviços de Redes Sociais: Um Framework Baseado em Componentes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "RIBEIRO, F. F. S.; ANDRADE, S. S.; AMORIM, C. A.. Participação em banca de Allan Ferreira, João Canário e Liordino Rocha Neto.Uma Ferramenta OpenSource de Motion Capture Utilizando Marcações. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Allan Ferreira, João Canário e Liordino Rocha Neto",
+        "membros_banca": [
+          "RIBEIRO, F. F. S.",
+          "ANDRADE, S. S.",
+          "AMORIM, C. A."
+        ],
+        "titulo_trabalho": "Uma Ferramenta OpenSource de Motion Capture Utilizando Marcações",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "JORGE, E. M. F.; SANTOS, E. S.; BORATTO, M. C.; ANDRADE, S. S.. Participação em banca de Pedro Henrique Andrade Netto.GZIPFILTER: Um Componente de Compactação de Mensagens SOAP para o Framework AXIS com Persistência do Log em SGBD. 2008. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - União Metropolitana de Educação e Cultura.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Pedro Henrique Andrade Netto",
+        "membros_banca": [
+          "JORGE, E. M. F.",
+          "SANTOS, E. S.",
+          "BORATTO, M. C.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "GZIPFILTER: Um Componente de Compactação de Mensagens SOAP para o Framework AXIS com Persistência do Log em SGBD",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "União Metropolitana de Educação e Cultura"
+      },
+      {
+        "descricao": "DAVID, J.; MACIEL, R. S. P.; ANDRADE, S. S.. Participação em banca de Bruno Costa, Humberto Sposito e Lucas Bittencourt.Um Serviço de Comunicação na Web para a WGWSOA. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Costa, Humberto Sposito e Lucas Bittencourt",
+        "membros_banca": [
+          "DAVID, J.",
+          "MACIEL, R. S. P.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Um Serviço de Comunicação na Web para a WGWSOA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MACIEL, R. S. P.; DAVID, J.; ANDRADE, S. S.. Participação em banca de Guilherme David Garcia Toledo e Diego Lima Bastos.Ampliando os Serviços de Middleware para as Atividades de Coordenação em uma Infra-Estrutura para o Desenvolvimento de Groupware na Web. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Guilherme David Garcia Toledo e Diego Lima Bastos",
+        "membros_banca": [
+          "MACIEL, R. S. P.",
+          "DAVID, J.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Ampliando os Serviços de Middleware para as Atividades de Coordenação em uma Infra-Estrutura para o Desenvolvimento de Groupware na Web",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "GORENDER, S.; ANDRADE, S. S.; PALMA, W.. Participação em banca de Tito Garrido Ogando.Uma interface em XML-RPC para o Asterisk. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Tito Garrido Ogando",
+        "membros_banca": [
+          "GORENDER, S.",
+          "ANDRADE, S. S.",
+          "PALMA, W."
+        ],
+        "titulo_trabalho": "Uma interface em XML-RPC para o Asterisk",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CLARO, D. B.; ANDRADE, S. S.. Participação em banca de Andre de Amorim Fonseca.Criação de um Plugin para Composição de Serviços Web Utilizando a Plataforma de Desenvolvimento Eclipse. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Andre de Amorim Fonseca",
+        "membros_banca": [
+          "CLARO, D. B.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Criação de um Plugin para Composição de Serviços Web Utilizando a Plataforma de Desenvolvimento Eclipse",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, L.; SA, A.; ANDRADE, S. S.. Participação em banca de Ivo Cavalcante.Modelagem e Aplicação de Teoria de Controle na Gestão de Faltas de Página. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ivo Cavalcante",
+        "membros_banca": [
+          "BARRETO, L.",
+          "SA, A.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Modelagem e Aplicação de Teoria de Controle na Gestão de Faltas de Página",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SALVADOR, L. do N.; ANDRADE, S. S.; GOMES, E. A.. Participação em banca de Thiago Ribeiro de Almeida.Uma Linguagem e um Compilador para Definição de Comportamento Adaptativo em Sistemas Distribuídos Baseados em Componentes. 2008. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Salvador.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Thiago Ribeiro de Almeida",
+        "membros_banca": [
+          "SALVADOR, L. do N.",
+          "ANDRADE, S. S.",
+          "GOMES, E. A."
+        ],
+        "titulo_trabalho": "Uma Linguagem e um Compilador para Definição de Comportamento Adaptativo em Sistemas Distribuídos Baseados em Componentes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Salvador"
+      },
+      {
+        "descricao": "CLARO, D. B.; ANDRADE, S. S.; FREITAS, A. E. S.. Participação em banca de Igor Nogueira Santos.Aspectos de Replicação em Serviço Web: Avaliação de Desempenho Utiizando Serviços Stateful Através do AXIS2. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Igor Nogueira Santos",
+        "membros_banca": [
+          "CLARO, D. B.",
+          "ANDRADE, S. S.",
+          "FREITAS, A. E. S."
+        ],
+        "titulo_trabalho": "Aspectos de Replicação em Serviço Web: Avaliação de Desempenho Utiizando Serviços Stateful Através do AXIS2",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CLARO, D. B.; ANDRADE, S. S.; SA, A.. Participação em banca de Milton Carlos Silva Sodré.Avaliação do Processo de Desenvolvimento e Execução dos Serviços Web Através do WS-CAF (Web Services Composite Application Framework). 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Milton Carlos Silva Sodré",
+        "membros_banca": [
+          "CLARO, D. B.",
+          "ANDRADE, S. S.",
+          "SA, A."
+        ],
+        "titulo_trabalho": "Avaliação do Processo de Desenvolvimento e Execução dos Serviços Web Através do WS-CAF (Web Services Composite Application Framework)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, L.; ANDRADE, S. S.. Participação em banca de Leonardo Emanuel da Costa Carneiro.Acelerômetros como Interface Homem-Máquina. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leonardo Emanuel da Costa Carneiro",
+        "membros_banca": [
+          "BARRETO, L.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Acelerômetros como Interface Homem-Máquina",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, A.; FREITAS, A. E. S.; ANDRADE, S. S.. Participação em banca de Daniel Gomes.Uma Abordagem para Implementação de Cluster Virtual de Servidores Web. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Daniel Gomes",
+        "membros_banca": [
+          "ANDRADE, A.",
+          "FREITAS, A. E. S.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Uma Abordagem para Implementação de Cluster Virtual de Servidores Web",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; DURAN, Adolfo Almeida; SANT'ANNA, Cláudio. Participação em banca de Jailson A. de Brito Junior.Uma Abordagem Baseada em Componentes para Aplicações de Visão Computacional. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Jailson A",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "DURAN, Adolfo Almeida",
+          "SANT'ANNA, Cláudio"
+        ],
+        "titulo_trabalho": "de Brito Junior.Uma Abordagem Baseada em Componentes para Aplicações de Visão Computacional",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "LECHUGA, THIAGO; Oliveira, João; GOMES, E. A.; ANDRADE, S. S.. Participação em banca de João Ferreira D'Araujo e Oliveira e Thiago Alvarenga Lechuga.Um Servico para Tarifação de Recursos em Grids Computacionais Aplicado ao Globus Toolkit 4. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "João Ferreira D'Araujo e Oliveira e Thiago Alvarenga Lechuga",
+        "membros_banca": [
+          "LECHUGA, THIAGO",
+          "Oliveira, João",
+          "GOMES, E. A.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Um Servico para Tarifação de Recursos em Grids Computacionais Aplicado ao Globus Toolkit 4",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; MACIEL, R. S. P.; DAVID, J.. Participação em banca de Silvio José de Queiroz Pareira e Victor Oliveira Reyes.WGWSOA - Implementando Serviços de Middleware para Apoiar o Desenvolvimento de Aplicações Colaborativas. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Silvio José de Queiroz Pareira e Victor Oliveira Reyes",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "MACIEL, R. S. P.",
+          "DAVID, J."
+        ],
+        "titulo_trabalho": "WGWSOA - Implementando Serviços de Middleware para Apoiar o Desenvolvimento de Aplicações Colaborativas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SALVADOR, L. do N.; MASSA, M.; ANDRADE, S. S.. Participação em banca de João Marcelo Moraes Fernandes.Métricas para Análise de Complexidade em Programas Orientados a Objetos. 2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Salvador.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "João Marcelo Moraes Fernandes",
+        "membros_banca": [
+          "SALVADOR, L. do N.",
+          "MASSA, M.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Métricas para Análise de Complexidade em Programas Orientados a Objetos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Universidade Salvador"
+      },
+      {
+        "descricao": "BUCK, T. A.; SANTANCHÈ, A.; ANDRADE, S. S.. Participação em banca de Ricardo Castelo Branco Soares.Digital StoryTelling: Uma Implementação de Apoio ao Ensino à Distância. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Salvador.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ricardo Castelo Branco Soares",
+        "membros_banca": [
+          "BUCK, T. A.",
+          "SANTANCHÈ, A.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Digital StoryTelling: Uma Implementação de Apoio ao Ensino à Distância",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Salvador"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; MACIEL, R. S. P.; ARAUJO, J. G.. Participação em banca de Cleber Nascimento Ramos e Aristóteles Marçal.ATOME: Uma Ferramenta para Configuração e Implantação de Sistemas Distribuídos de Tempo-Real Baseados em Componentes. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Cleber Nascimento Ramos e Aristóteles Marçal",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "MACIEL, R. S. P.",
+          "ARAUJO, J. G."
+        ],
+        "titulo_trabalho": "ATOME: Uma Ferramenta para Configuração e Implantação de Sistemas Distribuídos de Tempo-Real Baseados em Componentes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; MACIEL, R. S. P.; ARAUJO, J. G.. Participação em banca de Hebert Filgueiras, Alex Souza e Fabio Rafael.IRIDIUM: Um Framework para Sistemas Adaptativos Distribuídos Baseados em Componentes. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Hebert Filgueiras, Alex Souza e Fabio Rafael",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "MACIEL, R. S. P.",
+          "ARAUJO, J. G."
+        ],
+        "titulo_trabalho": "IRIDIUM: Um Framework para Sistemas Adaptativos Distribuídos Baseados em Componentes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; MARQUES NETO, M. C.; SILVA, Bruno Carreiro da. Participação em banca de Cassiano Ricardo, Darlan Sampaio e Gerson Junior.Visualização Estrutural 3D de Sistemas Orientados a Objetos. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Cassiano Ricardo, Darlan Sampaio e Gerson Junior",
+        "membros_banca": [
+          "ANDRADE, S. S.",
+          "MARQUES NETO, M. C.",
+          "SILVA, Bruno Carreiro da"
+        ],
+        "titulo_trabalho": "Visualização Estrutural 3D de Sistemas Orientados a Objetos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "MACIEL, R. S. P.; ANDRADE, S. S.. Participação em banca de Antonio Ruy Júnior, Camila Oliveira Costa e Josué C. Silva.FACOA: Framework para gerência de projetos de co-autoria. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Antonio Ruy Júnior, Camila Oliveira Costa e Josué C",
+        "membros_banca": [
+          "MACIEL, R. S. P.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Silva.FACOA: Framework para gerência de projetos de co-autoria",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "GORENDER, S.; ARAUJO, J. G.; ANDRADE, S. S.. Participação em banca de Bruno Barros, Leonardo Passos, Vandré Carvalho.Implementação da função VerifyChannel e do detector de defeitos de módulos do QOS Provider. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Barros, Leonardo Passos, Vandré Carvalho",
+        "membros_banca": [
+          "GORENDER, S.",
+          "ARAUJO, J. G.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Implementação da função VerifyChannel e do detector de defeitos de módulos do QOS Provider",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "SIMOES, M. A. C.; ANDRADE, S. S.. Participação em banca de Adriano Silva de Lima e Orestes Oliveira Santos.Algoritmos de Consenso para o Tratamento de Falhas Bizantinas em Sistemas Distribuídos Assíncronos. 2005. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Adriano Silva de Lima e Orestes Oliveira Santos",
+        "membros_banca": [
+          "SIMOES, M. A. C.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Algoritmos de Consenso para o Tratamento de Falhas Bizantinas em Sistemas Distribuídos Assíncronos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "GOMES, E. A.; ARAUJO, J. G.; ANDRADE, S. S.. Participação em banca de Antonio Luis A. Reuter e Marcelo Canário Gonçalves.Um Serviço DCE/RPC em GNU/Linux: Análise de Conformidade. 2004. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Ruy Barbosa.",
+        "ano": 2004,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Antonio Luis A",
+        "membros_banca": [
+          "GOMES, E. A.",
+          "ARAUJO, J. G.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Reuter e Marcelo Canário Gonçalves.Um Serviço DCE/RPC em GNU/Linux: Análise de Conformidade",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Ruy Barbosa"
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Participação em banca de Paulo Gomes de Prado.Estudo da Previsibilidade do Serviço de Eventos do Real-Time CORBA. 2004. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2004,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Paulo Gomes de Prado",
+        "membros_banca": [
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Estudo da Previsibilidade do Serviço de Eventos do Real-Time CORBA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Participação em banca de Eric de Carvalho Jardim Silva.Um Sistema para Reconhecimento de Faces Humanas. 2003. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2003,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Eric de Carvalho Jardim Silva",
+        "membros_banca": [
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Um Sistema para Reconhecimento de Faces Humanas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Participação em banca de Fábio André Silva Reis.Deformação Elástica de Contornos Aplicado a Busca em Banco de Dados de Imagens. 2000. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2000,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Fábio André Silva Reis",
+        "membros_banca": [
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Deformação Elástica de Contornos Aplicado a Busca em Banco de Dados de Imagens",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, SANDRO S.. Membro do Comitê de Programa do Workshop de Trabalhos de Iniciação Científica e Graduação - WTICGBASE - Escola Regional de Computação - Bahia, Sergipe, Alagoas. 2016. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2016,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro do Comitê de Programa do Workshop de Trabalhos de Iniciação Científica e Graduação - WTICGBASE - Escola Regional de Computação - Bahia, Sergipe, Alagoas. 2008. Faculdade Ruy Barbosa.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Ruy Barbosa.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro do Comitê de Programa do Workshop de Trabalhos de Iniciação Científica e Graduação - WTICGBASE - Escola Regional de Computação - Bahia, Sergipe, Alagoas. 2007. Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Ruy Barbosa.",
+        "universidade": ""
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "ANDRADE, SANDRO S.; Novais, R. L.; BORGES, F.. Participação em banca de Ailton Carlos de S. Filho. Avaliação de Desempenho de Algoritmo de Caminho Mínimo sobre Raster em Ambiente SIG Web. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "Ailton Carlos de S",
+        "membros_banca": [
+          "ANDRADE, SANDRO S.",
+          "Novais, R. L.",
+          "BORGES, F."
+        ],
+        "titulo_trabalho": "Filho. Avaliação de Desempenho de Algoritmo de Caminho Mínimo sobre Raster em Ambiente SIG Web",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; Novais, R. L.; ANDRADE, SANDRO S.. Participação em banca de Edvaldo M. F. de Jesus Jr.. Utilizando Mapas de Profundidade para Detecção de Pessoas em Ambientes Internos. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "Edvaldo M. F",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "Novais, R. L.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "de Jesus Jr.. Utilizando Mapas de Profundidade para Detecção de Pessoas em Ambientes Internos",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, SANDRO S.; MARQUES NETO, M. C.; Novais, R. L.. Participação em banca de Rafael Neves Brandão. Visualizando Rotas de Fugas em Ambientes Fechados. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "Rafael Neves Brandão",
+        "membros_banca": [
+          "ANDRADE, SANDRO S.",
+          "MARQUES NETO, M. C.",
+          "Novais, R. L."
+        ],
+        "titulo_trabalho": "Visualizando Rotas de Fugas em Ambientes Fechados",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; BARBOSA, F.; ANDRADE, SANDRO S.. Participação em banca de Vinicius Azevedo de Melo. Uma Biblioteca de Plugins para Detecção de Classes de Objetos. 2015. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "Vinicius Azevedo de Melo",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "BARBOSA, F.",
+          "ANDRADE, SANDRO S."
+        ],
+        "titulo_trabalho": "Uma Biblioteca de Plugins para Detecção de Classes de Objetos",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "BARBOSA, F.; ANDRADE, S. S.. Participação em banca de Isac Velozo de C. Aguiar. AGMAX - Ferramenta para Gerenciamento de Algoritmos Genéticos Distribuídos em Ilhas de Evolução. 2010. Monografia (Aperfeiçoamento/Especialização em Especialização Avançada em Sistemas Distribuídos) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Participação em banca",
+        "aluno": "Isac Velozo de C",
+        "membros_banca": [
+          "BARBOSA, F.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Aguiar. AGMAX - Ferramenta para Gerenciamento de Algoritmos Genéticos Distribuídos em Ilhas de Evolução",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização Avançada em Sistemas Distribuídos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, L.; ANDRADE, S. S.. Participação em banca de Jaguaraci Batista Silva. Criação de Regras de Negócio Desaclopadas dos Modelos MDA (Model-Driven Architecture). 2008. Monografia (Aperfeiçoamento/Especialização em Especialização Avançada em Sistemas Distribuídos) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Participação em banca",
+        "aluno": "Jaguaraci Batista Silva",
+        "membros_banca": [
+          "BARRETO, L.",
+          "ANDRADE, S. S."
+        ],
+        "titulo_trabalho": "Criação de Regras de Negócio Desaclopadas dos Modelos MDA (Model-Driven Architecture)",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização Avançada em Sistemas Distribuídos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ANDRADE, S. S.; BEZERRA, R. M. S.; PITANGUEIRA, A. M. S.. Concurso Público para Professor Substituto do Magistério do Ensino Básico, Técnico e Tecnológico - Gerência e Auditoria de Projetos de Software - Edital 02 de 17 de Janeiro de 2011. 2011. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2011,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "2011. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "Massa, M. de S.; Teles, E.; ANDRADE, S. S.. Concurso Público para Professor Assistente - Desenvolvimento de Sistemas / Engenharia de Software / Gerência de Projetos de Sistemas. 2011. Universidade do Estado da Bahia.",
+        "ano": 2011,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade do Estado da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SOUZA, A. C. S.; ANDRADE, S. S.; CLARO, D. B.. Concurso Público para Professor do Magistério do Ensino Básico, Técnico e Tecnológico - Gerência e Auditoria de Projetos de Software. 2010. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2010,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, SANDRO S.. Membro do Comitê de Programa do XVII International Free Software Workshop (WSL). 2016. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, SANDRO S.. Membro do Comitê de Programa do VIII Fórum de Educação em Engenharia de Software (FEES 2015) - Evento satélite do Simpósio Brasileiro de Engenharia de Software (SBES). 2015. Pontifícia Universidade Católica de Minas Gerais.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Pontifícia Universidade Católica de Minas Gerais.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro do Comitê de Programa do II Encontro Nacional de Computação dos Institutos Federais - Congresso da SBC. 2014. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, SANDRO S.. Membro do Comitê de Programa do VII Fórum de Educação em Engenharia de Software (FEES 2014) - Evento satélite do Simpósio Brasileiro de Engenharia de Software (SBES). 2014. Universidade Federal de Alagoas.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal de Alagoas.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro do Comitê de Programa do I Encontro Nacional de Computação dos Institutos Federais - Congresso da SBC. 2013. Instituto Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro do Comitê de Programa do VIII CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação. 2013. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2013,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro de Comitê de Avaliação do Edital Nº 02/2013/PRPGI/IFBA do Programa Institucional de iniciação Científica e Tecnológica ? PIBIC. 2013. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2013,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. ACM International Collegiate Programming Contest - South America / Brazil - First Phase - Judge. 2010. Universidade do Estado da Bahia.",
+        "ano": 2010,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade do Estado da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ANDRADE, S. S.. Membro do Comitê de Programa do Workshop de Educação e Informática - WEIBASE - Escola Regional de Computação - Bahia, Sergipe, Alagoas. 2007. Faculdade Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Ruy Barbosa.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 2,
+    "total_livros": 0,
+    "total_capitulos": 3,
+    "total_trabalhos_congressos": 41,
+    "total_projetos_pesquisa": 12,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 4,
+    "total_orientacoes_concluidas": 11,
+    "total_orientacoes_andamento": 0
+  }
+}

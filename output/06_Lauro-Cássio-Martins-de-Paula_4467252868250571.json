@@ -1,0 +1,3777 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4467252868250571",
+    "nome_completo": "Lauro Cássio Martins de Paula",
+    "nome_citacoes": "PAULA, L. C. M.;DE PAULA, LAURO C. M.;PAULA, LAURO C. M. DE;de Paula, Lauro Cássio Martins;MARTINS DE'PAULA, LAURO C.;DE PAULA, LAURO C.M.;DE PAULA, LAURO CÁSSIO M.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, IFBA - Campus Salvador. Rua Emídio dos Santos Barbalho 40301015 - Salvador, BA - Brasil Telefone: (71) 21029473 URL da Homepage: http://www.ifba.edu.br/",
+    "atualizacao_cv": "15/04/2026",
+    "url": "http://lattes.cnpq.br/4467252868250571",
+    "texto_resumo": "Possui Graduação em Bacharelado em Ciência da Computação com ênfase em Matemática Computacional pela Pontifícia Universidade Católica de Goiás (2012), Mestrado em Ciência da Computação pela Universidade Federal de Goiás - UFG (2014) e Doutorado em Ciência da Computação pela UFG (2018). De 2014 até 2018, Lauro foi professor horista em algumas universidades particulares no estado de Goiás. De 2019 até 2022, foi professor efetivo no Instituto Federal da Bahia (IFBA) - Campus Santo Antônio de Jesus, onde também atuou como coordenador de pesquisa. Desde 2023, Lauro é professor efetivo no IFBA - Campus Salvador. Lauro também atua como líder do grupo de pesquisa em Ciência de Dados; orientador de trabalhos acadêmicos; produtor de conteúdo disciplinar; e revisor de periódicos científicos nacionais e internacionais. Possui importantes publicações de artigos científicos internacionais, com apresentações em quatro países (Marrocos, EUA, Canadá e Alemanha) e conquistas de prêmios de excelência em pesquisa científica. Tem interesse em problemas e aplicações que envolvem: computação paralela, algoritmos evolutivos, meta-heurísticas para seleção de variáveis, estudo e aplicação de Big Data e Machine Learning em Ciência de Dados. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2018",
+      "descricao": "Título: Variable Selection in Multivariate Calibration considering Non-Decomposability Assumption and Building Blocks Hypothesis O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2018. Orientador: Anderson da Silva Soares. Coorientador: Clarimar José Coelho. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Multivariate Calibration; Variable Selection; Building Blocks; Epistasis; Decomposability. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Computacional. Grande Área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Estatística / Especialidade: Análise Multivariada."
+    },
+    {
+      "tipo": "Mestrado em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "descricao": "Título: Paralelização de Algoritmos APS e Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2014. Orientador: Anderson da Silva Soares. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Seleção de Variáveis; GPU; CUDA; Calibração Multivariada; Regressão Linear Múltipla. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Computacional. Grande Área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Estatística / Especialidade: Análise Multivariada."
+    },
+    {
+      "tipo": "Especialização interrompida em 2018 em Big Data e Machine Learning",
+      "nome_instituicao": "(Carga Horária: 360h)",
+      "ano_inicio": "2017 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Faculdade Sul-Americana, FASAM, Brasil. Ano de interrupção: 2018"
+    },
+    {
+      "tipo": "Graduação em Ciência da Computação",
+      "nome_instituicao": "Pontifícia Universidade Católica de Goiás, PUC GO, Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2012",
+      "descricao": "Título: Programação Paralela CUDA para Simulação de Modelos Epidemiológicos baseados em Indivíduos. Orientador: Clarimar José Coelho. Bolsista do(a): Organização das voluntárias de Goiás, OVG, Brasil."
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "Colégio Estadual Olavo Bilac, CEOB, Brasil",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2004",
+      "descricao": ""
+    },
+    {
+      "tipo": "Ensino Fundamental (1º grau)",
+      "nome_instituicao": "Escola Estadual Duca Viggiano, EEDV, Brasil",
+      "ano_inicio": "1998",
+      "ano_conclusao": "2001",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Efetivo",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2025 - 02/2026",
+      "ano_inicio": "2025",
+      "ano_fim": "2026",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2025 - 02/2026",
+      "ano_inicio": "2025",
+      "ano_fim": "2026",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2025 - 02/2026",
+      "ano_inicio": "2025",
+      "ano_fim": "2026",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2025 - 08/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2025 - 08/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2025 - 08/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2024 - 03/2025",
+      "ano_inicio": "2024",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2024 - 03/2025",
+      "ano_inicio": "2024",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2024 - 08/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2024 - 08/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2021 - 12/2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2020 - 12/2022",
+      "ano_inicio": "2020",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2022",
+      "ano_inicio": "2019",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2022",
+      "ano_inicio": "2019",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - 12/2022",
+      "ano_inicio": "2019",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2020 - 11/2022",
+      "ano_inicio": "2020",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - 02/2022",
+      "ano_inicio": "2019",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2021 - 05/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2021 - 05/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 04/2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 03/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 03/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 03/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2019 - 03/2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2019 - 09/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Santo Antônio de Jesus."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2019 - 06/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil.",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": "Sem vínculo empregatício",
+      "enquadramento": "Produção de conteúdo disciplinar",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2023 - 01/2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Sul-Americana, FASAM, Brasil.",
+      "instituicao_nome": "Faculdade Sul-Americana",
+      "instituicao_sigla": "FASAM",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Outro",
+      "enquadramento": "Professor Convidado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Sul-Americana, FASAM, Brasil",
+      "instituicao_nome": "Faculdade Sul-Americana",
+      "instituicao_sigla": "FASAM",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Sul-Americana, FASAM, Brasil.",
+      "instituicao_nome": "Faculdade Sul-Americana",
+      "instituicao_sigla": "FASAM",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": "Outro",
+      "enquadramento": "Professor Convidado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Sul-Americana, FASAM, Brasil",
+      "instituicao_nome": "Faculdade Sul-Americana",
+      "instituicao_sigla": "FASAM",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Sul-Americana, FASAM, Brasil",
+      "instituicao_nome": "Faculdade Sul-Americana",
+      "instituicao_sigla": "FASAM",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2018 - 05/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Sul-Americana, FASAM, Brasil",
+      "instituicao_nome": "Faculdade Sul-Americana",
+      "instituicao_sigla": "FASAM",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2017 - 09/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil.",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - 2018",
+      "ano_inicio": "2016",
+      "ano_fim": "2018",
+      "vinculo": "Outro",
+      "enquadramento": "Professor Horista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2018 - 06/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2018 - 06/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 06/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 06/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 06/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 06/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário de Goiás, UNIGOIÁS, Brasil",
+      "instituicao_nome": "Centro Universitário de Goiás",
+      "instituicao_sigla": "UNIGOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 06/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Paulista, UNIP, Brasil.",
+      "instituicao_nome": "Universidade Paulista",
+      "instituicao_sigla": "UNIP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": "Outro",
+      "enquadramento": "Professor Horista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Paulista, UNIP, Brasil",
+      "instituicao_nome": "Universidade Paulista",
+      "instituicao_sigla": "UNIP",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Paulista, UNIP, Brasil",
+      "instituicao_nome": "Universidade Paulista",
+      "instituicao_sigla": "UNIP",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Paulista, UNIP, Brasil",
+      "instituicao_nome": "Universidade Paulista",
+      "instituicao_sigla": "UNIP",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 06/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Paulista, UNIP, Brasil",
+      "instituicao_nome": "Universidade Paulista",
+      "instituicao_sigla": "UNIP",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 06/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pontifícia Universidade Católica de Goiás, PUC GOIÁS, Brasil.",
+      "instituicao_nome": "Pontifícia Universidade Católica de Goiás",
+      "instituicao_sigla": "PUC GOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - 2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": "Outro",
+      "enquadramento": "Professor Convidado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pontifícia Universidade Católica de Goiás, PUC GOIÁS, Brasil.",
+      "instituicao_nome": "Pontifícia Universidade Católica de Goiás",
+      "instituicao_sigla": "PUC GOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2016",
+      "ano_inicio": "2015",
+      "ano_fim": "2016",
+      "vinculo": "Voluntário",
+      "enquadramento": "Orientador acadêmico",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pontifícia Universidade Católica de Goiás, PUC GOIÁS, Brasil",
+      "instituicao_nome": "Pontifícia Universidade Católica de Goiás",
+      "instituicao_sigla": "PUC GOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2015 - 12/2016",
+      "ano_inicio": "2015",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pontifícia Universidade Católica de Goiás, PUC GOIÁS, Brasil",
+      "instituicao_nome": "Pontifícia Universidade Católica de Goiás",
+      "instituicao_sigla": "PUC GOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2016 - 06/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pontifícia Universidade Católica de Goiás, PUC GOIÁS, Brasil",
+      "instituicao_nome": "Pontifícia Universidade Católica de Goiás",
+      "instituicao_sigla": "PUC GOIÁS",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2009 - 12/2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Anhanguera de Anápolis, ANHANGUERA, Brasil.",
+      "instituicao_nome": "Faculdade Anhanguera de Anápolis",
+      "instituicao_sigla": "ANHANGUERA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": "Outro",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Anhanguera de Anápolis, ANHANGUERA, Brasil",
+      "instituicao_nome": "Faculdade Anhanguera de Anápolis",
+      "instituicao_sigla": "ANHANGUERA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2014 - 06/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade Anhanguera de Anápolis, ANHANGUERA, Brasil",
+      "instituicao_nome": "Faculdade Anhanguera de Anápolis",
+      "instituicao_sigla": "ANHANGUERA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2014 - 12/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Tec."
+      ]
+    },
+    {
+      "instituicao": "Faculdade Anhanguera de Anápolis, ANHANGUERA, Brasil",
+      "instituicao_nome": "Faculdade Anhanguera de Anápolis",
+      "instituicao_sigla": "ANHANGUERA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2014 - 12/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil.",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2018",
+      "ano_inicio": "2015",
+      "ano_fim": "2018",
+      "vinculo": "Outro",
+      "enquadramento": "Aluno de Doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil.",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2018",
+      "ano_inicio": "2012",
+      "ano_fim": "2018",
+      "vinculo": "Outro",
+      "enquadramento": "Coordenador Técnico de Webconferência do CIAR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil.",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": "Outro",
+      "enquadramento": "Aluno de Mestrado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil.",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": "Voluntário",
+      "enquadramento": "Aluno de Iniciação Científica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2015 - 10/2018",
+      "ano_inicio": "2015",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Informática."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2012 - 10/2018",
+      "ano_inicio": "2012",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2013 - 07/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2010 - 07/2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.",
+      "instituicao_nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de Mestrado",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil",
+      "instituicao_nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2015 - 12/2018",
+      "ano_inicio": "2015",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Informática - UFG."
+      ]
+    },
+    {
+      "instituicao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil",
+      "instituicao_nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2013 - 07/2014",
+      "ano_inicio": "2013",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Informática - UFG."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal de Mato Grosso do Sul, UFMS, Brasil.",
+      "instituicao_nome": "Universidade Federal de Mato Grosso do Sul",
+      "instituicao_sigla": "UFMS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2018",
+      "ano_inicio": "2015",
+      "ano_fim": "2018",
+      "vinculo": "Outro",
+      "enquadramento": "Aluno de Doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Eletrobras Furnas, EF, Brasil.",
+      "instituicao_nome": "Eletrobras Furnas",
+      "instituicao_sigla": "EF",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Eletrobras Furnas, EF, Brasil",
+      "instituicao_nome": "Eletrobras Furnas",
+      "instituicao_sigla": "EF",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2011 - 07/2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Eletrobras Furnas, EF, Brasil",
+      "instituicao_nome": "Eletrobras Furnas",
+      "instituicao_sigla": "EF",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2011 - 07/2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Eletrobras Furnas, EF, Brasil",
+      "instituicao_nome": "Eletrobras Furnas",
+      "instituicao_sigla": "EF",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2011 - 07/2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Rede Empresarial, EE, Brasil.",
+      "instituicao_nome": "Rede Empresarial",
+      "instituicao_sigla": "EE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Rede Empresarial, EE, Brasil",
+      "instituicao_nome": "Rede Empresarial",
+      "instituicao_sigla": "EE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Rede Empresarial, EE, Brasil",
+      "instituicao_nome": "Rede Empresarial",
+      "instituicao_sigla": "EE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2010 - 03/2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Rede Empresarial, EE, Brasil",
+      "instituicao_nome": "Rede Empresarial",
+      "instituicao_sigla": "EE",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2010 - 03/2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Acta Brasil Informática, ACTA BRASIL, Brasil.",
+      "instituicao_nome": "Acta Brasil Informática",
+      "instituicao_sigla": "ACTA BRASIL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Acta Brasil Informática, ACTA BRASIL, Brasil",
+      "instituicao_nome": "Acta Brasil Informática",
+      "instituicao_sigla": "ACTA BRASIL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Acta Brasil Informática, ACTA BRASIL, Brasil",
+      "instituicao_nome": "Acta Brasil Informática",
+      "instituicao_sigla": "ACTA BRASIL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2009 - 01/2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "JP Instalações Comerciais, JP, Brasil.",
+      "instituicao_nome": "JP Instalações Comerciais",
+      "instituicao_sigla": "JP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2009",
+      "ano_inicio": "2005",
+      "ano_fim": "2009",
+      "vinculo": "Outro",
+      "enquadramento": "Funcionário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "JP Instalações Comerciais, JP, Brasil",
+      "instituicao_nome": "JP Instalações Comerciais",
+      "instituicao_sigla": "JP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Aplicação da Ciência de Dados no Desenvolvimento de Trabalhos Acadêmicos do IFBA",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: Este projeto proporciona aos discentes do campus Salvador a possibilidade de realização de planos de trabalho de iniciação científica, conclusão de curso, dissertações de mestrado e teses de doutorado na área de ciência de dados. Além disso, encontros semanais ocorrem no campus para a apresentação de seminários e divulgação do andamento dos trabalhos realizados. O objetivo consiste na obtenção de resultados relevantes para a publicação de artigos científicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Lauro Cássio Martins de Paula - Coordenador. Número de produções C, T & A: 11"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Pesquisa Científica e Desenvolvimento de Trabalhos Acadêmicos no IFBA-SAJ",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2023",
+      "descricao": [
+        "Descrição: Este projeto visa proporcionar aos alunos do Instituto Federal da Bahia - Campus Santo Antônio de Jesus diversas linhas de pesquisa como opção de temas de estudo para o desenvolvimento de trabalhos de iniciação científica e de conclusão de curso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Lauro Cássio Martins de Paula - Coordenador / Flávio Pereira da Silva - Integrante. Número de produções C, T & A: 5"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Flávio Pereira da Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Estudo e Aplicação de Big Data e Machine Learning em Ciência de Dados",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: A Ciência de Dados tem sido fundamental em diversas áreas do conhecimento para a obtenção de informações importantíssimas na tomada de decisões. Para isso, diferentes técnicas computacionais de Big Data e Machine Learning são empregadas em grandes volumes de dados do mundo real. Nesse contexto, este projeto de pesquisa visa propiciar aos alunos do Instituto Federal da Bahia - Campus Santo Antônio de Jesus uma iniciação ao universo científico na área de Ciência de Dados. Portanto, a partir deste projeto, planos de trabalho tanto de iniciação científica quanto de conclusão de curso poderão ser escritos para que os alunos realizem pesquisas nessa área de estudo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Lauro Cássio Martins de Paula - Coordenador / Felipe Xavier Passos - Integrante / Jorge Mendes de Almeida Filho - Integrante. Número de produções C, T & A: 8"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Felipe Xavier Passos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jorge Mendes de Almeida Filho",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Variable Selection in Multivariate Calibration considering Non-Decomposability Assumption and Building Blocks Hypothesis",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: The procedure used to select a subset of suitable features in a given data set consists in variable selection, which is important when the dataset contains large number of variables and many of them are redundant. Multivariate calibration combines variable selection with statistical techniques to build mathematical models which relate the data to a given property of interest in order to predict this property by selecting informative variables. In this context, variable selection techniques have been widely applied to the solution of several optimization problems. For instance, Genetic Algorithms (GAs) are easy to implement and consist in a population-based model that uses selection and recombination operators to generate new solutions. However, usually in multivariate calibration the dataset present a considerable correlation degree among variables and this provides an evidence about the problem not being properly decomposed. Moreover, some studies in literature have claimed genetic operators used by GAs can cause the building blocks (BBs) disruption of viable solutions. Therefore, this work aims to claim that selecting variables in multivariate calibration is a non-completely decomposable problem (hypothesis 1) as well as that recombination operators affects the non-decomposability assumption (hypothesis 2). Additionally, we are proposing two heuristics, one local search-based operator and two versions of an Epistasis-based Feature Selection Algorithm (EbFSA) to improve model prediction performance and avoid BBs disruption. Based on the performed inquiry and experimental results, we are able to endorse the viability of our hypotheses and demonstrate EbFSA can overcome some traditional algorithms.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Lauro Cássio Martins de Paula - Integrante / Anderson da Silva Soares - Coordenador / Clarimar José Coelho - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa. Número de produções C, T & A: 13"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson da Silva Soares",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Clarimar José Coelho",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Reconhecimento Automático de Padrões em Imagens obtidas por VANT para Aplicação na Agricultura",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: Pesquisa e desenvolvimento de diferentes técnicas e métodos para a aquisição e o processamento de imagens, vídeos, visão computacional e paralelização de algoritmos em placas gráficas (Graphics Processing Units, GPUs) e arranjo de portas programável em campo (Field-Programmable Gate Array, FPGA) aplicados na navegação autônoma de Veículos Aéreos Não Tripulados (VANT) para a detecção de marcos visuais em imagens, autolocalização e reconstrução tridimensional para aplicações no manejo agrícola e gerenciamento ambiental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) / Mestrado acadêmico: (5) / Doutorado: (4) . Integrantes: Lauro Cássio Martins de Paula - Integrante / Anderson da Silva Soares - Integrante / Telma Woerle de Lima - Integrante / Clarimar José Coelho - Coordenador / Arlindo Rodrigues Galvão Filho - Integrante / Gustavo Teodoro Laureano - Integrante / Caio Marcelo Nunes - Integrante. Financiador(es): Fundação de Amparo a Pesquisa do Estado de Goiás - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson da Silva Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Telma Woerle de Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Clarimar José Coelho",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Arlindo Rodrigues Galvão Filho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gustavo Teodoro Laureano",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Caio Marcelo Nunes",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo a Pesquisa do Estado de Goiás",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Paralelização de Algoritmos APS e Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "descricao": [
+        "Descrição: O problema de seleção de variáveis consiste na seleção de atributos de uma determinada amostra que melhor contribuem para a predição da propriedade de interesse. O Algoritmo das Projeções Sucessivas (APS) tem sido bastante utilizado para seleção de variáveis em problemas de calibração multivariada. Entre os algoritmos bioinspirados, nota-se que o Algoritmo Fire f ly (AF) é um novo método proposto com potencial de aplicação em vários problemas do mundo real, tais como problemas de seleção de variáveis. A principal desvantagem desses dois algoritmos encontra-se em suas cargas computacionais, conforme seu tamanho aumenta com o número de variáveis. Os avanços recentes das Graphics Processing Units (GPUs) têm fornecido para os algoritmos uma poderosa plataforma de processamento e, com isso, sua utilização torna-se muitas vezes indispensável para a redução do tempo computacional. Nesse contexto, este projeto propõs uma implementação paralela em GPU de um AF (AF-RLM) para seleção de variáveis usando modelos de Regressão Linear Múltipla (RLM). Além disso, apresentou-se duas implementações do APS, uma utilizando RLM (APS-RLM) e uma outra que utiliza a estratégia de Regressões Sequenciais (APS-RS). Tais implementações visaram melhorar a eficiência computacional dos algoritmos. As vantagens das implementações paralelas foram demonstradas em um exemplo envolvendo um número relativamente grande de variáveis. Em tal exemplo, ganhos de speedup foram obtidos. Adicionalmente, realizou-se uma comparação do AF-RLM com o APS-RLM e APS-RS. Com base nos resultados obtidos, mostrou-se que o AF-RLM pode ser uma contribuição relevante para o problema de seleção de variáveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Lauro Cássio Martins de Paula - Integrante / Anderson da Silva Soares - Coordenador. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa. Número de produções C, T & A: 11"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson da Silva Soares",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Programação Paralela CUDA para Simulação de Modelos Epidemiológicos baseados em Indivíduos",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: A epidemiologia computacional consiste no desenvolvimento e uso de modelos computacionais com o objetivo de compreender a proliferação de doenças do ponto de vista dinâmico. Os modelos computacionais são capazes de simular o comportamento de uma determinada epidemia e seus efeitos na população de uma região e desenvolvem estratégias de controle e prevenção de enfermidades. A epidemiologia computacional propõe modelos que classificam indivíduos como suscetíveis, infectados e recuperados (SIR) e baseados no indivíduo (IBM). O modelo SIR considera a distribuição homogênea de indivíduos no espaço e no tempo e não é capaz de explicar a persistência ou erradicação de doenças infecciosas. O IBM reproduz as premissas do modelo SIR para a análise do indivíduo. O custo computacional de um modelo para simular o comportamento de uma epidemia cresce em função do tamanho da população considerada. Este projeto implementou o IBM empregando programação paralela em unidade de processamento gráfico (GPU) e arquitetura de dispositivo unificado de computação (CUDA) visando ganhar desempenho em relação a implementação tradicional. Os resultados mostraram que em algumas situações a redução do tempo computacional fica em torno de 170% e que a taxa de crescimento com o aumento do tamanho da população é duas vezes menor na implementação paralela quando comparada com uma implementação sequencial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Doutorado: (1) . Integrantes: Lauro Cássio Martins de Paula - Integrante / Arlindo Rodrigues Galvão Filho - Integrante / Clarimar José Coelho - Coordenador. Número de produções C, T & A: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Arlindo Rodrigues Galvão Filho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Clarimar José Coelho",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Software livre SisLin para solução de sistemas lineares grandes e esparsos e sua integração ao software de CFD FluidoSSS",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: Desenvolveu-se neste projeto um software de uso irrestrito e código aberto, em linguagem C++, para solução iterativa de sistemas lineares. Os métodos clássicos Jacobi e Gauss-Seidel foram implementados, juntamente com BiCGStab e BiCGStab(2), em destaque na literatura contemporânea para solução de sistemas grandes e esparsos. Em sua primeira aplicação, o software, nomeado SisLin, foi integrado ao software FluidoSSS de dinâmica dos fluidos computacional, também em desenvolvimento nessa linha de pesquisa e de uso irrestrito, para simulação numérica de um escoamento bidimensional de fluido incompressível sob pressão. Mil sistemas lineares de 1200 equações foram resolvidos para comparação da velocidade de convergência dos quatro métodos. Especificamente neste estudo inicial, constatou-se uma equivalência entre BiCGStab e BiCGStab(2) e a superioridade de ambos em relação aos métodos de Jacobi e Gauss-Seidel. O software foi desenvolvido com interface gráfica e fácil entrada de dados, buscandose aplicações didáticas nas diversas áreas da Ciência que envolvam a solução de sistemas lineares.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) . Integrantes: Lauro Cássio Martins de Paula - Integrante / Leonardo Barra Santana de Souza - Coordenador / Leandro Barra Santana de Souza - Integrante. Número de produções C, T & A: 4"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leonardo Barra Santana de Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Leandro Barra Santana de Souza",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Comparação de métodos iterativos para solução de sistemas lineares esparsos e sua implementação em código computacional na linguagem C++",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: As equações diferenciais de conservação da massa e da quantidade de movimento aplicadas a um sistema fluido, também conhecidas como as equações de Navier-Stokes, são resolvidas de forma numérica para que o escoamento de fluidos seja representado matematicamente. Para solução das equações de conservação através desses métodos, um sistema linear é gerado, cujas incógnitas são diferencias de pressão, ou variações de pressão, em diversas regiões do escoamento estudado, denominadas células, nas quais se deseja calcular valores de pressão e velocidade em cada passo no tempo. Com isso, a pesquisa, a implementação e a comparação de métodos iterativos nos códigos computacionais compreendem tarefa importante nos estudos envolvendo a Dinâmica dos Fluidos Computacional e outras áreas da Ciência que envolvam a solução de grandes sistemas de equações. Portanto, o objetivo deste projeto foi a pesquisa e seleção de métodos iterativos de solução de sistemas lineares grandes e esparsos, juntamente com o desenvolvimento de um software para solução de sistemas lineares com os métodos selecionados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) . Integrantes: Lauro Cássio Martins de Paula - Integrante / Leonardo Barra Santana de Souza - Coordenador / Leandro Barra Santana de Souza - Integrante. Número de produções C, T & A: 5"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lauro Cássio Martins de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leonardo Barra Santana de Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Leandro Barra Santana de Souza",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Ciência de Dados",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Ciência de Dados."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Matemática da Computação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Análise Multivariada",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Análise Multivariada."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Pouco."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Perfil de Pesquisador Científico selecionado como vencedor do prêmio Young Scientist da 4th International Scientist Awards on Engineering, Science and Medicine, em Chennai - Índia.",
+      "ano": 2020
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Matemática Computacional",
+      "objetivo": ""
+    },
+    {
+      "nome": "Construções de Modelos Matemáticos e Técnicas de Soluções Numéricas",
+      "objetivo": ""
+    },
+    {
+      "nome": "Computação Paralela",
+      "objetivo": ""
+    },
+    {
+      "nome": "Otimização Multiobjetivo",
+      "objetivo": ""
+    },
+    {
+      "nome": "Inteligência Computacional",
+      "objetivo": ""
+    },
+    {
+      "nome": "Big Data e Machine Learning",
+      "objetivo": ""
+    },
+    {
+      "nome": "Ciência de Dados",
+      "objetivo": ""
+    },
+    {
+      "nome": "Machine Learning",
+      "objetivo": ""
+    },
+    {
+      "nome": "Big Data",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Bat algorithm for variable selection in multivariate classification modeling using linear discriminant analysis",
+        "ano": 2023,
+        "autores": "SOUZA, JULIANA DA CRUZ ; SOARES, SÓFACLES F.C. ; DE PAULA, LAURO CÁSSIO M. ; COELHO, CLARIMAR J. ; DE ARAÚJO, MÁRIO CÉSAR UGULINO ; SILVA, EDVAN CIRINO DA",
+        "revista": "MICROCHEMICAL JOURNAL",
+        "volume": "187",
+        "numero": "",
+        "paginas": "108382-1",
+        "issn": "0026-265X",
+        "doi": "http://dx.doi.org/10.1016/j.microc.2022.108382",
+        "qualis": ""
+      },
+      {
+        "titulo": "Epistasis-based FSA: Two versions of a novel approach for variable selection in multivariate calibration",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M.; SOARES, Anderson da Silva ; SOARES, T. W. L. ; COELHO, CLARIMAR J. ; CAMILO, C. G. ; OLIVEIRA, A. E.",
+        "revista": "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
+        "volume": "81",
+        "numero": "",
+        "paginas": "213-222",
+        "issn": "0952-1976",
+        "doi": "http://dx.doi.org/10.1016/j.engappai.2019.01.016",
+        "qualis": ""
+      },
+      {
+        "titulo": "Algoritmo do Morcego para Seleção de Variáveis em Calibração Multivariada",
+        "ano": 2019,
+        "autores": "DA SILVA, WELVERTON RODRIGUES ; de Paula, Lauro Cássio Martins ; SOARES, Anderson da Silva ; COELHO, CLARIMAR JOSÉ",
+        "revista": "Revista Arithmós - Revista da Escola de Ciências Exatas e da Computação",
+        "volume": "1",
+        "numero": "",
+        "paginas": "13-17",
+        "issn": "2674-7863",
+        "doi": "http://dx.doi.org/10.18224/arithmos.v1i1.6948",
+        "qualis": ""
+      },
+      {
+        "titulo": "Modern Metaheuristic with Multi-Objective Formulation for the Variable Selection Problem",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M.; SOARES, A. S. ; SOARES, T. W. L. ; OLIVEIRA, A. E. ; COELHO, C. J.",
+        "revista": "JOURNAL OF COMPUTER SCIENCES",
+        "volume": "13",
+        "numero": "",
+        "paginas": "659-666",
+        "issn": "1549-3636",
+        "doi": "http://dx.doi.org/10.3844/jcssp.2017.659.666",
+        "qualis": ""
+      },
+      {
+        "titulo": "Parallel regressions for variable selection using GPU (DOI: 10.1007/s00607-016-0487-8)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M.; SOARES, A. S. ; Lima, T. W. ; FILHO, ARLINDO R. G. ; COELHO, C. J. ; DELBEM, A. C. B. ; MARTINS, W. S.",
+        "revista": "COMPUTING",
+        "volume": "99",
+        "numero": "",
+        "paginas": "219-234",
+        "issn": "0010-485X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Parallel regressions for variable selection using GPU",
+        "ano": 2016,
+        "autores": "de Paula, Lauro Cássio Martins; SOARES, ANDERSON S. ; SOARES, TELMA W. L. ; FILHO, ARLINDO R. G. ; COELHO, CLARIMAR J. ; DELBEM, ALEXANDRE C. B. ; MARTINS, WELLINGTON S.",
+        "revista": "COMPUTING (WIEN. INTERNET)",
+        "volume": "98",
+        "numero": "",
+        "paginas": "1-16",
+        "issn": "1436-5057",
+        "doi": "http://dx.doi.org/10.1007/s00607-016-0487-8",
+        "qualis": ""
+      },
+      {
+        "titulo": "CUDA parallel programming for simulation of epidemiological models based on individuals",
+        "ano": 2015,
+        "autores": "GALVÃO FILHO, ARLINDO R. ; MARTINS DE'PAULA, LAURO C. ; COELHO, CLARIMAR JOSÉ ; DE LIMA, TELMA WOERLE ; da Silva Soares, Anderson",
+        "revista": "Mathematical Methods in the Applied Sciences",
+        "volume": "39",
+        "numero": "",
+        "paginas": "n/a-n/a",
+        "issn": "0170-4214",
+        "doi": "http://dx.doi.org/10.1002/mma.3490",
+        "qualis": ""
+      },
+      {
+        "titulo": "Parallelization of a Modified Firefly Algorithm using GPU for Variable Selection in a Multivariate Calibration Problem",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M.; SOARES, A. S. ; SOARES, T. W. L. ; DELBEM, A. C. B. ; COELHO, C. J. ; GALVAO FILHO, A. R.",
+        "revista": "International Journal of Natural Computing Research",
+        "volume": "4",
+        "numero": "",
+        "paginas": "31-42",
+        "issn": "1947-928X",
+        "doi": "http://dx.doi.org/10.4018/ijncr.2014010103",
+        "qualis": ""
+      },
+      {
+        "titulo": "CUDA vs. OpenCL: Uma Comparação Teórica e Tecnológica",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M",
+        "revista": "ForScience: Revista Científica do IFMG (Online)",
+        "volume": "2",
+        "numero": "",
+        "paginas": "31-46",
+        "issn": "2318-6356",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Programação Paralela de um Método Iterativo para Solução de Grandes Sistemas de Equações Lineares usando a Integração CUDA-Matlab",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M",
+        "revista": "Revista de Sistemas e Computação - RSC",
+        "volume": "4",
+        "numero": "",
+        "paginas": "21-26",
+        "issn": "2237-2903",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Parallel Implementation of the BiCGStab(2) method in GPU using CUDA and Matlab for Solution of Linear Systems",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "revista": "Journal of Communication and Computer",
+        "volume": "11",
+        "numero": "",
+        "paginas": "339-346",
+        "issn": "1548-7709",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A GPU-Based Implementation of the Firefly Algorithm for Variable Selection in Multivariate Calibration Problems",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M.; SOARES, A. S. ; DELBEM, A. C. B. ; COELHO, C. J. ; Lima, T. W. ; GALVAO FILHO, A. R.",
+        "revista": "Plos One",
+        "volume": "9",
+        "numero": "",
+        "paginas": "e114145",
+        "issn": "1932-6203",
+        "doi": "http://dx.doi.org/10.1371/journal.pone.0114145",
+        "qualis": ""
+      },
+      {
+        "titulo": "Paralelização e Comparação de Métodos Iterativos na Solução de Sistemas Lineares Grandes e Esparsos",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M",
+        "revista": "ForScience: Revista Científica do IFMG (Online)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "01-12",
+        "issn": "2318-6356",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Implementação Paralela do Método BiCGStab(2) em GPU usando CUDA e Matlab para Solução de Sistemas Lineares",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M",
+        "revista": "Revista de Sistemas e Computação - RSC",
+        "volume": "3",
+        "numero": "",
+        "paginas": "125-131",
+        "issn": "2237-2903",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Software livre SisLLLin para solução de sistemas lineares grandes e esparsos e sua integração ao software de CFD FluidoSSS",
+        "ano": 2012,
+        "autores": "PAULA, L. C. M.; SOUZA, L. B. S. ; SOUZA, L. B. S. ; SCHULZ, H. E.",
+        "revista": "Revista Tecnologia (UNIFOR)",
+        "volume": "33",
+        "numero": "",
+        "paginas": "112-121",
+        "issn": "0101-8191",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Epistasis-Based Feature Selection Algorithm",
+        "ano": 2021,
+        "autores": "PAULA, L. C. M",
+        "titulo_livro": "",
+        "editora": "Humana, New York, NY",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "37-44"
+      },
+      {
+        "titulo": "Multiobjective Firefly Algorithm for Variable Selection in Multivariate Calibration",
+        "ano": 2015,
+        "autores": "de Paula, Lauro Cássio Martins; da Silva Soares, Anderson",
+        "titulo_livro": "",
+        "editora": "Springer International Publishing",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "274-279"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Integer-based genetic algorithm for feature selection in multivariate calibration",
+        "ano": 2017,
+        "autores": "SOUSA, RHELCRIS S. ; DE LIMA, TELMA W. ; DE PAULA, LAURO C. M. ; LIMA, RONEY L. ; FILHO, ARLINDO R. G. ; SOARES, ANDERSON S.",
+        "evento": "2017 IEEE Congress on Evolutionary Computation (CEC)",
+        "cidade": "",
+        "paginas": "2315-2320",
+        "isbn": ""
+      },
+      {
+        "titulo": "Variable selection as a non-completely decomposable problem",
+        "ano": 2017,
+        "autores": "DE PAULA, LAURO C. M.; SOARES, ANDERSON S. ; SOARES, TELMA W. ; COELHO, CLARIMAR J.",
+        "evento": "the Genetic and Evolutionary Computation Conference Companion",
+        "cidade": "",
+        "paginas": "1399-1402",
+        "isbn": ""
+      },
+      {
+        "titulo": "Variable Selection in Multivariate Calibration considering Non-Decomposability Assumption and Building Blocks Hypothesis (Qualis B2)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "evento": "Doctoral Symposium of the 18th EPIA Conference on Artificial Intelligence",
+        "cidade": "",
+        "paginas": "44-55",
+        "isbn": ""
+      },
+      {
+        "titulo": "A compact firefly algorithm for the variable selection problem in pharmaceutical ingredient determination",
+        "ano": 2016,
+        "autores": "DE PAULA, LAURO C. M.; NOGUEIRA, HEBER V. ; SOARES, ANDERSON S. ; DE LIMA, TELMA W. ; COELHO, CLARIMAR J.",
+        "evento": "2016 IEEE Congress on Evolutionary Computation (CEC)",
+        "cidade": "",
+        "paginas": "3832-3838",
+        "isbn": ""
+      },
+      {
+        "titulo": "Variable Selection for Multivariate Calibration in Chemometrics",
+        "ano": 2016,
+        "autores": "DE PAULA, LAURO C.M.; SOARES, ANDERSON S. ; DE LIMA, TELMA W. ; FILHO, ARLINDO R.G. ; COELHO, CLARIMAR J.",
+        "evento": "the 2016",
+        "cidade": "",
+        "paginas": "1031-1034",
+        "isbn": ""
+      },
+      {
+        "titulo": "Paralelização do algoritmo das projeções sucessivas em GPU usando uma implementação das regressões sequenciais para seleção de variáveis em problemas de calibração multivariada",
+        "ano": 2015,
+        "autores": "PAULA, LAURO C. M. DE; SOARES, ANDERSON S. ; SOARES, TELMA W. ; G. FILHO, ARLINDO R. ; COELHO, CLARIMAR J.",
+        "evento": "XXXV CNMAC Congresso Nacional de Matemática Aplicada e Computacional",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Metaheuristic Implementation for Variable Selection in Multivariate Calibration Models (Qualis B3)",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "11th Metaheuristics International Conference (MIC)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Multiobjective Firefly Algorithm for Variable Selection in Multivariate Calibration (Qualis B2)",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "17th Portuguese Conference on Artificial Intelligence (EPIA)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Parallel Programming of an Iterative Method for Solving Large Linear Equation Systems",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "International Conference on Parallel and Distributed Processing Techniques and Applications",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Comparação Teórica entre dois Modelos de Programação Paralela em GPU",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M",
+        "evento": "XI Encontro Anual de Computação (EnAComp)",
+        "cidade": "",
+        "paginas": "03-10",
+        "isbn": ""
+      },
+      {
+        "titulo": "Parallelization of an Iterative Method for Solving Large and Sparse Linear Systems Using the CUDA-Matlab Integration (Qualis B2)",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "The 2014 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA)",
+        "cidade": "",
+        "paginas": "556-560",
+        "isbn": ""
+      },
+      {
+        "titulo": "Aplicação de Processamento Paralelo em Método Iterativo para Solução de Sistemas Lineares",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M.; SOUZA, L. B. S. ; SOUZA, L. B. S. ; MARTINS, W. S.",
+        "evento": "X Encontro Anual de Computação (EnAComp)",
+        "cidade": "",
+        "paginas": "129-136",
+        "isbn": ""
+      },
+      {
+        "titulo": "Partial Parallelization of the Successive Projections Algorithm using Compute Unified Device Architecture (Qualis B2)",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M.; SOARES, A. S. ; LIMA, T. W. ; MARTINS, W. S. ; GALVAO FILHO, A. R. ; Coelho, C. J.",
+        "evento": "The 2013 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA)",
+        "cidade": "",
+        "paginas": "737-741",
+        "isbn": ""
+      },
+      {
+        "titulo": "Paralelização do Algoritmo Floyd-Warshall usando GPU (Qualis B4)",
+        "ano": 2013,
+        "autores": "GAIOSO, R. R. A. ; JRADI, W. A. R. ; PAULA, L. C. M. ; ALENCAR, W. S. ; MARTINS, W. S. ; NASCIMENTO, H. A. D. ; CACERES, E. N.",
+        "evento": "XIV Simpósio em Sistemas Computacionais (WSCAD-SSC)",
+        "cidade": "",
+        "paginas": "19-25",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Aplicação de Support Vector Machine para Simulação de Modelos Epidemiológicos em Disseminação da Dengue no Nordeste do Brasil",
+        "ano": 2025,
+        "autores": "RIBEIRO, G. C. S. ; PAULA, L. C. M.",
+        "evento": "XXII Seminário de Iniciação Científica, Tecnológica e Inovação, 2025, Salvador. VI Congresso de Pesquisa, Pós-Graduação e Inovação do IFBA",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "Feature Selection using Genetic Algorithm",
+        "ano": 2016,
+        "autores": "DE PAULA, LAURO C.M.; SOARES, ANDERSON S. ; DE LIMA, TELMA WOERLE ; COELHO, CLARIMAR J.",
+        "evento": "the 2016, 2016, Denver. Proceedings of the 2016 on Genetic and Evolutionary Computation Conference Companion - GECCO '16 Companion. New York: ACM Press",
+        "cidade": "",
+        "paginas": "1461-1462"
+      },
+      {
+        "titulo": "Algoritmo do Morcego para Seleção de Variáveis em Calibração Multivariada",
+        "ano": 2016,
+        "autores": "SILVA, W. R. ; PAULA, L. C. M. ; SOARES, A. S. ; COELHO, C. J.",
+        "evento": "I Jornada Científica da Escola de Ciências Exatas e da Computação da PUC Goiás, 2016, Goiânia. Anais do JCECEC",
+        "cidade": "",
+        "paginas": "1-5"
+      },
+      {
+        "titulo": "Algoritmo Firefly Multi-objetivo para Seleção de Variáveis em Calibração Multivariada",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "XII Seminário de Pós-Graduação da UFG, 2015, Goiânia. Anais do XII Congresso de Pesquisa, Ensino e Extensão da Universidade Federal de Goiás",
+        "cidade": "",
+        "paginas": "2013-2016"
+      },
+      {
+        "titulo": "Programação Paralela de Métodos para Seleção de Variáveis",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "XI Seminário de Pós-Graduação da UFG, 2014, Goiânia. Anais do XI Congresso de Pesquisa, Ensino e Extensão da Universidade Federal de Goiás",
+        "cidade": "",
+        "paginas": "2223-2227"
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Classificação de Óleos Vegetais e Cafés usando o Algoritmo inspirado nos Morcegos para Seleção de Variáveis em LDA",
+        "ano": 2019,
+        "autores": "SOUZA, J. C. ; SOARES, S. F. ; PAULA, L. C. M. ; COELHO, C. J. ; SILVA, E. C. ; ARAUJO, M. C.",
+        "evento": "IV Escola de Inverno de Quimiometria, 2019, Porto Alegre. Anais do IV do EIQ",
+        "cidade": ""
+      },
+      {
+        "titulo": "Algoritmo dos Morcegos para Seleção de Variáveis em LDA aplicado à Classificação de Café e Óleos Vegetais",
+        "ano": 2019,
+        "autores": "SOUZA, J. C. ; SOARES, S. F. ; PAULA, L. C. M. ; COELHO, C. J. ; ARAUJO, M. C. ; SILVA, E. C.",
+        "evento": "VI Encontro de Química da Universidade Federal da Paraíba, 2019. Anais do VI Encontro de Química da UFPB",
+        "cidade": ""
+      },
+      {
+        "titulo": "Um Algoritmo Bio-Inspirado nos Morcegos para Seleção de Variáveis Espectrais em Problemas de Classificação",
+        "ano": 2018,
+        "autores": "SOUZA, J. C. ; SOARES, S. F. ; PAULA, L. C. M. ; COELHO, C. J. ; SILVA, E. C. ; ARAUJO, M. C.",
+        "evento": "Encontro Nacional de Química Analítica, 2018, Caldas Novas - GO. Anais do 19º ENQA",
+        "cidade": ""
+      },
+      {
+        "titulo": "Uma Implementação Paralela do Algoritmo Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "evento": "X Seminário de Pós-Graduação da UFG, 2013, Goiânia, GO. Anais do X Congresso de Pesquisa, Ensino e Extensão da Universidade Federal de Goiás",
+        "cidade": ""
+      },
+      {
+        "titulo": "Paralelização do Algoritmo Floyd-Warshall usando GPU",
+        "ano": 2013,
+        "autores": "GAIOSO, R. R. A. ; MARTINS, W. S. ; PAULA, L. C. M.",
+        "evento": "X Seminário de Pós-Graduação da UFG, 2013, Goiânia, GO. Anais do X Congresso de Pesquisa, Ensino e Extensão da Universidade Federal de Goiás",
+        "cidade": ""
+      },
+      {
+        "titulo": "Comparação de métodos iterativos para solução de sistemas lineares esparsos e sua implementação em código computacional na linguagem C++",
+        "ano": 2011,
+        "autores": "PAULA, L. C. M.; SOUZA, L. B. S.",
+        "evento": "VIII Congresso de Pesquisa, Ensino e Extensão da Universidade Federal de Goiás, 2011, Goiânia, GO. Anais da 63º Reunião Anual da SBPC",
+        "cidade": ""
+      },
+      {
+        "titulo": "Programação Paralela do método BiCGStab(2) para solução de sistemas lineares",
+        "ano": 2010,
+        "autores": "PAULA, L. C. M.; SOUZA, L. B. S. ; SOUZA, L. B. S.",
+        "evento": "Semana de Ciência e Tecnologia da PUC Goiás, 2010, Goiânia, GO. Anais da XI Jornada de Iniciação Científica",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Iniciação Científica em Ciência de Dados",
+        "ano": 2024,
+        "autores": "PAULA, L. C. M.; PAIM, I. ; CABRAL, G. ; LUISA, A. ; VITORIA, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Grupo de Pesquisa no IFBA-SAJ",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "O que é Iniciação Científica?",
+        "ano": 2021,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "A Importância da Pesquisa Científica para o Desenvolvimento de Novas Tecnologias",
+        "ano": 2020,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Pesquisa Científica no IFBA-SAJ",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Variable Selection as a Non-Completely Decomposable Problem: A Case Study in Multivariate Calibration",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Variable Selection for Multivariate Calibration in Chemometrics: A Real-World Application with Building Blocks Disruption Problem",
+        "ano": 2016,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "A Compact Firefly Algorithm for the Variable Selection Problem in Pharmaceutical Ingredient Determination",
+        "ano": 2016,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "A Metaheuristic Implementation for Variable Selection in Multivariate Calibration Models",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Multiobjective Firefly Algorithm for Variable Selection in Multivariate Calibration",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Paralelização do Algoritmo das Projeções Sucessivas em GPU usando uma Implementação das Regressões Sequenciais para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Paralelização de Algoritmos APS e Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Aplicações da Matemática Computacional",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Aplicação de Processamento Paralelo em Método Iterativo para Solução de Sistemas Lineares",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Paralelização Parcial do Algoritmo das Projeções Sucessivas usando CUDA",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Uma Implementação Paralela do Algoritmo Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2013,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Multiplicação de Matrizes usando CUDA",
+        "ano": 2012,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "CUDA vs OpenCL",
+        "ano": 2012,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Comparação de métodos iterativos para solução de sistemas lineares esparsos e sua implementação em código computacional na linguagem C++",
+        "ano": 2011,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Programação Paralela do método BiCGStab(2) para solução de sistemas lineares",
+        "ano": 2010,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      },
+      {
+        "titulo": "Conceitos de Programação Paralela e introdução ao OpenCL",
+        "ano": 2010,
+        "autores": "PAULA, L. C. M",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "Variable Selection in Multivariate Calibration considering Non-Decomposability Assumption and Building Blocks Hypothesis",
+        "ano": 2018,
+        "autores": "PAULA, L. C. M.; SOARES, A. S. ; COELHO, C. J.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Paralelização de Algoritmos APS e Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2014,
+        "autores": "PAULA, L. C. M.; SOARES, A. S.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Programação Paralela CUDA para Simulação de Modelos Epidemiológicos baseados em Indivíduos",
+        "ano": 2012,
+        "autores": "PAULA, L. C. M.; Coelho, C. J. ; GALVAO FILHO, A. R.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Avaliador ad hoc na análise de pedido de registro de programa de computador no INPI (003807) por pesquisadores do IFBA",
+        "ano": 2025,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 07/2025/PRPGI/IFBA - PIBIC-EM-IFBA/CNPq",
+        "ano": 2025,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 06/2025/PRPGI/IFBA - PIBITI IFBA/CNPq",
+        "ano": 2025,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 05/2024/PRPGI/IFBA - PIBIT-EM-IFBA",
+        "ano": 2024,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc na análise de pedido de registro de programa de computador no INPI (011661) por pesquisadores do IFBA",
+        "ano": 2024,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc na análise de pedido de registro de programa de computador no INPI (003017) por pesquisadores do IFBA",
+        "ano": 2023,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc na análise de pedido de registro de programa de computador no INPI (003815) por pesquisadores do IFBA",
+        "ano": 2023,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 01/2023/DPGI/IFBA",
+        "ano": 2023,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 02/2022/PRPGI/IFBA",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 05/2022/PRPGI/IFBA",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 03/2022/PRPGI/IFBA",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 01/2022/PRPGI/IFBA",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 15/2021/PRPGI/IFBA",
+        "ano": 2021,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de extensão para o Edital 02/2021/PROEX/IFBA",
+        "ano": 2021,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 02/2020/PRPGI/IFBA",
+        "ano": 2020,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 02/2019/PRPGI/IFBA",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliador ad hoc de projetos de pesquisa para o Edital nº 01/2019/PRPGI/IFBA",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Minicurso de Educação Financeira",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Diferença entre a Salvação e o Reino (https://laurocmartinsdepaula.wordpress.com/2021/10/11/diferenca-entre-a-salvacao-e-o-reino",
+        "ano": 2021,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução ao LaTeX",
+        "ano": 2020,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Educação Financeira com Plataformas Virtuais de Investimento",
+        "ano": 2020,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Aprender a Gostar de Aprender (https://laurocmartinsdepaula.wordpress.com/2020/05/26/aprender-a-gostar-de-aprender/)",
+        "ano": 2020,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "A Soberania de Deus (https://laurocmartinsdepaula.wordpress.com/2019/04/20/a-soberania-de-deus/)",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Logos e Rhema (https://laurocmartinsdepaula.wordpress.com/2019/12/09/logos-e-rhema/)",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Tempos Difíceis (https://laurocmartinsdepaula.wordpress.com/2018/09/11/tempos-dificeis/)",
+        "ano": 2018,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "As Frustrações do Cientista de Dados (https://www.linkedin.com/pulse/frustra%C3%A7%C3%B5es-do-cientista-de-dados-lauro-c-martins-de-paula/?published=t)",
+        "ano": 2018,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Desvio de Caráter (https://laurocmartinsdepaula.wordpress.com/2018/11/06/desvio-de-carater/)",
+        "ano": 2018,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "A Maneira Correta de se Viver (https://laurocmartinsdepaula.wordpress.com/2018/12/30/a-maneira-correta-de-se-viver/)",
+        "ano": 2018,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Diferença entre Grau e Título Acadêmico (https://www.linkedin.com/pulse/diferen%C3%A7a-entre-grau-e-t%C3%ADtulo-acad%C3%AAmico-lauro-c-martins-de-paula/)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "O Hype da Ciência de Dados (https://www.linkedin.com/pulse/o-hype-da-ci%C3%AAncia-de-dados-lauro-c-martins-de-paula/)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "The Hype of Data Science (https://www.linkedin.com/pulse/hype-data-science-lauro-c-martins-de-paula/)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "A inversão de valores está dominando o mundo (http://www.artigos.com/artigos/22733-a-inversao-de-valores-esta-dominando-o-mundo)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Aprender pela Experiência (http://www.recantodasletras.com.br/artigos-de-sociedade/6151998)",
+        "ano": 2017,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "O preço que se paga por se tornar inteligente (http://posgraduando.com/blog/o-preco-que-se-paga-por-se-tornar-inteligente)",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Vale a pena fazer Pós-Graduação em grandes centros de pesquisa? (http://posgraduando.com/blog/vale-a-pena-fazer-pos-graduacao-em-grandes-centros-de-pesquisa)",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Os benefícios e os malefícios da tecnologia (http://posgraduando.com/beneficios-maleficios-tecnologia/)",
+        "ano": 2015,
+        "autores": "PAULA, L. C. M",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Programação em CUDA",
+        "ano": 2012,
+        "autores": "MARTINS, W. S. ; PAULA, L. C. M. ; GAIOSO, R. R. A.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "FLLLUIDO",
+        "ano": 2010,
+        "autores": "SOUZA, L. B. S. ; PAULA, L. C. M. ; SOUZA, L. B. S.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "SISLLLIN",
+        "ano": 2010,
+        "autores": "PAULA, L. C. M.; SOUZA, L. B. S. ; SOUZA, L. B. S.",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Suas emoções mandam em você? A verdade que ninguém te contou + Bitcoin",
+        "ano": 2025,
+        "autores": "ALMEIDA, J. ; CUNHA, B. ; PAULA, L. C. M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "O som mais poderoso do mundo: como usar a sua voz para influenciar",
+        "ano": 2025,
+        "autores": "ALMEIDA, J. ; PAULA, L. C. M. ; ALVES, M. ; ALMEIDA, G.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Seminário de Ciência e Tecnologia do IFBA-SAJ",
+        "ano": 2022,
+        "autores": "PAULA, L. C. M",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Divulgação do Processo Seletivo 2019.2 do IFBA - Campus SAJ",
+        "ano": 2019,
+        "autores": "PAULA, L. C. M",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Aplicação da Inteligência de Negócios como Abordagem Estratégica para Gestão de Inadimplência: um Estudo de Caso em uma Empresa de Materiais de Construção em Salvador",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Amanda de Farias Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise das Transformações do Comportamento do Consumidor Brasileiro: Impactos da Inteligência Artificial no Comércio Eletrônico",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Alan da Paixão Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "PatternLab: Um Laboratório Virtual para a Prática de Padrões de Projeto",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Rafael Campos da Paixão",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Implementação do Algoritmo Bat para a Seleção de Variáveis em um Problema de Calibração Multivariada",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Welverton Rodrigues da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Pontifícia Universidade Católica de Goiás",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo e Implementação de Métodos Iterativos para Solução de Sistemas Lineares usando a Ferramenta Matlab",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Lucas Constante",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise de métodos de aprendizagem não supervisionada para mineração de dados: Um estudo de caso sobre busca de conhecimento em dados farmacêuticos",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Palloma Cristina Pereira Lobo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Comparação entre Algoritmos Tradicionais para Seleção de Variáveis: Um Estudo de Caso envolvendo Calibração Multivariada",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Welder Fagundes de Sousa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Redes Neurais Aplicadas à Price Action na Predição de Mercado em Operações de Curto Prazo",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Igor Paim de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Aplicação de Support Vector Machine para Simulação de Modelos Epidemiológicos em Disseminação da Dengue no Nordeste do Brasil",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Gabriel Cabral de Santana Ribeiro",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo e Aplicação de Machine Learning para Predição de pH do Solo no Recôncavo Baiano",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Maria Vitória Santos da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Detecção de Fraudes na Rede Blockchain usando Machine Learning",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Anna Luisa Santos de Sousa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Implementação de Algoritmos na Linguagem Python para Simulação de Modelos Epidemiológicos em Conjuntos de Dados sobre SARS-CoV-2",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Isaque Lima da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia - Campus Santo Antônio de Jesus",
+          "curso": ""
+        },
+        {
+          "titulo": "Implementação de Técnicas Estatísticas na Linguagem Python para Análise de Dados sobre SARS-CoV-2",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Maury Ribeiro Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia - Campus Santo Antônio de Jesus",
+          "curso": ""
+        },
+        {
+          "titulo": "Programação em Python para Simulação de Modelos Epidemiológicos",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Felipe Xavier Passos",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Implementação de Métodos Iterativos na Linguagem Computacional Python para Solução de Sistemas Lineares",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Jorge Mendes de Almeida Filho",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Programação Paralela em FPGA de um Algoritmo Firefly para Seleção de Variáveis em Calibração Multivariada",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Paulo César Ramos de Faria",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Pontifícia Universidade Católica de Goiás",
+          "curso": ""
+        }
+      ],
+      "outros": [
+        {
+          "titulo": "Estágio em Impaktos - Comercio de bijuterias LTDA-ME",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Erica Peixoto Gomes",
+          "tipo_trabalho": "",
+          "instituicao": "em Produção Multimídia) - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Estágio em Rasf Restaurante e Lanchonete Ltda",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Carlos Henrique Andrade Amaral",
+          "tipo_trabalho": "",
+          "instituicao": "em Produção Multimídia) - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Monitor da disciplina Sistemas Operacionais",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Antonio Henrique Braz de Merces",
+          "tipo_trabalho": "",
+          "instituicao": "em Redes de Computadores) - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Estágio em Copy Design",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Flávio Alves de Araujo Souza",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "HotSite: Comunicação e Estratégia de Marketing",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Fabiano, Ludmylla, Matheus, Lucas, Bleyner",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Sistema de Busca de Número de Processo Escolar",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Rogério de Jesus, Rogério da Silva, Cleide, Marcia",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo e Análise de um Sistema Desenvolvido com a Arquitetura MVC",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Deymison, Ismailda, Iago, Fernando",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Sistema para Aluguel de Imóveis",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Jhonatan, Rodrigo, Reinaldo, Samuel",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "em Nuvem",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Soan, Kellf, João Pedro, Clayton, Samuel. As Perspectivas Mercadológicas na Era da Tec. da Inf. para a Utilização de Software nas Empresas através da Comp",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo e Análise da Linguagem de Programação Java",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Wildilane, Bruno, Dione, Danilo, Alvaro",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        },
+        {
+          "titulo": "Intrerseg: Monitoramento de Câmeras de Vigilância por meio de um Telefone Celular Android",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Giancarlo, Sivaldo, Roniere, Victor",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera de Anápolis",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Seminário de Ciência e Tecnologia do IFBA-SAJ",
+        "apresentacao": "Iniciação Científica no IFBA-SAJ",
+        "ano": 2022,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Nacional de Ciência e Tecnologia no Instituto Federal da Bahia",
+        "apresentacao": "O que é Iniciação Científica?",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Nacional de Ciência e Tencologia no Instituto Federal da Bahia",
+        "apresentacao": "A Importância da Pesquisa Científica para o Desenvolvimento de Novas Tecnologias",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Nacional de Ciência e Tecnologia",
+        "apresentacao": "Pesquisa Científica no IFBA SAJ",
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Genetic and Evolutionary Computation Conference (GECCO)",
+        "apresentacao": "Variable Selection as a Non-Completely Decomposable Problem: A Case Study in Multivariate Calibration",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Genetic and Evolutionary Computation Conference (GECCO)",
+        "apresentacao": "Variable Selection for Multivariate Calibration in Chemometrics: A Real-World Application with Building Blocks Disruption Problem",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IEEE Congress on Evolutionary Computation (IEEE CEC)",
+        "apresentacao": "A Compact Firefly Algorithm for the Variable Selection Problem in Pharmaceutical Ingredient Determination",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "11th Metaheuristics International Conference",
+        "apresentacao": "A Metaheuristic Implementation for Variable Selection in Multivariate Calibration Models",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Programa de formação em pesquisa da Universidade Federal de Goiás",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Reunião do Conselho Universitário da UFG para entrega dos Certificados de Reconhecimento",
+        "apresentacao": "Paralelização de Algoritmos APS e Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Congresso de Pesquisa, Ensino e Extensão (Conpeex) da UFG",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Encontro de Pesquisa em Informática da Faculdade Anhanguera de Anápolis",
+        "apresentacao": "Aplicações da Matemática Computacional",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Congresso de Pesquisa, Ensino e Extensão (Conpeex) da UFG",
+        "apresentacao": null,
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XV Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD)",
+        "apresentacao": "Paralelização de Algoritmos APS e Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2014,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXV Congresso Nacional de Matemática Aplicada e Computacional (CNMAC)",
+        "apresentacao": "Paralelização do Algoritmo das Projeções Sucessivas em GPU usando uma Implementação das Regressões Sequenciais para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Escola Regional de Informática de Goiás (ERI-GO)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Jornada de Pesquisa do Instituto de Informática da Universidade Federal de Goiás (JOPINF)",
+        "apresentacao": "Paralelização Parcial do Algoritmo das Projeções Sucessivas usando CUDA",
+        "ano": 2013,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Sobre Programação Massivamente Paralela do Laboratório Nacional de Computação Científica",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Congresso de Pesquisa, Ensino e Extensão (Conpeex) da UFG",
+        "apresentacao": "Uma Implementação Paralela do Algoritmo Firefly para Seleção de Variáveis em Problemas de Calibração Multivariada",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Encontro Anual de Computação (EnAComp)",
+        "apresentacao": "Aplicação de Processamento Paralelo em Método Iterativo para Solução de Sistemas Lineares",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Fórum Goiano de Software Livre (FGSL)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Escola Regional de Alto Desempenho de São Paulo (ERAD SP)",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Congresso de Pesquisa, Ensino e Extensão (Conpeex) da UFG",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Jornada de Pesquisa do Instituto de Informática da Universidade Federal de Goiás (JOPINF)",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "23rd International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Congresso de Pesquisa, Ensino e Extensão (Conpeex) da UFG",
+        "apresentacao": "Comparação de métodos iterativos para solução de sistemas lineares esparsos e sua implementação em código computacional na linguagem C++",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Semana integrada de Ciência e Tecnologia da PUC Goiás",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Semana integrada de Ciência e Tecnologia da PUC Goiás",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Jornada de Iniciação Científica da PUC Goiás",
+        "apresentacao": "Programação Paralela do método BiCGStab(2) para solução de sistemas lineares",
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Olimpíada de Programação e Algoritmos da Faculdade Anhanguera de Anápolis",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Semana integrada de Ciência e Tecnologia da PUC Goiás",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Semana integrada de Ciência e Tecnologia da PUC Goiás",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "PAULA, L. C. M.. Seminário de Ciência e Tecnologia do IFBA-SAJ. 2022. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "PAULA, L. C. M.; ARAUJO, I. C.",
+        "evento": "Semana Nacional de Ciência e Tecnologia do IFBA-SAJ",
+        "ano": 2022,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "PAULA, L. C. M.. Semana Nacional de Ciência e Tecnologia no Instituto Federal da Bahia. 2021. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "PAULA, L. C. M.. Semana Nacional de Ciência e Tencologia no Instituto Federal da Bahia. 2020. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "PAULA, L. C. M.. Semana Nacional de Ciência e Tecnologia no Instituto Federal da Bahia. 2019. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SOARES, A. S. ; SOARES, T. W. L. ; PAULA, L. C. M.",
+        "evento": "Olimpíada Brasileira de Robótica. 2016",
+        "ano": 2016,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "PAULA, L. C. M.; OLIVEIRA, J. D. S.; MARQUES, E. F.. Participação em banca de Alan da Paixão Santos.Análise das Transformações do Comportamento do Consumidor Brasileiro: Impactos da Inteligência Artificial no Comércio Eletrônico. 2025. Trabalho de Conclusão de Curso (Graduação em Administração) - Instituto Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alan da Paixão Santos",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "OLIVEIRA, J. D. S.",
+          "MARQUES, E. F."
+        ],
+        "titulo_trabalho": "Análise das Transformações do Comportamento do Consumidor Brasileiro: Impactos da Inteligência Artificial no Comércio Eletrônico",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Administração)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "PAULA, L. C. M.; OLIVEIRA, J. D. S.; SILVA, W. C.. Participação em banca de Amanda de Farias Santos.Aplicação da Inteligência de Negócios como Abordagem Estratégica para Gestão de Inadimplência: um Estudo de Caso em uma Empresa de Materiais de Construção em Salvador. 2025. Trabalho de Conclusão de Curso (Graduação em Administração) - Instituto Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Amanda de Farias Santos",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "OLIVEIRA, J. D. S.",
+          "SILVA, W. C."
+        ],
+        "titulo_trabalho": "Aplicação da Inteligência de Negócios como Abordagem Estratégica para Gestão de Inadimplência: um Estudo de Caso em uma Empresa de Materiais de Construção em Salvador",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Administração)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, J. D. S.; SAMPAIO, R. L.; PAULA, L. C. M.. Participação em banca de Daniel Oliveira dos Santos.Aplicação de Redes Convolucionais na Classificação de Doenças do Cacau. 2024. Trabalho de Conclusão de Curso (Graduação em Tec. em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Daniel Oliveira dos Santos",
+        "membros_banca": [
+          "OLIVEIRA, J. D. S.",
+          "SAMPAIO, R. L.",
+          "PAULA, L. C. M."
+        ],
+        "titulo_trabalho": "Aplicação de Redes Convolucionais na Classificação de Doenças do Cacau",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Tec. em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, J. D. S.; PAULA, L. C. M.; PEDREIRAS, R.; SAMPAIO, R. L.. Participação em banca de Davi Rocha Macedo Sousa.SADCA: Sistema de Alerta de Desvio de Consumo de Água. 2024. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Davi Rocha Macedo Sousa",
+        "membros_banca": [
+          "OLIVEIRA, J. D. S.",
+          "PAULA, L. C. M.",
+          "PEDREIRAS, R.",
+          "SAMPAIO, R. L."
+        ],
+        "titulo_trabalho": "SADCA: Sistema de Alerta de Desvio de Consumo de Água",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "MACHADO JUNIOR, R. P.; RIBEIRO, J. R. C. L.; PAULA, L. C. M.; SANTOS, L. R. P.. Participação em banca de Raphael Francisco de Oliveira.Projeto e Implementação de uma Impressora 3D do Tipo Kossel. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Centro Universitário de Goiás.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Raphael Francisco de Oliveira",
+        "membros_banca": [
+          "MACHADO JUNIOR, R. P.",
+          "RIBEIRO, J. R. C. L.",
+          "PAULA, L. C. M.",
+          "SANTOS, L. R. P."
+        ],
+        "titulo_trabalho": "Projeto e Implementação de uma Impressora 3D do Tipo Kossel",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação)",
+        "universidade": "Centro Universitário de Goiás"
+      },
+      {
+        "descricao": "RIBEIRO, J. R. C. L.; LEAL, M. P.; PAULA, L. C. M.; SANTOS, L. R. P.. Participação em banca de Abenazio Geraldo da Silva Júnior.Kit Básico de Robótica de Baixo Custo Aplicado para Ensino de Crianças e Jovens. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Centro Universitário de Goiás.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Abenazio Geraldo da Silva Júnior",
+        "membros_banca": [
+          "RIBEIRO, J. R. C. L.",
+          "LEAL, M. P.",
+          "PAULA, L. C. M.",
+          "SANTOS, L. R. P."
+        ],
+        "titulo_trabalho": "Kit Básico de Robótica de Baixo Custo Aplicado para Ensino de Crianças e Jovens",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação)",
+        "universidade": "Centro Universitário de Goiás"
+      },
+      {
+        "descricao": "COELHO, C. J.; PAULA, L. C. M.; NOGUEIRA, H. V.. Participação em banca de Valníria da Silva Bandeira.Reconhecimento de Padrões em Detecção de Falhas em Plantas Industriais. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Pontifícia Universidade Católica de Goiás.",
+        "ano": 2016,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Valníria da Silva Bandeira",
+        "membros_banca": [
+          "COELHO, C. J.",
+          "PAULA, L. C. M.",
+          "NOGUEIRA, H. V."
+        ],
+        "titulo_trabalho": "Reconhecimento de Padrões em Detecção de Falhas em Plantas Industriais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação)",
+        "universidade": "Pontifícia Universidade Católica de Goiás"
+      },
+      {
+        "descricao": "COELHO, C. J.; PAULA, L. C. M.; LAUREANO, G. T.. Participação em banca de Welverton Rodrigues da Silva.Implementação do Algoritmo Bat para a Seleção de Variáveis em um Problema de Calibração Multivariada (TCC 1). 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Goiás.",
+        "ano": 2016,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Welverton Rodrigues da Silva",
+        "membros_banca": [
+          "COELHO, C. J.",
+          "PAULA, L. C. M.",
+          "LAUREANO, G. T."
+        ],
+        "titulo_trabalho": "Implementação do Algoritmo Bat para a Seleção de Variáveis em um Problema de Calibração Multivariada (TCC 1)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Pontifícia Universidade Católica de Goiás"
+      },
+      {
+        "descricao": "COELHO, C. J.; NUNES, C. M.; GALVAO FILHO, A. R.; PAULA, L. C. M.. Participação em banca de Carlos Roberto Souza de Araújo.Aperfeiçoamento do Método Distância Mínima da Média na Classificação de Pixel Misto em Imagens obtidas por Vants. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Goiás.",
+        "ano": 2016,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carlos Roberto Souza de Araújo",
+        "membros_banca": [
+          "COELHO, C. J.",
+          "NUNES, C. M.",
+          "GALVAO FILHO, A. R.",
+          "PAULA, L. C. M."
+        ],
+        "titulo_trabalho": "Aperfeiçoamento do Método Distância Mínima da Média na Classificação de Pixel Misto em Imagens obtidas por Vants",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Pontifícia Universidade Católica de Goiás"
+      },
+      {
+        "descricao": "COELHO, C. J.; PAULA, L. C. M.; GALVAO FILHO, A. R.; LAUREANO, G. T.. Participação em banca de Welverton Rodrigues da Silva.Implementação do Algoritmo Bat para a Seleção de Variáveis em um Problema de Calibração Multivariada (TCC 2). 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Goiás.",
+        "ano": 2016,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Welverton Rodrigues da Silva",
+        "membros_banca": [
+          "COELHO, C. J.",
+          "PAULA, L. C. M.",
+          "GALVAO FILHO, A. R.",
+          "LAUREANO, G. T."
+        ],
+        "titulo_trabalho": "Implementação do Algoritmo Bat para a Seleção de Variáveis em um Problema de Calibração Multivariada (TCC 2)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Pontifícia Universidade Católica de Goiás"
+      },
+      {
+        "descricao": "PAULA, L. C. M.; BENTO, E. P.; BITTAR, R. D.. Participação em banca de Vinicius Dias, Yure Rosa, Leonardo Viana.Implementação de um Software para o Controle de Equipamentos na Faculdade Anhanguera de Anápolis. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Vinicius Dias, Yure Rosa, Leonardo Viana",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "BENTO, E. P.",
+          "BITTAR, R. D."
+        ],
+        "titulo_trabalho": "Implementação de um Software para o Controle de Equipamentos na Faculdade Anhanguera de Anápolis",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Anhanguera de Anápolis"
+      },
+      {
+        "descricao": "PAULA, L. C. M.; BENTO, E. P.; BITTAR, R. D.. Participação em banca de Renner Martins, Jacqueline Pinto, Max Rocha, Jennifer Bernar.Estudo e Análise de Simulação Computacional de Modelos Epidemiológicos. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Renner Martins, Jacqueline Pinto, Max Rocha, Jennifer Bernar",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "BENTO, E. P.",
+          "BITTAR, R. D."
+        ],
+        "titulo_trabalho": "Estudo e Análise de Simulação Computacional de Modelos Epidemiológicos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Anhanguera de Anápolis"
+      },
+      {
+        "descricao": "PAULA, L. C. M.; BENTO, E. P.; BITTAR, R. D.. Participação em banca de Welder Sousa, Leandro Chaves, Bruno Roger, Wmarklean Dias.Análise e Estudo do Algoritmo das Projeções Sucessivas para Seleção de Variáveis. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Welder Sousa, Leandro Chaves, Bruno Roger, Wmarklean Dias",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "BENTO, E. P.",
+          "BITTAR, R. D."
+        ],
+        "titulo_trabalho": "Análise e Estudo do Algoritmo das Projeções Sucessivas para Seleção de Variáveis",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Anhanguera de Anápolis"
+      },
+      {
+        "descricao": "PAULA, L. C. M.; BENTO, E. P.; BITTAR, R. D.. Participação em banca de Welison Luiz, Jaime Costa, Palloma Lobo, Glaucio Junior.Análise, Gerenciamento e Armazenamento de Dados com BigData. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Welison Luiz, Jaime Costa, Palloma Lobo, Glaucio Junior",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "BENTO, E. P.",
+          "BITTAR, R. D."
+        ],
+        "titulo_trabalho": "Análise, Gerenciamento e Armazenamento de Dados com BigData",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Anhanguera de Anápolis"
+      },
+      {
+        "descricao": "PAULA, L. C. M.; BENTO, E. P.; BITTAR, R. D.. Participação em banca de Lucas Constante, Brenner Santos, Jonathan S. R., Irlando C..Estudo e Análise de Métodos Iterativos para Solução de Sistemas Lineares Grandes e Esparsos. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Lucas Constante, Brenner Santos, Jonathan S. R., Irlando C",
+        "membros_banca": [
+          "PAULA, L. C. M.",
+          "BENTO, E. P.",
+          "BITTAR, R. D."
+        ],
+        "titulo_trabalho": "Estudo e Análise de Métodos Iterativos para Solução de Sistemas Lineares Grandes e Esparsos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Faculdade Anhanguera de Anápolis"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "FREITAS, A. E. S.; PAULA, L. C. M.; PIRES, S. S.; DINIZ, M. V. C.. Concurso Público para Seleção de Professor Substituto. 2025. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; LUZ, I. A. S.; SALES, P.. Concurso Público para Seleção de Professor Substituto. 2022. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; SILVA, F. P.; PINTO, G. P.. Concurso Público para Seleção de Professor Substituto. 2021. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. Sistema de Busca de Número de Processo Escolar. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. Estudo e Análise de um Sistema Desenvolvido com a Arquitetura MVC. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. Sistema para Aluguel de Imóveis. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. As Perspectivas Mercadológicas na Era da Tec. da Inf. para a Utilização de Software nas Empresas através da Comp. em Nuvem. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. Estudo e Análise da Linguagem de Programação Java. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. Intrerseg: Monitoramento de Câmeras de Vigilância por meio de um Telefone Celular Android. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PAULA, L. C. M.; FILHO, D. L. F.; Borges, V. P.. HotSite: Comunicação e Estratégia de Marketing. 2014. Faculdade Anhanguera de Anápolis.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Faculdade Anhanguera de Anápolis.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 15,
+    "total_livros": 0,
+    "total_capitulos": 2,
+    "total_trabalhos_congressos": 14,
+    "total_projetos_pesquisa": 9,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 9,
+    "total_orientacoes_andamento": 0
+  }
+}

@@ -1,0 +1,2613 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7522094241285957",
+    "nome_completo": "Pablo Vieira Florentino",
+    "nome_citacoes": "FLORENTINO, P. V.;FLORENTINO, PABLO VIEIRA",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, IFBA - Campus Salvador. Rua Emídio dos Santos, s/n Barbalho 40300010 - Salvador, BA - Brasil Telefone: (71) 21029456 URL da Homepage: http://www.ifba.edu.br/professores/pablovf",
+    "atualizacao_cv": "08/01/2026",
+    "url": "http://lattes.cnpq.br/7522094241285957",
+    "texto_resumo": "Pablo concluiu o mestrado em Engenharia de Sistemas e Computação pela COPPE/UFRJ em 2003, tendo se graduado em Ciência da Computação pela UFBA em 2000. É professor associado (MS) do IFBA, campus Salvador, desde 2006, atuando nos cursos superiores, além de ter sido coordenador do curso superior de Análise e Desenvolvimento de Sistemas em duas oportunidades. Em 2016, concluiu o doutorado em Urbanismo no PPGAU-UFBa, onde desenvolveu pesquisa multidisciplinar na área de ciência dos dados, utilizando técnicas de análise de redes sociais digitais para avaliar o espaço relacional urbano. Atua na área de Sistemas de Informação, com ênfase em Banco de dados. É membro dos grupos de pesquisa GSORT (www.gsort.ifba.edu.br) e GPEC. Atuou na Especialização em Sistemas Distribuídos e Ubíquos e colabora com o Mestrado Profissional em Engenharia de Sistemas e Produtos (IFBA). Atualmente, tem se dedicado a ações de fomento ao uso de dados abertos e visualização de dados urbanos. Tem desenvolvido trabalhos de extensão na área de mapeamento cultural e avaliação dos sistemas e projetos de Mobilidade com enfoque em dados e visualização. Participa do Observatório da Mobilidade de Salvador e do Núcleo Salvador do Observatório das Metrópoles. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Arquitetura e Urbanismo",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "descricao": "Título: Densidade Informacional e Comunicacional no espaço relacional urbano O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2016. Orientador: Gilberto Corso Pereira. Palavras-chave: Densidade informacional e comunicacional; Espaço Urbano; Espaço relacional; Redes Sociais Digitais; Dimensão digital. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Serviços Urbanos e Regionais / Especialidade: Aspectos Sociais do Planejamento Urbano e Regional. Grande Área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Métodos e Técnicas do Planejamento Urbano e Regional / Especialidade: Técnicas de Análise e Avaliação Urbana e Regional. Setores de atividade: Atividades dos serviços de tecnologia da informação; Outras atividades profissionais, científicas e técnicas; Pesquisa e desenvolvimento científico."
+    },
+    {
+      "tipo": "Mestrado em Engenharia de Sistemas e Computação",
+      "nome_instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2003",
+      "descricao": "Título: Odara: Metodologia para Projeto de Fragmentação de Bases de Dados O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2003. Orientador: Marta Lima de Queiros Mattoso. Coorientador: Fernanda Araujo Baião Amorim. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Objeto-Relacional; Orientação a Objeto; SGBDs Distribuídos. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Sistemas de Informação. Setores de atividade: Informática; Atividades de Banco de Dados."
+    },
+    {
+      "tipo": "Graduação em Bacharelado em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1996",
+      "ano_conclusao": "2000",
+      "descricao": "Título: Especificação de Ambiente para Vídeo Conferência de Baixo Custo utilizando Software de Distribuição Livre. Orientador: Milena Michelli. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Ministério da Educação, MEC, Brasil.",
+      "instituicao_nome": "Ministério da Educação",
+      "instituicao_sigla": "MEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2012",
+      "ano_inicio": "2007",
+      "ano_fim": "2012",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ministério da Educação, MEC, Brasil",
+      "instituicao_nome": "Ministério da Educação",
+      "instituicao_sigla": "MEC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - Atual",
+      "ano_inicio": "2006",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Associado",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2007 - Atual",
+      "ano_inicio": "2007",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 09/2022",
+      "ano_inicio": "2020",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2016 - 12/2018",
+      "ano_inicio": "2016",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2012 - 08/2017",
+      "ano_inicio": "2012",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino - Campus Salvador.",
+        "Direção e administração, Diretoria de Ensino - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 12/2009",
+      "ano_inicio": "2006",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2006 - 07/2009",
+      "ano_inicio": "2006",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2006 - 12/2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil.",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Tecnologista Júnior I",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Grande Rio, UNIGRANRIO, Brasil.",
+      "instituicao_nome": "Universidade do Grande Rio",
+      "instituicao_sigla": "UNIGRANRIO",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2006",
+      "ano_inicio": "2004",
+      "ano_fim": "2006",
+      "vinculo": "Contratado",
+      "enquadramento": "Professor Assistente I",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Grande Rio, UNIGRANRIO, Brasil",
+      "instituicao_nome": "Universidade do Grande Rio",
+      "instituicao_sigla": "UNIGRANRIO",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2005",
+      "ano_inicio": "2001",
+      "ano_fim": "2005",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "Colaborador",
+      "enquadramento": "Estágio Docente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - 2001",
+      "ano_inicio": "2000",
+      "ano_fim": "2001",
+      "vinculo": "Bolsista Desenvolvedor",
+      "enquadramento": "Estagiário-Programador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2001",
+      "ano_inicio": "1999",
+      "ano_fim": "2001",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista Desenvolvedor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/1999 - 01/2001",
+      "ano_inicio": "1999",
+      "ano_fim": "2001",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil.",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2001",
+      "ano_inicio": "1999",
+      "ano_fim": "2001",
+      "vinculo": "Colaborador",
+      "enquadramento": "Conselheiro",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil.",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - 1999",
+      "ano_inicio": "1998",
+      "ano_fim": "1999",
+      "vinculo": "Colaborador",
+      "enquadramento": "Diretor / Desenvolvedor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Empresa Júnior de Informática Ufba."
+      ]
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Júnior de Informática Ufba, INFOJR, Brasil",
+      "instituicao_nome": "Empresa Júnior de Informática Ufba",
+      "instituicao_sigla": "INFOJR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Empresa Júnior de Informática Ufba."
+      ]
+    },
+    {
+      "instituicao": "Universidade Estácio de Sá, UNESA, Brasil.",
+      "instituicao_nome": "Universidade Estácio de Sá",
+      "instituicao_sigla": "UNESA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2003",
+      "ano_inicio": "2003",
+      "ano_fim": "2003",
+      "vinculo": "Prestador de Serviço",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estácio de Sá, UNESA, Brasil",
+      "instituicao_nome": "Universidade Estácio de Sá",
+      "instituicao_sigla": "UNESA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional do Trabalho, TRT-05, Brasil.",
+      "instituicao_nome": "Tribunal Regional do Trabalho",
+      "instituicao_sigla": "TRT-05",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - 1999",
+      "ano_inicio": "1998",
+      "ano_fim": "1999",
+      "vinculo": "Estagio",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional do Trabalho, TRT-05, Brasil",
+      "instituicao_nome": "Tribunal Regional do Trabalho",
+      "instituicao_sigla": "TRT-05",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional do Trabalho, TRT-05, Brasil",
+      "instituicao_nome": "Tribunal Regional do Trabalho",
+      "instituicao_sigla": "TRT-05",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/1998 - 04/1999",
+      "ano_inicio": "1998",
+      "ano_fim": "1999",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "I G Informática e Gestão, OPEN-SCHOOL, Brasil.",
+      "instituicao_nome": "I G Informática e Gestão",
+      "instituicao_sigla": "OPEN-SCHOOL",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 1999",
+      "ano_inicio": "1999",
+      "ano_fim": "1999",
+      "vinculo": "Estagiário",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "I G Informática e Gestão, OPEN-SCHOOL, Brasil",
+      "instituicao_nome": "I G Informática e Gestão",
+      "instituicao_sigla": "OPEN-SCHOOL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "I G Informática e Gestão, OPEN-SCHOOL, Brasil",
+      "instituicao_nome": "I G Informática e Gestão",
+      "instituicao_sigla": "OPEN-SCHOOL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "ESTADO DA BAHIA, SEAGRI, Brasil.",
+      "instituicao_nome": "ESTADO DA BAHIA",
+      "instituicao_sigla": "SEAGRI",
+      "instituicao_pais": "Brasil",
+      "periodo": "1997 - 1997",
+      "ano_inicio": "1997",
+      "ano_fim": "1997",
+      "vinculo": "Estágio",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "ESTADO DA BAHIA, SEAGRI, Brasil",
+      "instituicao_nome": "ESTADO DA BAHIA",
+      "instituicao_sigla": "SEAGRI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "ESTADO DA BAHIA, SEAGRI, Brasil",
+      "instituicao_nome": "ESTADO DA BAHIA",
+      "instituicao_sigla": "SEAGRI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "ESTADO DA BAHIA, SEAGRI, Brasil",
+      "instituicao_nome": "ESTADO DA BAHIA",
+      "instituicao_sigla": "SEAGRI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "CAMINHOS CULTURAIS: DO IFBA, CAMPUS DE SALVADOR, ÀS ATIVIDADES DO SEU ENTORNO",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O presente projeto, proposto ao Edital n 18/2021/DPGI/DIREC/IFBA Campus Salvador, tem origem nos resultados do projeto Mapeamento inteligente das atividades culturais do entorno do IFBA - Campus de Salvador, em desenvolvimento desde 2020. O objetivo principal desta nova proposta é mapear os caminhos entre o IFBA, Campus Salvador, e as atividades culturais do seu entorno, principalmente, no perímetro Barbalho Lapinha Santo Antônio. Trata-se de pesquisa interdisciplinar, envolvendo aspectos dos territórios e de suas histórias, dos sujeitos que vivem e circulam nesses territórios e de suas memórias. Os resultados visam a apresentação dos caminhos mapeados no formato de 16 vídeos, publicados no site do projeto, juntamente com 15 mapas de orientação dos caminhos no perímetro definido. Os caminhos culturais caracterizam-se pelos aspectos identitários dos territórios - de suas histórias e de suas populações. Portanto, a sistematização e divulgação dos caminhos culturais do Barbalho-Lapinha-Santo Antônio fomentarão a valorização do território, bem como indicarão o planejamento de políticas voltadas às práticas culturais dessas localidades. Além disso, soma-se à proposta o estreitamento das relações comunitárias entre o IFBA, Campus Salvador, e as populações de seu entorno.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Pablo Vieira Florentino - Integrante / Catiane Rocha Passos de Souza - Coordenador / Marijane de Oliveira Correia - Integrante / Moura, Solange Maria de Souza - Integrante / Mirella Rodrigues da Cruz - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Catiane Rocha Passos de Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marijane de Oliveira Correia",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Moura, Solange Maria de Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mirella Rodrigues da Cruz",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Salvador: visões de futuro",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O projeto \"Salvador: visões de futuro\" pretende enfrentar uma questão aparentemente simples. Qual será o futuro possível de Salvador se forem mantidas as atuais tendências demográficas, sociais, econômicas, e de desenvolvimento espacial? O produto final do projeto Salvador: visões de futuro, na sua integralidade, terá o alcance de instrumentalizar e fortalecer o processo de planejamento da cidade e desenhar políticas públicas para o futuro desejado. O objetivo do projeto é aprofundar e detalhar os cenários tendenciais de modo a subsidiar a construção de visão de futuro desejável para a metrópole de Salvador, que corrigindo ou ajustando as tendências identificadas, possa guiar a definição de ações, de estratégias e políticas públicas e permita o estabelecimento de metas de planejamento que possam ser acompanhadas e monitoradas pelos gestores públicos e pela sociedade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) / Doutorado: (2) . Integrantes: Pablo Vieira Florentino - Integrante / Gilberto Corso Pereira - Coordenador / Inaiá Carvalho - Integrante / Claudia Monteiro Fernandes - Integrante / Juan Pedro Moreno Delgado - Integrante / Maria das Graças Borja Gondim - Integrante. Financiador(es): Fund. Mario Leal Ferreira - Outra."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gilberto Corso Pereira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Inaiá Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Claudia Monteiro Fernandes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juan Pedro Moreno Delgado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria das Graças Borja Gondim",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fund",
+          "tipo_apoio": "Financiamento"
+        }
+      ]
+    },
+    {
+      "nome": "Representações da Cidade Contemporânea",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O projeto se propõe a assegurar a consolidação e o avanço de um conjunto de investigações que vem sendo desenvolvidas no âmbito do grupo de pesquisa LCAD - Laboratório de estudos avançados em Cidade, Arquitetura e tecnologias Digitais e se desdobram em algumas linhas de investigação. A maior parte das pesquisas usa como recorte espacial para os dados empíricos Salvador e sua região metropolitana. Este recorte possibilita a convergência com estudos desenvolvidos no âmbito da rede de pesquisa do Observatório das Metrópoles, cujo núcleo Salvador é integrado por alguns pesquisadores do LCAD. Linhas de investigação: Cidade como bem comum - valor de bem comum ao espaço urbano Cidade conectada - uso e análise de redes sociais que se desenvolvem no espaço urbano Monitoramento do desenvolvimento urbano - avaliação e mensuração da cidade, e de seus espaços... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pablo Vieira Florentino - Integrante / ROCHA, Maria Célia Furtado - Integrante / Gilberto Corso Pereira - Coordenador. Número de produções C, T & A: 6"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ROCHA, Maria Célia Furtado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gilberto Corso Pereira",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Difusão dos caminhos culturais do IFBA, Campus Salvador, ao seu entorno: fomento aos arranjos produtivos e socioculturais locais",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: A proposta se articula ao projeto de Pesquisa em curso: Caminhos Culturais: do IFBA, Campus de Salvador, às Atividades do seu Entorno. O objetivo principal é a difusão dos vídeos documentários produzidos em colaboração com moradores, artistas e produtores culturais dos bairros Barbalho Lapinha Santo Antônio Além do Carmo, sobre suas atividades e experiências culturais. As produções audiovisuais resultam de pesquisas e de ações extensionistas, envolvendo aspectos dos territórios e de suas histórias, dos sujeitos que vivem e circulam nesses territórios e de seus processos identitários. A difusão dos vídeos documentários pretende fomentar as relações comunitárias entre o IFBA, Campus Salvador, e seu entorno, bem como impulsionar os arranjos produtivos e socioculturais locais, visando o desenvolvimento local e a inclusão social em consonância com as demandas sociais com vistas à melhoria das condições de vida e trabalho. Os produtos oriundos dessas ações extensionistas são potencialmente materiais didático-pedagógicos a serem partilhados no Campus e nas instituições educacionais e culturais do entorno.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (1) . Integrantes: Pablo Vieira Florentino - Integrante / Catiane Rocha Passos de Souza - Coordenador / Marijane de Oliveira Correia - Integrante / Moura, Solange Maria de Souza - Integrante / Evely Paranhos Souza - Integrante / Maria Lucileide Mota Lima - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Catiane Rocha Passos de Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marijane de Oliveira Correia",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Moura, Solange Maria de Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Evely Paranhos Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Lucileide Mota Lima",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "PRODUÇÃO AUDIOVISUAL DE CAMINHOS CULTURAIS DO ENTORNO DO CAMPUS IFBA SALVADOR",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O presente projeto, proposto ao Edital n 09/2022/PIBIEX-ES/PROEX/IFBA (EDITAL DE BOLSAS DE INICIAÇÃO À EXTENSÃO PARA O ENSINO SUPERIOR 2022 PIBIEX-ES IFBA) se insere no projeto, em curso, Caminhos Culturais: do IFBA, Campus de Salvador, às Atividades do seu Entorno. O objetivo principal desta nova proposta é atuar conjuntamente com a comunidade do entorno, principalmente no perímetro Barbalho Lapinha Santo Antônio, na produção audiovisual de suas atividades e experiências culturais. Tratam-se de ações extensionistas, envolvendo aspectos dos territórios e de suas histórias, dos sujeitos que vivem e circulam nesses territórios e de seus processos identitários. Os resultados visam a produção dos registros verbais e não verbais que comporão vídeos documentários dos caminhos culturais no perímetro definido. A sistematização e divulgação dos vídeos documentários fomentam as relações comunitárias entre o IFBA, Campus Salvador, e seu entorno. Os produtos oriundos dessas ações extensionistas são potencialmente materiais didático-pedagógicos a serem partilhados no Campus e nas instituições educacionais e culturais do entorno.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (1) . Integrantes: Pablo Vieira Florentino - Integrante / Catiane Rocha Passos de Souza - Coordenador / Marijane de Oliveira Correia - Integrante / Moura, Solange Maria de Souza - Integrante / Célio Matheus da Silva Santos - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Catiane Rocha Passos de Souza",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marijane de Oliveira Correia",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Moura, Solange Maria de Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Célio Matheus da Silva Santos",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "ADS Online - Ciclo de Palestras e Rodas de Conversa - 2021",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: Projeto de extensão envolvendo discentes e docentes dos cursos da área de computação e tecnologia do IFBA em um conjunto de apresentações que discutem temas emergentes relacionados à área de Computação e Desenvolvimento de Sistemas, buscando correlações com o momento atual pelo qual estamos passando: a pandemia. Nesta oportunidade, serão discutidos temas transversais e multidisciplinares relacionados com a área de tecnologia da informação.. Situação: Concluído; Natureza: Extensão. Integrantes: Pablo Vieira Florentino - Coordenador / Simone da Silva Amorim - Integrante / Isnalde Clesia Souza de Miranda - Integrante / PEDRO HENRIQUE MARQUES DE SANTANA ARAUJO - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Simone da Silva Amorim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isnalde Clesia Souza de Miranda",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "PEDRO HENRIQUE MARQUES DE SANTANA ARAUJO",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "MAPEAMENTO INTELIGENTE DAS ATIVIDADES CULTURAIS DO ENTORNO DO IFBA - CAMPUS DE SALVADOR",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O presente projeto, proposto ao Edital n 05/2020/DPGI/DIREC/Campus de Salvador/IFBA (Incentivo a projetos de pesquisa, de inovação e/ou de extensão), tem como finalidade principal construir um mapeamento inteligente das práticas culturais do entorno do IFBA - Campus de Salvador, principalmente no perímetro Barbalho Lapinha Santo Antônio. Nesse intento, o projeto propõe pesquisa interdisciplinar, identificando lugares, sujeitos, histórias e memórias. Os resultados visam coletar e sistematizar materiais e informações em plataforma inteligente e acessível, partindo da necessidade de (re)conhecimento, valorização e planejamento de políticas a respeito da cultura tão significativa nas localidades do entorno do IFBA - Campus Salvador. Nessa perspectiva, a proposta se atenta ao fortalecimento da cultura local, bem como das relações entre comunidade acadêmica do IFBA e sociedade soteropolitana.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (1) . Integrantes: Pablo Vieira Florentino - Integrante / Marijane de Oliveira Correia - Integrante / Souza, Catiane Rocha Passos de - Coordenador / Mirella Rodrigues da Cruz - Integrante. Financiador(es): Instituto Federal da Bahia - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marijane de Oliveira Correia",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Souza, Catiane Rocha Passos de",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Mirella Rodrigues da Cruz",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal da Bahia",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "ADS Online - Ciclo de Palestras e Rodas de Conversa - 2020",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2020",
+      "descricao": [
+        "Descrição: O projeto em questão tem como objetivo proporcionar ao corpo discente e docente dos cursos da área de computação do IFBA um conjunto de apresentações que discutam temas relacionados à área de Computação e Desenvolvimento de Sistemas, buscando correlações com o momento de pandemia pelo qual estamos passando desde Março de 2020. Nesta oportunidade, serão discutidos temas transversais e multidisciplinares, envolvendo áreas como Tecnologia da Informação, Saúde Coletiva e Mental, Mercado de Trabalho, Educação, entre outras, e não necessariamente abordados nos conteúdos formais das ementas das disciplinas do ensino superior. Temas como fontes de dados abertos e Covid-19, saúde e isolamento, perspectivas de ensino e aprendizagem remotas, e mercado de trabalho na área de computação serão apresentados no evento por acadêmicos e profissionais da área e discutidos com participantes do evento utilizando de plataformas digitais para conferências à distância e difusão de vídeos. Apesar do evento estar sendo planejado com foco nos alunos do IFBA, a sua característica on-line permitirá a participação de qualquer interessado nos temas abordados.. Situação: Concluído; Natureza: Extensão. Integrantes: Pablo Vieira Florentino - Coordenador / Renato Lima Novais - Integrante / Sandro Santos Andrade - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Renato Lima Novais",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sandro Santos Andrade",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Projeto SIGAA EDU",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: O SIGA-EPCT é um projeto que desenvolve um sistema integrado de gestão acadêmica com tecnologias livres e de forma colaborativa pelas próprias instituições participantes da Rede de Educação Profissional, Científica e Tecnológica. Esse projeto tem o apoio do Ministério da Educação do Brasil - MEC, através da Secretaria da Educação Profissional e Tecnológica - SETEC. Um dos objetivos do projeto é auxiliar o MEC na extração automática de informações sobre as instituições. Participação através do núcleo IFBA Salvador. Situação: Concluído; Natureza: Desenvolvimento.. Situação: Concluído; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (6) . Integrantes: Pablo Vieira Florentino - Integrante / Allan Edgard Silva Freitas - Integrante / Eunice Palmeira da Silva - Integrante / Edna Matos - Coordenador."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Allan Edgard Silva Freitas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eunice Palmeira da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edna Matos",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Banco de Dados",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Sistemas de Informação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Geografia",
+      "subarea": "Urbanismo",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Geografia / Subárea: Urbanismo."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Banco de Dados",
+      "objetivo": ""
+    },
+    {
+      "nome": "Análise de Redes Sociais",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "URBAN VGI NETWORKS AS A PATH FOR COLLECTIVE INTELLIGENCE",
+        "ano": 2021,
+        "autores": "FLORENTINO, P. V.; PEREIRA, G. C.",
+        "revista": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "XLVI-4/W1-2021",
+        "numero": "",
+        "paginas": "35-42",
+        "issn": "2194-9034",
+        "doi": "http://dx.doi.org/10.5194/isprs-archives-xlvi-4-w1-2021-35-2021",
+        "qualis": ""
+      },
+      {
+        "titulo": "Accessing the city through new forms of sociability - examples of use of digital social networks in Brazil",
+        "ano": 2015,
+        "autores": "PEREIRA, G. C. ; FLORENTINO, P. V. ; ROCHA, Maria Célia Furtado",
+        "revista": "Territorio Italia: land administration, cadastre, real estat",
+        "volume": "2",
+        "numero": "",
+        "paginas": "71-83",
+        "issn": "2240-7707",
+        "doi": "http://dx.doi.org/10.14609/Ti_2_14_5e",
+        "qualis": ""
+      },
+      {
+        "titulo": "Digital Social Networks and Urban Spaces",
+        "ano": 2014,
+        "autores": "FLORENTINO, P. V.; ROCHA, Maria Célia Furtado ; CORSO, G.",
+        "revista": "Tema",
+        "volume": "1",
+        "numero": "",
+        "paginas": "403-415",
+        "issn": "1970-9889",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "City as Commons: study of shared visions by communities on facebook",
+        "ano": 2014,
+        "autores": "ROCHA, Maria Célia Furtado ; FLORENTINO, P. V. ; CORSO, G.",
+        "revista": "Lecture Notes in Computer Science",
+        "volume": "8580",
+        "numero": "",
+        "paginas": "486-501",
+        "issn": "0302-9743",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Spatial Representation: City and Digital Spaces",
+        "ano": 2013,
+        "autores": "CORSO, G. ; ROCHA, Maria Célia Furtado ; FLORENTINO, P. V.",
+        "revista": "Lecture Notes in Computer Science",
+        "volume": "7973",
+        "numero": "",
+        "paginas": "524-524",
+        "issn": "0302-9743",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Redes Urbanas de Informação Geográfica Voluntária como Ferramenta para Inteligência Coletiva",
+        "ano": 2025,
+        "autores": "FLORENTINO, P. V.; PEREIRA, G. C.",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "263-282"
+      },
+      {
+        "titulo": "POPULAÇÃO POBRE, TARIFA CARA, TRANSPORTE SEM QUALIDADE: a Salvador dos projetos bilionários não conversa com a Tarifa Zero",
+        "ano": 2024,
+        "autores": "DELGADO, J. P. M. ; FLORENTINO, P. V. ; SANTOS, J. L. C.",
+        "titulo_livro": "",
+        "editora": "Letra Capital",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "68-71"
+      },
+      {
+        "titulo": "CAMINHOS CULTURAIS: DO IFBA, CAMPUS SALVADOR, AO FORTE DO BARBALHO",
+        "ano": 2023,
+        "autores": "Souza, Catiane Rocha Passos de ; Moura, Solange Maria de Souza ; Lima, Maria Lucileide Mota ; Correia, Marijane de Oliveira ; Santos, Nadson Silva dos ; FLORENTINO, PABLO VIEIRA ; Rodrigues, Mirella ; Santana, Jair Souza de",
+        "titulo_livro": "",
+        "editora": "Atena Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "151-175"
+      },
+      {
+        "titulo": "Lutas e reivindicações urbanas",
+        "ano": 2022,
+        "autores": "TEIXEIRA, A. N. ; MOURAD, L. N. ; FLORENTINO, P. V.",
+        "titulo_livro": "",
+        "editora": "Letra Capital Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "209-238"
+      },
+      {
+        "titulo": "Algoritmos possuem ideologia? Uma base de dados reflete a forma como enxergamos o mundo?",
+        "ano": 2022,
+        "autores": "FLORENTINO, P. V.; SOUZA, C. R. P.",
+        "titulo_livro": "",
+        "editora": "EDIFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "204-213"
+      },
+      {
+        "titulo": "REGIÃO METROPOLITANA DE SALVADOR (BA)",
+        "ano": 2021,
+        "autores": "PEREIRA, G. C. ; CARVALHO, I. ; ARANTES, R. A. ; PEREIRA, C. G. ; FERNANDES, C. M. ; SANTOS, J. L. C. ; DELGADO, J. P. M. ; GONDIM, M. G. B. ; TEIXEIRA, A. N. ; MOURAD, L. N. ; SILVA, M. P. ; FLORENTINO, P. V.",
+        "titulo_livro": "",
+        "editora": "Observatório das Metrópoles (livro digital)",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "277-296"
+      },
+      {
+        "titulo": "A PANDEMIA DA COVID-19 EM UMA CIDADE POBRE E PERIFÉRICA:Desigualdades e vulnerabilidades socioespaciais, governança e políticas de enfrentamento em Salvador e em sua Região Metropolitana",
+        "ano": 2020,
+        "autores": "PEREIRA, G. C. ; CARVALHO, I. ; ARANTES, R. A. ; PEREIRA, C. G. ; FERNANDES, C. M. ; SANTOS, J. L. C. ; DELGADO, J. P. M. ; GONDIM, M. G. B. ; TEIXEIRA, A. N. ; MOURAD, L. N. ; SILVA, M. P. ; OLIVEIRA, A. A. A. ; FLORENTINO, P. V. ; BORGES FILHO, L. A. A.",
+        "titulo_livro": "",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-597"
+      },
+      {
+        "titulo": "Structures of Interactions and Data in Urban Networks: The Case of PortoAlegre.cc",
+        "ano": 2019,
+        "autores": "FLORENTINO, PABLO VIEIRA; Pereira, Gilberto Corso",
+        "titulo_livro": "",
+        "editora": "Springer International Publishing",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "156-170"
+      },
+      {
+        "titulo": "Produção Colaborativa",
+        "ano": 2014,
+        "autores": "FLORENTINO, PABLO VIEIRA",
+        "titulo_livro": "",
+        "editora": "CIAGS",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "149-151"
+      },
+      {
+        "titulo": "City as a social network - Brazilian examples",
+        "ano": 2013,
+        "autores": "CORSO, G. ; FLORENTINO, P. V. ; ROCHA, Maria Célia Furtado",
+        "titulo_livro": "",
+        "editora": "CRC Press/Balkema",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "129-142"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "MAPEAMENTO INTELIGENTE DAS ATIVIDADES CULTURAIS DO ENTORNO DO IFBA - CAMPUS DE SALVADOR",
+        "ano": 2021,
+        "autores": "SOUZA, C. R. P. ; FLORENTINO, P. V. ; CORREIA, M. O.",
+        "evento": "XVII ENECULT UFBA",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Structures of interactions and data in urban networks: the case of PortoAlegre.cc",
+        "ano": 2018,
+        "autores": "FLORENTINO, P. V.; PEREIRA, G. C.",
+        "evento": "Workshop on Big Social Data and Urban Computing (BiDU) in conjunction with VLDB 2018",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Rastreamento e visualização de redes sociais: Visualizando redes indiretas a partir de dados georreferenciais",
+        "ano": 2015,
+        "autores": "SOUSA, P. V. ; FLORENTINO, P. V.",
+        "evento": "III Simpósio Internacional LAVITS: Vigilância",
+        "cidade": "",
+        "paginas": "101-117",
+        "isbn": ""
+      },
+      {
+        "titulo": "Redes Sociais e o Espaço Urbano",
+        "ano": 2012,
+        "autores": "FLORENTINO, P. V.; CORSO, G.",
+        "evento": "8º CONGRESSO INTERNACIONAL CIDADE VIRTUAL E TERRITORIO",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Sessão Médica HiperClínica - Aplicação em TeleMedicina: Uma experiência de Implementação",
+        "ano": 2000,
+        "autores": "FLORENTINO, P. V.; DANTAS, Geysa V",
+        "evento": "2º Workshop da Rede Nacional de Pesquisa para Internet2 (WRNP2)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "ANÁLISE MULTIDIMENSIONAL DO PERFIL DISCENTE E A EVASÃO NO ENSINO SUPERIOR",
+        "ano": 2012,
+        "autores": "ALMEIDA, L. F. C. ; FLORENTINO, P. V.",
+        "evento": "III Seminário Nacional de Educação Profissional e Tecnológica, 2012, Belo Horizonte. Anais do III Seminário Nacional de Educação Profissional e Tecnológica",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Tecnologias, Redes, Bicicletas (?) e o Acesso à cidade",
+        "ano": 2013,
+        "autores": "FLORENTINO, P. V",
+        "evento": "URBA13 - Seminário Urbanismo na Bahia, 2013, Salvador. Anais do Seminário Urbanismo na Bahia, UrBba[13] Cidade Contemporânea: Utopias, Distopias, Heterotopias. Salvador",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Desafios da Extensão como geradora de Tecnologias sociais em projetos na área de Computação",
+        "ano": 2025,
+        "autores": "FLORENTINO, P. V.; ABDALLA, D. ; PAULA, M. ; CAETANO, B. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "MobiDataSSA: Um Dashboard sobre a Mobilidade Urbana em Salvador",
+        "ano": 2024,
+        "autores": "BORGES FILHO, L. A. A. ; FLORENTINO, P. V.",
+        "evento": ""
+      },
+      {
+        "titulo": "Mobilidade Urbana e Meio Ambiente",
+        "ano": 2022,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "URBAN VGI NETWORKS AS A PATH FOR COLLECTIVE INTELLIGENCE",
+        "ano": 2021,
+        "autores": "FLORENTINO, P. V.; PEREIRA, G. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Dados cidadãos para uma cidade Copyleft",
+        "ano": 2021,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "Dados Abertos, Pandemia e LGPD",
+        "ano": 2020,
+        "autores": "FLORENTINO, PABLO VIEIRA; BORGES FILHO, L. A. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Tramas relacionais urbanas",
+        "ano": 2019,
+        "autores": "FLORENTINO, P. V.; PEREIRA, G. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Dados Abertos, Inovação e Controle social",
+        "ano": 2019,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "Reflexões sobre mobilidade, urbanismo e tecnologia",
+        "ano": 2016,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "Questões urbanas da sociedade civil como desafios para cidades inteligentes com tecnologias sociais",
+        "ano": 2014,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "Tecnologias, Redes, Bicicletas (?) e o Acesso à cidade",
+        "ano": 2013,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "City as a social network: Brazilian examples",
+        "ano": 2013,
+        "autores": "PEREIRA, G. C. ; ROCHA, Maria Célia Furtado ; FLORENTINO, P. V.",
+        "evento": ""
+      },
+      {
+        "titulo": "Smart City x Cidade Copyleft",
+        "ano": 2013,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      },
+      {
+        "titulo": "PID - Projeto de Interoperabilidade de Dados",
+        "ano": 2006,
+        "autores": "FLORENTINO, P. V",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Salvador Detroit",
+        "ano": 2014,
+        "autores": "FLORENTINO, PABLO VIEIRA; MORAES, A. ; CHASTINET, I. ; BARBUDA, A. ; KANNENGIESSER, W.",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 nov. 2014"
+      },
+      {
+        "titulo": "Normalização",
+        "ano": 2005,
+        "autores": "FLORENTINO, P. V.; CASTRO JR, Manuel Antonio de",
+        "jornal": "",
+        "cidade": "",
+        "data": "30 jun. 2005"
+      },
+      {
+        "titulo": "Distribuição e Fragmentação de bases de dados",
+        "ano": 2005,
+        "autores": "FLORENTINO, P. V",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 jan. 2005"
+      }
+    ],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Parecer sobre programa de computador voltado para educação gamificada",
+        "ano": 2024,
+        "autores": "FLORENTINO, P. V",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "A PANDEMIA DA COVID-19 EM UMA CIDADE POBRE E PERIFÉRICA:Desigualdades e vulnerabilidades socioespaciais, governança e políticas de enfrentamento em Salvador e em sua Região Metropolitana",
+        "ano": 2020,
+        "autores": "PEREIRA, G. C. ; CARVALHO, I. ; ARANTES, R. A. ; PEREIRA, C. G. ; FERNANDES, C. M. ; SANTOS, J. L. C. ; DELGADO, J. P. M. ; TEIXEIRA, A. N. ; GONDIM, M. G. B. ; MOURAD, L. N. ; SILVA, M. P. ; OLIVEIRA, A. A. A. ; FLORENTINO, P. V. ; BORGES FILHO, L. A. A.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Projeto para reformulação do sítio Institucional do CEFET-BA",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S. ; FLORENTINO, P. V.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "PID - Projeto de Interoperabilidade de Dados",
+        "ano": 2006,
+        "autores": "FLORENTINO, P. V.; PY, H. S.",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Introdução a Ciência de Dados com R",
+        "ano": 2024,
+        "autores": "FLORENTINO, P. V.; BORGES FILHO, L. A. A.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Construindo Dashboards com R",
+        "ano": 2024,
+        "autores": "FLORENTINO, P. V.; BORGES FILHO, L. A. A.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução a Ciência de Dados com R",
+        "ano": 2023,
+        "autores": "FLORENTINO, P. V.; BORGES FILHO, L. A. A.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "A bicicleta e o mapeamento colaborativo",
+        "ano": 2015,
+        "autores": "FLORENTINO, P. V.; VIALLE, C. ; SANTOS, P. L. ; GUEDES, P.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Mobilidade Não Motorizada em Salvador",
+        "ano": 2015,
+        "autores": "FLORENTINO, P. V",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Distribuição de Bases de Dados",
+        "ano": 2008,
+        "autores": "FLORENTINO, P. V",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Mobilidade urbana - Hiperlink - Conexão Bahia",
+        "ano": 2018,
+        "autores": "FLORENTINO, P. V",
+        "veiculo": ""
+      },
+      {
+        "titulo": "TVE Debate - Mobilidade",
+        "ano": 2017,
+        "autores": "FLORENTINO, P. V.; MIRANDA, S. ; TRINDADE, J. ; TRINDADE, M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Debate sobre CicloMobilidade no PedalaRibeira",
+        "ano": 2015,
+        "autores": "FLORENTINO, P. V.; FALZONI, R. ; NAZARETH, F. ; CASAGRANDE, M. ; RONCA, E.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [
+    {
+      "titulo": "Tan Cercanos, Tan Lejanos",
+      "ano": 2008,
+      "autores": "FLORENTINO, P. V",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    }
+  ],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Divulgação científica de universidades públicas nas mídias sociais: o jornalismo científico em meio à desinformação sobre a pandemia",
+          "ano_inicio": 2024,
+          "orientando": "Josemara Veloso Santos",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Sophiadata: Governança e Publicação de Dados Governamentais Abertos",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Mario Jorge Pereira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ANALISE DE LICITAÇÕES FEDERAIS ̃ATRAVÉS DO SISTEMA DE AUDITORIA DE LICITAÇÕES - SAL",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Iris Ribeiro dos Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [
+        {
+          "titulo": "Mapeamento Sensível ao Contexto dos Boletins de Ocorrência Registrados na Região Metropolitana de Salvador",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Allan Ariel Leite Menezes",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma proposta de arquitetura de mineração de redes sociais relacionando necessidades a serviços públicos",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Leonardo Melo Costa da Silva",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Struct Set - Um modelo para construção de camadas de persistência orientadas a objetos para banco de dados relacionais",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "FÁBIO HENRIQUE LEMOS DE CASTRO",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Estácio de Sá",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "Análise Comparativa entre Algoritmos de Aprendizado de Máquina aplicados à predição de mortalidade por COVID-19 em Salvador - Bahia",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Vitor Emanuel Santos Lima",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Ig Dashboard: Um Painel de Dados sobre a Qualidade da Água de Salvador",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Lorena Carvalho",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma aplicação crowdsourcing para auxílio na mobilidade urbana em transporte coletivo",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "João Pedro Carvalho Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta para Visualização das Ações do PPA de Salvador",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Gilvan Alves dos Anjos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma aplicação acessível para deficientes visuais no transporte público por ônibus",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Marcelo Dalta",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Dashboard para Dados sobre a Mobilidade Urbana em Salvador",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Luis Borges Filho",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "SELECTOR - Um sistema para apoio a escolha de escolas com Atendimento Educacional Especializado",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Mariana de Araujo Barreiros Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Monitum - Um Modelo de Classificação para a Predição da Evasão Discente no Ensino Médio",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Jonatas Silva Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Bduíno - Um dispositivo para a captura de dados do contexto urbano para o uso da bicicleta.",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Antonio Fernando Santos Ladeia",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Captura e análise por similaridade de ciclorotas a partir de dispositivos móveis",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Vanessa Malvar Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ANÁLISE MULTIDIMENSIONAL DO PERFIL DISCENTE E A EVASÃO NO ENSINO SUPERIOR",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Luiz Fernando Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ODARA-X: Uma Ferramenta para Automação no Projeto de Fragmentação de Dados",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Leandro Oliveira de Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo comparativo de Aplicativos de Gerenciamento de Segurança da Informação para conformidade com as normas ISO/IEC 17799 E ISO/IEC 27001",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "David Barbosa Muniz",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Mineração de Dados e sua Aplicação na PNAD 2006",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Raul Milton Silva de Oliveiraf",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Cenário de Sistemas de Gerenciamento de Banco de Dados Objeto-Relacionais",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Paula Antunes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Desenvolvimento de uma ferramenta para fragmentação e distribuição de dados, com suporte a grades computacionais.",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Naiara Neves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": [
+        {
+          "titulo": "Ciclo de Palestras e Rodas de Conversa - ADS Online",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "PEDRO HENRIQUE MARQUES DE SANTANA ARAUJO",
+          "tipo_trabalho": "",
+          "instituicao": "Orientação de outra natureza - Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "V Simpósio Brasileiro de Educação em Computação",
+        "apresentacao": "Desafios da Extensão como geradora de Tecnologias sociais em projetos na área de Computação",
+        "ano": 2025,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Nacional de Ciência e Tecnologia do IFBA - Campus Salvador",
+        "apresentacao": "IA e seus impactos sociais",
+        "ano": 2020,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário Tecnologias para Cidades Inteligentes e Sustentáveis",
+        "apresentacao": "Tramas relacionais urbanas",
+        "ano": 2019,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Cerveja com Dados - Escola de dados",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "4o",
+        "apresentacao": "SETRANSPOR.Mobilidade Urbana Não-motorizada",
+        "ano": 2016,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso da Sociedade Brasileira de Computação",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "FISL - Festival Internacional de SOftware Livre",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "FISL - Festival Internacional de Software Livre",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SemComp 2013",
+        "apresentacao": "Cidade Copyleft x Smart Cities",
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "UDMS 2013 - Urban Data Management Symposium",
+        "apresentacao": "City as a social network: Brazilian examples",
+        "ano": 2013,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso da Sociedade Brasileira de Computação",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "TEDx Pelourinho",
+        "apresentacao": "Cidades inteligentes pensadas para as pessoas",
+        "ano": 2012,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Escola Regional de Computação Bahia-Alagoas-Sergipe - Curso sobre Análise de Redes Sociais",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário Nacional de Inovação Tecnológica dos Institutos Federais",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Banco de Dados",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Escola Regional de Computação Bahia-Alagoas-Sergipe",
+        "apresentacao": "Mini-curso de Banco de Dados Distribuídos",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Computação -Curso de Qualidade para Coordenadores de Cursos Superiores",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "High Performance Data grid Workshop",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Encontro Nacional de Produtores e Usuários de Informações Sociais, Econômicas e Territoriais",
+        "apresentacao": "PID - Projeto de Interoperabilidade de Dados",
+        "ano": 2006,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VECPAR - High Performance Computing for Computational Science",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Computação",
+        "apresentacao": null,
+        "ano": 2004,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Banco de Dados",
+        "apresentacao": null,
+        "ano": 2002,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Banco de Dados",
+        "apresentacao": null,
+        "ano": 2001,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Redes de Computadores",
+        "apresentacao": "Sessão Médica HiperClínica ? Aplicação em TeleMedicina: Uma experiência de Implementação",
+        "ano": 2000,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop RNP de Redes de Alta Velocidade",
+        "apresentacao": null,
+        "ano": 2000,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Redes de ComputadoresSa",
+        "apresentacao": null,
+        "ano": 1999,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Brasileiro de Engenharia de Software",
+        "apresentacao": null,
+        "ano": 1997,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "FLORENTINO, P. V.; PAULA, M.",
+        "evento": "Coordenação da Trilha de Colaboração, Sociedade e Extensão do XIX Simpósio Brasileiro de Sistemas Colaborativos (SBSC 2024)",
+        "ano": 2024,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FLORENTINO, P. V.; SOUZA, C. R. P. ; Moura, Solange Maria de Souza",
+        "evento": "Lançamento da Série de Curtas Documentários Caminhos Culturais",
+        "ano": 2022,
+        "natureza": "Exposição",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "FLORENTINO, P. V.; PAULA, M.; SOUZA, A. D.. Participação em banca de Raffael Cleisson de Carvalho. Uma análise da aplicação do Nudge em consultas públicas. 2023. Dissertação (Mestrado em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Raffael Cleisson de Carvalho",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "PAULA, M.",
+          "SOUZA, A. D."
+        ],
+        "titulo_trabalho": "Uma análise da aplicação do Nudge em consultas públicas",
+        "curso": "Dissertação (Mestrado em Ciência e Tecnologia da Computação)",
+        "universidade": "Universidade Federal de Itajubá"
+      },
+      {
+        "descricao": "NOVAIS, R. L.; Vaninha Vieira; FLORENTINO, P. V.; SANTOS, E. T.. Participação em banca de Iris Ribeiro dos Santos. ANALISE DE LICITAÇÕES FEDERAIS ATRAVÉS DO SISTEMA DE AUDITORIA DE LICITAÇÕES - SAL. 2022. Dissertação (Mestrado em Engenharia de Sistemas e Produtos) - Instituto Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "Iris Ribeiro dos Santos",
+        "membros_banca": [
+          "NOVAIS, R. L.",
+          "Vaninha Vieira",
+          "FLORENTINO, P. V.",
+          "SANTOS, E. T."
+        ],
+        "titulo_trabalho": "ANALISE DE LICITAÇÕES FEDERAIS ATRAVÉS DO SISTEMA DE AUDITORIA DE LICITAÇÕES - SAL",
+        "curso": "Dissertação (Mestrado em Engenharia de Sistemas e Produtos)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "FRANCA FILHO, G. C.; SILVA, M. A. M.; FLORENTINO, P. V.. Participação em banca de Claudio Henrique Fontenelle Santos. Prática do Ciclismo Utilitário em Fortaleza. 2017. Dissertação (Mestrado em Administração) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "Claudio Henrique Fontenelle Santos",
+        "membros_banca": [
+          "FRANCA FILHO, G. C.",
+          "SILVA, M. A. M.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Prática do Ciclismo Utilitário em Fortaleza",
+        "curso": "Dissertação (Mestrado em Administração)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "MELO, R. C.; LEITE, I. C. C.; NEVES, B. C.; FLORENTINO, P. V.. Participação em banca de Carlos Bruno de Jesus Oliveira. O ENSINO DA MATEMÁTICA NA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA (EPT): UMA ANÁLISE DAS DISSERTAÇÕES DEFENDIDAS NO MESTRADO PROFISSIONAL EM MATEMÁTICA (PROFMAT). 2021. Monografia (Aperfeiçoamento/Especialização em Especialização em Educação Profissional e Tecnológica) - Instituto Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Carlos Bruno de Jesus Oliveira",
+        "membros_banca": [
+          "MELO, R. C.",
+          "LEITE, I. C. C.",
+          "NEVES, B. C.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "O ENSINO DA MATEMÁTICA NA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA (EPT): UMA ANÁLISE DAS DISSERTAÇÕES DEFENDIDAS NO MESTRADO PROFISSIONAL EM MATEMÁTICA (PROFMAT)",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Educação Profissional e Tecnológica)",
+        "universidade": "Instituto Federal da Bahia"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "ABDALLA, D.; ANDRADE, J. C.; SOUZA, A. C. S.; MELO, J. D.; FLORENTINO, P. V.; OLIVEIRA, R. S.. Participação em banca de SIMONE GONSALVES MENDES DE ARAÚJO. MODELAGEM DE REDES DE PESQUISA E COLABORAÇÃO CIENTÍFICA NA UEFS SOB A PERSPECTIVA MULTI E INTERDISCIPLINAR. 2025. Tese (Doutorado em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "SIMONE GONSALVES MENDES DE ARAÚJO",
+        "membros_banca": [
+          "ABDALLA, D.",
+          "ANDRADE, J. C.",
+          "SOUZA, A. C. S.",
+          "MELO, J. D.",
+          "FLORENTINO, P. V.",
+          "OLIVEIRA, R. S."
+        ],
+        "titulo_trabalho": "MODELAGEM DE REDES DE PESQUISA E COLABORAÇÃO CIENTÍFICA NA UEFS SOB A PERSPECTIVA MULTI E INTERDISCIPLINAR",
+        "curso": "Tese (Doutorado em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "PEREIRA, G. C.; AMORIM, A. L.; BRITO, P. L.; DANTAS, Y. M. V.; FLORENTINO, P. V.. Participação em banca de CAROLINE MARTINS PEREIRA. OPENCADASTRE PERCURSOS E REFLEXÕES NA ATUALIDADE DO CADASTRO TERRITORIAL URBANO BRASILEIRO. 2023. Tese (Doutorado em Arquitetura e Urbanismo) - Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "CAROLINE MARTINS PEREIRA",
+        "membros_banca": [
+          "PEREIRA, G. C.",
+          "AMORIM, A. L.",
+          "BRITO, P. L.",
+          "DANTAS, Y. M. V.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "OPENCADASTRE PERCURSOS E REFLEXÕES NA ATUALIDADE DO CADASTRO TERRITORIAL URBANO BRASILEIRO",
+        "curso": "Tese (Doutorado em Arquitetura e Urbanismo)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "PEREIRA, H. B. B.; CASAS, T. H. P.; SOUZA, E. R.; LOPES, C. R. S.; RIBEIRO, N. M.; FLORENTINO, P. V.. Participação em banca de Patrícia Nicolau Magris. Coletivos Sociais Urbanos: Análise Cognitiva no contexto da Análise das Redes.. 2020. Tese (Doutorado em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Patrícia Nicolau Magris",
+        "membros_banca": [
+          "PEREIRA, H. B. B.",
+          "CASAS, T. H. P.",
+          "SOUZA, E. R.",
+          "LOPES, C. R. S.",
+          "RIBEIRO, N. M.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Coletivos Sociais Urbanos: Análise Cognitiva no contexto da Análise das Redes",
+        "curso": "Tese (Doutorado em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "CASAS, T. H. P.; PEREIRA, H. B. B.; LOPES, C. R. S.; SOUZA, E. R.; FLORENTINO, P. V.. Participação em banca de Patrícia Nicolau Magris. Representações sociais em coletivos sociais urbanos a partir do modelo AnCo-REDES. 2019. Exame de qualificação (Doutorando em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Patrícia Nicolau Magris",
+        "membros_banca": [
+          "CASAS, T. H. P.",
+          "PEREIRA, H. B. B.",
+          "LOPES, C. R. S.",
+          "SOUZA, E. R.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Representações sociais em coletivos sociais urbanos a partir do modelo AnCo-REDES",
+        "curso": "Exame de qualificação (Doutorando em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "FLORENTINO, P. V.; AMADEU, S.; PEREIRA, G.; FERNANDES, A.; CRUZ, L.. Participação em banca de Mel Travassos de Britto. COLONIALISMO DIGITAL E CIDADES IMAGINÁRIOS SOCIOTÉCNICOS, COLONIZAÇÃO TECNOLÓGICA E SMART CITIES. 2022. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Arquitetura e Urbanismo) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Mel Travassos de Britto",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "AMADEU, S.",
+          "PEREIRA, G.",
+          "FERNANDES, A.",
+          "CRUZ, L."
+        ],
+        "titulo_trabalho": "COLONIALISMO DIGITAL E CIDADES IMAGINÁRIOS SOCIOTÉCNICOS, COLONIZAÇÃO TECNOLÓGICA E SMART CITIES",
+        "curso": "Exame de qualificação (Doutorando em Programa de Pós-Graduação em Arquitetura e Urbanismo)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; LOPES, R.; FLORENTINO, P. V.. Participação em banca de Rodrigo Silva de Oliveira.Desenvolvimento de uma arquitetura de backend para um serviço de transporte de pessoas através de bicicletas. 2025. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rodrigo Silva de Oliveira",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "LOPES, R.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Desenvolvimento de uma arquitetura de backend para um serviço de transporte de pessoas através de bicicletas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.; LOPES, R.; FLORENTINO, P. V.. Participação em banca de EURITALES SILVA DOS SANTOS.Lembre Bem: Sistema de Gestão de Medicamentos para Cuidadores e Familiares. 2024. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "EURITALES SILVA DOS SANTOS",
+        "membros_banca": [
+          "NASCIMENTO, F. M. S.",
+          "LOPES, R.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Lembre Bem: Sistema de Gestão de Medicamentos para Cuidadores e Familiares",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; OLIVEIRA, J. D. S.; LOPES, R.. Participação em banca de Gabriel Ferreira de Jesus.FerryBim ? Sistema de agendamento de travessias. 2023. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gabriel Ferreira de Jesus",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "OLIVEIRA, J. D. S.",
+          "LOPES, R."
+        ],
+        "titulo_trabalho": "FerryBim ? Sistema de agendamento de travessias",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.; FLORENTINO, P. V.; LOPES, R.. Participação em banca de Uiliam Bonﬁm Bittencourt.Monitoramento do mercado de ativos brasileiro: uma proposta de pipeline de dados para detecção de bolhas ﬁnanceiras. 2023. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Uiliam Bonﬁm Bittencourt",
+        "membros_banca": [
+          "NASCIMENTO, F. M. S.",
+          "FLORENTINO, P. V.",
+          "LOPES, R."
+        ],
+        "titulo_trabalho": "Monitoramento do mercado de ativos brasileiro: uma proposta de pipeline de dados para detecção de bolhas ﬁnanceiras",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.; LOPES, R.; FLORENTINO, P. V.. Participação em banca de Marcelo Dalta.Uma aplicação acessível para deficientes visuais no transporte público por ônibus. 2022. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marcelo Dalta",
+        "membros_banca": [
+          "NASCIMENTO, F. M. S.",
+          "LOPES, R.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Uma aplicação acessível para deficientes visuais no transporte público por ônibus",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "LOPES, R.; OLIVEIRA, G. L.; FLORENTINO, P. V.; CARIBE, D. A.. Participação em banca de Luis Borges Filho.Dashboard para Dados sobre a Mobilidade Urbana em Salvador. 2022. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luis Borges Filho",
+        "membros_banca": [
+          "LOPES, R.",
+          "OLIVEIRA, G. L.",
+          "FLORENTINO, P. V.",
+          "CARIBE, D. A."
+        ],
+        "titulo_trabalho": "Dashboard para Dados sobre a Mobilidade Urbana em Salvador",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, G. L.; FLORENTINO, P. V.; LOPES, R.. Participação em banca de Dagoberto Reis Medeiros.Sazonalidade dos preços no mercado de ações brasileiro. 2021. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Dagoberto Reis Medeiros",
+        "membros_banca": [
+          "OLIVEIRA, G. L.",
+          "FLORENTINO, P. V.",
+          "LOPES, R."
+        ],
+        "titulo_trabalho": "Sazonalidade dos preços no mercado de ações brasileiro",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; ANDRADE, S. S.; FLORENTINO, P. V.. Participação em banca de Bruno Araújo Oliveira.DB2REST ? Uma Ferramenta para Integração entre Bases de Dados Legadas e Web Services RESTful. 2018. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Araújo Oliveira",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "ANDRADE, S. S.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "DB2REST ? Uma Ferramenta para Integração entre Bases de Dados Legadas e Web Services RESTful",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; NOVAIS, R. L.; FLORENTINO, P. V.. Participação em banca de Félix Simas de Souza Neto.Comunicação entre Sistemas de Emergência através da Ontologia EDXL?RESCUER. 2017. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Félix Simas de Souza Neto",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "NOVAIS, R. L.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Comunicação entre Sistemas de Emergência através da Ontologia EDXL?RESCUER",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "BARBOSA, S. O.; TAVARES, M.; FLORENTINO, P. V.. Participação em banca de Carol Andrade Gomes.365 motivos para amar Salvador (Blog).. 2013. Trabalho de Conclusão de Curso (Graduação em Comunicação Social) - Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carol Andrade Gomes",
+        "membros_banca": [
+          "BARBOSA, S. O.",
+          "TAVARES, M.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "365 motivos para amar Salvador (Blog)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Comunicação Social)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Flavia Maristela Nascimento; MARQUES NETO, M. C.; FLORENTINO, P. V.. Participação em banca de Laionara de Araújo Gonçalves.SARA-ES: Sistema para Acompanhamento de Registros Acadêmicos do Ensino Superior. 2012. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2012,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Laionara de Araújo Gonçalves",
+        "membros_banca": [
+          "Flavia Maristela Nascimento",
+          "MARQUES NETO, M. C.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "SARA-ES: Sistema para Acompanhamento de Registros Acadêmicos do Ensino Superior",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; Vaninha Vieira; Flavia Maristela Nascimento. Participação em banca de Leandro Gonçalves.ODARA-X: Uma Ferramenta para Automação no Projeto de Fragmentação de Dados. 2009. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leandro Gonçalves",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "Vaninha Vieira",
+          "Flavia Maristela Nascimento"
+        ],
+        "titulo_trabalho": "ODARA-X: Uma Ferramenta para Automação no Projeto de Fragmentação de Dados",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Jurema Rocha Barreto; Flavia Maristela Nascimento; FLORENTINO, P. V.. Participação em banca de Wilson de Oliveira Leite Júnior.DESENVOLVIMENTO DE UM SERVIÇO DE RECONHECIMENTO AUTOMÁTICO DE IMPRESSÕES DIGITAIS EM UMA ARQUITETURA DE GRADE COMPUTACIONAL. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Wilson de Oliveira Leite Júnior",
+        "membros_banca": [
+          "Jurema Rocha Barreto",
+          "Flavia Maristela Nascimento",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "DESENVOLVIMENTO DE UM SERVIÇO DE RECONHECIMENTO AUTOMÁTICO DE IMPRESSÕES DIGITAIS EM UMA ARQUITETURA DE GRADE COMPUTACIONAL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Jurema Rocha Barreto; Flavia Maristela Nascimento; FLORENTINO, P. V.. Participação em banca de Filipe Ferreira Alves.DESENVOLVIMENTO DE APLICAÇÃO BIOMÉTRICA PARA RECONHECIMENTO DE IMPRESSÃO DIGITAL ATRAVÉS DE UM DISPOSITIVO MÓVEL. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Filipe Ferreira Alves",
+        "membros_banca": [
+          "Jurema Rocha Barreto",
+          "Flavia Maristela Nascimento",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "DESENVOLVIMENTO DE APLICAÇÃO BIOMÉTRICA PARA RECONHECIMENTO DE IMPRESSÃO DIGITAL ATRAVÉS DE UM DISPOSITIVO MÓVEL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Jurema Rocha Barreto; FLORENTINO, P. V.; TERCEIRO, A. S.. Participação em banca de Amadeu A. Barbosa Júnior.Estudo e desenvolvimento de aplicação biométrica para ambiente em larga escala. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Amadeu A",
+        "membros_banca": [
+          "Jurema Rocha Barreto",
+          "FLORENTINO, P. V.",
+          "TERCEIRO, A. S."
+        ],
+        "titulo_trabalho": "Barbosa Júnior.Estudo e desenvolvimento de aplicação biométrica para ambiente em larga escala",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Daniela Barreiro Claro; FLORENTINO, P. V.. Participação em banca de Erick Nilsen Pereira de Souza.Explorer Fuzzy Tree: uma ferramenta para experimentação de técnicas de classificação baseadas em arvores de decisão fuzzy. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Erick Nilsen Pereira de Souza",
+        "membros_banca": [
+          "Daniela Barreiro Claro",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Explorer Fuzzy Tree: uma ferramenta para experimentação de técnicas de classificação baseadas em arvores de decisão fuzzy",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ARGOLO, B.; GORENDER, S.; FLORENTINO, P. V.. Participação em banca de Bruno Argolo.Um estudo sobre a utilização de campos BLOG no Postgresql aplicada no tratamento de impressões digitais. 2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Argolo",
+        "membros_banca": [
+          "ARGOLO, B.",
+          "GORENDER, S.",
+          "FLORENTINO, P. V."
+        ],
+        "titulo_trabalho": "Um estudo sobre a utilização de campos BLOG no Postgresql aplicada no tratamento de impressões digitais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; VIEIRA, Pedro; IENDRIKE, Hadeliane. Participação em banca de Carlos Felipe de Castro;João Basílio;Ricardo Lúcio Costa.OOCBTM (Object Oriented Computer Based Training Method). 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Universidade do Grande Rio.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carlos Felipe de Castro;João Basílio;Ricardo Lúcio Costa",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "VIEIRA, Pedro",
+          "IENDRIKE, Hadeliane"
+        ],
+        "titulo_trabalho": "OOCBTM (Object Oriented Computer Based Training Method)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Universidade do Grande Rio"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; IENDRIKE, Hadeliane; VIEIRA, Pedro. Participação em banca de DOUGLAS GODINHO.TÉCNICAS DE TESTE DE SOFTWARE ORIENTADO A OBJETOS. 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Universidade do Grande Rio.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "DOUGLAS GODINHO",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "IENDRIKE, Hadeliane",
+          "VIEIRA, Pedro"
+        ],
+        "titulo_trabalho": "TÉCNICAS DE TESTE DE SOFTWARE ORIENTADO A OBJETOS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Universidade do Grande Rio"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; VIEIRA, Pedro; IENDRIKE, Hadeliane. Participação em banca de Diogo Magalhães da Silva;Reinaldo Soares Borges.Ferramenta de auxílio à Engenharia de Requisitos. 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Universidade do Grande Rio.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Diogo Magalhães da Silva;Reinaldo Soares Borges",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "VIEIRA, Pedro",
+          "IENDRIKE, Hadeliane"
+        ],
+        "titulo_trabalho": "Ferramenta de auxílio à Engenharia de Requisitos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Universidade do Grande Rio"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "NOVAIS, R. L.; FLORENTINO, PABLO VIEIRA; Vaninha Vieira; SANTOS, E. T.. Participação em banca de Iris Ribeiro dos Santos. ANÁLISE DE LICITAÇÕES FEDERAIS ATRAVÉS DO SISTEMA DE AUDITORIA DE LICITAÇÕES - SAL. 2021.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "Iris Ribeiro dos Santos",
+        "membros_banca": [
+          "NOVAIS, R. L.",
+          "FLORENTINO, PABLO VIEIRA",
+          "Vaninha Vieira",
+          "SANTOS, E. T."
+        ],
+        "titulo_trabalho": "ANÁLISE DE LICITAÇÕES FEDERAIS ATRAVÉS DO SISTEMA DE AUDITORIA DE LICITAÇÕES - SAL",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "NOVAIS, R. L.; FLORENTINO, P. V.; SANTOS, J. A.. Participação em banca de Fagner do Nascimento Fonseca. Uma Solução Visual para Suporte à Tomada deDecisão na Escolha de Localização para Construçãode Empreendimentos. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuida e Ubíqua) - Instituto Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Participação em banca",
+        "aluno": "Fagner do Nascimento Fonseca",
+        "membros_banca": [
+          "NOVAIS, R. L.",
+          "FLORENTINO, P. V.",
+          "SANTOS, J. A."
+        ],
+        "titulo_trabalho": "Uma Solução Visual para Suporte à Tomada deDecisão na Escolha de Localização para Construçãode Empreendimentos",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuida e Ubíqua)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "MARQUES NETO, M. C.; FLORENTINO, PABLO VIEIRA; OLIVEIRA, G. L.. Participação em banca de Laionara de Araújo Gonçalves. Detecção Automática dos Momentos Relevantes em Vídeos de Vigilância Veicular. 2015. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuida e Ubíqua) - Instituto Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "Laionara de Araújo Gonçalves",
+        "membros_banca": [
+          "MARQUES NETO, M. C.",
+          "FLORENTINO, PABLO VIEIRA",
+          "OLIVEIRA, G. L."
+        ],
+        "titulo_trabalho": "Detecção Automática dos Momentos Relevantes em Vídeos de Vigilância Veicular",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuida e Ubíqua)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "FREITAS, A. E. S.; FLORENTINO, PABLO VIEIRA. Participação em banca de Bruno Cesar Neves de Oliveira. An Adaptive Replication Environment for a Relational Database Management System. 2014. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuida e Ubíqua) - Instituto Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "Bruno Cesar Neves de Oliveira",
+        "membros_banca": [
+          "FREITAS, A. E. S.",
+          "FLORENTINO, PABLO VIEIRA"
+        ],
+        "titulo_trabalho": "An Adaptive Replication Environment for a Relational Database Management System",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuida e Ubíqua)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "LEITE, J.; FLORENTINO, P. V.. Concurso Púplico para Professor EBTT - Banco de Dados. 2012. Instituto Federal de Educação, Ciência e Tecnologi.",
+        "ano": 2012,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologi.",
+        "universidade": ""
+      },
+      {
+        "descricao": "Antonio Carlos Souza; SANTANNA, C. N.; FLORENTINO, PABLO VIEIRA. Concurso Púplico para Professor EBTT - Engenharia de Software. 2009. Instituto Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "Luciano Porto Barreto; Antonio Carlos Souza; FLORENTINO, P. V.. Concurso Púplico para Professor EBTT. 2008. Instituto Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 5,
+    "total_livros": 0,
+    "total_capitulos": 10,
+    "total_trabalhos_congressos": 5,
+    "total_projetos_pesquisa": 3,
+    "total_projetos_extensao": 5,
+    "total_projetos_desenvolvimento": 1,
+    "total_orientacoes_concluidas": 3,
+    "total_orientacoes_andamento": 1
+  }
+}

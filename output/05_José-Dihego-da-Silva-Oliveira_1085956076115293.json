@@ -1,0 +1,934 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "1085956076115293",
+    "nome_completo": "José Dihego da Silva Oliveira",
+    "nome_citacoes": "Dihego, José",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia. Rua Emídio dos Santos Barbalho 40301015 - Salvador, BA - Brasil Telefone: (71) 21029473 URL da Homepage: www.josedihego.net",
+    "atualizacao_cv": "15/08/2025",
+    "url": "http://lattes.cnpq.br/1085956076115293",
+    "texto_resumo": "Professor Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA (desde 2010).Formação: Graduado (2008), Mestrado (2010) e Doutorado (2016) em Ciência da Computação, todos no CIn-UFPE.Interesse em Desenvolvimento Mobile, Linguagens de Programação, Criptografia e Métodos Formais. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciências da Computação",
+      "nome_instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "descricao": "Título: Constructive Extensibility of Trustworthy Component-based Systems O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2016. Orientador: Augusto Cezar Alves Sampaio. Palavras-chave: component inheritance; component refinement; correctness by construction; component-based aspect-oriented design; behavioural convergence; CSP. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Engenharia de Software. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação / Especialidade: Métodos Formais."
+    },
+    {
+      "tipo": "Mestrado em Ciências da Computação",
+      "nome_instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "descricao": "Título: Algebraic Laws for Process Subtyping, Ano de Obtenção: 2010. Orientador: Algusto Cezar Alves Sampaio. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Engenharia de Software; Refatoração Arquitetural; Casamento Arquitetural Semântico. Grande área: Ciências Exatas e da Terra"
+    },
+    {
+      "tipo": "Graduação em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2008",
+      "descricao": "Título: Automação de Leis de Refatoração Arquitetural. Orientador: Algusto Cezar Alves Sampaio. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, IFPB, Brasil",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2003",
+      "descricao": ""
+    },
+    {
+      "tipo": "Ensino Fundamental (1º grau)",
+      "nome_instituicao": "Colégio Nossa Senhora de Lourdes, CNSL, Brasil",
+      "ano_inicio": "1997",
+      "ano_conclusao": "2000",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - Atual",
+      "ano_inicio": "2011",
+      "ano_fim": "Atual",
+      "vinculo": "Professor Efetivo",
+      "enquadramento": "Professor EBTT",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2013 - 10/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2012 - 10/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA - Feira de Santana."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2013 - 06/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2012 - 12/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2011 - 03/2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2011 - 10/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2016",
+      "ano_inicio": "2005",
+      "ano_fim": "2016",
+      "vinculo": "Estudante",
+      "enquadramento": "Estudante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2008 - 02/2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2008 - 10/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2008 - 05/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2006 - 03/2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2007 - 01/2008",
+      "ano_inicio": "2007",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2007 - 12/2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2007 - 07/2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2007 - 06/2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2007 - 04/2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "PARTEC Participação e Consultoria, PARTEC, Brasil.",
+      "instituicao_nome": "PARTEC Participação e Consultoria",
+      "instituicao_sigla": "PARTEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": "Estágio",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "PARTEC Participação e Consultoria, PARTEC, Brasil",
+      "instituicao_nome": "PARTEC Participação e Consultoria",
+      "instituicao_sigla": "PARTEC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Programa de Educação Tutorial, PET - INFORMÁTIC, Brasil.",
+      "instituicao_nome": "Programa de Educação Tutorial",
+      "instituicao_sigla": "PET - INFORMÁTIC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": "Integrante",
+      "enquadramento": "Integrante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Integrado de Tecnologia da Informação, CITi, Brasil.",
+      "instituicao_nome": "Centro Integrado de Tecnologia da Informação",
+      "instituicao_sigla": "CITi",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": "Monitoria",
+      "enquadramento": "Monitor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Integrado de Tecnologia da Informação, CITi, Brasil",
+      "instituicao_nome": "Centro Integrado de Tecnologia da Informação",
+      "instituicao_sigla": "CITi",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "SMART NAV: Framework de suporte a navegação e rastreabilidade de pacientes com câncer de mama",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Framework de suporte a navegação e rastreabilidade de pacientes com câncer de mama. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Dihego da Silva Oliveira - Coordenador / Allan Edgard Silva Freitas - Integrante.",
+        "Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (2) . Integrantes: Allan Edgard Silva Freitas - Coordenador / Renato Lima Novais - Integrante / José Dihego da Silva Oliveira - Integrante / Tsang Ing Ren - Integrante / Luana Pinheiro de Sousa - Integrante / Filipe Antônio Aguiar Cavalcanti de Carvalho - Integrante / Matheus de Lima Oliveira - Integrante / Camila Vitória Oliveira dos Anjos - Integrante / Luan Pinheiro da Silva - Integrante / Yuri Cesar Lima Silva - Integrante / Lúcio Leandro Silva Santana - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "José Dihego da Silva Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Allan Edgard Silva Freitas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renato Lima Novais",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tsang Ing Ren",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luana Pinheiro de Sousa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Filipe Antônio Aguiar Cavalcanti de Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Matheus de Lima Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Camila Vitória Oliveira dos Anjos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luan Pinheiro da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Yuri Cesar Lima Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lúcio Leandro Silva Santana",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "SMART NAV: Framework de suporte a navegação e rastreabilidade de pacientes com câncer de mama",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Framework de suporte a navegação e rastreabilidade de pacientes com câncer de mama. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Dihego da Silva Oliveira - Coordenador / Allan Edgard Silva Freitas - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "José Dihego da Silva Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Allan Edgard Silva Freitas",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Modelagem, Verificação e Teste Composicional de Sistemas com Aplicações na Indústria Aeronáutica",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Neste projeto, propomos a sistematização de vários aspectos do projeto de grandes sistemas, particularmente, com ênfase em Sistemas de Sistemas (SoS, Systems of Sytems). O escopo inclui modelagem (semiformal e formal), verificação (análise formal de propriedades) e teste de tais sistemas. Utilizamos a linguagem SysML para descrever requisitos e os modelos de análise e projeto (design) de um SoS. SysML é uma linguagem semiformal, amplamente utilizada na indústria, com uma semântica definida em linguagem natural e através do uso de meta-modelos, também semiformais. Portanto, ambiguidades nos modelos SysML podem induzir a erros de implementação. No processo proposto, o modelo em SysML é traduzido (automaticamente) para um modelo descrito na linguagem formal Circus, que integra a álgebra de processos CSP, para expressar os aspectos reativos, a linguagem baseada em modelos Z, para expressar os aspectos de dados e a linguagem de comandos guardados de Dijkstra, fazendo de Circus não apenas uma linguagem de especificação, mas também de programação. Como segunda etapa do processo proposto, o modelo Circus será verificado com o objetivo de se garantir a preservação de propriedades de interesse. Isto permitirá, inicialmente, verificar a consistência, tanto individual, como integrada, dos diagramas SysML do sistema. Um outro aspecto da análise é o desenvolvimento de uma estratégia que garanta, por construção, a ausência de problemas clássicos como deadlock no SoS, a partir da verificação da ausência de deadlock em seus componentes. O desafio desta análise é escalabilidade. Como terceira e última etapa do processo, complementar à verificação, será desenvolvida uma estratégia automática de geração de vetores de teste a partir da especificação em Circus. Finalmente, o escopo do projeto inclui uma avaliação, em um ambiente industrial, com o apoio da Embraer, da eficácia dos métodos de modelagem, análise e teste propostos, através da aplicação na área de aviação e na arquitetura IMA (Integrated Modular Avionics) em particular. Este projeto inclui um breve relato das metas atingidas no período anterior. Alguns resultados, restritos a aspectos de controle em CSP e testados em exemplos pequenos, serão estendidos para um formalismo multiparadigma (Circus) e validados em aplicações reais de IMA... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (3) . Integrantes: José Dihego da Silva Oliveira - Integrante / Augusto Cezar Alves Sampaio - Coordenador / Marcel Oliveira - Integrante / Pedro Antonino - Integrante / Marcio Cornelio - Integrante / Lucas Lima - Integrante / Iyoda, Juliano - Integrante / Gustavo Carvalho - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "José Dihego da Silva Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Augusto Cezar Alves Sampaio",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcel Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Pedro Antonino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcio Cornelio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Iyoda, Juliano",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gustavo Carvalho",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "COMPASS",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2015",
+      "descricao": [
+        "Descrição: The target of our research is the integration of well-founded engineering notations, methods and tools to support developers in building models of SoSs and analysing the global SoS-level properties of these models. These integrated techniques are intended to allow the comparison of alternative architectures and allocations of responsibilities to constituent subsystems.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Dihego da Silva Oliveira - Integrante / Augusto Cezar Alves Sampaio - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "José Dihego da Silva Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Augusto Cezar Alves Sampaio",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "AlgebRA - Álgebras de Refinamento e Aplicações",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "descricao": [
+        "Descrição: Tem havido uma forte tendência de integração de modelos de concorrência com formalismos orientados a objetos (como é o caso da combinação de álgebras de processos com extensões orientadas a objetos de métodos baseados em modelos). Além de uma gramática (sintaxe) coerente, alguns desafios relacionados ao projeto de formalismos que integram paradigmas são a definição de uma semântica formal, noções de refinamento e leis de transformação para a linguagem integrada. Linguagens de modelagem semi-formais, como UML, também têm avançado nesta direção. Vários profiles de UML, como UML para tempo real (UML-RT) incluem construções de mais de um paradigma. Estas linguagens também podem se beneficiar de uma semântica formal e de regras de transformação. Na realidade, Model driven Engineering , que propõe o desenvolvimento de sistemas com base na transformação progressiva de modelos, é exatamente um esforço recente nesta direção, apesar do foco da literatura atual ser essencialmente em regras que sistematizam o processo, mas sem uma base formal. O objetivo fundamental do nosso projeto tem sido o desenvolvimento de um formalismo multiparadigma, com ênfase na integração de orientação a objetos, concorrência e aspectos temporais. A integração envolve a definição de sintaxe, semântica formal, noções de refinamento e regras de transformação algébricas. Um requisito importante é que a semântica seja extremamente modular, tanto para permitir a integração dos diversos paradigmas, como para facilitar as provas das regras de transformação. Temos explorado a integração de modelos teóricos de concorrência, especificamente a álgebra de processos CSP, com extensões orientadas a objetos da linguagem Z. A experiência já obtida com o tratamento algébrico de cada paradigma, separadamente, tem servido de base para a investigação de leis algébricas para a integração. Um resultado importante foi a proposta de um formalismo orientado a objetos e concorrente (OhCircus) e a proposição de leis algébri. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Doutorado: (1) . Integrantes: José Dihego da Silva Oliveira - Integrante / Augusto Cezar Alves Sampaio - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "José Dihego da Silva Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Augusto Cezar Alves Sampaio",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "JaTS",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: O objetivo do projeto é validar um método para a implementação de aplicações complexas orientadas a objetos de modo que estas sejam rapidamente implementadas, testadas a adaptadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Dihego da Silva Oliveira - Integrante / Paulo Henrique Monteiro Borba - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "José Dihego da Silva Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Henrique Monteiro Borba",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Engenharia de Software",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Teoria da Computação",
+      "especialidade": "Métodos Formais",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Métodos Formais."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Model Checking",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Model Checking."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Herança Comportamental",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Herança Comportamental."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Sun Certified Programmer for the Java 2 Platform, Standard Edition 6.0 - SCJP 6, Sun Microsystems.",
+      "ano": 2010
+    }
+  ],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "A refinement checking based strategy for component-based systems evolution",
+        "ano": 2020,
+        "autores": "Dihego, José; Sampaio, Augusto ; OLIVEIRA, MARCEL",
+        "revista": "JOURNAL OF SYSTEMS AND SOFTWARE",
+        "volume": "167",
+        "numero": "",
+        "paginas": "110598",
+        "issn": "0164-1212",
+        "doi": "http://dx.doi.org/10.1016/j.jss.2020.110598",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Aspect-Oriented Development of Trustworthy Component-based Systems. Lecture Notes in Computer Science. 1ed",
+        "ano": 2015,
+        "autores": "Dihego, José; Sampaio, Augusto",
+        "titulo_livro": "",
+        "editora": "Springer International Publishing",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "425-444"
+      },
+      {
+        "titulo": "Algebraic Laws for Process Subtyping. Lecture Notes in Computer Science. 1ed",
+        "ano": 2013,
+        "autores": "Dihego, José; Antonino, Pedro ; Sampaio, Augusto",
+        "titulo_livro": "",
+        "editora": "Springer Berlin Heidelberg",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "4-19"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Constructive extensibility of trustworthy component-based systems",
+        "ano": 2015,
+        "autores": "Dihego, José; Sampaio, Augusto ; OLIVEIRA, MARCEL",
+        "evento": "the 30th Annual ACM Symposium",
+        "cidade": "",
+        "paginas": "1808",
+        "isbn": ""
+      },
+      {
+        "titulo": "Architectural Refactorings through Model Transformations",
+        "ano": 2012,
+        "autores": "Dihego, José; Braga, A. B ; RAMOS, R. T. ; SA, E. ; SAMPAIO, A. C. A ; BARAIS, O.",
+        "evento": "Tenth International Conference on Computer Applications (ICCA 2012)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "Inheritance and refinement of trustworthy component-based systems",
+        "ano": 2015,
+        "autores": "Dihego, José",
+        "evento": "20th International Symposium on Formal Methods ( Doctoral Symposium of Formal Methods 2015), 2015, Oslo. Proceedings of the Doctoral Symposium of Formal Methods 2015. Oslo: UiO - Department of Informatics - University of Oslo",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Constructive extensibility of trustworthy component-based systems",
+        "ano": 2015,
+        "autores": "Dihego, José; SAMPAIO, A. C. A ; OLIVEIRA, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Aspect-Oriented Development of Trustworthy Component-based Systems",
+        "ano": 2015,
+        "autores": "Dihego, José; SAMPAIO, A. C. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Inheritance and refinement of trustworthy component-based systems",
+        "ano": 2015,
+        "autores": "Dihego, José",
+        "evento": ""
+      },
+      {
+        "titulo": "Algebraic Laws for Process Subtyping - Extended Version",
+        "ano": 2013,
+        "autores": "Dihego, José; ANTONINO, P. ; SAMPAIO, A. C. A",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [
+      {
+        "titulo": "STARMATH",
+        "ano": 2022,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "LEPRAMIM",
+        "ano": 2020,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "DEUX",
+        "ano": 2020,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "DINA",
+        "ano": 2020,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "QUALISFACIL",
+        "ano": 2019,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "ÁGUA BOA",
+        "ano": 2019,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "Alô Alô IFBA",
+        "ano": 2017,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      },
+      {
+        "titulo": "Quanta Água",
+        "ano": 2017,
+        "autores": "Dihego, José",
+        "instituicao": "",
+        "finalidade": ""
+      }
+    ],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Compositional Analysis and Design of CML Models",
+        "ano": 2014,
+        "autores": "OLIVEIRA, M. ; SAMPAIO, A. ; ANTONINO, P. ; Dihego, José ; CONSERVA FILHO, M. ; BRYANS, J.",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Implementação de uma Linguagem Semi-natural Estruturada para Geração de Interfaces Gráficas Funcionais em Java.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Lucas Lopes Fraga",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise mecanizada de respostas a estímulos para detecção de indícios de depressão",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Iana Araujo Aleixo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "DESENVOLVIMENTO DE APLICATIVO MOBILE PARA REFORÇO E ACOMPANHAMENTO DE ROTINA PARA CRIANÇAS COM TRANSTORNO DO ESPECTRO AUTISTA",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Amanda Briena Batista Flores da Cunha",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "MOBILE CROWDSENSING COMO FERRAMENTA DE SUPORTE PARA TOMADA DE DECISÃO EM SITUAÇÕES EMERGENCIAIS CAUSADAS POR ENCHENTES",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Vinícius Cardoso de Melo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "12th International Colloquium on Theoretical Aspects of Computing (ICTAC 2015)",
+        "apresentacao": "Aspect-Oriented Development of Trustworthy Component-based Systems",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "20th International Symposium on Formal Methods - FM 2015",
+        "apresentacao": "Inheritance and refinement of trustworthy component-based systems",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "The 30th Annual ACM Symposium on Applied Computing",
+        "apresentacao": "Constructive extensibility of trustworthy component-based systems",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "15th International Conference on Formal Engineering Methods",
+        "apresentacao": "Algebraic Laws for Process Subtyping",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "MATOS, J.; LUCENA, T.; Dihego, José. Participação em banca de FÁBIO ARAÚJO BARRETO. INTERNET: DISSEMINAÇÃO SOBRE TECNOLOGIAS APLICAVÉIS A BIOENERGIA, PORTALBIOENERGIA.COM. BR.. 2017. Dissertação (Mestrado em MESTRADO PROFISSIONAL EM BIOENERGIA) - Faculdade de Tecnologia e Ciências de Salvador.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "FÁBIO ARAÚJO BARRETO",
+        "membros_banca": [
+          "MATOS, J.",
+          "LUCENA, T.",
+          "Dihego, José"
+        ],
+        "titulo_trabalho": "INTERNET: DISSEMINAÇÃO SOBRE TECNOLOGIAS APLICAVÉIS A BIOENERGIA, PORTALBIOENERGIA.COM. BR",
+        "curso": "Dissertação (Mestrado em MESTRADO PROFISSIONAL EM BIOENERGIA)",
+        "universidade": "Faculdade de Tecnologia e Ciências de Salvador"
+      }
+    ],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 1,
+    "total_livros": 0,
+    "total_capitulos": 2,
+    "total_trabalhos_congressos": 2,
+    "total_projetos_pesquisa": 6,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

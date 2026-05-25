@@ -1,0 +1,986 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6238560186137554",
+    "nome_completo": "Ronaldo Pedreira Silva",
+    "nome_citacoes": "SILVA, R. P.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, Departamento de Tecnologia Elétrica do Campus Simões Filho. Rua Emídio dos Santos, S/N Barbalho 40301015 - Salvador, BA - Brasil Telefone: (71) 21029525 URL da Homepage: http://www.ifba.edu.br.br",
+    "atualizacao_cv": "14/04/2021",
+    "url": "http://lattes.cnpq.br/6238560186137554",
+    "texto_resumo": "Bacharel em Ciências da Computação - Faculdades Salvador S/C (1993). Tem experiência na área de Educação, com ênfase em Educação Profissional. Doutor pelo Doutorado Multiinstitucional e Multirreferencial em Difusão do Conhecimento - DMMDC, pela Universidade Federal da Bahia e outras instituições, concluído em Maio de 2016, com tese intitulada Gestão da Inovação Tecnológica e sua Contribuição para a Gestão do Conhecimento e para a Memória Organizacional: Um Estudo no IFBA. Mestre pela Faculdade de Educação da Universidade de Brasília - UnB. Linha de pesquisa na área de Políticas Públicas e Gestão da Educação Profissional e Tecnológica. Conclusão: Mar/2010. Dissertação intitulada: A Gestão do Conhecimento em Instituições de Ensino Superior e Tecnológico: Análise do Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA. Especialista em Gestão de Instituições Públicas de Ensino, com monografia intitulada Gestão de Instituições Públicas de Ensino: Implantação de Diretrizes de Gestão do Conhecimento no CEFET-BA/Sede, com Ênfase em Conhecimento Tácito. Defendida e aprovada em Janeiro de 2008. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Difusão do Conhecimento",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2016",
+      "descricao": "Título: Gestão da Inovação Tecnológica e sua contribuição para a gestão do conhecimento e para a memória organizacional: um estudo no IFBA, Ano de obtenção: 2016. Orientador: Núbia Moura Ribeiro. Palavras-chave: Memória Organizacional; Inovação Tecnológica; Gestão do Conhecimento. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Sociais Aplicadas / Área: Administração / Subárea: Memória Organizacional. Grande Área: Outros / Área: Divulgação Científica / Subárea: Inovação Tecnológica. Setores de atividade: Outras atividades profissionais, científicas e técnicas; Atividades profissionais, científicas e técnicas."
+    },
+    {
+      "tipo": "Mestrado em Políticas Públicas e Gestão da Educação",
+      "nome_instituicao": "Universidade de Brasília / Faculdade de Educação, FE/UNB, Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "descricao": "Título: A Gestão do Conhecimento em Instituições de Ensino Superior e Tecnológico: Análise do Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA, Ano de Obtenção: 2010. Orientador: Prof. Dr. Bernardo Kipnis. Palavras-chave: Gestão do Conhecimento; Ensino Profissional e Tecnológico. Grande área: Ciências Sociais Aplicadas Grande Área: Ciências Sociais Aplicadas / Área: Administração. Grande Área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Biblioteconomia / Especialidade: Processos de Disseminação da Informação."
+    },
+    {
+      "tipo": "Especialização em Gestão de Instituições Públicas de Ensino",
+      "nome_instituicao": "(Carga Horária: 452h)",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2008",
+      "descricao": "Instituto Federal da Bahia, IFBA, Brasil. Título: Proposta para Implantação de Diretrizes de Gestão do Conhecimento no CEFET-BA/Sede, com Ênfase em Conhecimento Tácito. Orientador: Prof. MSc. Allan Edgard Silva Freitas."
+    },
+    {
+      "tipo": "Graduação em Bacharelado em Ciências da Computação",
+      "nome_instituicao": "Faculdades Salvador S/C, FACS, Brasil",
+      "ano_inicio": "1991",
+      "ano_conclusao": "1993",
+      "descricao": "Título: Rede Nacional de Pesquisas. Orientador: Profa. MsC Claudete."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Colégio Bernardo Galvão, CBG, Brasil.",
+      "instituicao_nome": "Colégio Bernardo Galvão",
+      "instituicao_sigla": "CBG",
+      "instituicao_pais": "Brasil",
+      "periodo": "1983 - 1988",
+      "ano_inicio": "1983",
+      "ano_fim": "1988",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Colégio Bernardo Galvão, CBG, Brasil",
+      "instituicao_nome": "Colégio Bernardo Galvão",
+      "instituicao_sigla": "CBG",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "MA - Delegacia Federal de Agricultura na Bahia, DFA/BA, Brasil.",
+      "instituicao_nome": "MA - Delegacia Federal de Agricultura na Bahia",
+      "instituicao_sigla": "DFA/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1984 - 1989",
+      "ano_inicio": "1984",
+      "ano_fim": "1989",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Agente Administrativo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "MA - Delegacia Federal de Agricultura na Bahia, DFA/BA, Brasil",
+      "instituicao_nome": "MA - Delegacia Federal de Agricultura na Bahia",
+      "instituicao_sigla": "DFA/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Processamento de Dados do Estado da Bahia, PRODEB, Brasil.",
+      "instituicao_nome": "Companhia de Processamento de Dados do Estado da Bahia",
+      "instituicao_sigla": "PRODEB",
+      "instituicao_pais": "Brasil",
+      "periodo": "1989 - 2004",
+      "ano_inicio": "1989",
+      "ano_fim": "2004",
+      "vinculo": "Celetista",
+      "enquadramento": "Programador II",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Companhia de Processamento de Dados do Estado da Bahia, PRODEB, Brasil",
+      "instituicao_nome": "Companhia de Processamento de Dados do Estado da Bahia",
+      "instituicao_sigla": "PRODEB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": "1999 - Atual",
+      "ano_inicio": "1999",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": "Professor de Ens. Bás.",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia da Bahia",
+      "instituicao_pais": "IFBA",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Ciência da Informação",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Ciência da Informação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Pouco",
+      "fala": "",
+      "le": "Bem",
+      "escreve": "",
+      "proficiencia_completa": "Compreende Pouco, Lê Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Agricultura, Cachaça e Turismo: Sinônimos de crescimento do Estado da Bahia",
+        "ano": 2008,
+        "autores": "SALES, Aurelice dos Santos ; SILVA, R. P.",
+        "revista": "E.T.C. Educação, Tecnologia e Cultura",
+        "volume": "Ano 6",
+        "numero": "",
+        "paginas": "39-45",
+        "issn": "1808-0588",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Curso de Programação C: uma perspectiva construtivista",
+        "ano": 2005,
+        "autores": "SOUZA, A. C. S.; SILVA, Ronaldo Pedreiras",
+        "revista": "E.T.C. Educação, Tecnologia e Cultura",
+        "volume": "Ano 4",
+        "numero": "Dez. 2005",
+        "paginas": "76-81",
+        "issn": "1808-0588",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Data WareHouse: Uma abordagem didática",
+        "ano": 2004,
+        "autores": "SOUZA, A. C. S.; SILVA, Ronaldo Pedreiras",
+        "revista": "E.T.C. Educação, Tecnologia e Cultura",
+        "volume": "Ano 3",
+        "numero": "Dez. 2004",
+        "paginas": "76-79",
+        "issn": "1808-0588",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Banco de Dados: O que é e o que se pode esperar dele(ParteI I)",
+        "ano": 1997,
+        "autores": "SILVA, R. P",
+        "revista": "Revista Bahia Agrícola, VOL. I, Nº 03, Fevereiro/1997",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Banco de Dados: O que é e o que se pode esperar dele(ParteI II)",
+        "ano": 1997,
+        "autores": "SILVA, R. P",
+        "revista": "Revista Bahia Agrícola, ANO II, Nº 01, Novembro/1997",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Internet",
+        "ano": 1996,
+        "autores": "SILVA, R. P",
+        "revista": "Revista Bahia Agrícola, VOL. I, Nº 02, Outubro/1996",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49",
+        "qualis": ""
+      },
+      {
+        "titulo": "Novas Tecnologias e as Relações Sociais",
+        "ano": 1995,
+        "autores": "SILVA, R. P",
+        "revista": "Revista Bahia Agrícola - ANO I, Nº 0 - Novembro.1995",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Impactos da Gestão da Inovação Tecnológica e do Conhecimento e sobre a Memória Organizacional",
+        "ano": 2020,
+        "autores": "SILVA, R. P",
+        "editora": "Curitiba/PR: Appris Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "235"
+      },
+      {
+        "titulo": "Uma introdução à computação: história e ciência",
+        "ano": 2016,
+        "autores": "SOUZA, ANTONIO C. S.; SANTOS, Luiz Claudio Machado dos ; Romilson Lopes Sampaio ; SILVA, Ronaldo Pedreiras ; MACEDO, MARCIO C. F. ; Larissa Vieira ; Paulo de Tarso",
+        "editora": "São Paulo: Ixtlan",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "55"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "A gestão do conhecimento e a inovação tecnológica",
+        "ano": 2020,
+        "autores": "RIBEIRO, N. M. ; SILVA, R. P.",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "213-233"
+      },
+      {
+        "titulo": "Gestão da Inovação Tecnológica e sua Contribuição para a Gestão do Conhecimento e para a Memória Organizacional: Um Estudo no IFBA",
+        "ano": 2019,
+        "autores": "SILVA, R. P.; RIBEIRO, N. M.",
+        "titulo_livro": "",
+        "editora": "EDIFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "184-194"
+      },
+      {
+        "titulo": "A Gestão da Inovação como Elemento para a Memória Organizacional no IFBA",
+        "ano": 2018,
+        "autores": "FERREIRA, A. L. L. ; RIBEIRO, N. M. ; SILVA, R. P.",
+        "titulo_livro": "",
+        "editora": "Paco Editorial",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "37-70"
+      },
+      {
+        "titulo": "Fator Humano no Processo Decisório de Adoção de Inovações: Um Estudo no IFBA",
+        "ano": 2017,
+        "autores": "FERREIRA, A. L. L. ; RIBEIRO, N. M. ; SILVA, R. P.",
+        "titulo_livro": "",
+        "editora": "Paco Editorial",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "69-93"
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "Rede nacional de Pesquisa: Hostórico, Topologia, Serviços e Perspectivas. revista Bahia Agrícola, ANO II, Nº 01, Juho/1996, Salvador/BA",
+        "ano": 1996,
+        "autores": "SILVA, R. P",
+        "evento": "",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Ontologia como Forma de Modelar a Memória organizacional",
+        "ano": 2013,
+        "autores": "SILVA, R. P",
+        "evento": ""
+      },
+      {
+        "titulo": "Gestão do Conhecimento em Instituições de Ensino Superior e Tecnológico",
+        "ano": 2012,
+        "autores": "SILVA, R. P",
+        "evento": ""
+      },
+      {
+        "titulo": "Qualificação do capital humano como forma de impulsionar o desenvolvimento econômico nacional",
+        "ano": 2012,
+        "autores": "SILVA, R. P",
+        "evento": ""
+      },
+      {
+        "titulo": "Metodologia para Seleção de Práticas de Gestão do Conhecimento Utilizando Planejamento Fatorial Fracionário: Um teste-Piloto no Instituto federal da Bahia",
+        "ano": 2011,
+        "autores": "FERREIRA, A. L. L. ; RIBEIRO, N. M. ; SILVA, R. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "Análise dos Espaços de Divulgação Científica na Educação Profissional e Tecnológica: Um Estudo de caso no CEFET-BA",
+        "ano": 2007,
+        "autores": "MILHOME, J. C. ; MOTA, L. ; RIBEIRO, M. ; SILVA, R. P.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "Um passo para legislar o incontrolável. Salvador/BA: IFBA",
+        "ano": 2014,
+        "autores": "SILVA, R. P",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Os travamentos à ciência no Brasil. Salvador/BA: IFBA",
+        "ano": 2013,
+        "autores": "SILVA, R. P",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Projeto Mulheres Mil",
+        "ano": 2011,
+        "autores": "SILVA, R. P",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Projeto Mulheres Mil",
+        "ano": 2010,
+        "autores": "SILVA, R. P",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Sistema de Informação como vantagem Competitiva",
+        "ano": 2006,
+        "autores": "SILVA, R. P",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [
+    {
+      "titulo": "Lula pediu perdão",
+      "ano": 2005,
+      "autores": "SILVA, R. P",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    },
+    {
+      "titulo": "A Flor e o Concreto",
+      "ano": 2000,
+      "autores": "SILVA, R. P",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    },
+    {
+      "titulo": "A Criança e o Abutre",
+      "ano": 2000,
+      "autores": "SILVA, R. P",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    }
+  ],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Ferramenta web para autoria de Objetos de Aprendizagem Virtual com padronização SCORM para empacotamento e geração de metadados",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "João Vítor dos Santos Silva",
+          "tipo_trabalho": "",
+          "instituicao": "e Desenv.o de Sistemas) - Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": [
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Alunos do Curso Tecnológico em An. e Desenv. de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Alunos do Curso Tecnológico em An. e Desenv. de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Alunos do Curso Tecnológico em An. e Desenv. de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "e Desenv.o de Sistemas) - Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Alunos do Curso Tecnológico em An. e Desenv. de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "e Desenv.o de Sistemas) - Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Alunos do Curso Tecnológico em An. e Desenv. de Sistemas",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "INSTITUTO FEDERAL DE EDUCACAO",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Alunos do Curso Tecnológico em An. e desenv. de Sistemas",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "INSTITUTO FEDERAL DE EDUCACAO",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Alunos do curso de Análise e Desenvolvimento de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "e Desenv.o de Sistemas) - Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Alunos do Curso de Análise e Desenvolvimento de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "e Desenv.o de Sistemas) - Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Relatórios de Estágio Supervsionado",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Alunos do curso de Análise e Desenvolvimento de Sistemas",
+          "tipo_trabalho": "",
+          "instituicao": "e Desenv.o de Sistemas) - Instituto Federal de Educação",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "ADS Online",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Diálogos Sobre a Prática Profissional",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Congresso de Pesquisa, Pós-Graduação e Inovação do IFBA,",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Empreendedorismo e Inovação",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II SEMINÁRIO INTERNACIONAL DE ANÁLISE COGNITIVA - II SIANCO",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SEDICON - Seminário de Difusão e Integração de Conhecimentos",
+        "apresentacao": "Tese: Gestão da Inovação Tecnológica e sua contribuição para a Gestão do Conhecimento e para a Memória Organizacional: um estudo no IFBA",
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1ª Discussão sobre Gênero",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ADS Day",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Seminário das Licenciaturas",
+        "apresentacao": null,
+        "ano": 2017,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Palestra: Mediação: Espaço para Humanização, Diálogo e Resolução de Problemas",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Palestra: Mediação de Conflitos: Inovações e Avanços para Administração Pública",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Escola Regional de Alto desempenho - Região Nordeste - ERAD-NE 2013",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Congresso Brasileiro de Prospecção Tecnológica",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III ProspeCT&I 2013 - III Cong",
+        "apresentacao": "Brasil. de Prospecção Tecnológica",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Encuentro Internacional de Educación 2012-2013: Tema 2: \"Tecnologia e Calidad Educativa\"(Sessiones Virtuales)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII CongressoNorte e Nordeste de Pesquisa e Inovação",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII CongressoNorte e Nordeste de Pesquisa e Inovação",
+        "apresentacao": "Ontologia como Forma de Modelar a Memória Organizacional",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Semana de Engenharia, Tecnologia e Inovação do IFBA",
+        "apresentacao": "Gestão do Conhecimento em Instituições de Ensino Superior e Tecnológico",
+        "ano": 2012,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Promovendo a proteção aos direitos das crianças e do adolescente no Ciberespaço",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Sustentabilidade, Desenvolvimento Regional e Recursos Naturais",
+        "apresentacao": "Qualificação do capital humano como forma de impulsionar o desenvolvimento econômico nacional",
+        "ano": 2012,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Semana de Engenharia, Tecnologia e Inovação do IFBA",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Minicurso: Fenômenos Interfaciais",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Congresso Norte e Nordeste de Pesquisa e Inovação Tecnológica - CONNEPI",
+        "apresentacao": "Metodologia para Seleção de Práticas de Gestão do Conhecimento Utilizando Planejamento Fatorial Fracionário: Um teste piloto no Instituto federal da Bahia",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Curso de Desenvolvimento e Gerenciamento de Projetos",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Minicurso de Busca de Patentes",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Seminário de Pesquisa, Pós-Graduação e Inovação Tecnológica; III Seminário de Iniciação Científica e III Jornada Científica da ITCP",
+        "apresentacao": "Minicurso: Sistemas de informação como Vantagem Competitiva",
+        "ano": 2006,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Vª Semana de Informática da UFBA",
+        "apresentacao": null,
+        "ano": 1994,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXVIIº Congresso Nacional de Informática e Telecomunicações - SUCESU/94",
+        "apresentacao": null,
+        "ano": 1994,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IVª Semana de Informática da UFBA",
+        "apresentacao": null,
+        "ano": 1992,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Iº Seminário de Atualização em Inormática",
+        "apresentacao": null,
+        "ano": 1991,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IIIª Semana de Informática da UFBA",
+        "apresentacao": null,
+        "ano": 1990,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Jornada de intercâmbio de Software do Estado da Bahia",
+        "apresentacao": null,
+        "ano": 1990,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IIª Semana de Informática da UFBA",
+        "apresentacao": null,
+        "ano": 1988,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [
+      {
+        "descricao": "MATTA, A. E. R.; SHARMA, R.; MONTEIRO, R. L. S.; SILVA, R. P.; MAGALHAES, A. R.. Participação em banca de Marcondes Menezes de Souza Dourado. RPGAG MÓVEL - Uma Solução Educacional Recursiva Usando Design Socioconstrutivista. 2018. Tese (Doutorado em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2018,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Marcondes Menezes de Souza Dourado",
+        "membros_banca": [
+          "MATTA, A. E. R.",
+          "SHARMA, R.",
+          "MONTEIRO, R. L. S.",
+          "SILVA, R. P.",
+          "MAGALHAES, A. R."
+        ],
+        "titulo_trabalho": "RPGAG MÓVEL - Uma Solução Educacional Recursiva Usando Design Socioconstrutivista",
+        "curso": "Tese (Doutorado em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "MATTA, A. E. R.; RIBEIRO, N. M.; SHARMA, R.; MONTEIRO, R. L. S.; SILVA, R. P.. Participação em banca de Marcondes Menezes de Souza Dourado. RPGAG MÓVEL - Uma solução educacional recursiva usando design socioconstrutivista. 2018. Exame de qualificação (Doutorando em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2018,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Marcondes Menezes de Souza Dourado",
+        "membros_banca": [
+          "MATTA, A. E. R.",
+          "RIBEIRO, N. M.",
+          "SHARMA, R.",
+          "MONTEIRO, R. L. S.",
+          "SILVA, R. P."
+        ],
+        "titulo_trabalho": "RPGAG MÓVEL - Uma solução educacional recursiva usando design socioconstrutivista",
+        "curso": "Exame de qualificação (Doutorando em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "SOUZA, A. C. S.; MARQUES NETO, M. C.; SILVA, R. P.. Participação em banca de Emanuel Sales dos Santos júnior.Reinforcement Learning para treino do Pac-man em speedrun. 2018. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia Baiano.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Emanuel Sales dos Santos júnior",
+        "membros_banca": [
+          "SOUZA, A. C. S.",
+          "MARQUES NETO, M. C.",
+          "SILVA, R. P."
+        ],
+        "titulo_trabalho": "Reinforcement Learning para treino do Pac-man em speedrun",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+      },
+      {
+        "descricao": "SILVA, R. P.. Participação em banca de Sandra Carvalho Costa.Padronização como Medida Preventiva na Segurança de Informações: Um Estudo de caso na rodução de Chapas Extrudadas. 2015. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Administração) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Sandra Carvalho Costa",
+        "membros_banca": [
+          "SILVA, R. P."
+        ],
+        "titulo_trabalho": "Padronização como Medida Preventiva na Segurança de Informações: Um Estudo de caso na rodução de Chapas Extrudadas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Administração)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "SOUZA, A. C. S.; SANTOS, L. C. M.; SILVA, R. P.. Participação em banca de Flormaria Batista Lemos da Silva.A Efetividade do Autoatendimento bancário em Comparação com os Objetivos da Gestão de Relacionamento com o Cliente. 2014. Trabalho de Conclusão de Curso (Graduação em Administração) - Instituto Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Flormaria Batista Lemos da Silva",
+        "membros_banca": [
+          "SOUZA, A. C. S.",
+          "SANTOS, L. C. M.",
+          "SILVA, R. P."
+        ],
+        "titulo_trabalho": "A Efetividade do Autoatendimento bancário em Comparação com os Objetivos da Gestão de Relacionamento com o Cliente",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Administração)",
+        "universidade": "Instituto Federal da Bahia"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "SILVA, R. P.; SOUZA, A. C. S.. Participação em banca de Marcelino Igor Antunes. A Utilização do Catálogo de Serviços para a Organização dos Serviços de Tecnologia da Informação e Comunicação (TIC) no Âmbito da Administração Federal. 2012. Monografia (Aperfeiçoamento/Especialização em Gestão de Instituições Públicas de Ensino) - Instituto Federal da Bahia.",
+        "ano": 2012,
+        "tipo": "Participação em banca",
+        "aluno": "Marcelino Igor Antunes",
+        "membros_banca": [
+          "SILVA, R. P.",
+          "SOUZA, A. C. S."
+        ],
+        "titulo_trabalho": "A Utilização do Catálogo de Serviços para a Organização dos Serviços de Tecnologia da Informação e Comunicação (TIC) no Âmbito da Administração Federal",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Gestão de Instituições Públicas de Ensino)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, R. P.. Concurso Público para Professor do Ensino Básico, Técnico e Tecnológico. 2009. Instituto Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, R. P.. Seleção de Professor Titular do 2° grau. 2006. Instituto Federal da Bahia.",
+        "ano": 2006,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, R. P.. Seleção de Professor Titular 3º Grau. 2003. Instituto Federal da Bahia.",
+        "ano": 2003,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, R. P.. Seleção de bolsistas no Programa Institucional de Bolsas de Iniciação Científica-PIBIC 2016-2017. 2016. Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, R. P.. ACM International Collegiate Programming Contest - South America / Brazil - First Phase - Judge.. 2011. Instituto Federal da Bahia.",
+        "ano": 2011,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, R. P.. Seleção de Prof. Substituto - 2º e 3º graus. 2000. Instituto Federal da Bahia.",
+        "ano": 2000,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 7,
+    "total_livros": 2,
+    "total_capitulos": 4,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

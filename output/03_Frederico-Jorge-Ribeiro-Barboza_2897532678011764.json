@@ -1,0 +1,1147 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "2897532678011764",
+    "nome_completo": "Frederico Jorge Ribeiro Barboza",
+    "nome_citacoes": "BARBOZA, F. J. R.;BARBOZA, F.;BARBOZA, FREDERICO",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Tribunal Regional Eleitoral da Bahia, Secretaria de Tecnologia da Informação, Coordenadoria de Soluções Corporativas. 1ª Avenida do CAB, 150 Centro Administrativo da Bahia 41745901 - Salvador, BA - Brasil Telefone: (71) 33737137 Ramal: 71 Fax: (71) 33737139 URL da Homepage: http://www.tre-ba.jus.br/",
+    "atualizacao_cv": "29/01/2022",
+    "url": "http://lattes.cnpq.br/2897532678011764",
+    "texto_resumo": "possui graduação em Ciência da Computação pela Universidade Federal da Bahia (1996) e mestrado em Mecatrônica pela Universidade Federal da Bahia (2006). Atualmente é Professor do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) e Analista Judiciário do Tribunal Regional Eleitoral da Bahia (TRE-BA). Tem experiência na área de Ciência da Computação, com ênfase em Algoritmos e Métodos Formais, atuando principalmente nos seguintes temas: algoritmos distribuídos, verificação de modelos, especificação formal, sistemas distribuídos, sistemas de tempo real, sistemas móveis e redes de sensores sem fio. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em andamento em Ciência da Computação - Ufba - Unifacs",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "",
+      "descricao": "Título: Algoritmos para Mobilidade (Provisório) Orientador: Flávio Morais de Assis Silva. Palavras-chave: Sistemas Móveis; Sistemas Distribuídos. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação."
+    },
+    {
+      "tipo": "Mestrado em Mecatrônica",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2006",
+      "descricao": "Título: Verificação Formal da Função de Controle de Acesso ao Meio do Protocolo IEEE 802.11 e Investigação da sua Aplicabilidade em Sistemas de Tempo-Real, Ano de Obtenção: 2006. Orientador: Aline Maria Santos Andrade. Palavras-chave: Verificação de Modelos; Especificação Formal; Confiabilidade de Sistemas; Redes de Computadores Sem Fio; Sistemas de Tempo Real; Sistemas Móveis. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação / Especialidade: Linguagem Formais e Autômatos. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação / Especialidade: Lógicas e Semântica de Programas."
+    },
+    {
+      "tipo": "Especialização em Sistemas Distribuídos",
+      "nome_instituicao": "(Carga Horária: 390h)",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2002",
+      "descricao": "Universidade Federal da Bahia, UFBA, Brasil. Título: Extensão da Linguagem PROMELA para Especificação de Sistemas baseados em Agentes Móveis. Orientador: Aline Maria Santos Andrade."
+    },
+    {
+      "tipo": "Graduação em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1996",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante em Eletrônica",
+      "nome_instituicao": "Escola Técnica Federal da Bahia, ETFBA, Brasil",
+      "ano_inicio": "1988",
+      "ano_conclusao": "1992",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Ens. Básico",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional Eleitoral da Bahia, TRE-BA, Brasil.",
+      "instituicao_nome": "Tribunal Regional Eleitoral da Bahia",
+      "instituicao_sigla": "TRE-BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - Atual",
+      "ano_inicio": "2007",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Analista Judiciário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional Eleitoral da Bahia, TRE-BA, Brasil.",
+      "instituicao_nome": "Tribunal Regional Eleitoral da Bahia",
+      "instituicao_sigla": "TRE-BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1996 - 2007",
+      "ano_inicio": "1996",
+      "ano_fim": "2007",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Técnico Judiciário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional Eleitoral da Bahia, TRE-BA, Brasil",
+      "instituicao_nome": "Tribunal Regional Eleitoral da Bahia",
+      "instituicao_sigla": "TRE-BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/1996 - Atual",
+      "ano_inicio": "1996",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Tribunal Regional Eleitoral da Bahia, TRE-BA, Brasil",
+      "instituicao_nome": "Tribunal Regional Eleitoral da Bahia",
+      "instituicao_sigla": "TRE-BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2002 - 12/2004",
+      "ano_inicio": "2002",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Secretaria de Informática, Coordenadoria de Produção e Suporte."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - Atual",
+      "ano_inicio": "2007",
+      "ano_fim": "Atual",
+      "vinculo": "Membro de Grupo de Pesquisa",
+      "enquadramento": "Membro Estudante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2011",
+      "ano_inicio": "2007",
+      "ano_fim": "2011",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor Colaborador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2003",
+      "ano_inicio": "2001",
+      "ano_fim": "2003",
+      "vinculo": "Membro de Grupo de Pesquisa",
+      "enquadramento": "Membro Estudante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1996 - 1997",
+      "ano_inicio": "1996",
+      "ano_fim": "1997",
+      "vinculo": "Membro de Grupo de Pesquisa",
+      "enquadramento": "Membro Estudante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2007 - 12/2011",
+      "ano_inicio": "2007",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2013",
+      "ano_inicio": "2009",
+      "ano_fim": "2013",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil.",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Prestador de Serviço",
+      "enquadramento": "Professor Horista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2010 - 09/2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Jorge Amado, UNIJORGE, Brasil",
+      "instituicao_nome": "Centro Universitário Jorge Amado",
+      "instituicao_sigla": "UNIJORGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2010 - 08/2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro de Tecnologia Industrial Pedro Ribeiro - Unidade SENAI CETIND, SENAI CETIND, Brasil.",
+      "instituicao_nome": "Centro de Tecnologia Industrial Pedro Ribeiro - Unidade SENAI CETIND",
+      "instituicao_sigla": "SENAI CETIND",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": "Prestador de Serviço",
+      "enquadramento": "Professor Horista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro de Tecnologia Industrial Pedro Ribeiro - Unidade SENAI CETIND, SENAI CETIND, Brasil",
+      "instituicao_nome": "Centro de Tecnologia Industrial Pedro Ribeiro - Unidade SENAI CETIND",
+      "instituicao_sigla": "SENAI CETIND",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2009 - 02/2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil.",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil.",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2008",
+      "ano_inicio": "2001",
+      "ano_fim": "2008",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2012 - 12/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "União Metropolitana de Educação e Cultura, UNIME, Brasil",
+      "instituicao_nome": "União Metropolitana de Educação e Cultura",
+      "instituicao_sigla": "UNIME",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2001 - 06/2003",
+      "ano_inicio": "2001",
+      "ano_fim": "2003",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdades Ruy Barbosa, FRB, Brasil.",
+      "instituicao_nome": "Faculdades Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2008",
+      "ano_inicio": "2001",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdades Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdades Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 12/2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdades Ruy Barbosa, FRB, Brasil",
+      "instituicao_nome": "Faculdades Ruy Barbosa",
+      "instituicao_sigla": "FRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2000 - 12/2008",
+      "ano_inicio": "2000",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "ForMOS/IQ-Mobile",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2003",
+      "descricao": [
+        "Descrição: De maneira geral, se uma aplicação é descrita utilizando uma linguagem de especificação apropriada, é possível aplicar técnicas de verificação para garantir propriedades desejadas do sistema, bem como garantir a correção da implementação. Quando se consideram sistemas complexos a necessidade de utilização de métodos formais para o seu desenvolvimento se torna ainda maior, já que a garantia de correção do mesmo apenas através de testes se torna menos provável. No caso de aplicações móveis executando em sistemas abertos, a situação é ainda mais complicada, devido à presença de um fator adicional que pode influenciar na correção de um programa, a mobilidade de processos. Portanto, métodos formais para desenvolver e avaliar o desempenho de software (em particular, aplicações móveis) para sistemas abertos são fundamentais. Além disso, a existência de um modelo formal descrevendo o sistema torna as dependências entre módulos explícitas e claras. O objetivo deste projeto é melhorar a qualidade de software, em especial aplicações móveis e algoritmos/protocolos distribuídos, para ambientes abertos através do uso de métodos formais. Em particular, neste projeto diferentes métodos formais para especificação de sistemas móveis serão comparados (por exemplo, o cálculo pi, o cálculo de ambientes e gramática de grafos) e um método (ou grupo de métodos) será construído que possa ser utilizado de maneira efetiva na descrição de sistemas móveis. Baseando-se no(s) método(s) escolhido(s), serão definidas maneiras de realizar verificação, análise, simulação e geração de código e posteriormente gerar ferramentas para serem utilizadas em um ambiente integrado de desenvolvimento de software móvel para ambientes abertos. Neste trabalho pretende-se também abordar a análise de complexidade de tais aplicações de forma sistemática, possivelmente utilizando-se ferramentas de apoio. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Especialização: (2) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Frederico Jorge Ribeiro Barboza - Integrante / Aline Maria Santos Andrade - Integrante / Flávio Morais de Assis Silva - Coordenador / Rafael Angelo R. Oliveira - Integrante / Raimundo José de Araújo Macêdo - Integrante / Daniel Aguiar - Integrante / Felipe Moraes - Integrante. Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Cooperação / Centro Di Studio Sui Processi Eletrodici - Cooperação / Universitá di Pisa - Cooperação / Universidade Federal do Rio Grande do Sul - Cooperação. Número de produções C, T & A: 3"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Frederico Jorge Ribeiro Barboza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aline Maria Santos Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Flávio Morais de Assis Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rafael Angelo R",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Pontifícia Universidade Católica do Rio Grande do Sul",
+          "tipo_apoio": "Cooperação"
+        },
+        {
+          "nome": "Centro Di Studio Sui Processi Eletrodici",
+          "tipo_apoio": "Cooperação"
+        },
+        {
+          "nome": "Universitá di Pisa",
+          "tipo_apoio": "Cooperação"
+        },
+        {
+          "nome": "Universidade Federal do Rio Grande do Sul",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Métodos Formais",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Métodos Formais."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Teoria da Computação",
+      "especialidade": "Linguagem Formais e Autômatos",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Linguagem Formais e Autômatos."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Teoria da Computação",
+      "especialidade": "Lógicas e Semântica de Programas",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação/Especialidade: Lógicas e Semântica de Programas."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Algoritmos Distribuídos",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Algoritmos Distribuídos."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Sistemas Distribuídos",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Sistemas Distribuídos."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Specification and Verification of the IEEE 802.11 Medium Access Control and an Analysis of its Applicability to Real-Time Systems",
+        "ano": 2008,
+        "autores": "BARBOZA, F. J. R.; ANDRADE, A. M. S. ; SILVA, F. M. A. ; LIMA, G. M. A.",
+        "revista": "Electronic Notes in Theoretical Computer Science",
+        "volume": "195",
+        "numero": "",
+        "paginas": "3-20",
+        "issn": "1571-0661",
+        "doi": "http://dx.doi.org/10.1016/j.entcs.2007.08.024",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Tratando a previsibilidade em sistemas de tempo-real distribuídos: Especificação, Linguagens, Middleware e Mecanismos Básicos",
+        "ano": 2004,
+        "autores": "MACEDO, R. J. A. ; LIMA, G. M. A. ; BARRETO, L. P. ; ANDRADE, A. M. S. ; SA, A. S. ; BARBOZA, F. J. R. ; ALBUQUERQUE, R. F. ; ANDRADE, S. S.",
+        "titulo_livro": "",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "105-163"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Maximum Lifetime Broadcast in Mobile Sensor Networks",
+        "ano": 2013,
+        "autores": "NUNES, B. ; BARBOZA, F. J. R. ; SILVA, F. M. A.",
+        "evento": "12th International Conference ADHOC-NOW (Ad-hoc",
+        "cidade": "",
+        "paginas": "26-37",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Localized Algorithm for the Maximum Lifetime Broadcast Problem with Asymmetric Edge Costs",
+        "ano": 2012,
+        "autores": "NUNES, BRUNO ; BARBOZA, FREDERICO ; SILVA, FLAVIO MORAIS DE ASSIS",
+        "evento": "2012 IEEE 11th International Symposium on Network Computing and Applications (NCA)",
+        "cidade": "",
+        "paginas": "253-258",
+        "isbn": ""
+      },
+      {
+        "titulo": "An Algorithm for the General MECBS Problem based on Minimum Cost Arborescences",
+        "ano": 2011,
+        "autores": "BARBOZA, F. J. R.; SILVA, F. M. A.",
+        "evento": "Third International ICST Conference on Ad Hoc Networks - ADHOCNETS 2011",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Aplicação de Algoritmos Genéticos na Otimização do Deslocamento Horizontal de uma Máquina Perfuratriz",
+        "ano": 2008,
+        "autores": "ELIAS, L. ; GOUVEIA JUNIOR, A. P. S. ; GUIMARAES NETO, R. ; BARBOZA, F. J. R.",
+        "evento": "VI Workshop de Trabalhos de Iniciação Científica e Graduação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Tabela de Horário Escolar",
+        "ano": 2007,
+        "autores": "MARQUES NETO, M. C. ; FREITAS, C. ; BAGANO, P. ; BARBOZA, F. J. R.",
+        "evento": "V Workshop de Trabalhos de Iniciação Científica e Graduação Bahia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Specification and Verification of the IEEE 802.11 Medium Access Control and an Analysis of its Applicability to Real-Time Systems",
+        "ano": 2006,
+        "autores": "BARBOZA, F. J. R.; ANDRADE, A. M. S. ; SILVA, F. M. A. ; LIMA, G. M. A.",
+        "evento": "Brazilian Symposium on Formal Methods",
+        "cidade": "",
+        "paginas": "9-26",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Ambiente para Especificação e Verificação Automática de Aplicações baseadas em Agentes Móveis",
+        "ano": 2004,
+        "autores": "ANDRADE, A. M. S. ; SILVA, F. M. A. ; BARBOZA, F. J. R. ; OLIVEIRA, R. A. R.",
+        "evento": "Simpósio Brasileiro de Redes de Computadores",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Metodologia para a Construção de Robôs Móveis",
+        "ano": 2003,
+        "autores": "BARBOZA, F. J. R.; AZEVEDO JUNIOR, J. A. ; OLIVEIRA, L. R. ; ALBUQUERQUE, M. L.",
+        "evento": "Iº Seminário Técnico-Científico Área 1 / IºSTEC - Área 1",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Abordagem para Minimização de Custos em Logística de Distribuição Baseada em Algoritmos Genéticos",
+        "ano": 2003,
+        "autores": "BARBOZA, F. J. R",
+        "evento": "Iº Seminário Técnico-Científico Área 1 / IºSTEC - Área 1",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Extensão da Linguagem Promela para Especificação de Sistemas Baseados em Agentes Móveis",
+        "ano": 2002,
+        "autores": "ANDRADE, A. M. S. ; SILVA, F. M. A. ; BARBOZA, F. J. R.",
+        "evento": "IV Workshop de Comunicação sem Fio e Computação Móvel",
+        "cidade": "",
+        "paginas": "1-9",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Um Ambiente para Especificação e Verificação Automática de Aplicações baseadas em Agentes Móveis",
+        "ano": 2004,
+        "autores": "BARBOZA, F. J. R",
+        "evento": ""
+      },
+      {
+        "titulo": "Ferramentas de Apoio à Construção de Softwares Concorrentes e de Tempo Real Confiáveis (VIª ERBASE - Escola Regional de Computação Bahia-Sergipe)",
+        "ano": 2006,
+        "autores": "ANDRADE, A. M. S. ; BARBOZA, F. J. R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Ferramentas de Apoio à Construção de Softwares Concorrentes e de Tempo Real Confiáveis (SBMF)",
+        "ano": 2006,
+        "autores": "ANDRADE, A. M. S. ; BARBOZA, F. J. R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Desenvolvimento de Aplicações WEB utilizando o JSF",
+        "ano": 2006,
+        "autores": "BARBOZA, F. J. R",
+        "evento": ""
+      },
+      {
+        "titulo": "Laboratório de Java Básico (IIIª ERBASE - Escola Regional de Computação Bahia-Sergipe)",
+        "ano": 2003,
+        "autores": "BARBOZA, F. J. R",
+        "evento": ""
+      },
+      {
+        "titulo": "Laboratório de Java Avançado (Iª ERBASE - Escola Regional de Computação Bahia-Sergipe)",
+        "ano": 2001,
+        "autores": "BARBOZA, F. J. R",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [
+        {
+          "titulo": "Avaliação da Aplicabilidade de Inferência Difusa em Sistema de Controle Embarcado para Irrigação",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Valtinei Andrade de Souza",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Ferramenta para gerenciamento de algoritmos genéticos distribuídos em ilhas de evolução",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Isac Velozo de C. Aguiar",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise Comparativa da Aplicabilidade da Metodologia XP dentro de uma Organização: O Caso SEFAZ-BA",
+          "ano_inicio": 2003,
+          "ano_conclusao": 2003,
+          "orientando": "Adriane Ferreira Barboza",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "Uma Aplicação de Apoio ao Controle Logístico de Resíduos da Construção Civil",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Enilton Rastele de Lima Júnior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Aplicação de AGs na Otimização de um Sistema de Transporte Vertical Baseado em Lógica Fuzzy",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Felipe Luciano, Leonardo Rebouças e Vinícius Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Avaliando o Uso de uma Heurística em um AG para Otimização do Corte de Peças Retangulares",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Damille Cunha, Felipe Vieira e João Vinícius Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise do Comportamento de Algoritmos Genéticos Adaptativos Baseados em Controle Fuzzy",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Otto Teixeira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Aplicação de Algoritmos Genéticos na Otimização do Deslocamento Horizontal de uma Máquina Perfuratriz",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Antônio de Pádua, Lídia Leal Elias e Renato Guimarães Neto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Implementação e Avaliação da Eficácia de um Módulo de Pré-Processamento baseado em Radicalização em Ferramenta de Classificação Automática de Documentos",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Gabriel Barbosa de Oliveira e José Borges da Silva Neto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Solução com Algoritmos Genéticos para Investimentos em Açõe",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Jeferson Santos, José Souza Jr, Jorge Castro e Lucas Araújo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "JGAGRADE - Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Grade de Horário da Faculdade Ruy Barbosa",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Danielle Rodrigues Eloi de Brito e George Colber Souza Costa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Kairós: Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Tabela de Horário Escolar",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Cherze C. Freitas e Priscilla R. B. Guimarães",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Classificador Automático de Documentos Utilizando Mapa de Kohonen",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Marco Antonio S. Campos e Paulo Laurindo S. dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Faculdades Ruy Barbosa",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": [
+      {
+        "autores": "BARBOZA, F. J. R.. Second Latin-American Symposium on Dependable Computing (LADC). 2005. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "OLIVEIRA, G. L.; FLORENTINO, P. V.; BARBOZA, F.. Participação em banca de Dagoberto Reis Medeiros.Sazonalidade dos preços no mercado de ações brasileiro. 2021. Trabalho de Conclusão de Curso (Graduação em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Dagoberto Reis Medeiros",
+        "membros_banca": [
+          "OLIVEIRA, G. L.",
+          "FLORENTINO, P. V.",
+          "BARBOZA, F."
+        ],
+        "titulo_trabalho": "Sazonalidade dos preços no mercado de ações brasileiro",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.; MARQUES NETO, M. C.; BARBOZA, F.. Participação em banca de Ícaro Jerry Salles Santana.S.A.R.A.: Uma Ferramenta Baseada em Algoritmos Genéticos para Alocação de Salas de Aula do IFBA. 2018. Trabalho de Conclusão de Curso (Graduação em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia da Bahia.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ícaro Jerry Salles Santana.S.A.R.A.: Uma Ferramenta Baseada em Algoritmos Genéticos para Alocação de Salas de Aula do IFBA",
+        "membros_banca": [
+          "NASCIMENTO, F. M. S.",
+          "MARQUES NETO, M. C.",
+          "BARBOZA, F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+      },
+      {
+        "descricao": "GREVE, F. G. P.; BARBOZA, F. J. R.; SILVA, F. M. A.. Participação em banca de Daniel Cason.Desenvolvimento de Aplicações Confiáveis em MANET a Partir de um Conjunto Dominante Conexo. 2009. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Daniel Cason",
+        "membros_banca": [
+          "GREVE, F. G. P.",
+          "BARBOZA, F. J. R.",
+          "SILVA, F. M. A."
+        ],
+        "titulo_trabalho": "Desenvolvimento de Aplicações Confiáveis em MANET a Partir de um Conjunto Dominante Conexo",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; GREVE, F. G. P.. Participação em banca de Bruno Rios Patriarca Nunes.Especificação e Protocolo para a Gestão da Filiação. 2009. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Rios Patriarca Nunes",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "GREVE, F. G. P."
+        ],
+        "titulo_trabalho": "Especificação e Protocolo para a Gestão da Filiação",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "GREVE, F. G. P.; SILVA, F. M. A.; BARBOZA, F. J. R.. Participação em banca de Murilo Santos de Lima.Protocolo Assíncrono para Detecção de Falhas Bizantinas em Sistemas Distribuídos Dinâmicos. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Murilo Santos de Lima",
+        "membros_banca": [
+          "GREVE, F. G. P.",
+          "SILVA, F. M. A.",
+          "BARBOZA, F. J. R."
+        ],
+        "titulo_trabalho": "Protocolo Assíncrono para Detecção de Falhas Bizantinas em Sistemas Distribuídos Dinâmicos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "AMORIM, C. A.; ARAUJO, J. G. R.; BARBOZA, F. J. R.. Participação em banca de Atsuiuky Mise, Nicandro Macedo Filho e Paulo Bichara.Aplicação de Algoritmos Genéticos na Otimização de Roteamento de Sistemas Empresariais de Transporte de Funcionários. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Faculdades Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Atsuiuky Mise, Nicandro Macedo Filho e Paulo Bichara",
+        "membros_banca": [
+          "AMORIM, C. A.",
+          "ARAUJO, J. G. R.",
+          "BARBOZA, F. J. R."
+        ],
+        "titulo_trabalho": "Aplicação de Algoritmos Genéticos na Otimização de Roteamento de Sistemas Empresariais de Transporte de Funcionários",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; MARQUES NETO, M. C.; ARAUJO, J. G. R.. Participação em banca de Alisson B. Nascimento e Andréa Gomes.SATSUMM - Uma Ferramenta para Sumarização Automática de Textos Jornalísticos. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Faculdades Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alisson B",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "MARQUES NETO, M. C.",
+          "ARAUJO, J. G. R."
+        ],
+        "titulo_trabalho": "Nascimento e Andréa Gomes.SATSUMM - Uma Ferramenta para Sumarização Automática de Textos Jornalísticos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; MARQUES NETO, M. C.; ARAUJO, J. G. R.. Participação em banca de Anderson Roberto e Tássio Coelho.Implementação de Providers WBEM para a Arquitetura Linux. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Faculdades Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Anderson Roberto e Tássio Coelho",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "MARQUES NETO, M. C.",
+          "ARAUJO, J. G. R."
+        ],
+        "titulo_trabalho": "Implementação de Providers WBEM para a Arquitetura Linux",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; MARQUES NETO, M. C.; ARAUJO, J. G. R.; AMORIM, C. A.. Participação em banca de Cherze C. Freitas e Priscilla R. B. Guimarães.Kairós: Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Tabela de Horário Escolar. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Faculdades Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Cherze C",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "MARQUES NETO, M. C.",
+          "ARAUJO, J. G. R.",
+          "AMORIM, C. A."
+        ],
+        "titulo_trabalho": "Freitas e Priscilla R. B. Guimarães.Kairós: Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Tabela de Horário Escolar",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; MARQUES NETO, M. C.; SERRA NEVES, J. C.. Participação em banca de Marco Antonio S. Campos e Paulo Laurindo S. dos Santos.Um Classificador Automático de Documentos Utilizando Mapa de Kohonen. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Faculdades Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marco Antonio S",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "MARQUES NETO, M. C.",
+          "SERRA NEVES, J. C."
+        ],
+        "titulo_trabalho": "Campos e Paulo Laurindo S. dos Santos.Um Classificador Automático de Documentos Utilizando Mapa de Kohonen",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; SERRA NEVES, J. C.; MARQUES NETO, M. C.. Participação em banca de Danielle Rodrigues Eloi de Brito e George Colber Souza Costa.JGAGRADE - Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Grade de Horário da Faculdade Ruy Barbosa. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Faculdades Ruy Barbosa.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Danielle Rodrigues Eloi de Brito e George Colber Souza Costa",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "SERRA NEVES, J. C.",
+          "MARQUES NETO, M. C."
+        ],
+        "titulo_trabalho": "JGAGRADE - Uma Ferramenta Baseada em Algoritmos Genéticos para a Geração de Grade de Horário da Faculdade Ruy Barbosa",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "SILVA, F. M. A.; BARBOZA, F. J. R.; COSTA, A. L. da. Participação em banca de Leandro Soriano Ferreira.Estudo de Soluções para o Problema de Definição de Topologia de Custo Mínimo em Redes de Sensores Sem Fio. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leandro Soriano Ferreira",
+        "membros_banca": [
+          "SILVA, F. M. A.",
+          "BARBOZA, F. J. R.",
+          "COSTA, A. L. da"
+        ],
+        "titulo_trabalho": "Estudo de Soluções para o Problema de Definição de Topologia de Custo Mínimo em Redes de Sensores Sem Fio",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; ANDRADE, A. M. S.; ABDALLA, Débora. Participação em banca de André Luís Nunes Muniz.Uma Abordagem para Especificação de Sistemas de Tempo Real Baseada em Métodos Formais a partir de Diagramas UML. 2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "André Luís Nunes Muniz",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "ANDRADE, A. M. S.",
+          "ABDALLA, Débora"
+        ],
+        "titulo_trabalho": "Uma Abordagem para Especificação de Sistemas de Tempo Real Baseada em Métodos Formais a partir de Diagramas UML",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; LIMA, G. M. A.; SILVA, F. M. A.. Participação em banca de Carlos Eduardo Benevides Bezerra.QoS para Jogos Multijogador em Redes IEEE 802.11. 2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carlos Eduardo Benevides Bezerra",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "LIMA, G. M. A.",
+          "SILVA, F. M. A."
+        ],
+        "titulo_trabalho": "QoS para Jogos Multijogador em Redes IEEE 802.11",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; BATALHA, M. S. G.; DANTAS, B. T.. Participação em banca de Fábio Rezende Lucas e Hernan Julho Muñoz.Ferramenta para criação de modelagem dinâmica utilizando engenharia reversa. 2005. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Faculdades Ruy Barbosa.",
+        "ano": 2005,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Fábio Rezende Lucas e Hernan Julho Muñoz",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "BATALHA, M. S. G.",
+          "DANTAS, B. T."
+        ],
+        "titulo_trabalho": "Ferramenta para criação de modelagem dinâmica utilizando engenharia reversa",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; ARAUJO, J. G. R.; DANTAS, B. T.. Participação em banca de Antônio Cantídio dos Santos Filho e Giovanni Pereira Oliveir.Uma interface para personalização de resultados de busca na WEB. 2003. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Faculdades Ruy Barbosa.",
+        "ano": 2003,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Antônio Cantídio dos Santos Filho e Giovanni Pereira Oliveir",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "ARAUJO, J. G. R.",
+          "DANTAS, B. T."
+        ],
+        "titulo_trabalho": "Uma interface para personalização de resultados de busca na WEB",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Faculdades Ruy Barbosa"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; ANDRADE, G. M.. Participação em banca de Angelo Rocha, João da Costa Júnior e Paulo Henrique Sampaio.Extraindo dados com XML. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Salvador.",
+        "ano": 2001,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Angelo Rocha, João da Costa Júnior e Paulo Henrique Sampaio",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "ANDRADE, G. M."
+        ],
+        "titulo_trabalho": "Extraindo dados com XML",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)",
+        "universidade": "Universidade Salvador"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "FREITAS, A. E. S.; BARBOZA, F. J. R.; SA, A. S.. Participação em banca de Adnilson Costa Garrido Junior. Auto-ajuste de parâmetros em protocolo de comunicação em grupo: estudo de caso do Isis. 2014. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "Adnilson Costa Garrido Junior",
+        "membros_banca": [
+          "FREITAS, A. E. S.",
+          "BARBOZA, F. J. R.",
+          "SA, A. S."
+        ],
+        "titulo_trabalho": "Auto-ajuste de parâmetros em protocolo de comunicação em grupo: estudo de caso do Isis",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "COELHO JUNIOR, J. A.; BARBOZA, F. J. R.. Participação em banca de Railton Sacramento Santana. MADSYS (Management and Development System) - Uma Ferramenta para Gerenciamento e Desenvolvimento de Requisitos baseada nos Modelos CMMI e MPS.br. 2008. Monografia (Aperfeiçoamento/Especialização em Sistemas Distribuídos) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Participação em banca",
+        "aluno": "Railton Sacramento Santana",
+        "membros_banca": [
+          "COELHO JUNIOR, J. A.",
+          "BARBOZA, F. J. R."
+        ],
+        "titulo_trabalho": "MADSYS (Management and Development System) - Uma Ferramenta para Gerenciamento e Desenvolvimento de Requisitos baseada nos Modelos CMMI e MPS.br",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Sistemas Distribuídos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARBOZA, F. J. R.; QUEIROZ JUNIOR, H. O.. Participação em banca de Adriane de Oliveira Ferreira. Análise Comparativa da Aplicabilidade da Metodologia XP dentro de uma Organização: O Caso SEFAZ-BA. 2003. Monografia (Aperfeiçoamento/Especialização em Especialização em Sistemas Distribuídos) - Universidade Católica do Salvador.",
+        "ano": 2003,
+        "tipo": "Participação em banca",
+        "aluno": "Adriane de Oliveira Ferreira",
+        "membros_banca": [
+          "BARBOZA, F. J. R.",
+          "QUEIROZ JUNIOR, H. O."
+        ],
+        "titulo_trabalho": "Análise Comparativa da Aplicabilidade da Metodologia XP dentro de uma Organização: O Caso SEFAZ-BA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Sistemas Distribuídos)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 1,
+    "total_livros": 0,
+    "total_capitulos": 1,
+    "total_trabalhos_congressos": 10,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

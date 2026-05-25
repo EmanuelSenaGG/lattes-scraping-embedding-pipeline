@@ -1,0 +1,2414 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "5081760345977091",
+    "nome_completo": "Flávia Maristela Santos Nascimento",
+    "nome_citacoes": "NASCIMENTO, F. M. S.;NASCIMENTO, FLAVIA MARISTELA SANTOS;NASCIMENTO, FLAVIA MARISTELA S.;NASCIMENTO, FLÁVIA MARISTELA S.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal da Bahia, IFBA - Campus Salvador, Departamento Acadêmico de Computação. Rua Emídio dos Santos s/n Barbalho 40300010 - Salvador, BA - Brasil Telefone: (71) 21029457 URL da Homepage: www.ifba.edu.br/professores/flaviamsn",
+    "atualizacao_cv": "21/05/2025",
+    "url": "http://lattes.cnpq.br/5081760345977091",
+    "texto_resumo": "Doutora em Ciência da Computação (PGCOMP/UFBA). Mestre em Mecatrônica (PPGM/UFBA). Bacharela em Ciência da Computação (DCC/UFBA). Especialização em Sistemas Distribuídos (LaSiD/UFBA) e Especialização em Administração (EADM/UFBA).Professora do Instituto Federal da Bahia (IFBA/Campus Salvador). Atualmente, coordenadora do curso superior tecnológico em Análise e Desenvolvimento de Sistemas. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Tempo Real, atuando principalmente nos seguintes temas: escalonamento de sistemas de tempo real, computação ubíqua e tolerância a falhas. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2021",
+      "descricao": "Título: A Flexible Framework to Schedule Hard and Soft Tasks in Multiprocessor Real-Time Systems, Ano de obtenção: 2021. Orientador: George Marconi de Araújo Lima."
+    },
+    {
+      "tipo": "Mestrado em Mecatrônica",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2009",
+      "descricao": "Título: A Simulation-Based Fault Resilience Analysis for Real-Time Systems O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2009. Orientador: George Marconi de Araújo Lima. Palavras-chave: Real-time systems; Scheduling; Fault Tolerance. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Tolerância a Falhas."
+    },
+    {
+      "tipo": "Especialização em Avançada em Sistemas Distribuídos",
+      "nome_instituicao": "(Carga Horária: 390h)",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2004",
+      "descricao": "Universidade Federal da Bahia, UFBA, Brasil. Título: CORBA-TF: Implementando uma ferramenta de tolerância a falhas. Orientador: Marcela Santana Batalha."
+    },
+    {
+      "tipo": "Especialização em Administração de Empresas",
+      "nome_instituicao": "(Carga Horária: 383h)",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2004",
+      "descricao": "Universidade Federal da Bahia, UFBA, Brasil. Título: Um estudo comparativo sobre o impacto do uso de métodos e sistemas de informação na gerência de projetos. Orientador: Robinson Moreira Tenório."
+    },
+    {
+      "tipo": "Graduação em Bacharelado em Ciência da Computação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1997",
+      "ano_conclusao": "2002",
+      "descricao": "Título: Um estudo comparativo entre Análise Essencial e Análise Orientada a Objetos. Orientador: Thelma Dórea."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - Atual",
+      "ano_inicio": "2006",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Departamento de Tecnologia Elétrica do Campus Simões Filho."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Departamento de Tecnologia Elétrica do Campus Simões Filho."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2015 - 11/2015",
+      "ano_inicio": "2015",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2012 - 11/2015",
+      "ano_inicio": "2012",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2014 - 07/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2014 - 12/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2014 - 07/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2013 - 12/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2013 - 12/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2013 - 07/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2013 - 07/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2012 - 12/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2012 - 11/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2012 - 09/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2011 - 09/2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2010 - 07/2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Departamento de Tecnologia Elétrica do Campus Simões Filho, Curso de Tecnologia em Análise e Desenvolvimento de Sistemas."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 06/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2011 - 04/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2010 - 01/2011",
+      "ano_inicio": "2010",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2010 - 07/2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2006 - 01/2010",
+      "ano_inicio": "2006",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2009 - 12/2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2008 - 11/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Diretoria Geral."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2006 - 11/2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2006 - 10/2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, IFBA - Campus Salvador."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2008 - 07/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Diretoria Geral."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2007 - 09/2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2006 - 12/2006",
+      "ano_inicio": "2006",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 09/2006",
+      "ano_inicio": "2006",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil.",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2006",
+      "ano_inicio": "2002",
+      "ano_fim": "2006",
+      "vinculo": "Funcionária",
+      "enquadramento": "Analista de Sistemas",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil.",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2002",
+      "ano_inicio": "2001",
+      "ano_fim": "2002",
+      "vinculo": "Funcionária",
+      "enquadramento": "Programador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2005 - 11/2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2004 - 01/2005",
+      "ano_inicio": "2004",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2004 - 12/2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2004 - 04/2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CPM Braxis Outsourcing, CPM, Brasil",
+      "instituicao_nome": "CPM Braxis Outsourcing",
+      "instituicao_sigla": "CPM",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2004 - 03/2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Consórcio Via Norte S."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2002",
+      "ano_inicio": "2002",
+      "ano_fim": "2002",
+      "vinculo": "Monitoria",
+      "enquadramento": "Monitor de disciplina",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2002",
+      "ano_inicio": "1999",
+      "ano_fim": "2002",
+      "vinculo": "Colaborador",
+      "enquadramento": "Membro da Empresa Júnior de Informática UFBA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2007 - Atual",
+      "ano_inicio": "2007",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Departamento de Ciência da Computação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2002 - 12/2002",
+      "ano_inicio": "2002",
+      "ano_fim": "2002",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2002 - 11/2002",
+      "ano_inicio": "2002",
+      "ano_fim": "2002",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2001 - 12/2001",
+      "ano_inicio": "2001",
+      "ano_fim": "2001",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2000 - 12/2000",
+      "ano_inicio": "2000",
+      "ano_fim": "2000",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/1999 - 01/2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola Bahiana de Medicina e Saúde Pública, EBMSP, Brasil.",
+      "instituicao_nome": "Escola Bahiana de Medicina e Saúde Pública",
+      "instituicao_sigla": "EBMSP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - 2000",
+      "ano_inicio": "2000",
+      "ano_fim": "2000",
+      "vinculo": "Estágio",
+      "enquadramento": "Técnico em Informática",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola Bahiana de Medicina e Saúde Pública, EBMSP, Brasil",
+      "instituicao_nome": "Escola Bahiana de Medicina e Saúde Pública",
+      "instituicao_sigla": "EBMSP",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2000 - 11/2000",
+      "ano_inicio": "2000",
+      "ano_fim": "2000",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Opp Petroquímica S/A, OPP, Brasil.",
+      "instituicao_nome": "Opp Petroquímica S/A",
+      "instituicao_sigla": "OPP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2001",
+      "ano_inicio": "2001",
+      "ano_fim": "2001",
+      "vinculo": "Estágio",
+      "enquadramento": "Analista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Opp Petroquímica S/A, OPP, Brasil",
+      "instituicao_nome": "Opp Petroquímica S/A",
+      "instituicao_sigla": "OPP",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2001 - 11/2001",
+      "ano_inicio": "2001",
+      "ano_fim": "2001",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Colégio Estadual Luiz",
+      "instituicao_nome": "Colégio Estadual Luiz",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "1999 - 1999",
+      "ano_inicio": "1999",
+      "ano_fim": "1999",
+      "vinculo": "Estágio.",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Colégio Estadual Luiz Vianna, CELV, Brasil",
+      "instituicao_nome": "Colégio Estadual Luiz Vianna",
+      "instituicao_sigla": "CELV",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/1999 - 11/1999",
+      "ano_inicio": "1999",
+      "ano_fim": "1999",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Framework distribuído e ubíquo de controle de publicidade baseada em contexto",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "descricao": [
+        "Descrição: O objetivo foi desenvolver uma arquitetura com características ubíquas para fornecer informações relevantes sobre o público consumidor de forma transparente, segura e sensível ao contexto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Flávia Maristela Santos Nascimento - Coordenador / Filipe Santos Brito - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Filipe Santos Brito",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "UbiCommerce: Um Arcabouço Ubíquo para Gerência e Otimização de Compras em Supermercados",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "descricao": [
+        "Descrição: A proposta deste trabalho foi apresentar uma solução de marketing ubíquo para supermercados de forma que a partir de seu dispositivo móvel um cliente possa ter a opção de ser direcionado a melhor compra.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Flávia Maristela Santos Nascimento - Coordenador / Sérgio Ricardo Argolo Queiroz FIlho - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Sérgio Ricardo Argolo Queiroz FIlho",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Análise de Mecanismos de Escalonamento para Sistemas de Tempo Real Tolerantes a Falhas",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: Com o crescente avanço da miniaturização de dispositivos e da crescente necessidade de automação, muitos dispositivos eletrônicos ganharam inteligência e autonomia. Neste contexto, muitas aplicações computacionais vem ganhando destaque devido à sua capacidade de integrar estes componentes inteligentes com sistemas. As aplicações computacionais vem evoluindo de tal forma que para boa parte dos sistemas, principalmente aqueles relacionados à área industrial, evoluíram no sentido de considerar tanto os requisitos lógicos, quanto os requisitos temporais dos objetos controlados, o que é uma característica dos sistemas de tempo real. Para tais sistemas, a violação das restrições temporais pode incorrer em riscos ambientais ou em consequencias mais graves.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Flávia Maristela Santos Nascimento - Coordenador / Franklin Lima - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Franklin Lima",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "SMART - Scheduling in Multiprocessor Archtectures with Real-Time Guarantees",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: Descrição: Atualmente é comum o uso de processadores multinúcleos, mesmo em simples computadores pessoais, alguns dos quais já estão equipados com processadores 8 núcleos, a exemplo dos processadores I7 e Xeon da Intel, comercializados a preços modestos. Protótipos da própria Intel já possuem chips com 80 núcleos enquanto que previsões de especialistas afirmam que em 2017 existirão máquinas com até 4096 núcleos de processamento num único chip. Neste contexto, será necessário grande investimento na adaptação de aplicações e sistemas operacionais para lidar com tal grau de paralelismo. Tais constatações motivam o presente projeto, que visa elaborar soluções adequadas para lidar com sistemas de tempo real em arquiteturas multiprocessadas. Mais precisamente, objetiva-se desenvolver: 1) Políticas de escalonamento adaptáveis e parametrizáveis; 2) Técnicas de análise de escalonamento adequadas e eficientes. Este projeto recebe financiamento do CNPq (Edital Universal) no valor de R$ 15.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (4) . Integrantes: Flávia Maristela Santos Nascimento - Integrante / George Lima - Coordenador / Paul Etiene Regnier - Integrante / Eduardo Camponogara - Integrante / José Augusto Júnior - Integrante / Marco Antonio Costa Simões - Integrante / Ernesto Massa - Integrante / Lucas Prado Melo - Integrante / Felipe Augusto - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "George Lima",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Paul Etiene Regnier",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Camponogara",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Augusto Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marco Antonio Costa Simões",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ernesto Massa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Prado Melo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Felipe Augusto",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "REDUC - Robótica Educacional Criativa",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: A Robotica Educacional vem ganhando destaque no processo de ensino-aprendizagem não só por sua habilidade de promover a interdisciplinaridade entre diferentes areas do conhecimento, mas também por valorizar a coletividade e motivar a participacção de alunos. Entretanto, a inserção da robótica no processo de ensino-aprendizagem esbarra em dificuldades financeiras e técnicas, tais como o alto custo dos kits proprietarios, suas restrições de utilização e falta de apoio pedagogico aos docentes. Este projeto apresenta uma abordagem para o desenvolvimento de kits de robótica educacional de baixo custo, baseado em software livre para o ensino da computação nos cursos técnicos e tecnológicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Flávia Maristela Santos Nascimento - Integrante / Romildo Martins da Silva Bezerra - Coordenador / Franklin Lima - Integrante / Antonio Ricardo Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romildo Martins da Silva Bezerra",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Franklin Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Ricardo Oliveira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "ESTER - Escalonamento em Sistemas de Tempo Real: Lidando com Incertezas e Adaptação",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "descricao": [
+        "Descrição: Sistemas de tempo real são aqueles especificados em função do tempo (real) em que suas ações devem produzir resultados. Para estes sistemas, escalonamento é um problema fundamental, cujas soluções são peça-chaves na garantia de sua correção. Com o avanço tecnológico, e pela ampla necessidade de novas demandas de aplicações de tempo real, esta área de pesquisa enfrenta novos desafios. A complexidade das novas plataformas de hardware e do software assim como as incertezas provenientes do ambiente requerem dos mecanismos de escalonamento suporte à adaptação e capacidade de lidar com incertezas subjacentes ao seu funcionamento. Apesar de já existirem avanços de pesquisa na área, estes estão ainda em estágios preliminares de desenvolvimento. Ressalta-se ainda o fato de que a comunidade brasileira da área possui muito pouco envolvimento nos temas relacionados ao presente projeto. O projeto ESTER têm como principal objetivo desenvolver modelos e técnicas de escalonamento adequadas aos sistemas de tempo real modernos. Tais modelos devem ser capazes de quantificar as incertezas mencionadas acima e equacioná-las durante a análise de escalonamento de tais sistemas. O projeto ESTER possui financiamento FAPESB (Apoio projeto de pesquisa) no valor de 27.692,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (4) / Doutorado: (4) . Integrantes: Flávia Maristela Santos Nascimento - Integrante / George Lima - Coordenador / Verônica Cadena Lima - Integrante / Paul Etiene Regnier - Integrante / Eduardo Camponogara - Integrante / Antonio Marcos Carianha - Integrante / José Augusto Júnior - Integrante / Marco Antonio Costa Simões - Integrante / Augusto Born Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "George Lima",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Verônica Cadena Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paul Etiene Regnier",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduardo Camponogara",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Antonio Marcos Carianha",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Augusto Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marco Antonio Costa Simões",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Augusto Born Oliveira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "COLOR: A Competence-Oriented Learning Objects Repository",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "descricao": [
+        "Descrição: Learning objects has been playing an important role when it comes to supporting science teaching-learning process. Several repositories for these objects have been developed as an attempt to put them in a nutshell. However, assessing such objects quality and adequacy for high school students has been a challenge. This project presented a methodology for implementing competence-oriented learning objetcs. Such approach aims at deriving learning objects oriented to students most common shortcomings so that they can achieve expected competences and skills.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Flávia Maristela Santos Nascimento - Integrante / Romildo Martins da Silva Bezerra - Coordenador / Hélio Messeder Neto - Integrante / Flávio Cardoso - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Flávia Maristela Santos Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romildo Martins da Silva Bezerra",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Hélio Messeder Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Flávio Cardoso",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Tempo Real",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Tempo Real."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Software Básico",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Software Básico."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Tolerância a Falhas",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Tolerância a Falhas."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Sistemas Distribuídos",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Sistemas Distribuídos."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Banco de Dados",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "Ensino-Aprendizagem",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação / Subárea: Ensino-Aprendizagem."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Sistemas de Tempo Real",
+      "objetivo": "Esta linha de pesquisa envolve aspectos globais de projeto e construção de sistemas de tempo real, que são aqueles que contém restrições temporais em suas especificações. Atualmente, os desafios desta área concentram-se no desenvolvimento de sistemas de tempo real distribuídos, tolerantes a falhas e que permitam altos níveis de flexibilidade e adaptação. Aspectos ligados a construção de protocolos de comunicação, algoritmos distribuídos, políticas de escalonamento e análise de escalonamento e técnicas de tolerância a falhas devem ser pensados de forma integrada. Grande área: Ciências Exatas e da Terra"
+    },
+    {
+      "nome": "Sistemas Operacionais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Escalonamento para Sistemas de Tempo Real",
+      "objetivo": "Escalonar tarefas em sistemas de tempo real é um problema fundamental para tais sistemas. O problema geral é NP-difícil. No entanto, impondo-se restrições ao problema, pode-se determinar soluções ótimas. O principal objetivo desta linha de pesquisa é descobrir meios de escalonar tarefas num sistema de tempo real, reduzindo as restrições, de forma a flexibilizar o sistema. Além disso, precisa-se desenvolver técnicas de análise de escalonamento que são capazes de demonstrar a correção. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Software Básico."
+    },
+    {
+      "nome": "Tolerância a Falhas",
+      "objetivo": "Prover tolerância a falhas em sistemas computacionais é incorporar redundância no sistema e conceber mecanismos de gerenciamento de componentes redundantes associados a mecanismos de detecção de erros e recuperação (reconfiguração) do sistema. Em sistemas de tempo real, tais aspectos possuem um complicador adicional, o aspecto temporal."
+    },
+    {
+      "nome": "Computação Ubíqua",
+      "objetivo": ""
+    },
+    {
+      "nome": "Arquitetura de Computadores e Software Básico",
+      "objetivo": ""
+    },
+    {
+      "nome": "Sistemas Embarcados",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "An Ubiquitous and Autonomic Framework to Smart Grid Management",
+        "ano": 2015,
+        "autores": "CALHAU, F. ; BEZERRA, R. M. S. ; NASCIMENTO, F. M. S. ; MARTINS, J. S. B.",
+        "revista": "International Journal of Innovative Computing, Information & Control",
+        "volume": "11",
+        "numero": "",
+        "paginas": "1369-1397",
+        "issn": "1349-4198",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Fault Resilience Tool for Embedded Real-Time Systems",
+        "ano": 2014,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, F.",
+        "revista": "Journal of Computer Science and Technology (La Plata. En línea)",
+        "volume": "14",
+        "numero": "",
+        "paginas": "73-79",
+        "issn": "1666-6038",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Framework to Support Smart Grid Solutions  with Ubiquitous, Autonomic and Real-Time  Features Targeting the  Sustainable Use of  Renewable Power",
+        "ano": 2013,
+        "autores": "BEZERRA, R. M. S. ; CALHAU, F. ; NASCIMENTO, F. M. S. ; MARTINS, J. S. B.",
+        "revista": "Cyber Journals: Multidisciplinary Journals in Science and Technology",
+        "volume": "3",
+        "numero": "",
+        "paginas": "10",
+        "issn": "1925-2676",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "A simulation-based fault resilience analysis for real-time systems",
+        "ano": 2014,
+        "autores": "NASCIMENTO, F. M. S",
+        "editora": "Rio Grande / RS: PLUSCOM",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "100"
+      }
+    ],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Monitoramento do mercado de ativos brasileiro: uma proposta de pipeline de dados para detecção de bolhas financeiras",
+        "ano": 2024,
+        "autores": "BOMFIM, UILIAM B. ; NASCIMENTO, FLÁVIA MARISTELA S.",
+        "evento": "Anais Estendidos do Simpósio Brasileiro de Banco de Dados",
+        "cidade": "",
+        "paginas": "58",
+        "isbn": ""
+      },
+      {
+        "titulo": "Dealing with Soft Aperiodic Tasks in RUN",
+        "ano": 2023,
+        "autores": "NASCIMENTO, FLÁVIA MARISTELA S.; LIMA, GEORGE",
+        "evento": "2023 XIII Brazilian Symposium on Computing Systems Engineering (SBESC)",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      },
+      {
+        "titulo": "Effectively Scheduling Hard and Soft Real-Time Tasks on Multiprocessors",
+        "ano": 2021,
+        "autores": "NASCIMENTO, FLAVIA MARISTELA S.; LIMA, GEORGE",
+        "evento": "2021 IEEE 27th RealTime and Embedded Technology and Applications Symposium (RTAS)",
+        "cidade": "",
+        "paginas": "210-222",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Flexible Framework to Schedule Soft Aperiodic Tasks in Hard Real-Time Systems",
+        "ano": 2019,
+        "autores": "NASCIMENTO, FLAVIA MARISTELA S.; LIMA, GEORGE",
+        "evento": "2019 IX Brazilian Symposium on Computing Systems Engineering (SBESC)",
+        "cidade": "",
+        "paginas": "1",
+        "isbn": ""
+      },
+      {
+        "titulo": "BlinGui: uma Solução Vestível de Apoio a Pessoas Portadoras de Deficiência Visual na Detecção de Obstáculos Estáticos em Ambientes Internos",
+        "ano": 2016,
+        "autores": "PEREIRA, E. ; NASCIMENTO, F. M. S. ; Santos, V. V.",
+        "evento": "Simpósio Brasileiro de Computação Ubíqua e Pervasiva",
+        "cidade": "",
+        "paginas": "976-985",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Fault Resilience Tool for Embedded Real-Time Systems",
+        "ano": 2013,
+        "autores": "LIMA, F. ; NASCIMENTO, F. M. S.",
+        "evento": "XIX Congreso Argentino de Ciencias de la Computación - CACIC 2013",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Memória compartilhada distribuída: uma abordagem para cursos tecnológicos",
+        "ano": 2013,
+        "autores": "NASCIMENTO, F. M. S.; BEZERRA, R. M. S.",
+        "evento": "VIII Congresso Norte Nordeste de Pesquisa e Inovação (CONNEPI)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Internet do Futuro: Contextualização e Perspectivas de Inovação",
+        "ano": 2013,
+        "autores": "ALMEIDA, V. A. ; SANTOS, I. ; NASCIMENTO, F. M. S. ; BEZERRA, R. M. S.",
+        "evento": "VIII Congresso Norte Nordeste de Pesquisa e Inovação (CONNEPI)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Estudo de Redução do Consumo de Energia em Sistemas Embarcados de Tempo Real com Microcontroladores PIC",
+        "ano": 2011,
+        "autores": "LIMA, F. ; NASCIMENTO, F. M. S. ; BEZERRA, R. M. S.",
+        "evento": "VI Congresso de Pesquisa e Inovação da Rede Norte e Nordeste de Educação Tecnológica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Fault Resilience Analysis for Real-Time Systems",
+        "ano": 2010,
+        "autores": "LIMA, G. ; NASCIMENTO, F. M. S. ; LIMA, V. C.",
+        "evento": "1st Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems",
+        "cidade": "",
+        "paginas": "18-23",
+        "isbn": ""
+      },
+      {
+        "titulo": "REDUC: A Robótica Educacional como Abordagem de Baixo Custo para o Ensino de Computação em Cursos Técnicos e Tecnológicos",
+        "ano": 2010,
+        "autores": "LIMA, F. ; NASCIMENTO, F. M. S. ; BEZERRA, R. M. S.",
+        "evento": "Congresso da Sociedade Brasileira de Computação",
+        "cidade": "",
+        "paginas": "1304-1313",
+        "isbn": ""
+      },
+      {
+        "titulo": "Simulation Scenarios: a Means of Deriving Fault Resilience for Real-Time Systems",
+        "ano": 2009,
+        "autores": "LIMA, G. ; NASCIMENTO, F. M. S.",
+        "evento": "Workshop on Real-Time and Embedded Systems",
+        "cidade": "",
+        "paginas": "1-12",
+        "isbn": ""
+      },
+      {
+        "titulo": "Objetos de Aprendizagem Interativos para o Ensino dos Fundamentos da Química Orgânica no Ensino Médio",
+        "ano": 2009,
+        "autores": "MESSEDER NETO, H. ; BEZERRA, R. M. S. ; NASCIMENTO, F. M. S.",
+        "evento": "XXVII Encontro Nacional dos Estudantes de Química (ENEQUI2009)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Objetos de Aprendizagem como Facilitadores na Construção do Conhecimento de Química",
+        "ano": 2009,
+        "autores": "MESSEDER NETO, H. ; NASCIMENTO, F. M. S. ; BEZERRA, R. M. S.",
+        "evento": "Reunião Anual da Sociedade Brasileira de Química",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Deriving a Fault Resilience Metric for Real-Time Systems",
+        "ano": 2009,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, G. ; LIMA, V. C.",
+        "evento": "11th Brazilian Workshop on Tests and Fault Tolerance",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "COLOR:A Competence-Oriented Learning Objects Repository",
+        "ano": 2009,
+        "autores": "BEZERRA, R. M. S. ; NASCIMENTO, F. M. S. ; MESSEDER NETO, H.",
+        "evento": "Simpósio Internacional de Informática Educativa",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Repositório de Objetos de Aprendizagem baseados na Aprendizagem Significativa",
+        "ano": 2009,
+        "autores": "MESSEDER NETO, H. ; BEZERRA, R. M. S. ; NASCIMENTO, F. M. S.",
+        "evento": "IV Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica (IV CONNEPI)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Work-in-Progress: Dealing with Aperiodic Tasks on Quasi-Partitioning Scheduling",
+        "ano": 2017,
+        "autores": "NASCIMENTO, FLAVIA MARISTELA SANTOS; LIMA, GEORGE ; MASSA, ERNESTO",
+        "evento": "2017 IEEE RealTime Systems Symposium (RTSS), 2017, Paris. 2017 IEEE Real-Time Systems Symposium (RTSS)",
+        "cidade": "",
+        "paginas": "381"
+      },
+      {
+        "titulo": "Simulation-Based Analysis to Derive Fault Resilience in real Time Systems",
+        "ano": 2008,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, G. ; LIMA, V. C.",
+        "evento": "WiP Session of the 10th Workshop on Real-Time and Embedded Systems, 2008, Rio de Janeiro. Proc. of the 10th Work-in-Progress Session of the Brazilian Workshop on Real-Time and Embedded Systems. Porto Alegre: Sociedade Brasileira de Computação",
+        "cidade": "",
+        "paginas": "113-116"
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "A Simulator to Fault Resilience Analysis For Real-Time Systems",
+        "ano": 2010,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, G.",
+        "evento": "1st Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems, 2010, Bruxelas. 1st Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems",
+        "cidade": ""
+      },
+      {
+        "titulo": "Análise de Resiliência de Falhas para Sistemas de Tempo Real Baseada em Simulação",
+        "ano": 2009,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, G. ; LIMA, V. C.",
+        "evento": "X Seminário de Pesquisa e Pós-Graduação, 2009, Salvador. XXVIII Seminário Estudantil de Pesquisa e X Seminário de Pesquisa e Pós-Graduação. Salvador: EDUFBA",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Dealing with Soft Aperiodic Tasks in RUN",
+        "ano": 2023,
+        "autores": "NASCIMENTO, FLAVIA MARISTELA SANTOS; LIMA, G.",
+        "evento": ""
+      },
+      {
+        "titulo": "Dealing with Aperiodic Tasks on Quasi-Partitioning Scheduling",
+        "ano": 2017,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, G. ; MASSA, E.",
+        "evento": ""
+      },
+      {
+        "titulo": "Tecnologia Rosa: a contribuição das mulheres na Tecnologia",
+        "ano": 2017,
+        "autores": "NASCIMENTO, F. M. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Aspectos éticos em computação. Código de conduta profissional",
+        "ano": 2016,
+        "autores": "NASCIMENTO, F. M. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Tecnologias Assistivas para pessoas portadora de Deficiência Visual",
+        "ano": 2015,
+        "autores": "PEREIRA, E. ; NASCIMENTO, F. M. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Melhoria da Qualidade de Vida através de Novas Tecnologias",
+        "ano": 2015,
+        "autores": "NASCIMENTO, F. M. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Aspectos éticos em computação. Código de conduta profissional",
+        "ano": 2015,
+        "autores": "NASCIMENTO, F. M. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Tratando Aspectos de Confiabilidade para Sistemas de Tempo Real",
+        "ano": 2010,
+        "autores": "NASCIMENTO, F. M. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Deriving a Fault Resilience Metric for Real-Time Systems",
+        "ano": 2009,
+        "autores": "NASCIMENTO, F. M. S.; LIMA, G. ; LIMA, V. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Robótica Livre para o ensino tecnico",
+        "ano": 2009,
+        "autores": "LIMA, F. ; NASCIMENTO, F. M. S. ; BEZERRA, R. M. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Objetos de Aprendizagem para o ensino da Química",
+        "ano": 2009,
+        "autores": "BEZERRA, R. M. S. ; MESSEDER NETO, H. ; NASCIMENTO, F. M. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Estudo Comparativo entre os métodos de desenvolvimento de sistemas utilizando Análise Essencial e UML",
+        "ano": 2002,
+        "autores": "NASCIMENTO, F. M. S",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Organizando Processos, Gerando Resultados",
+        "ano": 2005,
+        "autores": "NASCIMENTO, F. M. S.; MENDES, J. F.",
+        "jornal": "",
+        "cidade": "",
+        "data": "17 jan. 2005"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "A Simulation-Based Fault Resilience Analysis for Real-Time Systems",
+        "ano": 2009,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Um Estudo Comparativo sobre o Comportamento de Sistemas Desenvolvidos em Ambientes CORBA-TF em Ambientes com Características Assíncronas",
+        "ano": 2004,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Um Estudo Comparativo sobre o Impacto do Uso de Métodos e Sistemas de Informação na Gerência de Projetos",
+        "ano": 2004,
+        "autores": "NASCIMENTO, F. M. S.; BARRETO, L. P. ; BORGES, R. R.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Estudo Comparativo entre Análise Essencial e Análise Orientada a Objetos como Métodos de Análise de Sistemas",
+        "ano": 2002,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [
+      {
+        "titulo": "Lista de Procedimentos Administrativos",
+        "ano": 2003,
+        "autores": "NASCIMENTO, F. M. S.; BEZERRA, R. M. S.",
+        "tipo": "Processo ou técnica"
+      }
+    ],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "International Conference on Real-Time Networks and Systems (RTNS). Comitê de Programa",
+        "ano": 2025,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Simpósio Brasileiro de Sistemas Colaborativos",
+        "ano": 2025,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Simpósio de Engenharia de Sistemas Computacionais (SBESC). Comitê de Programa",
+        "ano": 2025,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Simpósio de Engenharia de Sistemas Computacionais (SBESC). Coordenador do Comitê de Programa",
+        "ano": 2024,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "International Conference on Real-Time Networks and Systems (RTNS). Comitê de Programa",
+        "ano": 2024,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Simpósio de Engenharia de Sistemas Computacionais (SBESC). Comitê de Programa",
+        "ano": 2023,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Simpósio de Engenharia de Sistemas Computacionais (SBESC). Comitê de Programa",
+        "ano": 2022,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Projeto de Especialização em Computação Distribuída e Ubíqua",
+        "ano": 2010,
+        "autores": "NASCIMENTO, F. M. S.; BEZERRA, R. M. S.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Projeto para reformulação do sítio Institucional do CEFET-BA",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S.; FLORENTINO, P. V.",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Estrutura de Dados em C",
+        "ano": 2007,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Uma introdução a Redes de Computadores",
+        "ano": 2007,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "HTML Básico",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Gerenciamento de Projetos e Inovação Tecnológica",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Gerência de Projetos",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Conhecendo um pouco mais sobre a Internet",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Conheça o seu computador",
+        "ano": 2006,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Marketing na Empresa Júnior",
+        "ano": 2005,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Capacitação em Sistema de Orçamento para Engenharia Civil. 2004",
+        "ano": 2004,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Capacitação em Sistema de Planejamento para Engenharia Civil. 2003",
+        "ano": 2003,
+        "autores": "NASCIMENTO, F. M. S",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Workshop de Mulheres em Exatas",
+        "ano": 2024,
+        "autores": "ALVES, C. ; FREITAS, J. ; NASCIMENTO, F. M. S. ; SATOS, M. I. ; TAVARES, M. ; VIEIRA, V.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Mulheres Inspiradoras: Trajetórias de Sucesso",
+        "ano": 2021,
+        "autores": "NASCIMENTO, F. M. S.; GREVE, F. ; CONCATTO, C. ; SPECHT, E.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Mulheres em Engenharia de Sistemas Computacionais: desafios, consciência e perspectivas",
+        "ano": 2020,
+        "autores": "PEREIRA, M. ; PLENTZ, P. D. M. ; BRISOLARA, L. B. ; NASCIMENTO, F. M. S.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Implementação 64 bits - ReactOS",
+          "ano_inicio": 2013,
+          "orientando": "Samuel Marins",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": [
+        {
+          "titulo": "Intercâmbio CsF",
+          "ano_inicio": 2013,
+          "orientando": "Jamile Santos",
+          "tipo_trabalho": "",
+          "instituicao": "Orientação de outra natureza. Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ]
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [
+        {
+          "titulo": "TCCinder - Um sistema de integração e gerenciamento de Trabalho de Conclusão de Curso",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Amir Santos Brito",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma Ferramenta de Auxílio na Mobilidade de Deficientes Visuais em Ambientes Internos com Localização Wi-fi",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Elidiane Santos Pereira",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Find* Parking Place: Um Sistema Ubíquo de Gerência para Estacionamentos",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Ramon Mota Luz",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "Uma aplicação para registro de ocorrências criminais: o caso da Guiné-Bissau.",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Ibra Có",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Lembre Bem: Sistema de Gestão de Medicamentos para Cuidadores e Familiares",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Euritales Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "PANDORA - Sistema estatıstico para previsão de eventos extremos",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Luis Fernando Cesar dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Comprei no Mercado - Seu histórico Individual de Compras",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Pedro Felipe Vanderlei da Silva Lima",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma API RESTful para gerenciar a vacinacção com Spring Boot 2",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Douglas Fonseca",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "GuiAutismo: Aplicação Mobile para Avaliação de Acessibilidade para Pessoas Com Transtorno do Espectro Autista",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Yan Falcão",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "S.A.R.A.: Uma Ferramenta Baseada em Algoritmos Genéticos para Alocação de Salas de Aula do IFBA",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Icaro Jerry Salles Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ETA - Easy Test Automation: uma ferramenta para automação de testes funcionais web baseada em Selenium Webdriver e TestNG",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Rafael Amaral de Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Forensic I.T.: uma Ferramenta Forense de Automação da Extração de Dados em Dispositivos Móveis da Plataforma Android",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Ítalo Marcius Virgínio da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Observador - Uma Ferramenta Automatizada de Filtragem de Eventos de Auditoria",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Samuel Marins de Oliveira e Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "AutoNode - Um SGBD n~ao somente relacional com Suporte a Replica",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Norton José Dantas Pacheco Júnior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Simulação do Processo de Substituição de Páginas em Gerência de Memória Virtual",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Fagner do Nascimento Fonseca",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Estudo Comparativo de Mecanismos de Escalonamento para Sistemas de Tempo-Real Tolerantes a Falhas",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Franklin Lima Santos",
+          "tipo_trabalho": "",
+          "instituicao": "Iniciação Científica - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise de Mecanismos de Escalonamento para Sistemas de Tempo Real Tolerantes a Falhas",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Franklin Lima Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise de Mecanismos de Escalonamento para Sistemas de Tempo Real Tolerantes a Falhas",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Franklin Lima Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": ".",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Flávio Cardoso de Souza Júnior",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Algoritmo para Busca em Armazém escuro",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Adelmo de Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de Kits Livres de Robótica de Baixo Custo como Ferramenta Interdisciplinar para o Ensino Médio e Superior",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Franklin Lima Santos",
+          "tipo_trabalho": "",
+          "instituicao": "Iniciação Científica - Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de Ferramentas Interativas como Apoio Pedagógico ao Ensino Científico",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Helio Messeder Neto",
+          "tipo_trabalho": "",
+          "instituicao": "Iniciação Científica - Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": [
+        {
+          "titulo": "Desenvolvimento de Sítio Institucional do curso de Engenharia Industrial Elétrica",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Franklin Lima Santos",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de Sítio Institucional do curso de Análise e Desenvolvimento de Sistemas",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Franklin Lima Santos",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal da Bahia",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Real-Time and Embedded Technology and Applications Symposium (RTAS)",
+        "apresentacao": "Effectively Scheduling Hard and Soft Real-Time Tasks on Multiprocessors",
+        "ano": 2021,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Euromicro Conference on Real-Time Systems (ECRTS)",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IEEE Real-Time Systems Symposium (RTSS)",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Brazilian Symposium on Computing Systems Engineering (SBESC)",
+        "apresentacao": "P1: Mulheres em Engenharia de Sistemas Computacionais: desafios, consciência e perspectivas",
+        "ano": 2020,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Brazilian Symposium on Computing Systems Engineering (SBESC)",
+        "apresentacao": "A Flexible Framework to Schedule Soft Aperiodic Tasks in Hard Real-Time Systems",
+        "ano": 2019,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Brazilian Symposium on Computing Systems Engineering (SBESC)",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IEEE Real-Time Systems Symposium (RTSS)",
+        "apresentacao": "WiP: Dealing with Aperiodic Tasks on Quasi-Partition Scheduling",
+        "ano": 2017,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)",
+        "apresentacao": null,
+        "ano": 2016,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1ª Semana de Ciências, Tecnologia e Sustentabilidade - UNIME",
+        "apresentacao": "Tecnologias Assistivas para pessoas portadora de Deficiência Visual",
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SEMCOMP",
+        "apresentacao": "Melhoria da Qualidade de Vida através de Novas Tecnologias",
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Seminário de Iniciação Científica, Tecnológica e Inovação do IFBA",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XV ERBASE",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II ERAD Escola Regional de Alto Desempenho",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1st Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems",
+        "apresentacao": "Fault Resilience Analysis for Real-Time Systems",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso da Sociedade Brasileira de Computação",
+        "apresentacao": "REDUC: A Robótica Educacional como Abordagem de Baixo Custo para o Ensino de Computação em Cursos Técnicos e Tecnológicos",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop de Testes e Tolerância a Falhas",
+        "apresentacao": "Deriving a Fault Resilience Metric for Real-Time Systems",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop de TV Digital",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "WTR",
+        "apresentacao": "Simulation-Based Analysis to Derive Fault Resilience in Real-Time Systems",
+        "ano": 2008,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ConecTI",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário de Inovação Tecnológica - CEFET-BA",
+        "apresentacao": "Gerência de Projetos e Inovação Tecnológica",
+        "ano": 2006,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Nacional de Tecnologia da Informação e Comunicação",
+        "apresentacao": null,
+        "ano": 2003,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ERBASE",
+        "apresentacao": null,
+        "ano": 2001,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminários Integrados",
+        "apresentacao": null,
+        "ano": 2001,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Nacional de Empresas Juniores",
+        "apresentacao": null,
+        "ano": 2000,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II InfoUneb ? Semana de Informática da Universidade do Estado da Bahia",
+        "apresentacao": null,
+        "ano": 2000,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Estadual de Empresas Juniores",
+        "apresentacao": null,
+        "ano": 1999,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII SBRC ? Simpósio Brasileiro de Redes de Computadores",
+        "apresentacao": null,
+        "ano": 1999,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "BARROS, E. ; PEREIRA, M. ; NASCIMENTO, FLAVIA MARISTELA S.",
+        "evento": "Simpósio de Engenharia de Sistemas Computacionais",
+        "ano": 2024,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "GREVE, F. G. P. ; FREITAS, A. E. S. ; BEZERRA, R. M. S. ; NASCIMENTO, F. M. S. ; OUTROS, E.",
+        "evento": "XXXIV SBRC - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+        "ano": 2016,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "NASCIMENTO, F. M. S.; FREITAS, A. E. S. ; BEZERRA, R. M. S. ; MARQUES NETO, M. C. ; ANDRADE, S. S. ; NOVAIS, R. L. ; OLIVEIRA, G. L. ; BARBOSA, F. J. R.",
+        "evento": "XV ERBASE",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FREITAS, A. E. S. ; BARRETO, M. ; NASCIMENTO, F. M. S.",
+        "evento": "II ERAD - Escola Regional de Alto Desempenho",
+        "ano": 2013,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SOUZA, A. C. S. ; NASCIMENTO, F. M. S. ; FLORENTINO, P. V.",
+        "evento": "I Festival de Software Livre do IFBA",
+        "ano": 2009,
+        "natureza": "Festival",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "Laboratório de Sistemas Distribuídos ; NASCIMENTO, F. M. S.",
+        "evento": "Escola Regional Bahia Sergipe",
+        "ano": 2001,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "Laboratório de Sistemas Distribuídos ; NASCIMENTO, F. M. S.",
+        "evento": "Semana de Informática UFBA",
+        "ano": 1999,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "NETO, M. C. M.; NASCIMENTO, F. M. S.. Participação em banca de Ruivaldo Azevedo Lobão Neto.IFBATeX - Ambiente Web para edição de documentos LaTeX. 2013. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ruivaldo Azevedo Lobão Neto",
+        "membros_banca": [
+          "NETO, M. C. M.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "IFBATeX - Ambiente Web para edição de documentos LaTeX",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "BEZERRA, R. M. S.; NETO, M. C. M.; NASCIMENTO, F. M. S.. Participação em banca de Norton José Dantas Pacheco Júnior.AutoNode: Um SGBD não somente Relacional com Suporte a Replicação Transparente. 2013. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Norton José Dantas Pacheco Júnior",
+        "membros_banca": [
+          "BEZERRA, R. M. S.",
+          "NETO, M. C. M.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "AutoNode: Um SGBD não somente Relacional com Suporte a Replicação Transparente",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "NETO, M. C. M.; BEZERRA, R. M. S.; NASCIMENTO, F. M. S.. Participação em banca de Fagner do Nascimento Fonseca.Simulação do Processo de Substituição de Páginas em Gerência de Memória Virtual ´. 2013. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Fagner do Nascimento Fonseca",
+        "membros_banca": [
+          "NETO, M. C. M.",
+          "BEZERRA, R. M. S.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "Simulação do Processo de Substituição de Páginas em Gerência de Memória Virtual ´",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "SOUZA, A. C. S.; NETO, M. C. M.; NASCIMENTO, F. M. S.. Participação em banca de Márcio Cerqueira de Farias Macedo.Reconstrução de modelos 3-D em tempo real utilizando Kinect e GPU.. 2012. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal da Bahia.",
+        "ano": 2012,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Márcio Cerqueira de Farias Macedo",
+        "membros_banca": [
+          "SOUZA, A. C. S.",
+          "NETO, M. C. M.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "Reconstrução de modelos 3-D em tempo real utilizando Kinect e GPU",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; Santos, V. V.; NASCIMENTO, F. M. S.. Participação em banca de Leandro Oliveira de Almeida.Desenvolvimento de uma ferramenta para fragmentação de bases de dados. 2009. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leandro Oliveira de Almeida",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "Santos, V. V.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "Desenvolvimento de uma ferramenta para fragmentação de bases de dados",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Schwarzelmuller, A. F.; ABDALLA, D.; NASCIMENTO, F. M. S.. Participação em banca de Vitor Rodrigues Andrade Campos.Uso de Ferramentas SIG na Web como apoio à Educação e ao Turismo na Chapada Diamantina. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Vitor Rodrigues Andrade Campos",
+        "membros_banca": [
+          "Schwarzelmuller, A. F.",
+          "ABDALLA, D.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "Uso de Ferramentas SIG na Web como apoio à Educação e ao Turismo na Chapada Diamantina",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ABDALLA, D.; NASCIMENTO, F. M. S.; Ramos, A. Participação em banca de Victor Padre Medeiros.Objetos de Aprendizagem: Repositório de Recursos Tecnológicos e Audiovisuais. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Victor Padre Medeiros",
+        "membros_banca": [
+          "ABDALLA, D.",
+          "NASCIMENTO, F. M. S.",
+          "Ramos, A"
+        ],
+        "titulo_trabalho": "Objetos de Aprendizagem: Repositório de Recursos Tecnológicos e Audiovisuais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "FLORENTINO, P. V.; NASCIMENTO, F. M. S.; BARRETTO, J. R.. Participação em banca de Raul Milton Silva de Oliveira.Mineração de Dados e sua Aplicação na PNAD 2006. 2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Raul Milton Silva de Oliveira",
+        "membros_banca": [
+          "FLORENTINO, P. V.",
+          "NASCIMENTO, F. M. S.",
+          "BARRETTO, J. R."
+        ],
+        "titulo_trabalho": "",
+        "curso": "2007. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Schwarzelmuller, A. F.; CHAVEZ, C. V. F. G.; NASCIMENTO, F. M. S.. Participação em banca de Daniel Silva Leite da Costa.O padrão SCORM 2004. Um objeto para calcular o raio da terra. 2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal da Bahia.",
+        "ano": 2004,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Daniel Silva Leite da Costa",
+        "membros_banca": [
+          "Schwarzelmuller, A. F.",
+          "CHAVEZ, C. V. F. G.",
+          "NASCIMENTO, F. M. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Um objeto para calcular o raio da terra. 2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "NASCIMENTO, F. M. S.; NETO, M. C. M.; BEZERRA, R. M. S.. Participação em banca de Ramon Mota Luz. Find* Parking Place: Um Sistema Ubíquo de Gerência para Estacionamentos. 2014. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua) - Instituto Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Participação em banca",
+        "aluno": "Ramon Mota Luz",
+        "membros_banca": [
+          "NASCIMENTO, F. M. S.",
+          "NETO, M. C. M.",
+          "BEZERRA, R. M. S."
+        ],
+        "titulo_trabalho": "Find* Parking Place: Um Sistema Ubíquo de Gerência para Estacionamentos",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Distribuída e Ubíqua)",
+        "universidade": "Instituto Federal da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.. Revisão de Provas. 2010. Instituto Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.; FREITAS, A. E. S.; LOUREIRO, Augusto C. P.. Concurso Público para Professor de 1º e 2º grau. 2007.",
+        "ano": 2007,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "NASCIMENTO, F. M. S.. Revisão de Provas. 2007. Instituto Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Instituto Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 3,
+    "total_livros": 1,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 17,
+    "total_projetos_pesquisa": 7,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 7,
+    "total_orientacoes_andamento": 0
+  }
+}

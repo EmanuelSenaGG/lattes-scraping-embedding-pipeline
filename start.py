@@ -8,7 +8,7 @@ import json
 import asyncio
 import aiohttp
 import psycopg2
-from psycopg2.extras import execute_values
+from psycopg2.extras import execute_values, execute_batch
 from pgvector.psycopg2 import register_vector
 
 
@@ -33,6 +33,9 @@ OLLAMA_MODEL = "qwen3-embedding:4b"
 
 MAX_CONCURRENT_REQUESTS = 15  # Limita as requisições simultâneas 
 BATCH_INSERT_SIZE = 100       # Quantidade de chunks acumulados antes de fazer o INSERT no banco
+
+#registros do banco em memoria para processamento mais rapido
+CACHE_CHUNKS = {}
 
 def run_pipeline():
     logging.info("Iniciando extracao Lattes...")
@@ -116,10 +119,7 @@ def setup_database():
                     embedding vector
                 );
             """)
-            # Trunca  a tabela para não duplicar dados entre as execuções
-            cursor.execute("TRUNCATE TABLE lattes_chunks RESTART IDENTITY;")
-            logging.info("Tabela 'lattes_chunks' truncada (zerada) com sucesso para a nova execucao.")
-            
+
             cursor.execute("SELECT version();")
             version = cursor.fetchone()
             logging.info(f"Postgres pronto! Versao: {version[0]}")
@@ -156,19 +156,46 @@ def insert_batch(batch):
         logging.error(f"Erro ao inserir lote no banco: {e}")
 
 
-async def fetch_embedding(session, semaphore, text):
-    """Requisita o vetor do modelo Ollama garantindo controle de concorrência via Semáforo."""
+
+
+def update_batch(batch):
+    """Realiza a atualização em massa no PostgreSQL usando o ID do banco."""
+    if not batch:
+        return
+
+    query = """
+        UPDATE lattes_chunks 
+        SET conteudo_chunk = %s, embedding = %s 
+        WHERE id = %s
+    """
+    try:
+        conn = psycopg2.connect(**DB_CONFIG)
+        register_vector(conn)
+        cursor = conn.cursor()
+        execute_batch(cursor, query, batch)
+        conn.commit()
+        cursor.close()
+        conn.close()
+        logging.info(f"Lote de {len(batch)} chunks ATUALIZADO com sucesso no banco!")
+    except Exception as e:
+        logging.error(f"Erro ao atualizar lote no banco: {e}")
+
+
+
+
+async def fetch_embedding(session, text, semaphore=None):
+    """Requisita o vetor do modelo Ollama. O semáforo é opcional para chamadas isoladas."""
     payload = {
         "model": OLLAMA_MODEL,
         "input": text
     }
     
-    async with semaphore:
+   
+    async def _go_request():
         try:
             async with session.post(OLLAMA_URL, json=payload) as response:
                 if response.status == 200:
                     data = await response.json()
-             
                     return data.get('embeddings', [[]])[0]
                 else:
                     logging.error(f"Erro da API (Status {response.status}): {await response.text()}")
@@ -178,9 +205,18 @@ async def fetch_embedding(session, semaphore, text):
             return None
 
 
+    if semaphore:
+        async with semaphore:
+            return await _go_request()
+
+    else:
+        return await _go_request()
+
+
 async def process_json_file(file_path, session, semaphore):
-    """Lê um currículo, separa em blocos (chunks) por chave e gera os embeddings."""
-    file_chunks = []
+
+    file_data = {"inserts": [], "updates": []}
+    
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -190,31 +226,34 @@ async def process_json_file(file_path, session, semaphore):
         name = personal_info.get("nome_completo", "desconhecido")
         
         for key, content in data.items():
-            # IGNORA a chave de informações pessoais para não gerar vetor
-            if key == "informacoes_pessoais":
-                continue
-                
-            if not content:
+            if key == "informacoes_pessoais" or not content:
                 continue
             
-            # Converte dicionários/listas para string para o modelo ler
-            chunk_text = json.dumps(content, ensure_ascii=False)        
-            vector = await fetch_embedding(session, semaphore, chunk_text)
+            chunk_text = json.dumps(content, ensure_ascii=False)
+            cache_key = (lattes_id, key)
             
-            if vector:
-                file_chunks.append((lattes_id, name, key, chunk_text, vector))
-
-        test_key = "chunk_teste"
-        test_text = "teste"
-        test_vector = await fetch_embedding(session, semaphore, test_text)
-        
-        if test_vector:
-            file_chunks.append((lattes_id, name, test_key, test_text, test_vector))
+            # Se ja existe, verifica mudança, se mudou, adiciona a lista de updates, se nao, pula pro proximo
+            if cache_key in CACHE_CHUNKS:
+                saved_content = CACHE_CHUNKS[cache_key]["conteudo_chunk"]        
+                if saved_content == chunk_text:
+                    continue 
+                else:
+                    logging.info(f"Conteúdo alterado no chunk '{key}' do Lattes {lattes_id} do Professor {name}. Atualizando...")
+                    vector = await fetch_embedding(session, chunk_text, semaphore)
+                    if vector:
+                        chunk_id = CACHE_CHUNKS[cache_key]["id"]
+                        file_data["updates"].append((chunk_text, vector, chunk_id))
+            
+            # Se não existe então é novo, vai pra lista de insert
+            else:
+                vector = await fetch_embedding(session, chunk_text, semaphore)
+                if vector:
+                    file_data["inserts"].append((lattes_id, name, key, chunk_text, vector))
 
     except Exception as e:
         logging.error(f"Erro ao processar o arquivo {file_path}: {e}")
         
-    return file_chunks
+    return file_data
 
 
 async def run_embedding_pipeline():
@@ -227,128 +266,162 @@ async def run_embedding_pipeline():
         logging.warning("Nenhum arquivo JSON encontrado para gerar embeddings.")
         return
 
-    # O semáforo controla quantas requisições ocorrem no mesmo instante de tempo
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
-    global_batch = []
+    
+    global_batch_inserts = []
+    global_batch_updates = []
     
     async with aiohttp.ClientSession() as session:
-        # 1. Cria as tarefas (removido o argumento global_batch)
         tasks = [process_json_file(f, session, semaphore) for f in json_files]
-        
-        # 2. Executa todos os arquivos simultaneamente e aguarda os retornos
         results = await asyncio.gather(*tasks)
         
-        # 3. Agrupa os resultados e faz o batch insert de forma segura
-        for file_chunks in results:
-            if file_chunks: # Se a lista não for vazia
-                global_batch.extend(file_chunks)
+        for file_data in results:
+            if file_data["inserts"]:
+                global_batch_inserts.extend(file_data["inserts"])
+            if file_data["updates"]:
+                global_batch_updates.extend(file_data["updates"])
             
-            # Enquanto o lote global for maior ou igual a 100, insere no banco
-            while len(global_batch) >= BATCH_INSERT_SIZE:
-                # Pega uma fatia do tamanho do batch e insere
-                batch_to_insert = global_batch[:BATCH_INSERT_SIZE]
-                insert_batch(batch_to_insert)
-                # Remove os itens já inseridos da lista
-                global_batch = global_batch[BATCH_INSERT_SIZE:]
+
+            while len(global_batch_inserts) >= BATCH_INSERT_SIZE:
+                insert_batch(global_batch_inserts[:BATCH_INSERT_SIZE])
+                global_batch_inserts = global_batch_inserts[BATCH_INSERT_SIZE:]
                 
-        # 4. Salva eventuais chunks que sobraram na lista (lote incompleto)
-        if global_batch:
-            insert_batch(global_batch)
+     
+            while len(global_batch_updates) >= BATCH_INSERT_SIZE:
+                update_batch(global_batch_updates[:BATCH_INSERT_SIZE])
+                global_batch_updates = global_batch_updates[BATCH_INSERT_SIZE:]
+                
+  
+        if global_batch_inserts:
+            insert_batch(global_batch_inserts)
+        if global_batch_updates:
+            update_batch(global_batch_updates)
             
     logging.info("Processamento de embeddings concluído!")
 
 
 
-def log_professor_summary():
-    """Consulta o banco de dados e exibe no log o primeiro e o último chunk de cada professor com detalhes."""
-    logging.info("--- Gerando Resumo Detalhado de Registros por Professor ---")
+async def log_match_results():
+    """Gera vetores para propostas mockadas de TCC e busca os 5 professores mais aderentes via Distancia de Cosseno."""
+    logging.info("--- Iniciando Teste de Matching (Similaridade de Cosseno) ---")
     
-    # A query agora traz o vetor de forma nativa (sem conversão para texto)
+
+    proposals_tcc = [
+
+        "Desenvolvimento de um sistema inteligente de recomendação acadêmica para alocação e match de alunos e orientadores de TCC. O projeto utiliza Inteligência Artificial, Processamento de Linguagem Natural (NLP) e a técnica de Retrieval-Augmented Generation (RAG). A arquitetura envolve a geração de embeddings via LLMs, cálculo de similaridade de cosseno e busca semântica de alta performance estruturada em um banco de dados vetorial PostgreSQL utilizando a extensão pgvector.",
+        
+        "Análise, monitoramento e otimização de performance (Database Tuning) em sistemas de bancos de dados relacionais Microsoft SQL Server de alta concorrência. O estudo tem como foco a refatoração de stored procedures complexas e sistemas legados, otimização e manutenção de índices, tuning de queries para mitigação de gargalos de I/O, além de análise profunda de planos de execução (Execution Plans) visando garantir escalabilidade e baixa latência no processamento de transações (OLTP)."
+    ]
+
+
     query = """
-        WITH Extremos AS (
-            SELECT 
-                nome_professor,
-                MIN(id) as min_id,
-                MAX(id) as max_id,
-                COUNT(id) as total_chunks
-            FROM lattes_chunks
-            GROUP BY nome_professor
-        )
         SELECT 
-            e.nome_professor,
-            e.total_chunks,
-            
-            -- Dados do Primeiro Chunk (min_id)
-            c_min.id AS min_id,
-            c_min.id_lattes AS min_lattes,
-            c_min.chave_chunk AS min_chave,
-            LEFT(c_min.conteudo_chunk, 60) AS min_texto,
-            c_min.embedding AS min_vetor,
-            
-            -- Dados do Último Chunk (max_id)
-            c_max.id AS max_id,
-            c_max.id_lattes AS max_lattes,
-            c_max.chave_chunk AS max_chave,
-            LEFT(c_max.conteudo_chunk, 60) AS max_texto,
-            c_max.embedding AS max_vetor
-            
-        FROM Extremos e
-        JOIN lattes_chunks c_min ON e.min_id = c_min.id
-        JOIN lattes_chunks c_max ON e.max_id = c_max.id
-        ORDER BY e.nome_professor;
+            nome_professor,
+            id_lattes,
+            chave_chunk, 
+            conteudo_chunk, 
+            embedding <=> %s::vector AS distancia_cosseno
+        FROM lattes_chunks
+        ORDER BY distancia_cosseno ASC
+        LIMIT 5;
     """
+
+    for i, proposal in enumerate(proposals_tcc, 1):
+        logging.info(f"\nGerando embedding para a Proposta {i}...")
+        
+
+        vector_proposal = await get_proposal_vector(proposal)
+        
+        if not vector_proposal:
+            logging.error(f"Falha ao gerar vetor para a Proposta {i}. Pulando...")
+            continue
+            
+        try:
+           
+            conn = psycopg2.connect(**DB_CONFIG)
+            register_vector(conn)
+            cursor = conn.cursor()
+            
+
+            cursor.execute(query, [vector_proposal])
+            results = cursor.fetchall()
+            
+        
+            log_text = f"\n================ RESULTADO DA PROPOSTA {i} ================\n"
+            log_text += f"TEXTO DA PROPOSTA: '{proposal}'\n\n"
+            log_text += "TOP 5 MATCHES (Ordenados por Menor Distância de Cosseno):\n"
+            
+            for rank, row in enumerate(results, 1):
+                nome, lattes, chave, conteudo, distancia = row
+                
+                log_text += f"\n  [{rank}º LUGAR] - Distância: {distancia:.4f}\n"
+                log_text += f"    Professor: {nome} (Lattes: {lattes})\n"
+                log_text += f"    Chave Lattes: '{chave}'\n"
+                log_text += f"    Conteúdo do Chunk: {conteudo[:200]}...\n"
+                
+            log_text += "===========================================================\n"
+            logging.info(log_text)
+            
+            cursor.close()
+            conn.close()
+            
+        except Exception as e:
+            logging.error(f"Erro ao consultar o banco para a proposta {i}: {e}")
+
+
+
+def load_chunks_to_memory():
+    """Busca registros na tabela lattes_chunks e popula o dicionário CACHE_CHUNKS na memória."""
+    global CACHE_CHUNKS
+    logging.info("Carregando chunks existentes do banco para a memória...")
     
+    query = "SELECT id, id_lattes, chave_chunk, conteudo_chunk FROM lattes_chunks;"
     try:
         conn = psycopg2.connect(**DB_CONFIG)
-        # Importante: Ensina o Python a traduzir o tipo vector do Postgres para um array nativo
-        register_vector(conn)
         cursor = conn.cursor()
-        
         cursor.execute(query)
         resultados = cursor.fetchall()
         
-        if not resultados:
-            logging.warning("Nenhum registro encontrado no banco de dados.")
-        else:
-            for row in resultados:
-                nome, total = row[0], row[1]
-                min_id, min_lattes, min_chave, min_texto, min_vetor = row[2], row[3], row[4], row[5], row[6]
-                max_id, max_lattes, max_chave, max_texto, max_vetor = row[7], row[8], row[9], row[10], row[11]       
-                min_vetor_snippet = f"{[float(x) for x in min_vetor[:3]]}..." if min_vetor is not None else "[]"
-                max_vetor_snippet = f"{[float(x) for x in max_vetor[:3]]}..." if max_vetor is not None else "[]"
-
-                resumo_texto = (
-                    f"\n======================================================\n"
-                    f"Prof: {nome} | Total de Chunks: {total}\n"
-                    f"  [PRIMEIRO REGISTRO]\n"
-                    f"    ID Banco: {min_id} | Lattes: {min_lattes}\n"
-                    f"    Chave: '{min_chave}'\n"
-                    f"    Conteúdo: {min_texto}...\n"
-                    f"    Vetor: {min_vetor_snippet}\n"
-                    f"  [ÚLTIMO REGISTRO]\n"
-                    f"    ID Banco: {max_id} | Lattes: {max_lattes}\n"
-                    f"    Chave: '{max_chave}'\n"
-                    f"    Conteúdo: {max_texto}...\n"
-                    f"    Vetor: {max_vetor_snippet}\n"
-                    f"======================================================"
-                )
-
-                logging.info(resumo_texto)
-                
+        for row in resultados:
+            chunk_id, id_lattes, chave_chunk, conteudo_chunk = row
+            
+            # Usa a tupla (id_lattes, chave_chunk) como chave principal do dicionário
+            CACHE_CHUNKS[(id_lattes, chave_chunk)] = {
+                "id": chunk_id,
+                "conteudo_chunk": conteudo_chunk
+            }
+            
         cursor.close()
         conn.close()
-        logging.info("--- Fim do Resumo ---")
+        logging.info(f"Sucesso! {len(CACHE_CHUNKS)} chunks carregados em cache (memória).")
         
     except Exception as e:
-        logging.error(f"Erro ao buscar resumo dos professores no banco: {e}")
+        logging.error(f"Erro ao carregar chunks para a memória: {e}")
+
+
+
+
+
+def clear_chunks_memory():
+
+    global CACHE_CHUNKS
+    CACHE_CHUNKS.clear()
+    logging.info("Cache em memória (CACHE_CHUNKS) limpo com sucesso.")
+
+
+async def get_proposal_vector(proposta_text):
+    async with aiohttp.ClientSession() as session:
+        return await fetch_embedding(session, proposta_text)
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    #run_pipeline()     
     if setup_database():
-        asyncio.run(run_embedding_pipeline())
-        log_professor_summary()      
+        load_chunks_to_memory()
+        asyncio.run(run_embedding_pipeline())    
+        clear_chunks_memory()
+        asyncio.run(log_match_results())      
+        
     else:
         logging.error("Falha ao configurar o banco de dados. Encerrando execução.")
-
 
